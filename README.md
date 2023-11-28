@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-28 12:35:45|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[第4章数据定义](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%80%9A%E7%94%A8%E6%80%A7%E6%96%87%E6%A1%A3/clickhouse%E7%AC%94%E8%AE%B0/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-11-28 11:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[与中国做生意的成本：美国CEO花4万美元与习近平同桌进餐的背后](https://cn.wsj.com/articles/%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%81%9A%E7%94%9F%E6%84%8F%E7%9A%84%E6%88%90%E6%9C%AC-%E7%BE%8E%E5%9B%BDceo%E8%8A%B14%E4%B8%87%E7%BE%8E%E5%85%83%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%A1%8C%E8%BF%9B%E9%A4%90%E7%9A%84%E8%83%8C%E5%90%8E-160975c4)|
+|2023-11-28 06:50:08|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 證實 Google Drive 有遺失檔案的問題](https://applefans.today/2023-11-google-drive-desktop-missing-data/)|
+|2023-11-28 16:05:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[波司登越卖越贵；良品铺子拒绝“卷低价”；​汉堡王中国第1500店开业丨品牌日报](https://36kr.com/p/2537502916290055)|
+|2023-11-28 16:05:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[有线耳机又回来了？现实很尴尬](https://36kr.com/p/2536631688718081)|
+|2023-11-28 16:05:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[澎湃 VS 鸿蒙，测完看清了差距](https://36kr.com/p/2536631396165123)|
+|2023-11-28 16:05:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI内幕文件惊人曝出，Q*疑能破解加密，AI背着人类在编程，网友：三个月接近AGI](https://36kr.com/p/2537615388960259)|
+|2023-11-28 16:05:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[押注新能源的江南小城，想赢在下一个十年 36碳深度](https://36kr.com/p/2533436516705799)|
+|2023-11-28 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家 沐瞳科技CEO袁菁回应出售传闻：公司继续独立运营，业务不受影响](https://36kr.com/p/2536762752706053)|
+|2023-11-28 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为了让大家贷款，银行拼了](https://36kr.com/p/2535995511383561)|
+|2023-11-28 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大雪，让电动车车主带上了痛苦面具](https://36kr.com/p/2535994450896391)|
+|2023-11-28 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[京东的部长们](https://36kr.com/p/2536458104858368)|
+|2023-11-28 04:03:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节只争朝夕，游戏再无光年](https://36kr.com/p/2536144762463753)|
+|2023-11-28 04:03:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨特斯拉要求刹车失灵事件女车主赔偿500万；马航MH370乘客家属索赔案开庭；赛力斯集团回应华为成立智能汽车新公司](https://36kr.com/p/2537206538118658)|
 |2023-11-28 12:09:26|[触乐](http://www.chuapp.com/feed)|[触乐夜话：并非MBTI适格者](http://www.chuapp.com/article/289652.html)|
 |2023-11-28 12:22:18|[虎嗅](https://rss.huxiu.com/)|[有多少中国导演在拍“好莱坞换皮电影”？](https://www.huxiu.com/article/2357211.html?f=rss)|
 |2023-11-28 12:13:47|[虎嗅](https://rss.huxiu.com/)|[黑五大战，中国电商赚了吆喝](https://www.huxiu.com/article/2357203.html?f=rss)|
