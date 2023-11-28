@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-28 08:16:53|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[UseEffect Practice Case: Custom Hook](https://javascript.plainenglish.io/useeffect-practice-case-custom-hook-d7e080b46171?source=rss-c3917681a8f5------2)|
+|2023-11-28 01:31:06|[爱范儿](https://www.ifanr.com/feed)|[小鹏 G6 的又一劲敌，20 万元拿下鸥翼门，甚至把 LV「踩」在脚下](https://www.ifanr.com/1568136?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-28 13:53:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[写了一个基于 Vite 的 Repl 玩具，欢迎大家试用以及提供建议](https://w2solo.com/topics/4276)|
+|2023-11-28 12:05:58|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《一锤定音》：老实小伙酒驾入狱，结果不小心熬成了帮派老大，锤谁谁消音！](https://www.ximalaya.com/sound/688760926)|
+|2023-11-28 09:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 15螢幕成長16%！Pro機型71%、三星佔81%](https://www.iphonetaiwan.org/2023/11/iphone-15-screen-shipments-analysis.html)|
+|2023-11-28 08:41:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[富士康15億美元印度投資：影響蘋果供應鏈未來](https://www.iphonetaiwan.org/2023/11/blog-post_28.html)|
 |2023-11-28 12:35:45|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[第4章数据定义](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%80%9A%E7%94%A8%E6%80%A7%E6%96%87%E6%A1%A3/clickhouse%E7%AC%94%E8%AE%B0/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2023-11-28 11:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[与中国做生意的成本：美国CEO花4万美元与习近平同桌进餐的背后](https://cn.wsj.com/articles/%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%81%9A%E7%94%9F%E6%84%8F%E7%9A%84%E6%88%90%E6%9C%AC-%E7%BE%8E%E5%9B%BDceo%E8%8A%B14%E4%B8%87%E7%BE%8E%E5%85%83%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%A1%8C%E8%BF%9B%E9%A4%90%E7%9A%84%E8%83%8C%E5%90%8E-160975c4)|
 |2023-11-28 06:50:08|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 證實 Google Drive 有遺失檔案的問題](https://applefans.today/2023-11-google-drive-desktop-missing-data/)|
