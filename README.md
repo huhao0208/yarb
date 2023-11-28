@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-28 01:39:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 缅北电信基础设施](https://www.v2ex.com/t/995819#reply0)|
+|2023-11-28 01:39:21|[V2EX](https://www.v2ex.com/index.xml)|[ Apple trollstore2 发布了](https://www.v2ex.com/t/995818#reply0)|
+|2023-11-28 01:38:25|[V2EX](https://www.v2ex.com/index.xml)|[ C++ 量化交易的工资怎么那么高？](https://www.v2ex.com/t/995817#reply2)|
+|2023-11-28 01:36:28|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 有什么好用少广的健身 app，用于记录锻炼的容量和次数的？](https://www.v2ex.com/t/995816#reply1)|
+|2023-11-28 01:31:57|[V2EX](https://www.v2ex.com/index.xml)|[ 数据库 mysql 同步数据到 SQLite 和 SQLserver](https://www.v2ex.com/t/995814#reply4)|
+|2023-11-28 01:29:50|[V2EX](https://www.v2ex.com/index.xml)|[ Android mac 给安卓手机刷机和调试什么方案比较方便？](https://www.v2ex.com/t/995813#reply1)|
+|2023-11-28 01:26:10|[V2EX](https://www.v2ex.com/index.xml)|[ DNS 请教下有没有这样一种 DNS 解析工具，可能定义地址池的，根据地址池的不同，使用不同的公共 DNS 来解析？](https://www.v2ex.com/t/995812#reply1)|
+|2023-11-28 01:22:51|[V2EX](https://www.v2ex.com/index.xml)|[ Docker 求推荐学习 docker 的书籍](https://www.v2ex.com/t/995811#reply2)|
+|2023-11-28 01:22:03|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 今天为论坛里的 mobile 开发兄弟谋一波福利🐶, 123 上车](https://www.v2ex.com/t/995809#reply0)|
+|2023-11-28 01:21:54|[V2EX](https://www.v2ex.com/index.xml)|[ JavaScript unocss 这个 Attributify preset 的~到底是什么意思？](https://www.v2ex.com/t/995808#reply1)|
+|2023-11-28 01:20:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 oneindex 停止更新了，对已经部署的项目有影响？](https://www.v2ex.com/t/995805#reply0)|
+|2023-11-28 01:20:34|[V2EX](https://www.v2ex.com/index.xml)|[ 数学 求解一个排列组合问题](https://www.v2ex.com/t/995804#reply3)|
+|2023-11-28 01:19:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有可以一次识别左右双页的扫描 app](https://www.v2ex.com/t/995803#reply0)|
+|2023-11-28 01:17:33|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 联通 dns 劫持](https://www.v2ex.com/t/995802#reply0)|
+|2023-11-28 01:17:19|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 今天有人来消防宣传，给看了好多悲惨的火灾视频](https://www.v2ex.com/t/995801#reply14)|
+|2023-11-28 01:16:32|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 有什么方法可以实现 iPhone 到了指定时间或者地点后，手机铃声自动静音的](https://www.v2ex.com/t/995800#reply3)|
+|2023-11-28 01:15:29|[V2EX](https://www.v2ex.com/index.xml)|[ Java 使用 dynamic-datasource-spring-boot-starter 切换数据源出错](https://www.v2ex.com/t/995799#reply1)|
+|2023-11-28 01:14:50|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone TrollStore 2 已发布！](https://www.v2ex.com/t/995798#reply3)|
+|2023-11-28 01:08:18|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 青桔崩了](https://www.v2ex.com/t/995796#reply7)|
+|2023-11-28 01:00:32|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 滴滴怎么了](https://www.v2ex.com/t/995793#reply12)|
+|2023-11-28 00:59:08|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 《HelloGitHub》第 92 期](https://www.v2ex.com/t/995792#reply2)|
+|2023-11-28 00:55:53|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 小白请教 Jenkins、docker、kubesphere 这三个有学习顺序的要求吗？](https://www.v2ex.com/t/995791#reply7)|
+|2023-11-28 00:55:42|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 巨魔 2 出来了 我的系统是 12pro ios15.1 请问怎样才能将系统在保留手机原有资料的情况下升级到 ios16 呢（升级通道已关闭）](https://www.v2ex.com/t/995790#reply5)|
+|2023-11-28 00:48:19|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 奇怪了，最近打开 PD19 Win11 过夜没关机，第二天 MacOS 上不了网， PD 关闭立马可以上网，一打开又上不了网，只能 Mac 重启后才行。](https://www.v2ex.com/t/995787#reply5)|
+|2023-11-28 00:41:25|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes cka 考试正在打折中,有需要的可以买下](https://www.v2ex.com/t/995785#reply3)|
+|2023-11-28 00:21:22|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 你们日常戴口罩了吗](https://www.v2ex.com/t/995784#reply11)|
+|2023-11-28 00:11:26|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 使用爱思助手的后遗症](https://www.v2ex.com/t/995782#reply33)|
+|2023-11-28 00:04:58|[V2EX](https://www.v2ex.com/index.xml)|[ 健康 睡不着之间有大恐怖](https://www.v2ex.com/t/995781#reply22)|
+|2023-11-28 00:44:57|[精品MAC应用分享](https://xclient.info/feed)|[Find Any File 2.4.2b1 FAF文件搜索增强工具](https://xclient.info/s/find-any-file.html)|
 |2023-11-28 01:08:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 青桔崩了](https://www.v2ex.com/t/995796#reply2)|
 |2023-11-28 01:00:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 滴滴怎么了](https://www.v2ex.com/t/995793#reply4)|
 |2023-11-28 00:59:08|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 《HelloGitHub》第 92 期](https://www.v2ex.com/t/995792#reply0)|
