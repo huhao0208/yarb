@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-29 06:10:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一款出海创业者比较适用的推广渠道（工具类产品优选），上新当天注册用户 400+](https://w2solo.com/topics/4277)|
+|2023-11-29 06:40:10|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[k8s入门到实战-滚动更新与优雅停机](http://crossoverjie.top/2023/11/29/ob/k8s-rollout/)|
+|2023-11-29 04:03:19|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[焦点分析｜美团：砸最狠的钱，守最难的江山](https://36kr.com/p/2537779281323782)|
+|2023-11-29 04:03:19|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李开复&张亚勤：未来的首富，将来自AI公司 WISE2023商业之王大会](https://36kr.com/p/2537899528464135)|
+|2023-11-29 04:03:19|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[余承东喊话一汽，“一汽”直接涨停，市值飙升近70亿](https://36kr.com/p/2537786238789120)|
+|2023-11-29 04:03:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[芒格离世、享年99岁！巴菲特：没有查理，就没有伯克希尔的今天](https://36kr.com/p/2538581094688261)|
+|2023-11-29 04:03:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[抖音裁撤游戏，是和腾讯“互换阵地”？](https://36kr.com/p/2537608592221704)|
 |2023-11-29 08:22:25|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 有·百度·地图的同学解释一下为什么吗](https://www.v2ex.com/t/996274#reply0)|
 |2023-11-29 08:18:49|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 AI 绘画版权第一案？这个有人关注吗？](https://www.v2ex.com/t/996273#reply0)|
 |2023-11-29 08:09:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求推荐一个 wordpress 相册存储方案](https://www.v2ex.com/t/996272#reply0)|
