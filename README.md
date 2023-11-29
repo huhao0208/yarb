@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-29 18:12:29|[V2EX](https://www.v2ex.com/index.xml)|[ DNS 求教一个 Linux 服务器配置 DNS 服务器后如何实现客户端连接后提示打开网页的问题](https://www.v2ex.com/t/996393#reply0)|
+|2023-11-29 17:36:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 支持 96G 内存的笔记本求推荐](https://www.v2ex.com/t/996392#reply3)|
+|2023-11-29 16:32:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 各位我想建个微信群，主要交流目的是搞钱，各行各业交流交流这个世界， 360 行，每个行业都可以，有问题也可以在群里讨论](https://www.v2ex.com/t/996391#reply0)|
+|2023-11-29 16:25:05|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 年终终于生了！](https://www.v2ex.com/t/996390#reply2)|
+|2023-11-29 02:33:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何带一个 0 基础的女生接触编程呢](https://www.v2ex.com/t/996151#reply164)|
+|2023-11-29 12:14:29|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：分布式系统的低成本权限校验机制](https://www.kingname.info/2023/11/29/jwt/)|
+|2023-11-29 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[喜迎 90 周年庆典，尼康 NIKKOR 镜头促销活动延长](https://www.photoworld.com.cn/post/175441)|
+|2023-11-29 04:59:09|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“温泉小镇在武义” 摄影大赛第二季度获奖作品公布](https://www.photoworld.com.cn/post/175330)|
+|2023-11-29 04:59:09|[摄影世界](https://feedx.net/rss/photoworld.xml)|[佳直播 x CPA：助力播客视频化，紧抓耳朵经济浪潮](https://www.photoworld.com.cn/post/175424)|
+|2023-11-29 15:40:25|[机核](https://www.gcores.com/rss)|[CDPR公布《夜城档案》第一集，介绍夜城简史](https://www.gcores.com/articles/174435)|
+|2023-11-29 13:10:29|[机核](https://www.gcores.com/rss)|[《雷顿教授与蒸汽新世界》实机演示公开：“LEVEL5 VISION 2023 II”情报汇总](https://www.gcores.com/articles/174420)|
+|2023-11-29 13:00:00|[机核](https://www.gcores.com/rss)|[《无J之谈 第二季》免费试听集](https://www.gcores.com/radios/173129)|
+|2023-11-29 13:00:00|[机核](https://www.gcores.com/rss)|[无J之谈Vol.5丨再谈《剑风传奇》：六边形战士三浦建太郎的高能时刻](https://www.gcores.com/radios/173128)|
+|2023-11-29 11:06:06|[机核](https://www.gcores.com/rss)|[独立开发rpg《魔域传说》演示](https://www.gcores.com/videos/168134)|
+|2023-11-29 11:00:00|[机核](https://www.gcores.com/rss)|[《全境封锁2》国服登场，我又找回了“刷爆一切”的快乐](https://www.gcores.com/articles/174410)|
+|2023-11-29 10:30:00|[机核](https://www.gcores.com/rss)|[斗魂不灭！与华夏老师再聊街霸6与MK1](https://www.gcores.com/videos/174320)|
+|2023-11-29 10:04:00|[机核](https://www.gcores.com/rss)|[AI生成图片著作权第一案宣判，确认涉案作品受著作权法保护](https://www.gcores.com/articles/174414)|
+|2023-11-29 09:39:25|[机核](https://www.gcores.com/rss)|[2023年Windows丑毛衣公布，Windows XP主题经典草原壁纸](https://www.gcores.com/articles/174413)|
+|2023-11-29 09:30:00|[机核](https://www.gcores.com/rss)|[无限BOSS挑战！国风动作肉鸽《诸子无双》新模式更新上线](https://www.gcores.com/articles/174405)|
+|2023-11-29 09:00:00|[机核](https://www.gcores.com/rss)|[成都不摸鱼小分队，录音笔 Vol.88](https://www.gcores.com/radios/174402)|
+|2023-11-29 06:42:33|[机核](https://www.gcores.com/rss)|[《以撒的结合：忏悔》多人联机模式将于本周五开启首轮测试](https://www.gcores.com/articles/174407)|
+|2023-11-29 06:16:56|[机核](https://www.gcores.com/rss)|[中古战锤翻译——《瘟疫领主的宫殿》第九章](https://www.gcores.com/articles/174403)|
+|2023-11-29 06:10:59|[机核](https://www.gcores.com/rss)|[《星际公民》新预告公布，单日筹款达350万美元](https://www.gcores.com/articles/174399)|
+|2023-11-29 05:57:27|[机核](https://www.gcores.com/rss)|[“黑暗童话”题材的一些个人考察笔记，与两篇习作](https://www.gcores.com/articles/174392)|
+|2023-11-29 05:41:31|[机核](https://www.gcores.com/rss)|[制作人一起玩《熊杯头2》第01期](https://www.gcores.com/videos/174401)|
+|2023-11-29 05:00:04|[机核](https://www.gcores.com/rss)|[一个上午，一场展览](https://www.gcores.com/articles/174397)|
+|2023-11-29 04:33:07|[机核](https://www.gcores.com/rss)|[《名侦探柯南》连载30周年纪念展，各种名场面全新周边发售](https://www.gcores.com/articles/174394)|
+|2023-11-29 12:37:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1200 微软开源树莓派使用的 RTOS 固件，树莓派软件有望完全开源](https://linux.cn/article-16426-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-29 00:46:39|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 HandBrake 1.7 发布](https://linux.cn/article-16425-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-29 00:28:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 微软加码对 GitHub 上的公开代码搜索的限制](https://linux.cn/article-16424-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-29 14:40:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[去交警队解决纠纷需要注意些什么](https://www.v2ex.com/t/996369#reply17)|
 |2023-11-29 07:37:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[分享一些 Go 在全栈开发中的经验](https://www.v2ex.com/t/996257#reply28)|
 |2023-11-29 15:40:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[咨询下大佬们 2 盘位 basic 的白群晖怎么更换硬盘](https://www.v2ex.com/t/996385#reply2)|
