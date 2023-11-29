@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-11-28）
+﻿# 每日资讯（2023-11-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-29 00:44:04|[爱范儿](https://www.ifanr.com/feed)|[早报｜投资大师芒格去世，巴菲特悼念 / 滴滴系统崩溃损失或超 4 亿 / 拼多多市值逼近阿里](https://www.ifanr.com/1569260?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-28 08:16:53|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[UseEffect Practice Case: Custom Hook](https://javascript.plainenglish.io/useeffect-practice-case-custom-hook-d7e080b46171?source=rss-c3917681a8f5------2)|
 |2023-11-28 01:31:06|[爱范儿](https://www.ifanr.com/feed)|[小鹏 G6 的又一劲敌，20 万元拿下鸥翼门，甚至把 LV「踩」在脚下](https://www.ifanr.com/1568136?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-28 13:53:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[写了一个基于 Vite 的 Repl 玩具，欢迎大家试用以及提供建议](https://w2solo.com/topics/4276)|
