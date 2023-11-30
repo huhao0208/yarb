@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-30 09:00:10|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[游戏数据包的补丁和更新](https://blog.codingnow.com/2023/11/vfs_patch.html)|
+|2023-11-30 20:01:29|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 土区 Apple ID 氪日区游戏有优惠吗？](https://www.v2ex.com/t/996685#reply0)|
+|2023-11-30 19:04:38|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有人跟我一样, 开会前半小时会犯困, 紧张, 焦虑, 想逃避, 什么都做不了](https://www.v2ex.com/t/996684#reply2)|
+|2023-11-30 17:31:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 小型办公室网络方案](https://www.v2ex.com/t/996683#reply0)|
+|2023-11-30 17:08:29|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 最简单的学习方法是先行后知吗？](https://www.v2ex.com/t/996681#reply2)|
+|2023-11-30 16:41:39|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 streamlit 实现的 SDXL Turbo](https://www.v2ex.com/t/996679#reply0)|
+|2023-11-30 16:34:42|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 墨菲定律---最近干的几件挫事。](https://www.v2ex.com/t/996678#reply4)|
+|2023-11-30 16:18:05|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 被 wifi 断流折磨了一周了，向各位大佬求救](https://www.v2ex.com/t/996675#reply8)|
+|2023-11-30 16:13:53|[V2EX](https://www.v2ex.com/index.xml)|[ 罗技 Logi Options+ 多久会崩一次？](https://www.v2ex.com/t/996674#reply2)|
+|2023-11-30 16:11:22|[V2EX](https://www.v2ex.com/index.xml)|[ Android MIUI 优化，一个神奇的按钮！](https://www.v2ex.com/t/996673#reply6)|
+|2023-11-30 16:27:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[二清平台哪个合适](https://w2solo.com/topics/4279)|
+|2023-11-30 06:47:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[家用 4 盘位 NAS 用 RAID 几？](https://www.v2ex.com/t/996537#reply91)|
+|2023-11-30 08:27:59|[煎蛋](http://jandan.net/feed)|[没品笑话集：我在钱包里放了一张老婆的照片](http://jandan.net/p/114940)|
+|2023-11-30 07:15:20|[煎蛋](http://jandan.net/feed)|[微软“画图”上了新功能：AI图像生成器“Cocreator”](http://jandan.net/p/114936)|
 |2023-11-30 16:18:05|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 被 wifi 断流折磨了一周了，向各位大佬求救](https://www.v2ex.com/t/996675#reply1)|
 |2023-11-30 16:13:53|[V2EX](http://www.v2ex.com/index.xml)|[ 罗技 Logi Options+ 多久会崩一次？](https://www.v2ex.com/t/996674#reply0)|
 |2023-11-30 16:11:22|[V2EX](http://www.v2ex.com/index.xml)|[ Android MIUI 优化，一个神奇的按钮！](https://www.v2ex.com/t/996673#reply0)|
