@@ -1,7 +1,24 @@
-﻿# 每日资讯（2023-11-29）
+﻿# 每日资讯（2023-11-30）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-30 01:16:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 建行卡第二次被限制交易了，反诈到底是在反什么东西？](https://www.v2ex.com/t/996410#reply0)|
+|2023-11-30 01:15:22|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 有没有短信转发软件？](https://www.v2ex.com/t/996409#reply0)|
+|2023-11-30 01:14:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 成考和自考本科的含金量](https://www.v2ex.com/t/996408#reply1)|
+|2023-11-30 01:04:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 朋友介绍的一个私活， v 友们帮忙参谋参谋](https://www.v2ex.com/t/996407#reply3)|
+|2023-11-30 01:03:56|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 LLM，把世界变成超级计算机](https://www.v2ex.com/t/996406#reply0)|
+|2023-11-30 00:59:07|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 infinity 标签页渲染使用了超长时间](https://www.v2ex.com/t/996405#reply3)|
+|2023-11-30 00:49:19|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes 用 kuboardspray 装了 k8s 后，是否可以同时装 kuboard 和 lens?](https://www.v2ex.com/t/996404#reply2)|
+|2023-11-30 00:45:49|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 硬盘 05 标黄了，这个硬盘还能用吗？](https://www.v2ex.com/t/996403#reply11)|
+|2023-11-30 00:19:57|[V2EX](https://www.v2ex.com/index.xml)|[ 沈阳 沈阳有啥下班或者周末的好去处吗？](https://www.v2ex.com/t/996402#reply11)|
+|2023-11-30 01:14:24|[虎嗅](https://rss.huxiu.com/)|[事业or家庭，为什么总是女性在问？](https://www.huxiu.com/article/2365161.html?f=rss)|
+|2023-11-30 01:11:28|[虎嗅](https://rss.huxiu.com/)|[中部最大城市组团，如何“瘦身健体”](https://www.huxiu.com/article/2364140.html?f=rss)|
+|2023-11-30 01:08:07|[虎嗅](https://rss.huxiu.com/)|[查理·芒格，谢谢你](https://www.huxiu.com/article/2364155.html?f=rss)|
+|2023-11-30 00:47:43|[虎嗅](https://rss.huxiu.com/)|[阿里第4次向阿里健康注入资产，持股比例增至近64%](https://www.huxiu.com/article/2363745.html?f=rss)|
+|2023-11-30 00:44:00|[虎嗅](https://rss.huxiu.com/)|[滴滴“崩溃”不止一夜](https://www.huxiu.com/article/2363743.html?f=rss)|
+|2023-11-30 00:40:52|[虎嗅](https://rss.huxiu.com/)|[投资圈悼念大师芒格：他留下的判断与洞见](https://www.huxiu.com/article/2363716.html?f=rss)|
+|2023-11-30 00:39:24|[虎嗅](https://rss.huxiu.com/)|[冰岛火山，太难预测了](https://www.huxiu.com/article/2363373.html?f=rss)|
+|2023-11-30 00:21:17|[虎嗅](https://rss.huxiu.com/)|[又一AI明星“内斗”？Stability CEO可能被赶下台](https://www.huxiu.com/article/2365154.html?f=rss)|
 |2023-11-29 18:12:29|[V2EX](https://www.v2ex.com/index.xml)|[ DNS 求教一个 Linux 服务器配置 DNS 服务器后如何实现客户端连接后提示打开网页的问题](https://www.v2ex.com/t/996393#reply0)|
 |2023-11-29 17:36:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 支持 96G 内存的笔记本求推荐](https://www.v2ex.com/t/996392#reply3)|
 |2023-11-29 16:32:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 各位我想建个微信群，主要交流目的是搞钱，各行各业交流交流这个世界， 360 行，每个行业都可以，有问题也可以在群里讨论](https://www.v2ex.com/t/996391#reply0)|
