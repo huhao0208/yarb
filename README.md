@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-30 00:09:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 适用于 Linux 的 LibreOffice 替代品](https://linux.cn/article-16427-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-30 01:16:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 建行卡第二次被限制交易了，反诈到底是在反什么东西？](https://www.v2ex.com/t/996410#reply0)|
 |2023-11-30 01:15:22|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 有没有短信转发软件？](https://www.v2ex.com/t/996409#reply0)|
 |2023-11-30 01:14:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 成考和自考本科的含金量](https://www.v2ex.com/t/996408#reply1)|
