@@ -2,6 +2,53 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-01 04:04:31|[小众软件](https://www.appinn.com/feed/)|[全球最大安卓应用市场 Play 发布《2023 年度最具代表性应用和游戏》榜单](https://www.appinn.com/play-best-of-2023/)|
+|2023-12-01 03:57:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[spring 到底怎么才能拿到原始的 body 啊？](https://www.v2ex.com/t/996794#reply4)|
+|2023-12-01 04:18:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[iOS 的 HotspotHelper 可以让支付宝和微信几乎实时定位用户](https://www.v2ex.com/t/996804#reply0)|
+|2023-12-01 03:38:01|[煎蛋](http://jandan.net/feed)|[已超越化学极限的纯碳环](http://jandan.net/p/114946)|
+|2023-12-01 04:00:46|[虎嗅](https://rss.huxiu.com/)|[说到底，为什么中国需要外国人？](https://www.huxiu.com/article/2369679.html?f=rss)|
+|2023-12-01 04:00:00|[虎嗅](https://rss.huxiu.com/)|[再次重构云计算，开创企业级生成式AI时代](https://www.huxiu.com/article/2367336.html?f=rss)|
+|2023-12-01 03:55:57|[虎嗅](https://rss.huxiu.com/)|[销毁婚纱照，是一门怎样的生意？](https://www.huxiu.com/article/2369469.html?f=rss)|
+|2023-12-01 03:55:00|[虎嗅](https://rss.huxiu.com/)|[卖得最好的国产手机，为何突然消失了？](https://www.huxiu.com/article/2367423.html?f=rss)|
+|2023-12-01 03:32:00|[虎嗅](https://rss.huxiu.com/)|[那些“卖身”外资的国货，后来怎么样了？](https://www.huxiu.com/article/2367380.html?f=rss)|
+|2023-12-01 03:21:54|[虎嗅](https://rss.huxiu.com/)|[世界艾滋病日：中国艾滋病患者的用药困境，改善了吗？](https://www.huxiu.com/article/2369467.html?f=rss)|
+|2023-12-01 03:00:00|[虎嗅](https://rss.huxiu.com/)|[跑分就能代表性能吗？揭秘选购手机的那些误区](https://www.huxiu.com/article/2367107.html?f=rss)|
+|2023-12-01 02:45:01|[虎嗅](https://rss.huxiu.com/)|[微软总裁：奥尔特曼被解雇和超级智能无关](https://www.huxiu.com/article/2369512.html?f=rss)|
+|2023-12-01 02:37:51|[虎嗅](https://rss.huxiu.com/)|[褪色的以色列科技神话](https://www.huxiu.com/article/2367476.html?f=rss)|
+|2023-12-01 02:28:41|[虎嗅](https://rss.huxiu.com/)|[深海“泰坦”内的恐怖内爆](https://www.huxiu.com/article/2369501.html?f=rss)|
+|2023-12-01 02:27:00|[虎嗅](https://rss.huxiu.com/)|[70%外卖是预制菜，中餐终点会是预制菜吗？](https://www.huxiu.com/article/2367149.html?f=rss)|
+|2023-12-01 02:18:43|[虎嗅](https://rss.huxiu.com/)|[我们的“租房焦虑”如何解？](https://www.huxiu.com/article/2369113.html?f=rss)|
+|2023-12-01 02:10:44|[虎嗅](https://rss.huxiu.com/)|[安徽一家三甲医院超收21万医疗费，怎么回事？](https://www.huxiu.com/article/2368131.html?f=rss)|
+|2023-12-01 02:07:00|[虎嗅](https://rss.huxiu.com/)|[中国车如何挣中东土豪钱？网友的点子绝了](https://www.huxiu.com/article/2365761.html?f=rss)|
+|2023-12-01 02:05:25|[虎嗅](https://rss.huxiu.com/)|[当越来越多人坦然面对自己的“爆雷”](https://www.huxiu.com/article/2369423.html?f=rss)|
+|2023-12-01 01:40:30|[虎嗅](https://rss.huxiu.com/)|[又近年关，关店or坚持，餐饮人该何去何从？](https://www.huxiu.com/article/2367907.html?f=rss)|
+|2023-12-01 01:38:28|[虎嗅](https://rss.huxiu.com/)|[43万元，马斯克亲自交付赛博皮卡，加速秒掉保时捷？](https://www.huxiu.com/article/2369463.html?f=rss)|
+|2023-12-01 01:35:57|[虎嗅](https://rss.huxiu.com/)|[安信证券内部PPT发错群，背后派点争议再起](https://www.huxiu.com/article/2368129.html?f=rss)|
+|2023-12-01 01:35:22|[虎嗅](https://rss.huxiu.com/)|[36个问题，就能“让你和陌生人迅速相爱”吗？](https://www.huxiu.com/article/2368089.html?f=rss)|
+|2023-12-01 01:32:54|[虎嗅](https://rss.huxiu.com/)|[一文读懂艾滋病的前世今生](https://www.huxiu.com/article/2368098.html?f=rss)|
+|2023-12-01 01:30:01|[虎嗅](https://rss.huxiu.com/)|[入住千元网红温泉酒店，卫生情况堪忧？](https://www.huxiu.com/article/2366599.html?f=rss)|
+|2023-12-01 01:30:00|[虎嗅](https://rss.huxiu.com/)|[B站挣扎着站起来](https://www.huxiu.com/article/2312957.html?f=rss)|
+|2023-12-01 01:21:41|[虎嗅](https://rss.huxiu.com/)|[滴滴宕机：互联网企业发展不能丢了“安全”](https://www.huxiu.com/article/2368127.html?f=rss)|
+|2023-12-01 01:21:00|[虎嗅](https://rss.huxiu.com/)|[美团抖音，激战正酣](https://www.huxiu.com/article/2369412.html?f=rss)|
+|2023-12-01 01:19:55|[虎嗅](https://rss.huxiu.com/)|[神奇减肥针爆火，但减肥没有神药](https://www.huxiu.com/article/2368096.html?f=rss)|
+|2023-12-01 01:00:00|[虎嗅](https://rss.huxiu.com/)|[乔布斯曾经说过：不要相信那些做咨询的](https://www.huxiu.com/article/2365781.html?f=rss)|
+|2023-12-01 00:55:21|[虎嗅](https://rss.huxiu.com/)|[良品铺子大降价：17年来首次，最高降45%](https://www.huxiu.com/article/2369139.html?f=rss)|
+|2023-12-01 00:51:14|[虎嗅](https://rss.huxiu.com/)|[2023，当游戏行业步入中年](https://www.huxiu.com/article/2367467.html?f=rss)|
+|2023-12-01 00:35:20|[虎嗅](https://rss.huxiu.com/)|[多家头部机构暴雷，体育培训“挣快钱”的时代结束了](https://www.huxiu.com/article/2367785.html?f=rss)|
+|2023-12-01 00:28:00|[虎嗅](https://rss.huxiu.com/)|[世界鞋服巨头是怎样炼成的？](https://www.huxiu.com/article/2366132.html?f=rss)|
+|2023-12-01 00:13:00|[虎嗅](https://rss.huxiu.com/)|[被男友传染艾滋病后，我决定和他结伴过完下半辈子](https://www.huxiu.com/article/2368155.html?f=rss)|
+|2023-12-01 00:05:00|[虎嗅](https://rss.huxiu.com/)|[“包治百病”的巴马村，能治愈绝望的病人吗？](https://www.huxiu.com/article/2367101.html?f=rss)|
+|2023-12-01 00:01:45|[虎嗅](https://rss.huxiu.com/)|[美股投资者越来越乐观，甚至不再担心经济衰退](https://www.huxiu.com/article/2367879.html?f=rss)|
+|2023-12-01 04:05:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[红橙黄三色，监管“八小时之外”：给“问题干部”点颜色看看](https://dig.chouti.com/link/40784333)|
+|2023-12-01 00:12:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[JF-17和光辉同角度对比](https://dig.chouti.com/link/40782121)|
+|2023-12-01 00:04:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国商飞将推两款C919衍生机型：中远程型更长、高原型更短](https://dig.chouti.com/link/40781831)|
+|2023-12-01 01:05:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[太原理工大学“网红教授”郑强婚内出轨包养情妇？警方：吕某某涉嫌诽谤已被采取刑事强制措施](https://dig.chouti.com/link/40782488)|
+|2023-12-01 01:39:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深海“泰坦”内的恐怖内爆](https://dig.chouti.com/link/40782728)|
+|2023-12-01 02:05:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“穷孩子的游戏”：一个农场小学的足球教育实验](https://dig.chouti.com/link/40782829)|
+|2023-12-01 00:12:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《疯狂的麦克斯4》前传《疯狂的麦克斯：狂暴女神》预告发布，本片由安雅·泰勒-乔伊、克里斯·海姆斯沃斯主演，2024年5月24日北美上映](https://dig.chouti.com/link/40782109)|
+|2023-12-01 00:36:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿根廷候任外长蒙迪诺11月30日在社交媒体平台X发文：阿根廷不会加入金砖国家](https://dig.chouti.com/link/40782185)|
+|2023-12-01 04:01:36|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/84665)|
+|2023-12-01 00:00:09|[余晟以为](https://feedpress.me/wx-yurii-says)|[普通家庭培养孩子的“贵族兴趣”，值得吗？](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009771&idx=1&sn=62f116752bd1c4712442b8db16c8a3c0)|
 |2023-12-01 00:13:21|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 一个有趣的带有版本控制的 CMS 现已开源！](https://linux.cn/article-16431-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-01 00:41:54|[爱范儿](https://www.ifanr.com/feed)|[早报｜微软进入 OpenAI 董事会/特斯拉 Cybertruck 正式交付，售价 43.5 万元起/奔驰宝马在中国成立合资公司](https://www.ifanr.com/1569447?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-01 01:18:37|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 v 站的搜索功能不好用了，之前是通过 google 搜索标题，现在是搜索帖子内容，最近的帖子标题都搜不出来，什么情况？是出问题了？还是说没 get 到搜索方法？](https://www.v2ex.com/t/996710#reply0)|
