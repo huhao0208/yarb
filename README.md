@@ -2,6 +2,44 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-01 09:04:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上千员工涉培训考试作弊，普华永道中国内地、中国香港公司被罚700万美元](https://dig.chouti.com/link/40787304)|
+|2023-12-01 09:44:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女子曝被医生男友下药流产，男子被警方行拘10日遭医院停职，女方拒绝和解拟申请行政复议](https://dig.chouti.com/link/40787946)|
+|2023-12-01 10:04:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《中国奇谭》人气篇章《小妖怪的夏天》动画大电影已通过拍摄申请](https://dig.chouti.com/link/40788054)|
+|2023-12-01 10:06:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国家金融监督管理总局开巨额罚单：中信银行被罚没超2.24亿元](https://dig.chouti.com/link/40788301)|
+|2023-12-01 10:31:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[暴涨4200%，3亿阿根廷“华侨”连夜回国！](https://dig.chouti.com/link/40788498)|
+|2023-12-01 06:13:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯最高法院：“国际LGBT社会运动”为“极端主义”，禁止其活动](https://dig.chouti.com/link/40785887)|
+|2023-12-01 06:32:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么是红灯区，不是黄灯区？](https://dig.chouti.com/link/40785923)|
+|2023-12-01 07:05:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[导演张纪中因曝光前妻隐私 被判公开道歉并赔偿2万元](https://dig.chouti.com/link/40786289)|
+|2023-12-01 06:13:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以色列宣称哈马斯违反临时停火协议，以军恢复打击哈马斯，新一轮空袭已致加沙地带至少10人死亡](https://dig.chouti.com/link/40785885)|
+|2023-12-01 03:05:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国蒙大拿州地区法官作出初步裁决，阻止该州针对TikTok的禁令生效](https://dig.chouti.com/link/40783620)|
+|2023-12-01 03:14:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Cybertrucl和911比速度，后面还拖着一辆911...](https://dig.chouti.com/link/40783997)|
+|2023-12-01 04:06:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【超越化学极限的纯碳环】Nature昨天这篇，未来十有八九能拿诺贝尔化学奖 应该要和19年的另一研究共享 。2019年当牛津大学和IBM研究院的一组研究人员制造出了一个稳定的碳环。环形碳化合物，由18个碳原子组成，C18是理论上，满足热力学稳定条件的最小环碳。今天，又在2019年的基础上新合成了全新的 C10、C14 和 C16环。](https://dig.chouti.com/link/40784603)|
+|2023-12-01 04:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[赛季至今18胜1平，阿隆索和他的勒沃库森，有什么胜利密码？](https://dig.chouti.com/link/40784355)|
+|2023-12-01 06:15:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[00后「电商捧哏」眼里的一地鸡毛：忙活半天，一毛没挣](https://dig.chouti.com/link/40785919)|
+|2023-12-01 04:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女富豪逃亡海外？起底纪晓波母亲崔丽杰，从仓管员到百亿赌场大佬](https://dig.chouti.com/link/40784352)|
+|2023-12-01 05:11:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我很尊重您的个人空间，但是这要换成某某牧羊犬，已经拽着您的裤子把光着屁股的您甩飞了。ig：teddygrammke](https://dig.chouti.com/link/40785235)|
+|2023-12-01 05:53:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当代玩家已经不想用手玩游戏了](https://dig.chouti.com/link/40785417)|
+|2023-12-01 04:41:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[记者以普通患者身份求助协调异地献血，上海卫健委：需在当地申请，求助当地医院](https://dig.chouti.com/link/40784850)|
+|2023-12-01 05:32:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[百万人争论“咪咪咕噜”，错觉正在欺骗你？](https://dig.chouti.com/link/40785342)|
+|2023-12-01 05:12:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[喵喵体内的霸王龙血脉突然觉醒](https://dig.chouti.com/link/40785295)|
+|2023-12-01 04:33:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[聊聊去西藏阿里接病人的医疗包机](https://dig.chouti.com/link/40784783)|
+|2023-12-01 05:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【爱因斯坦和庞加莱：站在物理、技术与哲学的交叉路口】爱因斯坦为什么会用火车与观察者的同步作为比喻呢？事实证明，爱因斯坦并非只是比喻，思考协调时钟这一技术性问题的也并非只有爱因斯坦一人——甚至这是19世纪末的一个产业，庞加莱就与爱因斯坦将“同时性”的概念从技术与哲学的层面带入了物理学的核心地带。](https://dig.chouti.com/link/40785279)|
+|2023-12-01 04:35:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[腾讯QQ的“小世界”将更名为“QQ短视频”](https://dig.chouti.com/link/40784811)|
+|2023-12-01 04:36:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[诗之所向，素履以往：2023浙东唐诗摩旅记录](https://dig.chouti.com/link/40784849)|
+|2023-12-01 04:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[冯小刚电影《非诚勿扰3》定档12月30日](https://dig.chouti.com/link/40784357)|
+|2023-12-01 10:11:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[随便整了个网站玩](https://www.v2ex.com/t/996945#reply10)|
+|2023-12-01 09:19:42|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1202 北京互联网法院裁决 AI 生成图片拥有版权](https://linux.cn/article-16432-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-01 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第第8️⃣期](http://crossoverjie.top/2023/12/01/ob/newsletter/Newsletter08-20231201/)|
+|2023-12-01 04:03:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为焦虑氪金，保健品收割「年轻人」｜氪金 · 大消费](https://36kr.com/p/2537832270685957)|
+|2023-12-01 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPhone 16系列前瞻：补足短板仍是主要任务](https://36kr.com/p/2540709398716546)|
+|2023-12-01 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI颠覆材料学，DeepMind重磅研究登Nature，预测220万晶体结构赢人类800年](https://36kr.com/p/2540672541468167)|
+|2023-12-01 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[花加创始人：微信仅剩的23块零钱也被封了](https://36kr.com/p/2540321395713796)|
+|2023-12-01 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[魅族开放车机系统，还要造自己的车丨最前线](https://36kr.com/p/2540636042012419)|
+|2023-12-01 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[拼多多市值超阿里，黄峥与张一鸣终有一战](https://36kr.com/p/2540614432106248)|
+|2023-12-01 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨宝马奔驰将在中国设立合资公司；iPhone 16显示屏及尺寸曝光；良品铺子将实施17年来最大规模降价](https://36kr.com/p/2541450014598913)|
+|2023-12-01 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[被清华北大抢上热搜后，她消失了](https://36kr.com/p/2540644812629512)|
+|2023-12-01 05:27:04|[知乎每日精选](https://www.zhihu.com/rss)|[定制家居中，该如何抓住未来的设计趋势？](http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-01 04:00:03|[知乎每日精选](https://www.zhihu.com/rss)|[职场年终策划｜2023职场洞察力，用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/669803861?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-01 03:57:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[spring 到底怎么才能拿到原始的 body 啊？](https://www.v2ex.com/t/996794#reply11)|
 |2023-12-01 07:30:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[AWS 有没有优惠的付费方案](https://www.v2ex.com/t/996882#reply6)|
 |2023-12-01 02:01:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年了，在支付宝 app 中偶尔还能看到上古时期的弹窗组件，有种穿越时空的感觉。。为什么不能去改一下呢](https://www.v2ex.com/t/996728#reply45)|
