@@ -1,7 +1,19 @@
-﻿# 每日资讯（2023-11-30）
+﻿# 每日资讯（2023-12-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-01 00:13:21|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 一个有趣的带有版本控制的 CMS 现已开源！](https://linux.cn/article-16431-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-01 00:41:54|[爱范儿](https://www.ifanr.com/feed)|[早报｜微软进入 OpenAI 董事会/特斯拉 Cybertruck 正式交付，售价 43.5 万元起/奔驰宝马在中国成立合资公司](https://www.ifanr.com/1569447?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-01 01:18:37|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 v 站的搜索功能不好用了，之前是通过 google 搜索标题，现在是搜索帖子内容，最近的帖子标题都搜不出来，什么情况？是出问题了？还是说没 get 到搜索方法？](https://www.v2ex.com/t/996710#reply0)|
+|2023-12-01 01:17:02|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大佬请推荐开源的 WMS 系统，带 H5 或 app 端的，谢谢](https://www.v2ex.com/t/996709#reply0)|
+|2023-12-01 01:11:10|[V2EX](http://www.v2ex.com/index.xml)|[  WATCH 各位 2023 年十二月的每月挑战是什么，上个月的完成了吗](https://www.v2ex.com/t/996708#reply0)|
+|2023-12-01 01:02:49|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 NAS 硬盘求推荐 8TB](https://www.v2ex.com/t/996707#reply3)|
+|2023-12-01 00:57:24|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 你被欠过钱吗...后来咋处理的，被欠 5k 对方沉默，想起诉](https://www.v2ex.com/t/996705#reply6)|
+|2023-12-01 00:49:25|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 最近各家服务崩的此起彼伏，到底是不是跟裁员有关？](https://www.v2ex.com/t/996703#reply3)|
+|2023-12-01 00:48:17|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 透明代理用 nft 出现大量报错，小白求助！](https://www.v2ex.com/t/996702#reply1)|
+|2023-12-01 00:45:06|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 114 期）：一个简单截图 API，月收入 2 千美金](https://www.v2ex.com/t/996701#reply0)|
+|2023-12-01 00:37:34|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 请问 Dev 转 Production Support 方向好吗？](https://www.v2ex.com/t/996700#reply1)|
+|2023-12-01 00:22:52|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 12 月了，一年又见底了，大家都过得怎样呢？](https://www.v2ex.com/t/996699#reply32)|
 |2023-11-30 09:00:10|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[游戏数据包的补丁和更新](https://blog.codingnow.com/2023/11/vfs_patch.html)|
 |2023-11-30 20:01:29|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 土区 Apple ID 氪日区游戏有优惠吗？](https://www.v2ex.com/t/996685#reply0)|
 |2023-11-30 19:04:38|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有人跟我一样, 开会前半小时会犯困, 紧张, 焦虑, 想逃避, 什么都做不了](https://www.v2ex.com/t/996684#reply2)|
@@ -223,6 +235,7 @@
 |2023-11-30 06:42:42|[小众软件](https://www.appinn.com/feed/)|[顺丰ID 服务上线，可完全隐藏收件人、寄件人地址](https://www.appinn.com/sf-express-id/)|
 |2023-11-30 06:13:52|[小众软件](https://www.appinn.com/feed/)|[Evernote 测试收紧免费用户权限，包括仅允许创建 50 条笔记](https://www.appinn.com/evernote-tests-cutting-free-user-features/)|
 |2023-11-30 06:53:48|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[迟大姐 晕笑之间](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892468&idx=1&sn=a25b6f86ab4cd6e7efc0c5fced6ad69d)|
+|2023-12-01 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[CUDA Constant Memory](https://leimao.github.io/blog/CUDA-Constant-Memory/)|
 |2023-11-30 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[红色警戒 2 网页版](https://leimao.github.io/essay/%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%88%922%E7%BD%91%E9%A1%B5%E7%89%88/)|
 |2023-11-30 07:37:00|[机核](https://www.gcores.com/rss)|[《最终幻想7 永恒危机》Steam版12月7日上线](https://www.gcores.com/articles/174466)|
 |2023-11-30 07:28:35|[机核](https://www.gcores.com/rss)|[《Rabi-Ribi》制作组新作《Tevi》现已发售，支持简繁中文](https://www.gcores.com/articles/174471)|
