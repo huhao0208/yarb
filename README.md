@@ -2,6 +2,45 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-01 06:19:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[买了一个好玩的域名（niuma.dev），征集一些好玩的自建服务](https://www.v2ex.com/t/996842#reply26)|
+|2023-12-01 05:55:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[电脑上面有什么能把 pdf 页面转换成类似 epub、mobi 书籍格式，从而便于阅读的软件？](https://www.v2ex.com/t/996828#reply12)|
+|2023-12-01 15:19:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 pycharm 社区版,重命名被导入的模块名后的导入语句失效问题](https://www.v2ex.com/t/996994#reply1)|
+|2023-12-01 15:03:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[电脑经常蓝屏怎么样查原因呀](https://www.v2ex.com/t/996993#reply2)|
+|2023-12-01 02:32:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[彦祖，预算 3000 左右有什么手机比较值得推荐](https://www.v2ex.com/t/996744#reply29)|
+|2023-12-01 13:41:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[原生 Android 有没有来电归属地+骚扰拦截的 app？](https://www.v2ex.com/t/996985#reply1)|
+|2023-12-01 09:04:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[这个是什么编码方式有人能看出来吗](https://www.v2ex.com/t/996920#reply23)|
+|2023-12-01 01:02:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[NAS 硬盘求推荐 8TB](https://www.v2ex.com/t/996707#reply35)|
+|2023-12-01 07:17:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[红魔 9 终于平了](https://www.v2ex.com/t/996871#reply15)|
+|2023-12-01 11:18:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 RisingWave 和 ClickHouse 实现实时数据扩充与分析](https://www.v2ex.com/t/996958#reply2)|
+|2023-12-01 10:07:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[电脑总是死机怎么排查原因？](https://www.v2ex.com/t/996944#reply7)|
+|2023-12-01 13:12:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[win11 23h2 貌似对 wsa 支持很不好](https://www.v2ex.com/t/996981#reply0)|
+|2023-12-01 13:10:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教系统校验 odex 的可用性](https://www.v2ex.com/t/996980#reply0)|
+|2023-12-01 08:45:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位佬，有一个高德地图的需求要向各位求助一下](https://www.v2ex.com/t/996913#reply17)|
+|2023-12-01 10:11:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[随便整了个网站玩](https://www.v2ex.com/t/996945#reply15)|
+|2023-12-01 16:06:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[拼多多，三拳打倒老师傅](https://36kr.com/p/2540840847318917)|
+|2023-12-01 16:06:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米“合伙人”都在离雷军而去](https://36kr.com/p/2541411636880898)|
+|2023-12-01 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[墨迹广告事业部负责人张明明：气象变化是品牌营销的新机会丨WISE2023未来消费大会](https://36kr.com/p/2541601631708937)|
+|2023-12-01 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一个月5家互联网大厂加入，华为鸿蒙在国内狂奔丨焦点分析](https://36kr.com/p/2527890041644547)|
+|2023-12-01 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[43.5 万元起，特斯拉 Cybertruck 终于交付，马斯克当初说的都实现了吗？](https://36kr.com/p/2541470333822723)|
+|2023-12-01 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[韩国生育率创新低，八成年轻人不结婚，政府放大招：公务员想升职，得先生娃](https://36kr.com/p/2540766230587140)|
+|2023-12-01 07:36:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[应粉丝要求，《咩咩启示录》即将增加“色色”内容](https://dig.chouti.com/link/40786494)|
+|2023-12-01 08:04:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【NBA上演商业谍战：三千份机密文件被盗，尼克斯状告猛龙】从今年8月开始，纽约尼克斯就以他们的前员工伊克丘库·阿佐坦在入职多伦多猛龙前，将他负责的尼克斯球探报告、比赛频率相关文件、球队比赛准备书和剪辑视频等超过3000份所谓的“机密文件”带走为由，将尼克斯告上法庭。12月1日，ESPN用长文还原了这起纠纷的原委。](https://dig.chouti.com/link/40786657)|
+|2023-12-01 13:04:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“沃尔夫条款”之下，NASA要求破例“开绿灯”研究嫦娥五号月壤样本](https://dig.chouti.com/link/40789763)|
+|2023-12-01 13:14:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[就在刚刚，来自漠河的极光，恰好在漠河旅游的中气爱团队成员拍摄，不太清晰，但绝对真实](https://dig.chouti.com/link/40790181)|
+|2023-12-01 12:05:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因18项违法违规事实，建行被国家金融监督管理总局罚没3791万元](https://dig.chouti.com/link/40789351)|
+|2023-12-01 09:04:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国民党参选人侯友宜爆料：民进党曾找我选台中市长，赖清德当时夸我是人才](https://dig.chouti.com/link/40787279)|
+|2023-12-01 10:05:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[现今已知世界最大尺寸宋代玉熊，现身台北京腾龙拍卖](https://dig.chouti.com/link/40788186)|
+|2023-12-01 12:34:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[太阳风暴正在给高纬度地区带去大范围极光，黑龙江北部、内蒙古呼伦贝尔等地今晚再次记录到极光！就连大庆也有人拍摄到红色极光！今夜东北的朋友可以留意天空，理论上最南到北京也能看到微弱的极光！](https://dig.chouti.com/link/40789663)|
+|2023-12-01 13:18:29|[触乐](http://www.chuapp.com/feed)|[当SLG把笔交给玩家， 他们写出了惊天的脑洞计谋](http://www.chuapp.com/article/289658.html)|
+|2023-12-01 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：设法熬过年关的游戏人](http://www.chuapp.com/article/289659.html)|
+|2023-12-01 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果被孤立和讨厌怎么办？](https://www.zhihu.com/question/513558654)|
+|2023-12-01 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[准备离职了，领导问后续打算该不该说实话？](https://www.zhihu.com/question/632600873)|
+|2023-12-01 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年，哪些彩妆单品你用到了铁皮？](https://www.zhihu.com/question/632466743)|
+|2023-12-01 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 勇士 120 : 114 快船，如何评价这场比赛？](https://www.zhihu.com/question/632783023)|
+|2023-12-01 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[12 月 1 日三大指数涨跌不一，AI 应用端集体走强，全市场超 3000 股上涨，如何看待今日行情？](https://www.zhihu.com/question/632766094)|
+|2023-12-01 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全马、半马和 10 公里比赛，哪个对跑者的吸引力更大？](https://www.zhihu.com/question/632453378)|
+|2023-12-01 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[当下，真的存在像李子柒视频中表现的那种田园生活吗？](https://www.zhihu.com/question/315551260)|
+|2023-12-01 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么电影《涉过愤怒的海》的口碑会两极分化？](https://www.zhihu.com/question/632504790)|
 |2023-12-01 09:04:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上千员工涉培训考试作弊，普华永道中国内地、中国香港公司被罚700万美元](https://dig.chouti.com/link/40787304)|
 |2023-12-01 09:44:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女子曝被医生男友下药流产，男子被警方行拘10日遭医院停职，女方拒绝和解拟申请行政复议](https://dig.chouti.com/link/40787946)|
 |2023-12-01 10:04:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《中国奇谭》人气篇章《小妖怪的夏天》动画大电影已通过拍摄申请](https://dig.chouti.com/link/40788054)|
