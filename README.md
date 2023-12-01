@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-01 02:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国制造业和服务业活动放缓，年底形势不妙](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E5%92%8C%E6%9C%8D%E5%8A%A1%E4%B8%9A%E6%B4%BB%E5%8A%A8%E6%94%BE%E7%BC%93-%E5%B9%B4%E5%BA%95%E5%BD%A2%E5%8A%BF%E4%B8%8D%E5%A6%99-2c2f9fbd)|
+|2023-12-01 02:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国经济陷入恶性循环](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%99%B7%E5%85%A5%E6%81%B6%E6%80%A7%E5%BE%AA%E7%8E%AF-9839d45c)|
+|2023-12-01 06:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[地缘政治等重大风险令外国投资者避开中国](https://cn.wsj.com/articles/%E9%87%8D%E5%A4%A7%E9%A3%8E%E9%99%A9%E4%BB%A4%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E7%BA%B7%E7%BA%B7%E9%81%BF%E5%BC%80%E4%B8%AD%E5%9B%BD-bddea220)|
+|2023-12-01 07:16:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【从大厂跳槽国企，我后悔了】来国企上班的第一天，王晓晴有了全新的称呼——“王总”。此前她在大厂工作过13年，前同事一直叫她“晓晴”、“王老师”或英文名。如王晓晴一样，很多在行业动荡和内卷中疲惫不堪的大厂人，正在选择“上岸”去央国企。但作为另一种形制的“外来物种”，他们也时刻感受着自己的水土不服。](https://dig.chouti.com/link/40786484)|
+|2023-12-01 15:38:28|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[texttool.fun 优化](https://w2solo.com/topics/4282)|
+|2023-12-01 02:20:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #19：定价的学问](https://w2solo.com/topics/4281)|
+|2023-12-01 00:47:53|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 114 期）：一个简单截图 API，月收入 2 千美金](https://w2solo.com/topics/4280)|
+|2023-12-01 05:10:39|[墙外看](https://qiangwaikan.com/feed/)|[什么是VPN终止开关 Kill Switch ？它有什么用？](https://qiangwaikan.com/kill-switch/)|
+|2023-12-01 05:10:38|[墙外看](https://qiangwaikan.com/feed/)|[什么是拆分隧道 Split Tunneling 工作原理和使用场景](https://qiangwaikan.com/split-tunneling/)|
+|2023-12-01 05:10:37|[墙外看](https://qiangwaikan.com/feed/)|[2023年最好用的印度VPN推荐 获取印度IP地址](https://qiangwaikan.com/vpn-for-india/)|
+|2023-12-01 05:10:36|[墙外看](https://qiangwaikan.com/feed/)|[2023年最好用的阿根廷VPN推荐 获取阿根廷IP地址](https://qiangwaikan.com/vpn-for-argentina/)|
+|2023-12-01 05:10:35|[墙外看](https://qiangwaikan.com/feed/)|[2023年最好用的土耳其VPN推荐 土耳其IP地址](https://qiangwaikan.com/vpn-for-turkey/)|
+|2023-12-01 14:43:26|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Paru 2.0 版本升级，为高级用户带来了新特性](https://linux.cn/article-16433-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-01 06:19:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[买了一个好玩的域名（niuma.dev），征集一些好玩的自建服务](https://www.v2ex.com/t/996842#reply26)|
 |2023-12-01 05:55:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[电脑上面有什么能把 pdf 页面转换成类似 epub、mobi 书籍格式，从而便于阅读的软件？](https://www.v2ex.com/t/996828#reply12)|
 |2023-12-01 15:19:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 pycharm 社区版,重命名被导入的模块名后的导入语句失效问题](https://www.v2ex.com/t/996994#reply1)|
