@@ -2,6 +2,63 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-02 16:16:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[简单将自己的证书添加到系统根证书，需要 root](https://www.v2ex.com/t/997185#reply3)|
+|2023-12-02 03:39:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[.ing 后缀正式开放了，有没有什么想法](https://www.v2ex.com/t/997053#reply50)|
+|2023-12-02 04:21:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么你应该使用安卓和 Windows？](https://www.v2ex.com/t/997060#reply112)|
+|2023-12-02 13:16:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[可能很多人不知道 hoppscotch 比 postman 更好用，这个 postman 要强制登录了](https://www.v2ex.com/t/997157#reply20)|
+|2023-12-02 15:14:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 开源 通过 docker 运行 nginx，使用 Let's Encrypt 更新 https/ssl](https://www.v2ex.com/t/997174#reply3)|
+|2023-12-02 08:24:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位写 C++有成就感吗](https://www.v2ex.com/t/997106#reply38)|
+|2023-12-02 17:46:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一下大家关于 k8s 的管理面板](https://www.v2ex.com/t/997190#reply0)|
+|2023-12-02 11:22:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[某鱼买到有锁硬盘以及小二用最小的权力给用户找最大的麻烦](https://www.v2ex.com/t/997141#reply95)|
+|2023-12-02 04:06:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开发用词强迫症？](https://www.v2ex.com/t/997057#reply25)|
+|2023-12-02 15:28:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[郁闷了， docker 上跑的 frps 只能用 7000 默认端口？](https://www.v2ex.com/t/997176#reply5)|
+|2023-12-02 03:51:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有公众号或者网站提供微信代发通知的？](https://www.v2ex.com/t/997054#reply16)|
+|2023-12-02 07:26:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 Python 就业方向的疑问](https://www.v2ex.com/t/997088#reply15)|
+|2023-12-02 12:38:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于安卓逆向的问题,路过的各位大佬帮忙看看](https://www.v2ex.com/t/997150#reply4)|
+|2023-12-02 06:50:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[模拟 IPLC 实现](https://www.v2ex.com/t/997085#reply23)|
+|2023-12-02 03:20:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[对于 Go 切片有点疑问？](https://www.v2ex.com/t/997051#reply7)|
+|2023-12-02 02:33:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[打败你的可能是 chatgpt. 我的新的想法。插件版 英语轻松读](https://www.v2ex.com/t/997043#reply19)|
+|2023-12-02 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国气象局预计 12 月 1 日左右或发生地磁暴，什么是地磁暴？对日常生活有哪些影响？](https://www.zhihu.com/question/632871445)|
+|2023-12-02 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你有什么给穷人家孩子的忠告？](https://www.zhihu.com/question/412080163)|
+|2023-12-02 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年你最感兴趣的一辆新能源汽车是哪一款汽车，为什么？](https://www.zhihu.com/question/632782510)|
+|2023-12-02 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中信银行涉 56 项违规，被国家金融监管总局罚没超 2.24 亿元，哪些信息值得关注？](https://www.zhihu.com/question/632848499)|
+|2023-12-02 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[据官方最新监测和预报，12 月 4 日可能发生小到中等地磁暴，将带来哪些影响？](https://www.zhihu.com/question/632980142)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你见过最惨的人生有多惨，为什么惨？](https://www.zhihu.com/question/291582758)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「希腊总理要求归还帕特农神庙雕塑，苏纳克取消了会晤」，哪些信息值得关注？](https://www.zhihu.com/question/632266320)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么是发面、死面、半烫面、烫面？吃法和烹饪方式上有什么区别？](https://www.zhihu.com/question/631114545)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体谈「考公」升温，「考研」降温，称「要让年轻人在寒窗尽头还有闯荡的愿力和心气」，反映出什么社会现象？](https://www.zhihu.com/question/632806794)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价华为新开源的 openlnula？](https://www.zhihu.com/question/632458791)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果龙珠 Z 人造人篇章第一批去精神时光屋的是卡卡罗特孙悟饭，会怎么样？](https://www.zhihu.com/question/626450097)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[适合当代年轻人的厨房是怎么样的，有什么东西必须配备？](https://www.zhihu.com/question/516006550)|
+|2023-12-02 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么大模型能通过自然语言训练拥有智能？智能的载体是自然语言吗？](https://www.zhihu.com/question/632809237)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[学者调查「京郑杭深」零工市场，待遇下降，零工提前回流，「最大诉求就是拥有一份工作」，如何看待这一现象？](https://www.zhihu.com/question/632808657)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么有人说明代的威远炮相比拿战火炮数据依然不过时甚至称得上优秀？](https://www.zhihu.com/question/632071503)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[华硕灵耀 14 2024 预约已开启，作为首台搭载酷睿 Ultra 的笔记本电脑，你对它有哪些期待？](https://www.zhihu.com/question/632809896)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[谷歌 DeepMind 通过 AI 工具 GNoME 发现 220 万种新材料，具体情况如何？有何影响？](https://www.zhihu.com/question/632802664)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么芙宁娜自称 boku?](https://www.zhihu.com/question/632736417)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[现在的你会原谅过去犯错的你吗？](https://www.zhihu.com/question/630488982)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[日常生活中，大家都是怎么辨别纯粮酒和勾兑酒的？](https://www.zhihu.com/question/496633235)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[12 月 1 日有网友在北京拍到极光，系北京史上第二次极光影像记录，你看到了吗？极光是如何形成的？](https://www.zhihu.com/question/632867941)|
+|2023-12-02 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国气象局发布大地磁暴预警，卫星导航设备误差增大，航空飞行将面临通信环境变差风险，还有哪些影响？](https://www.zhihu.com/question/632927253)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[JDG 官宣 knight 离队，如何评价他在队伍期间的表现？](https://www.zhihu.com/question/632952969)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你都干过哪些吃力不讨好的事情？](https://www.zhihu.com/question/480846522)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待人们在讨论中西文明发展差异时常常以「地理环境决定论」为核心？](https://www.zhihu.com/question/631868181)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《元梦之星》定档派对发布会？有哪些值得期待的精彩信息？](https://www.zhihu.com/question/632978045)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[沙特联：利雅得德比，新月 3:0 胜利，米神双响，C 罗进球被吹，如何评价本场比赛？](https://www.zhihu.com/question/632937707)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[期货黄金创历史新高，现货金价也逼近历史高位，金价还能涨吗？](https://www.zhihu.com/question/632936841)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 掘金 119 : 111 太阳，如何评价这场比赛？](https://www.zhihu.com/question/632946704)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小米公司回应所谓「冰冷的 40 亿」，称纯属子虚乌有、完全失实，如何看待此事？](https://www.zhihu.com/question/632833499)|
+|2023-12-02 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[请问有没有一首歌让你无限循环？](https://www.zhihu.com/question/631406983)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电影中有哪些惊艳到你的台词？](https://www.zhihu.com/question/630588909)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[目前就业市场，裸辞后找工作会很难吗？](https://www.zhihu.com/question/632472691)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[现在手机电池基本上都无法自行取出，这种设计主要是基于哪方面的考虑？](https://www.zhihu.com/question/632112754)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些震撼人心的红军故事？](https://www.zhihu.com/question/441311306)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[作为求职者，你认为今年找工作更难还是更容易了？](https://www.zhihu.com/question/632472710)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[文笔挑战，「鱼儿亲吻着她脸上的哀愁，__」你会怎么接下一句?](https://www.zhihu.com/question/632806407)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 你立的 flag 都实现了吗？](https://www.zhihu.com/question/632831666)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《涉过愤怒的海》娜娜六点半那一通电话真的是误触吗？](https://www.zhihu.com/question/632092056)|
+|2023-12-02 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 龙年央视春晚首次使用汉字作 Logo，有哪些亮点值得关注？背后蕴含了哪些文化？](https://www.zhihu.com/question/632935331)|
+|2023-12-02 12:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[被暴雷开发商拖累，同病相怜](https://lmmsoft.github.io//housing_projects/)|
 |2023-12-02 14:32:55|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 开源网页邮箱服务 Roundcube 加入 Nextcloud](https://linux.cn/article-16437-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-02 13:42:48|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[软件开发 人工智能教程（三）：更多有用的 Python 库](https://linux.cn/article-16436-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-02 09:25:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1203 巴西城市颁布由 ChatGPT 编写的法令](https://linux.cn/article-16435-1.html?utm_source=rss&utm_medium=rss)|
