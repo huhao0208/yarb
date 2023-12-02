@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-01）
+﻿# 每日资讯（2023-12-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-02 00:30:57|[爱范儿](https://www.ifanr.com/feed)|[早报｜小米辟谣「雷军冰冷的 40 亿」/iPhone 16 或全系标配操作按钮/拼多多收盘市值首超阿里 未来周报](https://www.ifanr.com/1569501?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-01 02:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国制造业和服务业活动放缓，年底形势不妙](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E5%92%8C%E6%9C%8D%E5%8A%A1%E4%B8%9A%E6%B4%BB%E5%8A%A8%E6%94%BE%E7%BC%93-%E5%B9%B4%E5%BA%95%E5%BD%A2%E5%8A%BF%E4%B8%8D%E5%A6%99-2c2f9fbd)|
 |2023-12-01 02:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国经济陷入恶性循环](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%99%B7%E5%85%A5%E6%81%B6%E6%80%A7%E5%BE%AA%E7%8E%AF-9839d45c)|
 |2023-12-01 06:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[地缘政治等重大风险令外国投资者避开中国](https://cn.wsj.com/articles/%E9%87%8D%E5%A4%A7%E9%A3%8E%E9%99%A9%E4%BB%A4%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E7%BA%B7%E7%BA%B7%E9%81%BF%E5%BC%80%E4%B8%AD%E5%9B%BD-bddea220)|
