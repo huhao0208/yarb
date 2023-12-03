@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-03 11:11:32|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[周报 2023-12-03](https://blog.rxliuli.com/p/5671164090f846758294776642a569a0/)|
+|2023-12-03 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[NBA 23-24 赛季，快船 113:112 勇士，如何评价本场比赛？](https://www.zhihu.com/question/633093813)|
+|2023-12-03 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你眼中的 2023 年，中国汽车市场发生了哪些值得记忆的变化？](https://www.zhihu.com/question/632700230)|
+|2023-12-03 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么不在铁路沿线铺设通信网络呢?](https://www.zhihu.com/question/632887350)|
+|2023-12-03 11:54:34|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Windows 莫名重启问题解决](https://nicksxs.me/2023/12/03/Windows-%E8%8E%AB%E5%90%8D%E9%87%8D%E5%90%AF%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/)|
+|2023-12-03 10:40:52|[触乐](http://www.chuapp.com/feed)|[一位明星选手的热血故事，半部CODM电竞全球化发展史](http://www.chuapp.com/article/289661.html)|
+|2023-12-03 10:53:37|[251 的魔法实验室](https://blog.251.sh/feed/)|[Homelab 内简单的 Active Directory Domain Controller 搭建](https://blog.251.sh/active-directory-domain-controller-in-my-homelab-with-synology)|
 |2023-12-03 04:03:25|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[具透 One UI 6.0 正式版更新，除了 Android 14 还有哪些新功能？](https://sspai.com/post/84715)|
 |2023-12-03 05:39:09|[鸟窝](https://colobu.com/atom.xml)|[2023年 Go 并发库的变化综述](https://colobu.com/2023/12/03/status-og-so-sync-in-2023/)|
 |2023-12-03 10:17:12|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1204 Chrome 还有打击广告拦截器的下一个武器](https://linux.cn/article-16438-1.html?utm_source=rss&utm_medium=rss)|
