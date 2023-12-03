@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-03 09:08:26|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[生成式 AI 应用落地小结：高估的模型能力，低估的工程实施](http://www.phodal.com/blog/genai-implementation-summary-model-overestimation-engineering-underestimation/)|
+|2023-12-03 13:26:11|[KAIX.IN](https://kaix.in/feed/)|[赛博朋克](https://kaix.in/2023/1203-cyberpunk/)|
+|2023-12-03 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 168 期（2023.12.04）](https://www.ftium4.com/ux-weekly-168.html)|
+|2023-12-03 15:00:00|[机核](https://www.gcores.com/rss)|[三部电影 Vol.08 涉过愤怒的海](https://www.gcores.com/radios/174538)|
+|2023-12-03 12:35:45|[机核](https://www.gcores.com/rss)|[《万智牌》构筑从0开始，谁都能玩出乐趣的：写给刚刚学会游戏规则的朋友](https://www.gcores.com/articles/174580)|
+|2023-12-03 10:27:29|[机核](https://www.gcores.com/rss)|[涅克洛蒙达：钢铁家族奥洛克（一）](https://www.gcores.com/articles/174554)|
+|2023-12-03 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#269：《龙腾世纪 2》](https://www.gcores.com/articles/174575)|
+|2023-12-03 10:19:27|[小众软件](https://www.appinn.com/feed/)|[StarUML 6 – 专业级跨平台作图建模开发工具](https://www.appinn.com/staruml-6/)|
+|2023-12-03 08:31:00|[小众软件](https://www.appinn.com/feed/)|[IP工具箱：开源 IP 信息查看器，使用 AI 写了 70% 代码，上线12天，GitHub 已获 900+ 星](https://www.appinn.com/myip-a-better-ip-toolbox/)|
+|2023-12-03 15:28:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[Android 13+ 通过 Shizuku + Language Selector 给特定应用设置独立语言](https://hellodk.cn/post/1152)|
+|2023-12-03 10:59:16|[白宦成](https://www.ixiqin.com/feed/)|[为什么说投资是认知的变现？](https://www.ixiqin.com/2023/12/03/why-is-investment-a-cognitive-realization/)|
 |2023-12-03 11:11:32|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[周报 2023-12-03](https://blog.rxliuli.com/p/5671164090f846758294776642a569a0/)|
 |2023-12-03 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[NBA 23-24 赛季，快船 113:112 勇士，如何评价本场比赛？](https://www.zhihu.com/question/633093813)|
 |2023-12-03 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你眼中的 2023 年，中国汽车市场发生了哪些值得记忆的变化？](https://www.zhihu.com/question/632700230)|
