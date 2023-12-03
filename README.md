@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-02）
+﻿# 每日资讯（2023-12-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-03 01:15:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2023 年 12 月 02 日](https://www.changhai.org/articles/miscellaneous/blog/202312.php#latest)|
 |2023-12-02 16:16:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[简单将自己的证书添加到系统根证书，需要 root](https://www.v2ex.com/t/997185#reply3)|
 |2023-12-02 03:39:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[.ing 后缀正式开放了，有没有什么想法](https://www.v2ex.com/t/997053#reply50)|
 |2023-12-02 04:21:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么你应该使用安卓和 Windows？](https://www.v2ex.com/t/997060#reply112)|
