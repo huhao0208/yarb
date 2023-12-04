@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-04 11:14:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[五月天经纪公司相信音乐发声明：五月天在巡回演出中不存在任何假唱行为，将配合调查；网络上关于“五月天假唱”的言论均为恶意攻击、造谣中伤](https://dig.chouti.com/link/40816653)|
+|2023-12-04 11:14:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[至少雪白的屁股还在](https://dig.chouti.com/link/40816655)|
+|2023-12-04 10:16:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《咬文嚼字》编辑部今天发布2023年十大流行语：①新质生产力；②双向奔赴；③人工智能大模型；④村超；⑤特种兵式旅游；⑥显眼包；⑦搭子；⑧多巴胺××；⑨情绪价值；⑩质疑××，理解××，成为××。](https://dig.chouti.com/link/40816116)|
+|2023-12-04 07:12:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[NCAA佛蒙特大学66-65神奇逆转耶鲁大学！比赛剩3.8秒时，佛蒙特大学还落后5分，上篮命中后耶鲁大学进攻犯规，佛蒙特大学命中神奇3+1，3.8秒连得6分逆转比赛！](https://dig.chouti.com/link/40814068)|
+|2023-12-04 10:21:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【肺炎支原体患者大规模CT检查有必要吗？】“白肺”焦虑仍在蔓延，90万病例研究：儿童CT检查可能致血癌](https://dig.chouti.com/link/40816119)|
+|2023-12-04 02:05:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[关于遗忘与纹身：三位阿尔茨海默症老人家属的讲述](https://dig.chouti.com/link/40810829)|
+|2023-12-04 02:25:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【昨天东航备降之后的两种声音】媒体与公众太过于“焦虑和恐慌”，而业内的科普太过于“轻松和平常”。](https://dig.chouti.com/link/40811073)|
+|2023-12-04 07:12:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[凯文·费奇确认：漫威不会复活钢铁侠……凯文·费奇表示“我们将保留钢铁侠牺牲的那个结局、不再去触碰那一状态，因为大家都是付出了许多年的精力才最后造就了那样的一个情形，所以我们不希望用任何方式撤回”](https://dig.chouti.com/link/40814071)|
+|2023-12-04 05:05:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人类屎的人类简史](https://dig.chouti.com/link/40812633)|
+|2023-12-04 06:36:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【三个找工作的毕业生：二本学历拿不出手？】2020年，在广州一所二本院校教书的老师黄灯发表非虚构作品《我的二本学生》，一时间各大媒体将镜头对准二本学生群体，“二本学生的出路在哪里”，“二本学生考研有多难”，甚至在知乎有人提出“二本学历是人生的耻辱吗”的疑问。三年时间过去，二本学生的境遇有改变吗？](https://dig.chouti.com/link/40813531)|
+|2023-12-04 04:05:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[6000万人次围观《王者荣耀》主播张大仙“跳槽”抖音：腾讯抱团字节，虎牙终成弃子](https://dig.chouti.com/link/40812146)|
+|2023-12-04 07:36:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【本文主要由AI撰写】清华大学新闻学院教授沈阳是国内研究人工智能、大模型最前沿的学者之一，他本人也是AI对人类影响的最佳样本：他用AI写科幻小说，在评委不知情的情况下获奖；他声称AI使自己工作效率提升9倍；妻子身患重病，他用AI辅助治疗，疗效瞩目；作为清华教授，他很少去学校，全部工作都和团队在线上完成……](https://dig.chouti.com/link/40814152)|
+|2023-12-04 07:04:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[18世纪晚期法兰西宫廷的钻石时尚](https://dig.chouti.com/link/40813647)|
+|2023-12-04 07:05:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被疲劳缠住的人](https://dig.chouti.com/link/40813777)|
+|2023-12-04 07:07:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《坠楼死亡的剖析》 一部重在“关系”的电影](https://dig.chouti.com/link/40813970)|
+|2023-12-04 12:27:18|[静风说](http://www.jingfengshuo.com/feed)|[王小波《青铜时代》读后感](https://www.jingfengshuo.com/archives/2704.html)|
+|2023-12-04 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节游戏这五年：300亿买教训](https://36kr.com/p/2545715253208577)|
+|2023-12-04 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Supreme落沪、北面被买爆，VF集团加码中国](https://36kr.com/p/2543607266174726)|
+|2023-12-04 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[户外电源求生之路：是时候和“户外”脱钩了](https://36kr.com/p/2543034172694402)|
+|2023-12-04 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[暴跌4成！保时捷在中国卖不动了](https://36kr.com/p/2544509107201799)|
+|2023-12-04 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一言不合就跑分，国内AI大模型为何沉迷于“刷榜”](https://36kr.com/p/2543427323635463)|
+|2023-12-04 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨瑞幸状告泰国瑞幸败诉；美团CEO王兴发布内部信，公布多项技术岗负责人任命；官方回应五月天被指演唱会假唱](https://36kr.com/p/2545694325630467)|
+|2023-12-04 09:08:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Linux 爱好者线下沙龙：LLUG 2023·北京，相聚在这个冬日](https://linux.cn/article-16440-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-04 08:45:39|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Cinnamon 6.0 首次推出实验性 Wayland 支持！](https://linux.cn/article-16439-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-04 06:59:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[Clickhouse分布式配置](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/clickhouse%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-12-04 06:59:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[Sqlite同步方案](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/sqlite%E5%90%8C%E6%AD%A5%E6%96%B9%E6%A1%88/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-12-04 06:59:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[四子星基本方案](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/%E5%9B%9B%E5%AD%90%E6%98%9F%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%A1%88/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-12-04 06:59:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[数据平面分布式方案](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/%E6%95%B0%E6%8D%AE%E5%B9%B3%E9%9D%A2%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%B9%E6%A1%88/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-12-04 06:59:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[配置文件同步方案](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E6%96%B9%E6%A1%88/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-12-04 12:30:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #42：11 月总结](https://w2solo.com/topics/4285)|
 |2023-12-04 09:26:22|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[FTP服务器端 Wing FTP Server 7.2.8企业学习版](https://masuit.com/1256)|
 |2023-12-04 08:22:59|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[34寸新品3440*1440@165Hz曲面电竞显示器，SG3402H01面板](https://masuit.com/p223)|
 |2023-12-04 03:00:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有好用的 Python 版本、虚拟环境和包管理的工具](https://www.v2ex.com/t/997412#reply26)|
