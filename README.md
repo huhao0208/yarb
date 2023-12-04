@@ -1,7 +1,17 @@
-﻿# 每日资讯（2023-12-03）
+﻿# 每日资讯（2023-12-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-04 01:06:15|[虎嗅](https://rss.huxiu.com/)|[AI对电商的改变，不会止步于直播](https://www.huxiu.com/article/2378927.html?f=rss)|
+|2023-12-04 01:02:32|[虎嗅](https://rss.huxiu.com/)|[最强AI又要迟到？报道：谷歌延迟推出Gemini](https://www.huxiu.com/article/2379970.html?f=rss)|
+|2023-12-04 00:46:33|[虎嗅](https://rss.huxiu.com/)|[上市就来割韭菜？51家在审企业存在掏空式分红之嫌](https://www.huxiu.com/article/2379621.html?f=rss)|
+|2023-12-04 00:41:36|[虎嗅](https://rss.huxiu.com/)|[令人成瘾的滑雪，带火了冬天的哪些生意？](https://www.huxiu.com/article/2375432.html?f=rss)|
+|2023-12-04 00:41:19|[虎嗅](https://rss.huxiu.com/)|[金价持续走高，黄金珠宝公司加速上市步伐](https://www.huxiu.com/article/2379956.html?f=rss)|
+|2023-12-04 00:33:20|[虎嗅](https://rss.huxiu.com/)|[五月天演唱会陷假唱风波](https://www.huxiu.com/article/2378145.html?f=rss)|
+|2023-12-04 00:25:00|[虎嗅](https://rss.huxiu.com/)|[基金销售过冬](https://www.huxiu.com/article/2377146.html?f=rss)|
+|2023-12-04 00:23:00|[虎嗅](https://rss.huxiu.com/)|[深圳“外卖村”里，渴望“翻身”的人](https://www.huxiu.com/article/2378776.html?f=rss)|
+|2023-12-04 00:06:44|[虎嗅](https://rss.huxiu.com/)|[生成式AI是工具，真正的原创者还在反击](https://www.huxiu.com/article/2378759.html?f=rss)|
+|2023-12-04 00:00:01|[虎嗅](https://rss.huxiu.com/)|[一场横跨16年的诈骗案，割了全台湾的韭菜](https://www.huxiu.com/article/2373375.html?f=rss)|
 |2023-12-03 09:08:26|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[生成式 AI 应用落地小结：高估的模型能力，低估的工程实施](http://www.phodal.com/blog/genai-implementation-summary-model-overestimation-engineering-underestimation/)|
 |2023-12-03 13:26:11|[KAIX.IN](https://kaix.in/feed/)|[赛博朋克](https://kaix.in/2023/1203-cyberpunk/)|
 |2023-12-03 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 168 期（2023.12.04）](https://www.ftium4.com/ux-weekly-168.html)|
