@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-04 08:36:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[arm 的官网打开特别慢，这是我的网络的问题，还是 arm 官网的问题？](https://www.v2ex.com/t/997539#reply15)|
+|2023-12-04 11:10:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用脚本帮朋友抢个专家号居然没抢到](https://www.v2ex.com/t/997588#reply19)|
+|2023-12-04 13:04:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教各位大佬，如何利用 Python 修改远端 windows 主机的本地账号密码？](https://www.v2ex.com/t/997604#reply6)|
+|2023-12-04 03:00:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有好用的 Python 版本、虚拟环境和包管理的工具](https://www.v2ex.com/t/997412#reply49)|
+|2023-12-04 11:58:09|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1205 苹果用 15 年完成了英特尔芯片替代](https://linux.cn/article-16441-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-04 20:17:27|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[.NET Conf 2023 成都会场，12月9日不见不散！点击加群报名吧！](https://masuit.com/p363)|
+|2023-12-04 13:05:30|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2023-12-04 如何使用 TimeCat 实现轻量级网页录屏和播放](https://blog.cmyr.ltd/archives/6e855105.html)|
 |2023-12-04 21:52:00|[plus studio](https://studyinglover.com/atom.xml)|[matplotlib中文字体渲染](https://studyinglover.com/2023/12/04/matplotlib%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93/)|
 |2023-12-04 03:00:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有好用的 Python 版本、虚拟环境和包管理的工具](https://www.v2ex.com/t/997412#reply47)|
 |2023-12-04 11:10:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用脚本帮朋友抢个专家号居然没抢到](https://www.v2ex.com/t/997588#reply18)|
