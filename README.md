@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-04 21:52:00|[plus studio](https://studyinglover.com/atom.xml)|[matplotlib中文字体渲染](https://studyinglover.com/2023/12/04/matplotlib%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93/)|
+|2023-12-04 03:00:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有好用的 Python 版本、虚拟环境和包管理的工具](https://www.v2ex.com/t/997412#reply47)|
+|2023-12-04 11:10:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用脚本帮朋友抢个专家号居然没抢到](https://www.v2ex.com/t/997588#reply18)|
+|2023-12-04 06:03:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[吐槽一下 windows 的终端的一个天坑](https://www.v2ex.com/t/997469#reply41)|
+|2023-12-04 13:38:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[独立开发周记 #42： 11 月总结](https://www.v2ex.com/t/997613#reply3)|
+|2023-12-04 14:32:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[x100pro 和小米 14pro 该怎么选](https://www.v2ex.com/t/997619#reply5)|
+|2023-12-04 08:36:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[arm 的官网打开特别慢，这是我的网络的问题，还是 arm 官网的问题？](https://www.v2ex.com/t/997539#reply11)|
+|2023-12-04 03:29:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[阿里云的云监控有没有便宜的渠道](https://www.v2ex.com/t/997425#reply14)|
+|2023-12-04 13:04:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教各位大佬，如何利用 Python 修改远端 windows 主机的本地账号密码？](https://www.v2ex.com/t/997604#reply3)|
+|2023-12-04 05:02:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[坚持为「专业性」买单，就是最大的降本增效！](https://www.v2ex.com/t/997453#reply11)|
+|2023-12-04 09:29:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 socket 自己搭生产级别的即时通讯，可能吗？](https://www.v2ex.com/t/997566#reply6)|
+|2023-12-04 14:02:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有支持使用 webdav/s3 同步的 2FA 软件](https://www.v2ex.com/t/997616#reply1)|
+|2023-12-04 15:46:08|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple 官网被封禁](https://www.v2ex.com/t/997633#reply4)|
+|2023-12-04 15:34:59|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 私网 IP、NAT4，请问下 P2P 下载还有救不？](https://www.v2ex.com/t/997632#reply0)|
+|2023-12-04 15:34:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有什么比较好的方式可以实现“将图片内容不同,但图片的文件名相同的图片放在同一个文件夹内”](https://www.v2ex.com/t/997631#reply2)|
+|2023-12-04 15:16:00|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 网易云音乐 5 天 2 张，领了的评论回复一下，超过五个大家就别点啦](https://www.v2ex.com/t/997629#reply0)|
+|2023-12-04 15:13:12|[V2EX](https://www.v2ex.com/index.xml)|[ Twitter 口水贴--推特第三方客户端 2023 年 12 月 4 日](https://www.v2ex.com/t/997628#reply0)|
+|2023-12-04 15:02:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 讨论，如何调研项目需求](https://www.v2ex.com/t/997627#reply0)|
+|2023-12-04 14:48:56|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 想找个兼职，或者独立游戏开发，周末一定都在](https://www.v2ex.com/t/997626#reply0)|
+|2023-12-04 14:48:35|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 qBittorrent web 端 弱密码 + 开启 UPNP 被挂恶意脚本](https://www.v2ex.com/t/997625#reply4)|
+|2023-12-04 14:46:50|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招聘一位会策划文案，做抖音账号的人才，可以远程](https://www.v2ex.com/t/997624#reply0)|
+|2023-12-04 14:42:06|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 “强制路由”和“排除路由 0.0.0.0/31”是什么东西？](https://www.v2ex.com/t/997623#reply0)|
+|2023-12-04 14:33:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 ubuntu 虚拟机里，双击一下会有按 enter 的效果？](https://www.v2ex.com/t/997621#reply0)|
+|2023-12-04 14:33:13|[V2EX](https://www.v2ex.com/index.xml)|[ Vue.js 如何在 vue 项目中，正确引用项目文件夹外的图片](https://www.v2ex.com/t/997620#reply1)|
+|2023-12-04 08:26:37|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2023.12.4](https://www.justzht.com/2023-12-4/)|
+|2023-12-04 12:54:01|[触乐](http://www.chuapp.com/feed)|[《绝区零》二测：重燃动作之魂的执著](http://www.chuapp.com/article/289664.html)|
+|2023-12-04 12:52:06|[触乐](http://www.chuapp.com/feed)|[2023年11月版号“虽迟但到”，《来自星尘》《全境封锁：曙光》获批](http://www.chuapp.com/article/289665.html)|
+|2023-12-04 10:10:47|[触乐](http://www.chuapp.com/feed)|[触乐夜话：终于完满](http://www.chuapp.com/article/289663.html)|
+|2023-12-04 11:10:48|[61’s life](https://61.life/feed.xml)|[20231204](http://61.life/2023/1204)|
+|2023-12-04 12:58:47|[爱范儿](https://www.ifanr.com/feed)|[一加十周年：投身周期，穿越周期，逆周期](https://www.ifanr.com/1569626?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-04 11:47:00|[爱范儿](https://www.ifanr.com/feed)|[这些藏在手机的超酷功能，拆掉 8500 多万人的绊脚石](https://www.ifanr.com/1569616?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-04 01:27:14|[爱范儿](https://www.ifanr.com/feed)|[奔驰宝马合作建设超充网络，不止服务本品牌，补能的混战即将开始？](https://www.ifanr.com/1569406?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-04 00:49:34|[爱范儿](https://www.ifanr.com/feed)|[43.5 万元起，特斯拉 Cybertruck 终于交付，马斯克当初说的都实现了吗？](https://www.ifanr.com/1569418?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-04 00:41:01|[爱范儿](https://www.ifanr.com/feed)|[早报｜五月天被质疑假唱，官方回应/OpenAI 在中国申请 GPT-6 商标/腾讯视频回应「App 崩了」](https://www.ifanr.com/1569581?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-04 13:18:30|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[反复横跳的 Clang-Tidy cert-dcl21-cpp ](https://blog.mauve.icu/2023/12/04/cpp/cpp-cert-dcl21-cpp/)|
 |2023-12-04 11:14:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[五月天经纪公司相信音乐发声明：五月天在巡回演出中不存在任何假唱行为，将配合调查；网络上关于“五月天假唱”的言论均为恶意攻击、造谣中伤](https://dig.chouti.com/link/40816653)|
 |2023-12-04 11:14:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[至少雪白的屁股还在](https://dig.chouti.com/link/40816655)|
 |2023-12-04 10:16:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《咬文嚼字》编辑部今天发布2023年十大流行语：①新质生产力；②双向奔赴；③人工智能大模型；④村超；⑤特种兵式旅游；⑥显眼包；⑦搭子；⑧多巴胺××；⑨情绪价值；⑩质疑××，理解××，成为××。](https://dig.chouti.com/link/40816116)|
