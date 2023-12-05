@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-05 04:03:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[腾讯这个超良心的APP，彻底凉了](https://36kr.com/p/2546571327102854)|
+|2023-12-05 04:03:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[品牌联名，拿捏不住年轻人了](https://36kr.com/p/2545927639213574)|
+|2023-12-05 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨五月天经纪公司否认演唱会假唱；蔚来已获独立造车资质；C罗因推广虚拟币被起诉](https://36kr.com/p/2547098197087111)|
+|2023-12-05 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[10 分钟赚 60 万，网络玄学有多暴利？](https://36kr.com/p/2545768925636353)|
+|2023-12-05 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[海底捞爆红的“科目三”，打工人看了只觉得心酸](https://36kr.com/p/2545778677786116)|
+|2023-12-05 04:03:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一天 35 元的酒店自助，真能吃回本吗？](https://36kr.com/p/2545769380947459)|
+|2023-12-05 09:38:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1206 Linus Torvalds 为假期季做准备](https://linux.cn/article-16443-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-05 08:01:44|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 在 Ubuntu 中更改键盘布局](https://linux.cn/article-16442-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-05 07:54:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2023 Nov.26 - Dec.2](http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20231202/)|
+|2023-12-05 04:01:40|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大册作品](https://sspai.com/post/84770)|
+|2023-12-05 04:01:40|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[诗之所向，素履以往：我的浙东摩旅记录](https://sspai.com/post/84702)|
+|2023-12-05 09:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国的巨额隐性债务问题已到紧要关头](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B7%A8%E9%A2%9D%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1%E9%97%AE%E9%A2%98%E5%B7%B2%E5%88%B0%E7%B4%A7%E8%A6%81%E5%85%B3%E5%A4%B4-9d859475)|
 |2023-12-05 03:12:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[求问：相机类 APP，并且带有订阅功能，需要哪些许可证和资质。](https://w2solo.com/topics/4286)|
 |2023-12-05 02:30:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[@祝佳音：在XHS上看到一个电源插座的产品评测，可谓跌宕起伏，劲爆迭出，看得我惊叫连连，相信你看过这个视频，也会和我有同样震撼的感受。生产和销售这玩意儿的人不该判一个吗………](https://dig.chouti.com/link/40822099)|
 |2023-12-05 04:05:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[官方：从事道路旅客运输经营等自动驾驶车应配备1名安全员，部分区域完全自动驾驶的出租汽车经批准可使用远程安全员](https://dig.chouti.com/link/40823024)|
