@@ -1,13 +1,22 @@
-﻿# 每日资讯（2023-12-04）
+﻿# 每日资讯（2023-12-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-05 01:03:34|[虎嗅](https://rss.huxiu.com/)|[“五月天被质疑假唱”，为何这届网友反应那么大？](https://www.huxiu.com/article/2383748.html?f=rss)|
+|2023-12-05 00:58:58|[虎嗅](https://rss.huxiu.com/)|[王健林，债务压顶](https://www.huxiu.com/article/2383498.html?f=rss)|
+|2023-12-05 00:50:00|[虎嗅](https://rss.huxiu.com/)|[3000万民间借贷遭遇非法集资骗局，法院为何不支持投资者述求？](https://www.huxiu.com/article/2384258.html?f=rss)|
+|2023-12-05 00:22:14|[虎嗅](https://rss.huxiu.com/)|[聊聊信息与数字技术，对于现代经济的基础意义](https://www.huxiu.com/article/2384276.html?f=rss)|
+|2023-12-05 00:20:14|[虎嗅](https://rss.huxiu.com/)|[报名人数减少36万人，考研真的降温了吗？](https://www.huxiu.com/article/2384259.html?f=rss)|
 |2023-12-04 08:36:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[arm 的官网打开特别慢，这是我的网络的问题，还是 arm 官网的问题？](https://www.v2ex.com/t/997539#reply15)|
 |2023-12-04 11:10:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用脚本帮朋友抢个专家号居然没抢到](https://www.v2ex.com/t/997588#reply19)|
 |2023-12-04 13:04:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教各位大佬，如何利用 Python 修改远端 windows 主机的本地账号密码？](https://www.v2ex.com/t/997604#reply6)|
 |2023-12-04 03:00:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有好用的 Python 版本、虚拟环境和包管理的工具](https://www.v2ex.com/t/997412#reply49)|
 |2023-12-04 11:58:09|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1205 苹果用 15 年完成了英特尔芯片替代](https://linux.cn/article-16441-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-05 02:44:45|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[949元起，享有和四大金刚同款面板27寸电竞显示器，2k/165Hz/IPS/gsync，M270KCJ-K7B面板！](https://masuit.com/1636)|
 |2023-12-04 20:17:27|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[.NET Conf 2023 成都会场，12月9日不见不散！点击加群报名吧！](https://masuit.com/p363)|
+|2023-12-05 02:24:22|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[C#移除图片文件的EXIF信息代码实现](https://masuit.com/1349)|
+|2023-12-05 02:21:01|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Windows桌面美化利器——Rainmeter雨滴桌面秀4.5.18 64位绿色版+博主自用皮肤](https://masuit.com/139)|
+|2023-12-05 01:58:18|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[火绒自定义规则分享——对抗流氓软件全家桶，对抗QQ微信等瞎读取硬盘文件+SoftCnKiller 2.81+ Malware-Patch](https://masuit.com/2101)|
 |2023-12-04 13:05:30|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2023-12-04 如何使用 TimeCat 实现轻量级网页录屏和播放](https://blog.cmyr.ltd/archives/6e855105.html)|
 |2023-12-04 21:52:00|[plus studio](https://studyinglover.com/atom.xml)|[matplotlib中文字体渲染](https://studyinglover.com/2023/12/04/matplotlib%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93/)|
 |2023-12-04 03:00:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有好用的 Python 版本、虚拟环境和包管理的工具](https://www.v2ex.com/t/997412#reply47)|
