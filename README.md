@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-05 17:00:00|[机核](https://www.gcores.com/rss)|[The North Remembers](https://www.gcores.com/articles/174669)|
+|2023-12-05 09:50:05|[掘墓人的小铲子](https://juemuren4449.com/atom.xml)|[新玩意：乐歌 E2 升降桌](https://juemuren4449.com/archives/loctek-e2)|
+|2023-12-05 11:27:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 Turbo Pascal 的 40 年，改变了整个 IDE 的编程恐龙](https://linux.cn/article-16444-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-05 16:05:19|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[比亚迪急了，悬赏 500 万“抓黑”](https://36kr.com/p/2546559232938369)|
+|2023-12-05 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[20家机构联手，投了个“同济系”90后](https://36kr.com/p/2547143735189382)|
+|2023-12-05 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[ChatGPT 不愿多写一行代码、偷懒变笨，网友：承诺给它“小费”试试](https://36kr.com/p/2546677164020869)|
+|2023-12-05 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[我在跨境电商仓库，当了一天黑五打工人](https://36kr.com/p/2547136062870401)|
+|2023-12-05 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[100%可回收塑料？可口可乐、达能和雀巢又被指控“漂绿”｜焦点分析](https://36kr.com/p/2536509788055296)|
+|2023-12-05 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[App自动续费人人喊打，终于要被灭了？](https://36kr.com/p/2546703311082627)|
+|2023-12-05 14:55:33|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[Overview](https://wiki-mkdocs-topaz.vercel.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%BC%96%E7%A8%8B/flutter/overview/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-12-05 17:09:47|[爱范儿](https://www.ifanr.com/feed)|[蔚来三季度营收暴涨，旗舰新车月内发布，李斌透露阿尔卑斯更多消息](https://www.ifanr.com/1569761?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-05 12:23:20|[触乐](http://www.chuapp.com/feed)|[TGA背后的中国大厂](http://www.chuapp.com/article/289662.html)|
 |2023-12-05 11:29:17|[触乐](http://www.chuapp.com/feed)|[《GTA6》预告片来了](http://www.chuapp.com/article/289666.html)|
 |2023-12-05 10:27:37|[触乐](http://www.chuapp.com/feed)|[触乐夜话：武汉与恋爱AVG](http://www.chuapp.com/article/289668.html)|
