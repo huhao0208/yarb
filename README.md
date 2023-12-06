@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-06 01:35:18|[61’s life](https://61.life/feed.xml)|[20231205](http://61.life/2023/1205)|
+|2023-12-06 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“智稳 CEO” 岚图追光 PHEV 正式上市，售价 25.28 万元起](https://www.photoworld.com.cn/post/175539)|
+|2023-12-06 10:47:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[gpt4 有车队吗 ？](https://www.v2ex.com/t/998146#reply0)|
+|2023-12-06 01:45:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[😭海外副业彻底绝路...](https://www.v2ex.com/t/997957#reply84)|
+|2023-12-06 06:00:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Tiny RDM 又准备更新，这次它更强了，我也麻了](https://www.v2ex.com/t/998058#reply33)|
+|2023-12-06 04:40:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[实际开发中，大家经常会画哪些图？如时序图、架构图、ER 图、UML](https://www.v2ex.com/t/998037#reply18)|
+|2023-12-06 06:44:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[服务端自签名证书做 https wss 服务，客户端 chrome 开发者工具监测 ws 内容为明文，正常吗？](https://www.v2ex.com/t/998074#reply8)|
+|2023-12-06 08:54:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[阿里云 2G 内存的服务器实际只有 1.65G？](https://www.v2ex.com/t/998120#reply11)|
+|2023-12-06 08:32:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[问个 Python selenium 的问题](https://www.v2ex.com/t/998109#reply1)|
+|2023-12-06 06:26:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐女朋友生日礼物](https://www.v2ex.com/t/998065#reply39)|
+|2023-12-06 01:54:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[讨论 Java 相比其他编程语言（c++， go， rust 等）的缺点](https://www.v2ex.com/t/997966#reply101)|
+|2023-12-06 03:23:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[rider 真的比 visual studio 好用吗？](https://www.v2ex.com/t/998012#reply21)|
+|2023-12-06 08:05:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[mysql 多条 update 语句怎么保证同时成功同时失败呢？](https://www.v2ex.com/t/998095#reply25)|
+|2023-12-06 10:20:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[切换桌面卡顿的原因](https://www.v2ex.com/t/998141#reply0)|
+|2023-12-06 08:06:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于通用软件版本大小比对问题请教](https://www.v2ex.com/t/998096#reply9)|
+|2023-12-06 01:44:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在做全栈是不是一个好方向](https://www.v2ex.com/t/997956#reply47)|
+|2023-12-06 04:04:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一些碎碎念：下半年刚结婚，年前被裁的我，突然有点迷茫了](https://www.v2ex.com/t/998024#reply74)|
+|2023-12-06 04:11:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有做图像识别的开发吗？有个谷物识别的项目想了解下怎么做](https://www.v2ex.com/t/998028#reply22)|
+|2023-12-06 08:10:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[入行区块链相关现在是 go 还是 rust 更有机会？](https://www.v2ex.com/t/998101#reply5)|
+|2023-12-06 03:24:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想问下国内棋牌类游戏都是怎么经营的？](https://www.v2ex.com/t/998014#reply26)|
+|2023-12-06 01:58:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Xcode 没有运行程序只是没有杀死却疯狂吃 CPU diagnosticd ](https://www.v2ex.com/t/997969#reply6)|
+|2023-12-06 07:23:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求教会改 win11 右键注册表的大神](https://www.v2ex.com/t/998088#reply6)|
 |2023-12-06 08:24:39|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Godot 4.2 发布：让开源游戏引擎更上一层楼](https://linux.cn/article-16447-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-06 08:01:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 开源开发者如何致富：搏一搏，单车变摩托](https://linux.cn/article-16446-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-06 08:20:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[零食返场 ｜吃得停不下来的脆枣](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446986&idx=2&sn=144d2f8539bdbca6cb5b20b8539d8d28)|
