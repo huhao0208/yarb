@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-06 05:11:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[冒險遊戲 Stray 現在開放 Mac 電腦也可下載 遊玩](https://applefans.today/2023-12-stray-available-now-on-macos/)|
+|2023-12-06 04:21:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[升級至 iOS 17.2 iPhone 13/14 可享 Qi2 無線充電](https://applefans.today/2023-12-ios-17-2-qi-2/)|
+|2023-12-06 09:21:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[UTS四子星分布式项目方案](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/UTS%E5%9B%9B%E5%AD%90%E6%98%9F%E5%88%86%E5%B8%83%E5%BC%8F%E9%A1%B9%E7%9B%AE%E6%96%B9%E6%A1%88/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-12-06 09:49:29|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 windows 下，如何不装 docker-desktop 下，导出 remote-mirror 镜像 tar](https://www.v2ex.com/t/998135#reply0)|
+|2023-12-06 09:34:04|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 移动河南骨干网故障](https://www.v2ex.com/t/998134#reply0)|
+|2023-12-06 09:31:34|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 与其学习 Springboot 卷八股文 100 小时，不如花 10 小时了解一下营销](https://www.v2ex.com/t/998133#reply1)|
+|2023-12-06 09:29:56|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 基于 ChatGPT API 封装了一个在线网站](https://www.v2ex.com/t/998132#reply0)|
+|2023-12-06 09:26:39|[V2EX](https://www.v2ex.com/index.xml)|[ Apple mac app 全屏 菜单栏不显示，并且占用空间的问题](https://www.v2ex.com/t/998131#reply1)|
+|2023-12-06 09:24:57|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 广州电信宽带，拨号拿不到公网 IPV6](https://www.v2ex.com/t/998130#reply3)|
+|2023-12-06 09:17:56|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud Sonoma 14.1.2 iCloud 总是无法同步（卡住）如何解决？](https://www.v2ex.com/t/998129#reply1)|
+|2023-12-06 09:13:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 不常用银行卡 3000 的限额很不友好！你经历了吗](https://www.v2ex.com/t/998128#reply5)|
+|2023-12-06 09:06:05|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 发现了一个 AI 新产品：用 AI 分析用户的行为回放](https://www.v2ex.com/t/998126#reply0)|
+|2023-12-06 09:00:22|[V2EX](https://www.v2ex.com/index.xml)|[ 商业模式 求教大家的淘宝客应用都是怎么拉新的](https://www.v2ex.com/t/998124#reply0)|
+|2023-12-06 08:58:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 被一线城市最好的公立牙科医院推荐去其他机构种牙, 该信吗?](https://www.v2ex.com/t/998123#reply15)|
+|2023-12-06 08:58:37|[V2EX](https://www.v2ex.com/index.xml)|[ Fedora 树莓 PI 安装 aarch64 的 fedora,4k 显示器进系统就黑屏 start_x 好像报错](https://www.v2ex.com/t/998122#reply0)|
+|2023-12-06 08:54:46|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 阿里云 2G 内存的服务器实际只有 1.65G？](https://www.v2ex.com/t/998120#reply4)|
+|2023-12-06 08:49:04|[V2EX](https://www.v2ex.com/index.xml)|[ 淘宝 手机淘宝首创了一个 shi 一样的交互，现在越来越多的 app 在用](https://www.v2ex.com/t/998118#reply17)|
+|2023-12-06 08:47:10|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 12 月开始，好像真的没有公司在招聘了？](https://www.v2ex.com/t/998116#reply10)|
+|2023-12-06 08:46:15|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海/社招/SRE 外企 Shopee🦐](https://www.v2ex.com/t/998115#reply2)|
+|2023-12-06 08:45:26|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone IOS17.1.2 导致路由器重启](https://www.v2ex.com/t/998114#reply15)|
+|2023-12-06 08:36:08|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 甲骨文大阪还好吗](https://www.v2ex.com/t/998112#reply0)|
+|2023-12-06 08:35:58|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 母婴用品代购](https://www.v2ex.com/t/998111#reply0)|
+|2023-12-06 08:33:28|[V2EX](https://www.v2ex.com/index.xml)|[ JavaScript 今天被测试发了一个 xss 漏洞，之前明明做过 xss 过滤的，很纳闷的看了一下](https://www.v2ex.com/t/998110#reply13)|
+|2023-12-06 08:32:13|[V2EX](https://www.v2ex.com/index.xml)|[ Python 问个 Python selenium 的问题](https://www.v2ex.com/t/998109#reply0)|
+|2023-12-06 08:28:48|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 路由器拨号获取不到 LAN IPv6 地址](https://www.v2ex.com/t/998108#reply5)|
+|2023-12-06 08:28:41|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 抖音高级/资深 SRE 工程师招聘](https://www.v2ex.com/t/998107#reply0)|
+|2023-12-06 08:21:09|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 给大家分享一个求婚创意](https://www.v2ex.com/t/998106#reply16)|
+|2023-12-06 08:17:42|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 有没有办法在微信中不扫码，连接直接可以加客服的企业微信](https://www.v2ex.com/t/998105#reply1)|
+|2023-12-06 02:11:22|[Tinyfool的个人网站](https://codechina.org/feed/)|[我的个人成长和技术学习历程](https://codechina.org/2023/12/tech-2/)|
+|2023-12-06 01:07:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Luyao - 一款纯离线的健康记录 App](https://w2solo.com/topics/4287)|
 |2023-12-06 01:54:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[讨论 Java 相比其他编程语言（c++， go， rust 等）的缺点](https://www.v2ex.com/t/997966#reply92)|
 |2023-12-06 04:04:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一些碎碎念：下半年刚结婚，年前被裁的我，突然有点迷茫了](https://www.v2ex.com/t/998024#reply63)|
 |2023-12-06 02:14:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有一款版本管理软件可以融合 SVN 和 GIT 的优点的？目前任然没有找到一个完美的版本软件。](https://www.v2ex.com/t/997979#reply13)|
