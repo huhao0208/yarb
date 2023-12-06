@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-06 11:46:15|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1207 Firefox 面临被踢出兼容性要求名单](https://linux.cn/article-16448-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-06 09:22:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[知名挺乌网红反被乌克兰判刑，下场可笑又可悲](https://dig.chouti.com/link/40838090)|
+|2023-12-06 14:55:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ChatGPT失业危机!微软Copilot重磅升级,图文代码能力暴涨,还免费](https://dig.chouti.com/link/40840745)|
+|2023-12-06 17:21:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Google Gemini AI模型官方测试视频 （中文翻译）通过这个视频你可以全面的了解Gemini AI的能力！根据这个测试来看确实是很强大，进行了全方位的测试，从正常对话、视图能力、逻辑推理能力、语言翻译能、图像生成能力等都进行了各种测试演示。](https://dig.chouti.com/link/40841690)|
+|2023-12-06 01:54:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[讨论 Java 相比其他编程语言（c++， go， rust 等）的缺点](https://www.v2ex.com/t/997966#reply114)|
+|2023-12-06 08:33:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[今天被测试发了一个 xss 漏洞，之前明明做过 xss 过滤的，很纳闷的看了一下](https://www.v2ex.com/t/998110#reply21)|
+|2023-12-06 17:35:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[遇到一个非常奇怪的问题， ping 域名稳定延迟 9 秒出现 ping 结果](https://www.v2ex.com/t/998215#reply4)|
+|2023-12-06 18:28:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[pdd 可以绕过读取手机的拨打电话和管理通话吗](https://www.v2ex.com/t/998218#reply0)|
+|2023-12-06 06:33:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓 app 的后端是不是可以随意偷窥用户的相册？](https://www.v2ex.com/t/998069#reply32)|
+|2023-12-06 01:45:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[😭海外副业彻底绝路...](https://www.v2ex.com/t/997957#reply98)|
+|2023-12-06 15:05:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[腾讯云 COS 建议大家别用了 URL Query 都能搞成违规](https://www.v2ex.com/t/998203#reply8)|
+|2023-12-06 16:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[兴山这十年——绿水青山带笑颜（2）](https://www.photoworld.com.cn/post/175476)|
+|2023-12-06 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[重新定义 “全画幅”｜索尼 α7 系列](https://www.photoworld.com.cn/post/175558)|
+|2023-12-06 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[画质巅峰｜索尼 α7R 系列](https://www.photoworld.com.cn/post/175570)|
+|2023-12-06 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[暗夜精灵，视频利器｜索尼 α7S 系列](https://www.photoworld.com.cn/post/175584)|
+|2023-12-06 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[小巧时尚，专业表现｜索尼 α7C 系列](https://www.photoworld.com.cn/post/175594)|
+|2023-12-06 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[速度先锋｜索尼 α9 系列](https://www.photoworld.com.cn/post/175604)|
+|2023-12-06 17:11:11|[SHRIK3](https://shrik3.com/index.xml)|[Aarch64 exceptions](https://shrik3.com/tfm/aarch64/exceptions/)|
+|2023-12-06 17:07:36|[SHRIK3](https://shrik3.com/index.xml)|[Aarch64 translation fault](https://shrik3.com/tfm/aarch64/translation_fault/)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大厂出海小记](https://36kr.com/p/2548731367037313)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克多次失手，OpenAI 异军突起，硅谷 AI 之战十年前已经打响](https://36kr.com/p/2547689525696133)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么人类无法抗拒霸总、赘婿和战神？](https://36kr.com/p/2547890078374016)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[酒店才是亚朵的副业](https://36kr.com/p/2547803799134085)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一个月超3万个GPTs，深扒全球Top 50 GPTs，谁是民间GPT王者？](https://36kr.com/p/2548041566427527)|
+|2023-12-06 07:54:10|[Dennis](https://www.domon.cn/rss/)|[2023年11月阅读书摘](https://www.domon.cn/2023-11yue-yue-du-shu-zhai/)|
 |2023-12-06 15:00:00|[机核](https://www.gcores.com/rss)|[突然之间，又病一圈 天天ACG 12.6](https://www.gcores.com/radios/174535)|
 |2023-12-06 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆 Vol.33丨葬送的阿尔托利亚](https://www.gcores.com/radios/174734)|
 |2023-12-06 10:30:00|[机核](https://www.gcores.com/rss)|[布衣与素体！蚂蚁MEZCO厂牌大剖析](https://www.gcores.com/videos/174642)|
