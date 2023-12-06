@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-06 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：生活Sims化](http://www.chuapp.com/article/289670.html)|
+|2023-12-06 12:00:00|[触乐](http://www.chuapp.com/feed)|[《完蛋！我被美女包围了！》是如何被“设计”出来的](http://www.chuapp.com/article/289669.html)|
+|2023-12-06 11:07:51|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[软软科技 --- 国内的 Product Hunt，但不仅如此](https://w2solo.com/topics/4288)|
+|2023-12-06 00:37:20|[爱范儿](https://www.ifanr.com/feed)|[早报｜苹果市值再次突破 3 万亿美元/华为智界第二款车型曝光，对标 Model Y/小米汽车明年一季度到店](https://www.ifanr.com/1569772?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-06 08:20:51|[华山感染](https://feedpress.me/wx-hsinfect)|[2023年上海市医学会感染病分会年会青年论坛召开，现场直击→](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500811&idx=2&sn=ae7f6917a97cd67ff9056b157d92ed05)|
 |2023-12-06 08:20:51|[华山感染](https://feedpress.me/wx-hsinfect)|[汇专业力量，上海市医师协会感染科医师分会年度大会研讨IDC防治体系](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500811&idx=1&sn=bec6dae315be4158311f460361f4fa7a)|
 |2023-12-06 04:01:44|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)|
