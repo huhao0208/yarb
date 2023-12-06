@@ -33,7 +33,7 @@
         },
         "dingtalk": {
             "enabled": false,
-            "secrets": "DINGTALK_KEY",
+            "secrets": "access_token",
             "key": "dfcccdbb8fd161ef63fa712c6dc75e2fc47e34d32e1a439f2b32f7a03bbc7485"
         },
         "qq": {
