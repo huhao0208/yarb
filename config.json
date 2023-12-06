@@ -44,7 +44,7 @@
             "key": "xxxxxxxxxx"
         },
         "telegram":{
-            "enabled": true,
+            "enabled": false,
             "secrets": "TELEGRAM_KEY",
             "chat_id": ["-1001835551887"],
             "key": "xxxxxxxxxx"
