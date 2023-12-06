@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-06 08:24:39|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Godot 4.2 发布：让开源游戏引擎更上一层楼](https://linux.cn/article-16447-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-06 08:01:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 开源开发者如何致富：搏一搏，单车变摩托](https://linux.cn/article-16446-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-06 08:20:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[零食返场 ｜吃得停不下来的脆枣](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446986&idx=2&sn=144d2f8539bdbca6cb5b20b8539d8d28)|
+|2023-12-06 08:20:48|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[又上小红书当了，还好，吃到两个巨赞的豆腐！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446986&idx=1&sn=a2e0205bd0f5aae31aa10249a9bde3c9)|
 |2023-12-06 05:11:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[冒險遊戲 Stray 現在開放 Mac 電腦也可下載 遊玩](https://applefans.today/2023-12-stray-available-now-on-macos/)|
 |2023-12-06 04:21:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[升級至 iOS 17.2 iPhone 13/14 可享 Qi2 無線充電](https://applefans.today/2023-12-ios-17-2-qi-2/)|
 |2023-12-06 09:21:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[UTS四子星分布式项目方案](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/UTS%E5%9B%9B%E5%AD%90%E6%98%9F%E5%88%86%E5%B8%83%E5%BC%8F%E9%A1%B9%E7%9B%AE%E6%96%B9%E6%A1%88/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
