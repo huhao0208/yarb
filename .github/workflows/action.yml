@@ -54,7 +54,7 @@ jobs:
           cp -r -f archive1/* archive/
           git add archive
           git commit -m "每日存档（`date +'%Y-%m-%d'`）"
-          git push origin archive
+          git push origin archive --force
 
       # - name: Push changes
       #   uses: ad-m/github-push-action@master
