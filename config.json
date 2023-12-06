@@ -15,7 +15,7 @@
             "filename": "CustomRSS.opml"
         },
         "InoreaderFeeds": {
-            "enabled": true,
+            "enabled": false,
             "filename": "InoreaderFeeds.opml"
         }
     },
@@ -32,7 +32,7 @@
             "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         },
         "dingtalk": {
-            "enabled": true,
+            "enabled": false,
             "secrets": "DINGTALK_KEY",
             "key": "dfcccdbb8fd161ef63fa712c6dc75e2fc47e34d32e1a439f2b32f7a03bbc7485"
         },
