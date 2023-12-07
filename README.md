@@ -1,7 +1,22 @@
-﻿# 每日资讯（2023-12-06）
+﻿# 每日资讯（2023-12-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-07 01:17:24|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 AI Group Tabs - 用 AI 帮你分类浏览器 Tab](https://www.v2ex.com/t/998247#reply0)|
+|2023-12-07 01:16:45|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 早起后如何快速让自己进去高效状态？](https://www.v2ex.com/t/998246#reply0)|
+|2023-12-07 01:16:21|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 wx 小程序用户侧恶心的体验](https://www.v2ex.com/t/998245#reply0)|
+|2023-12-07 01:16:14|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt 软路由网口问题咨询](https://www.v2ex.com/t/998244#reply0)|
+|2023-12-07 01:14:34|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 朋友在咸鱼上买 homepod 美版 1700 被跑路](https://www.v2ex.com/t/998242#reply0)|
+|2023-12-07 01:05:25|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 jetbrains 2023.3 发布了](https://www.v2ex.com/t/998240#reply3)|
+|2023-12-07 01:03:36|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 前快手字节工程师，裸辞半年，寻一个前端开发工作 帮朋友发，内附联系方式 ](https://www.v2ex.com/t/998239#reply0)|
+|2023-12-07 00:48:09|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 开源项目“ChatGPT Next Web”貌似已被收购](https://www.v2ex.com/t/998237#reply6)|
+|2023-12-07 00:47:45|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了一个 Favicon 生成器 PWA](https://www.v2ex.com/t/998236#reply7)|
+|2023-12-07 00:46:42|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Google Gemini 真的吊！这个 showcase 网站的 case 很炸](https://www.v2ex.com/t/998235#reply0)|
+|2023-12-07 00:35:53|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 马上 2024 年了， iPhone 用户买路由器还是要避开 MTK 和高通吗？](https://www.v2ex.com/t/998233#reply9)|
+|2023-12-07 00:32:49|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 为什么微信昨天莫名其妙的获得了全部文件的访问权限？尽管我从来没有允许过这个](https://www.v2ex.com/t/998232#reply2)|
+|2023-12-07 00:29:53|[V2EX](https://www.v2ex.com/index.xml)|[ macOS MacOS 下最好用的快速备忘软件是？](https://www.v2ex.com/t/998230#reply13)|
+|2023-12-07 00:28:44|[V2EX](https://www.v2ex.com/index.xml)|[ 加密货币 现在有什么 U 卡可以绑定国内应用，用于日常消费的？](https://www.v2ex.com/t/998229#reply4)|
+|2023-12-07 00:54:18|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[鞋王搬厂，工人罢工｜工劳小报#33](https://fed.laborinfocn3.com/issue33/)|
 |2023-12-06 11:46:15|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1207 Firefox 面临被踢出兼容性要求名单](https://linux.cn/article-16448-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-06 09:22:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[知名挺乌网红反被乌克兰判刑，下场可笑又可悲](https://dig.chouti.com/link/40838090)|
 |2023-12-06 14:55:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ChatGPT失业危机!微软Copilot重磅升级,图文代码能力暴涨,还免费](https://dig.chouti.com/link/40840745)|
