@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-07 12:32:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[基于 TensorFlow 创建的验证码识别 cnn 模型](https://www.v2ex.com/t/998473#reply0)|
+|2023-12-07 05:37:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[软考高级一天书没看，以为能蒙过 😢](https://www.v2ex.com/t/998337#reply20)|
+|2023-12-07 11:27:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想升级 Hyper OS，又怕升级后无法解 BL 锁，我有一招！](https://www.v2ex.com/t/998462#reply6)|
+|2023-12-07 10:05:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[汽车行业用自动代码生成技术淘汰了大部分码农？](https://www.v2ex.com/t/998451#reply7)|
+|2023-12-07 12:26:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求教 Windows 目前好用的 WebDAV 挂载工具是什么](https://www.v2ex.com/t/998471#reply0)|
+|2023-12-07 09:08:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何写出有效的单元测试？](https://www.v2ex.com/t/998427#reply11)|
+|2023-12-07 09:45:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[数据恢复正版软件，限免活动分享，快](https://www.v2ex.com/t/998443#reply3)|
+|2023-12-07 01:25:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位久坐的程序员，你们都买哪个人体工学椅？](https://www.v2ex.com/t/998251#reply128)|
+|2023-12-07 01:28:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[目前基本可以认为小米已经禁止 BL 解锁了](https://www.v2ex.com/t/998253#reply284)|
+|2023-12-07 07:59:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[国内搞区块链的公司，哪些是可以去的？](https://www.v2ex.com/t/998398#reply11)|
+|2023-12-07 09:35:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows 11 更新总是更新失败。](https://www.v2ex.com/t/998440#reply8)|
+|2023-12-07 03:38:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问自建 k8s 集群， 自建 loadbalancer 还是直接 nodeport？](https://www.v2ex.com/t/998307#reply12)|
+|2023-12-07 03:16:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[高项软高再次死在了论文上](https://www.v2ex.com/t/998297#reply34)|
+|2023-12-07 05:01:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从外部 ssh 到 k8s 的 pod 里面](https://www.v2ex.com/t/998329#reply53)|
+|2023-12-07 06:03:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[和平讨论，中台的优缺点](https://www.v2ex.com/t/998349#reply32)|
+|2023-12-07 09:50:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Java 中给定一个字符串 与一个字符串集合，如何判定该字符串与字符串集合中每个字符串的相似度](https://www.v2ex.com/t/998446#reply6)|
+|2023-12-07 07:00:35|[小众软件](https://www.appinn.com/feed/)|[Google 发布了「他们规模最大、能力最强的 AI 模型」 Gemini](https://www.appinn.com/google-gemini-ai/)|
+|2023-12-07 04:49:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2024 Apple 新品 預測！M3 MacBook Air、iPad Pro、iPad Air](https://applefans.today/2023-12-m3-mba-ipad-air-ipad-pro-2024-refresh-rumors/)|
+|2023-12-07 09:41:26|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[富平柿饼回归，买吧。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447030&idx=1&sn=38a38793b8e0d5e422aa6c05c2955911)|
 |2023-12-07 05:49:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[怎样做多数据源的混合计算](https://w2solo.com/topics/4291)|
 |2023-12-07 02:04:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[41岁深田恭子被曝出轨，趁富豪男友出差，家中私会导演](https://dig.chouti.com/link/40844070)|
 |2023-12-07 05:04:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【阿信再发文回应假唱传闻，称自己“每次唱这足10拍E6的高音”，从音乐专业角度分析这是什么水平？】@比的原理：阿信唱的E5无悬念，测过了。乐器老师看谱可能会说是E6，当然他们日常不用E6这个说法、一般叫high e。 最著名的high c，就是看着一个谱子，男人唱C5、女人唱C6，男女唱出来的音高差八度。](https://dig.chouti.com/link/40846091)|
