@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-07 02:31:57|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 一款外观时尚的用于管理个人财务的 Linux 应用](https://linux.cn/article-16449-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-07 01:51:53|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[想问下各位归因是怎么处理的](https://w2solo.com/topics/4290)|
+|2023-12-07 04:14:00|[机核](https://www.gcores.com/rss)|[山崎贤人饰演安倍晴明，电影《阴阳师0》特报公开](https://www.gcores.com/articles/174756)|
+|2023-12-07 04:00:17|[机核](https://www.gcores.com/rss)|[B站TGA将全程中文直播，每十分钟送出一台PS5](https://www.gcores.com/articles/174763)|
+|2023-12-07 02:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国寻求缓和对华关系之际，欧洲却变强硬](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AF%BB%E6%B1%82%E7%BC%93%E5%92%8C%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%B3%BB%E4%B9%8B%E9%99%85-%E6%AC%A7%E6%B4%B2%E5%8D%B4%E5%8F%98%E5%BC%BA%E7%A1%AC-e2db5d28)|
+|2023-12-07 03:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国11月出口时隔半年首次正增长，但进口转为微降](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E5%87%BA%E5%8F%A3%E6%97%B6%E9%9A%94%E5%8D%8A%E5%B9%B4%E9%A6%96%E6%AC%A1%E6%AD%A3%E5%A2%9E%E9%95%BF-%E4%BD%86%E8%BF%9B%E5%8F%A3%E8%BD%AC%E4%B8%BA%E5%BE%AE%E9%99%8D-1194892c)|
+|2023-12-07 02:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[英伟达CEO仍计划在中国销售高端芯片](https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BEceo%E4%BB%8D%E8%AE%A1%E5%88%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E9%AB%98%E7%AB%AF%E8%8A%AF%E7%89%87-70d5f17a)|
+|2023-12-07 02:41:46|[Hybert's blog](https://wanghuibin0.github.io/index.xml)|[节气生活修行](https://wanghb.tk/posts/2023/12/solar-terms-life-practice/)|
 |2023-12-07 01:17:24|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 AI Group Tabs - 用 AI 帮你分类浏览器 Tab](https://www.v2ex.com/t/998247#reply0)|
 |2023-12-07 01:16:45|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 早起后如何快速让自己进去高效状态？](https://www.v2ex.com/t/998246#reply0)|
 |2023-12-07 01:16:21|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 wx 小程序用户侧恶心的体验](https://www.v2ex.com/t/998245#reply0)|
