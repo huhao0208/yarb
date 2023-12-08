@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-08 14:34:27|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[写作者说 渡过这条河](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892552&idx=1&sn=e91b34a47b3a252ec31b1775a5b6300e)|
+|2023-12-08 08:15:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[接连倒闭的幼儿园，打乱海淀家长的教育大计](https://dig.chouti.com/link/40857594)|
+|2023-12-08 13:04:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[碧桂园杨惠妍：家族“砸锅卖铁”支持公司，明年交付量预计超过40万套](https://dig.chouti.com/link/40859637)|
 |2023-12-08 09:05:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1209 开机启动显示的徽标中可隐藏恶意代码](https://linux.cn/article-16452-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-08 11:47:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[看来要转后端了，因为要抓前端了](https://www.v2ex.com/t/998801#reply17)|
 |2023-12-08 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[性能旗舰｜索尼 α1 微单相机](https://www.photoworld.com.cn/post/175629)|
