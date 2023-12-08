@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-12-07）
+﻿# 每日资讯（2023-12-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-08 00:10:30|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)|
+|2023-12-08 01:07:35|[虎嗅](https://rss.huxiu.com/)|[教师负担“越减越肥”的怪圈能否打破？](https://www.huxiu.com/article/2396347.html?f=rss)|
+|2023-12-08 01:00:00|[虎嗅](https://rss.huxiu.com/)|[阿根廷为什么会破产？“国家破产”到底是什么？](https://www.huxiu.com/article/2394022.html?f=rss)|
+|2023-12-08 00:47:59|[虎嗅](https://rss.huxiu.com/)|[成于特斯拉，败于丰田：松下电池启示录](https://www.huxiu.com/article/2396052.html?f=rss)|
+|2023-12-08 00:46:54|[虎嗅](https://rss.huxiu.com/)|[宝龙地产突然违约，“坚持到现在已不容易”？](https://www.huxiu.com/article/2397443.html?f=rss)|
+|2023-12-08 00:40:00|[虎嗅](https://rss.huxiu.com/)|[一个视频，带你了解支原体肺炎](https://www.huxiu.com/article/2391102.html?f=rss)|
+|2023-12-08 00:24:52|[虎嗅](https://rss.huxiu.com/)|[“杭绍甬”联手，能否成为下一个“苏锡常”?](https://www.huxiu.com/article/2396342.html?f=rss)|
+|2023-12-08 00:22:53|[虎嗅](https://rss.huxiu.com/)|[腾讯VS字节：两代互联网霸主六年的攻守较量](https://www.huxiu.com/article/2396004.html?f=rss)|
+|2023-12-08 00:14:48|[虎嗅](https://rss.huxiu.com/)|[拆解谷歌Gemini ：能力可与GPT-4“掰手腕”，目前可免费使用](https://www.huxiu.com/article/2396349.html?f=rss)|
+|2023-12-08 00:10:00|[虎嗅](https://rss.huxiu.com/)|[中年人避免翻车的自我修养](https://www.huxiu.com/article/2396290.html?f=rss)|
+|2023-12-08 00:08:50|[虎嗅](https://rss.huxiu.com/)|[重仓股“买点太准”，引发基金经理被带走传言](https://www.huxiu.com/article/2397411.html?f=rss)|
 |2023-12-07 13:04:00|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《意外杀手》：杀手界的无敌天团，怒火金莲神功大成，一觉醒来灭72猛男骑士！](https://www.ximalaya.com/sound/691387854)|
 |2023-12-07 16:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[兴山这十年——绿水青山带笑颜（3）](https://www.photoworld.com.cn/post/175507)|
 |2023-12-07 12:59:14|[触乐](http://www.chuapp.com/feed)|[和蛋仔们一起，跳上马头墙](http://www.chuapp.com/article/289673.html)|
