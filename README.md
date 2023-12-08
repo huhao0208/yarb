@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-08 09:05:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1209 开机启动显示的徽标中可隐藏恶意代码](https://linux.cn/article-16452-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-08 11:47:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[看来要转后端了，因为要抓前端了](https://www.v2ex.com/t/998801#reply17)|
+|2023-12-08 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[性能旗舰｜索尼 α1 微单相机](https://www.photoworld.com.cn/post/175629)|
+|2023-12-08 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[索尼全画幅 Vlog 旗舰｜ZV-E1](https://www.photoworld.com.cn/post/175639)|
+|2023-12-08 02:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[华尔街金融机构已在削减对华投资](https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%B7%B2%E5%89%8A%E5%87%8F%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84-014936a5)|
+|2023-12-08 05:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[原子能再度兴起，中国占据先机](https://cn.wsj.com/articles/%E5%8E%9F%E5%AD%90%E8%83%BD%E5%86%8D%E5%BA%A6%E5%85%B4%E8%B5%B7-%E4%B8%AD%E5%9B%BD%E5%8D%A0%E6%8D%AE%E5%85%88%E6%9C%BA-c71d8fbf)|
+|2023-12-08 02:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习近平与欧盟高官在北京峰会上寻求缓解经济紧张局势](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E6%AC%A7%E7%9B%9F%E9%AB%98%E5%AE%98%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%B3%B0%E4%BC%9A%E4%B8%8A%E5%AF%BB%E6%B1%82%E7%BC%93%E8%A7%A3%E7%BB%8F%E6%B5%8E%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF-73c2057d)|
+|2023-12-08 09:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[神秘低调的Shein老板即将走向舞台中央](https://cn.wsj.com/articles/%E7%A5%9E%E7%A7%98%E4%BD%8E%E8%B0%83%E7%9A%84shein%E8%80%81%E6%9D%BF%E5%8D%B3%E5%B0%86%E8%B5%B0%E5%90%91%E8%88%9E%E5%8F%B0%E4%B8%AD%E5%A4%AE-1192a4d4)|
+|2023-12-08 10:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国出口止住半年来的跌势](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E5%87%BA%E5%8F%A3%E5%B0%8F%E5%B9%85%E4%B8%8A%E5%8D%87-%E6%AD%A2%E4%BD%8F%E6%AD%A4%E5%89%8D%E5%8D%8A%E5%B9%B4%E7%9A%84%E8%B7%8C%E5%8A%BF-9a83b225)|
+|2023-12-08 08:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[苹果公司计划在印度生产四分之一的iPhone](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84iphone-ba82ac6d)|
+|2023-12-08 04:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[俄罗斯敲定大选日期，普京准备延长任期](https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E6%95%B2%E5%AE%9A%E5%A4%A7%E9%80%89%E6%97%A5%E6%9C%9F-%E6%99%AE%E4%BA%AC%E5%87%86%E5%A4%87%E5%BB%B6%E9%95%BF%E4%BB%BB%E6%9C%9F-3c39d03b)|
+|2023-12-08 03:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[为何说小型电动汽车电池会成为下一个风口？](https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E8%AF%B4%E5%B0%8F%E5%9E%8B%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%8F%A3-b9d980a2)|
+|2023-12-08 03:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[谷歌发布AI大模型Gemini，称技术领先于OpenAI](https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9Fgemini-%E7%A7%B0%E5%85%B6%E6%8A%80%E6%9C%AF%E4%BC%98%E4%BA%8Eopenai-34f911e2)|
+|2023-12-08 04:26:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国教培企业是如何挺过整顿风暴的？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%99%E5%9F%B9%E4%BC%81%E4%B8%9A%E6%98%AF%E5%A6%82%E4%BD%95%E6%8C%BA%E8%BF%87%E6%95%B4%E9%A1%BF%E9%A3%8E%E6%9A%B4%E7%9A%84-7b20daa5)|
+|2023-12-08 04:39:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[AMD想在AI市场分一杯羹并不容易](https://cn.wsj.com/articles/amd%E6%83%B3%E5%9C%A8ai%E5%B8%82%E5%9C%BA%E5%88%86%E4%B8%80%E6%9D%AF%E7%BE%B9%E5%B9%B6%E4%B8%8D%E5%AE%B9%E6%98%93-e746e5df)|
+|2023-12-08 04:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国游戏社交网络平台趣丸接近在香港达成与SPAC合并的交易](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E5%B9%B3%E5%8F%B0%E8%B6%A3%E4%B8%B8%E6%8E%A5%E8%BF%91%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%BE%BE%E6%88%90%E4%B8%8Espac%E5%90%88%E5%B9%B6%E7%9A%84%E4%BA%A4%E6%98%93-75ecfb7c)|
+|2023-12-08 03:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[华尔街大多头如何看待美股2024年走势？](https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%A4%A7%E5%A4%9A%E5%A4%B4%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A12024%E5%B9%B4%E8%B5%B0%E5%8A%BF-40111c0b)|
+|2023-12-08 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第9️⃣期](http://crossoverjie.top/2023/12/08/ob/newsletter/Newsletter09-20231208/)|
+|2023-12-08 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[腾讯VS字节：两代互联网霸主六年的攻守较量](https://36kr.com/p/2550672688076930)|
+|2023-12-08 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Windows 系统，神一代鬼一代](https://36kr.com/p/2550803914414468)|
+|2023-12-08 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI打了个“响指”，AI Agent厂商重建护城河｜36氪新风向](https://36kr.com/p/2550551402240391)|
+|2023-12-08 16:05:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[靠拼多多赚最多钱的投资人](https://36kr.com/p/2551494853466496)|
+|2023-12-08 16:05:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国二线城市大排名](https://36kr.com/p/2550704178059654)|
 |2023-12-08 03:46:22|[刘荣星的博客](https://www.liurongxing.com/feed)|[CentOS7 python2 安装 elasticsearch 模块](https://www.liurongxing.com/centos7-python2-install-elasticsearch-module.html)|
 |2023-12-08 08:33:05|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[水果上新｜红美人红颜两姐妹来了～](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447116&idx=2&sn=85b3fcdd4c06bee7b3369c7e77c2b71c)|
 |2023-12-08 08:33:04|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[加油，把公司干倒闭！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447116&idx=1&sn=db3db15a40a4b1915f008fd1931f48f7)|
