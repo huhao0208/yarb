@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-09 12:22:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【煤老板归来 “围猎”房地产】陕西和内蒙古的煤老板在海南的酒店资产交易市场更为活跃。流动性紧缺的房企与不差钱的煤老板一拍即合，构成大宗资产交易中一道独特的风景线。](https://dig.chouti.com/link/40866999)|
+|2023-12-09 07:41:08|[O3noBLOG](https://feeds.feedburner.com/othree)|[源氏香 南知多](https://blog.othree.net/log/2023/12/09/genji-koh/)|
+|2023-12-09 12:15:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[近期安卓新机出了一堆，纠结了很久](https://www.v2ex.com/t/998995#reply40)|
+|2023-12-09 14:38:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何看待 gemini 造假](https://www.v2ex.com/t/999027#reply15)|
+|2023-12-09 17:27:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[云中转 3 周年啦，我们陪伴了用户 1000+个日夜！](https://www.v2ex.com/t/999056#reply0)|
+|2023-12-09 14:11:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[青轴打字声音很大在办公室不太适合有办法破吗?](https://www.v2ex.com/t/999021#reply16)|
+|2023-12-09 17:21:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓如何挂载 nfs](https://www.v2ex.com/t/999055#reply0)|
+|2023-12-09 16:33:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何屏蔽 FOFA 这个网络扫描引擎呢?](https://www.v2ex.com/t/999048#reply2)|
+|2023-12-09 04:46:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在都在劝退计算机，想问下普通背景的人还有哪些行业或者岗位可以转？](https://www.v2ex.com/t/998923#reply56)|
+|2023-12-09 16:00:00|[Mayx的博客](https://mabbs.github.io/atom.xml)|[rpi4-openfyde的使用体验](https://mabbs.github.io/2023/12/10/openfyde.html)|
+|2023-12-09 16:03:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[公务员能读全日制研究生吗?](https://www.zhihu.com/question/628721478)|
+|2023-12-09 16:03:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[听说双十二要取消了，是真的吗？那近期还有什么好价便宜的电商活动可以参与？](https://www.zhihu.com/question/633873817)|
+|2023-12-09 16:03:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价章若楠、白宇帆主演的电影《照明商店》？](https://www.zhihu.com/question/633760767)|
+|2023-12-09 12:22:52|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[Advent of Code 2023: Day5](https://scottyeung.top/2023/advent-of-code-day-5/)|
+|2023-12-09 17:10:08|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[推荐自己开发的网页版扫雷游戏，手机交互友好](https://w2solo.com/topics/4297)|
+|2023-12-09 16:05:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[北京中产最新户外方式，三个字](https://36kr.com/p/2549081842899336)|
+|2023-12-09 16:05:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[装了80年的汽车后视镜，即将“寿终正寝”？](https://36kr.com/p/2552921919790978)|
+|2023-12-09 16:05:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一年卖出30亿美元，全球最大奢侈品电商也“破产”](https://36kr.com/p/2553007195068805)|
+|2023-12-09 16:05:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“我，前空姐，现在卖新能源车”](https://36kr.com/p/2552810550663556)|
+|2023-12-09 16:05:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[巨额对赌即将到期，王健林痛失万达电影](https://36kr.com/p/2552008506677641)|
+|2023-12-09 16:05:13|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[想成为百万富翁？你只需要这7个步骤](https://36kr.com/p/2511898091749641)|
 |2023-12-09 13:20:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[解决技术问题的小快乐](https://blog.xulihang.me/the-joy-of-solving-technical-issues/)|
 |2023-12-09 13:23:29|[触乐](http://www.chuapp.com/feed)|[TGA大奖，对中国厂商有什么启发？](http://www.chuapp.com/article/289680.html)|
 |2023-12-09 11:33:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【谁还在投资陆正耀？】以极少的资金、极高的杠杆、完成高速的扩张，但库迪咖啡至今未公布任何一笔来自机构投资者的融资。这和陆正耀过去创业的成功路径不一样：神州租车和瑞幸都迅速融资、以价格战占领市场、上市。](https://dig.chouti.com/link/40866671)|
