@@ -1,7 +1,12 @@
-﻿# 每日资讯（2023-12-08）
+﻿# 每日资讯（2023-12-09）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-09 01:08:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么 win11 微软输入法输入中文时没有没有文字选择栏，必须换成旧版时才有？](https://www.v2ex.com/t/998883#reply0)|
+|2023-12-09 01:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 感觉现在地图开发必须用付费的？](https://www.v2ex.com/t/998882#reply1)|
+|2023-12-09 00:55:19|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 给手机换更轻的电池怎么样？](https://www.v2ex.com/t/998881#reply4)|
+|2023-12-09 00:23:28|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 解决 thinkpad e560 睡眠黑屏问题](https://www.v2ex.com/t/998880#reply0)|
+|2023-12-09 00:21:26|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 邻居经常半夜吵架](https://www.v2ex.com/t/998879#reply3)|
 |2023-12-08 14:34:27|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[写作者说 渡过这条河](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892552&idx=1&sn=e91b34a47b3a252ec31b1775a5b6300e)|
 |2023-12-08 08:15:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[接连倒闭的幼儿园，打乱海淀家长的教育大计](https://dig.chouti.com/link/40857594)|
 |2023-12-08 13:04:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[碧桂园杨惠妍：家族“砸锅卖铁”支持公司，明年交付量预计超过40万套](https://dig.chouti.com/link/40859637)|
@@ -28,6 +33,7 @@
 |2023-12-08 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI打了个“响指”，AI Agent厂商重建护城河｜36氪新风向](https://36kr.com/p/2550551402240391)|
 |2023-12-08 16:05:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[靠拼多多赚最多钱的投资人](https://36kr.com/p/2551494853466496)|
 |2023-12-08 16:05:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国二线城市大排名](https://36kr.com/p/2550704178059654)|
+|2023-12-09 08:00:57|[SEO 网站优化及网站推广](https://seo.g2soft.net/atom.xml)|[审计你的网页的各项指标 - 2023](https://seo.g2soft.net/2023/12/09/audit-website-2023.html)|
 |2023-12-08 03:46:22|[刘荣星的博客](https://www.liurongxing.com/feed)|[CentOS7 python2 安装 elasticsearch 模块](https://www.liurongxing.com/centos7-python2-install-elasticsearch-module.html)|
 |2023-12-08 08:33:05|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[水果上新｜红美人红颜两姐妹来了～](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447116&idx=2&sn=85b3fcdd4c06bee7b3369c7e77c2b71c)|
 |2023-12-08 08:33:04|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[加油，把公司干倒闭！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447116&idx=1&sn=db3db15a40a4b1915f008fd1931f48f7)|
