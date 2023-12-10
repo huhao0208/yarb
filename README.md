@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-10 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 169 期（2023.12.11）](https://www.ftium4.com/ux-weekly-169.html)|
+|2023-12-10 09:40:15|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 在 Fedora Linux 上值得尝试的酷炫 Flatpak 应用（12 月）](https://linux.cn/article-16457-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-10 09:02:16|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Zorin OS 17 正在重新定义 Linux 发行版的视觉体验](https://linux.cn/article-16456-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-10 10:58:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【公安机关公开通缉10名缅北果敢自治区电信网络诈骗犯罪集团重要头目】以白所成、魏怀仁、刘正祥为首的3个家族犯罪集团和以徐老发为首的犯罪集团，长期实施针对中国公民的电信网络诈骗犯罪活动，诈骗数额巨大。](https://dig.chouti.com/link/40873215)|
+|2023-12-10 09:51:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【广州警方通报地铁持刀伤人案，广州地铁回应：涉案刀具不在管制范围内】根据广州公交公安官方微博消息，事发当晚，刘某（男，19岁）因被张某（男，48岁）的小孩在车厢内嬉戏期间撞到，与张某发生口角，后持随身携带的小刀（刀刃长6.5厘米，塑料刀柄）对张某进行伤害。](https://dig.chouti.com/link/40872905)|
+|2023-12-10 06:05:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[根据泰国媒体的爆料，亚冠小组赛浙江vs武里南联赛后冲突处罚结果：浙江队姚均晟禁赛8场，高迪、莱昂纳多禁赛6场；武里南联外援赛义达耶夫禁赛8场，莱昂、齐迪巴禁赛6场。](https://dig.chouti.com/link/40871596)|
+|2023-12-10 07:04:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“经珠港飞”政策12日起实施，内地旅客可陆路直达香港机场](https://dig.chouti.com/link/40871869)|
+|2023-12-10 07:58:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[恨透评分虚高的网红餐厅，年轻人报复性挤爆“3.5分饭店”](https://dig.chouti.com/link/40872133)|
+|2023-12-10 08:25:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[社会抚养费取消之后](https://dig.chouti.com/link/40872445)|
+|2023-12-10 10:12:56|[触乐](http://www.chuapp.com/feed)|[驶向全球的二次元列车](http://www.chuapp.com/article/289681.html)|
 |2023-12-10 07:05:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[杨丞琳就“河南人爱骗人”言论道歉](https://dig.chouti.com/link/40871987)|
 |2023-12-10 02:29:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我坦白：无性同居，太爽了](https://dig.chouti.com/link/40870348)|
 |2023-12-10 04:56:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【广州芳村“金融茶”崩盘调查：玩法更“高级” 涉及金额上亿元】多位茶商告诉记者，由于缺乏“承诺回收约定”等证据指证昌世茶，警方尚未立案。](https://dig.chouti.com/link/40871114)|
