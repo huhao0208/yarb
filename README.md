@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-10 12:02:36|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1211 Linus Torvalds 谈 Rust 和 AI 编程](https://linux.cn/article-16458-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-10 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[救命，宜家要让我们吃虫虫了](https://36kr.com/p/2549156193507716)|
+|2023-12-10 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[本地生活乱战，美团的接招与出招](https://36kr.com/p/2553651273095560)|
+|2023-12-10 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[上海985，崛起一个创业军团](https://36kr.com/p/2553242556733576)|
+|2023-12-10 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[IPO焦虑突然就来了](https://36kr.com/p/2554328698083715)|
+|2023-12-10 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[平价小火锅，北漂年轻人的新归宿](https://36kr.com/p/2554464174741890)|
+|2023-12-10 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[过度自信的代价：为什么智力谦逊很重要](https://36kr.com/p/2509292594528258)|
+|2023-12-10 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI新内幕：奥特曼被指爱权力胜过金钱，解雇之初承诺支持临时CEO](https://36kr.com/p/2554266223810949)|
+|2023-12-10 08:35:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【曾被撤并的乡镇高中，怎么又开始招生了？】大多数恢复高中的乡镇均为县市的中心镇，经济较发达，较其周边乡镇而言人口更多。](https://dig.chouti.com/link/40872447)|
+|2023-12-10 09:26:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【东北最后的刻碑人，和他看到的死亡与叶落归根】作为刻墓碑的人，丛培新发现了一件只有他能发现的事情——那些或短暂迁徙或定居外地的人，最终大多会选择把骨灰带回这片黑土地安葬。“外头再好，也没家里好。”](https://dig.chouti.com/link/40872858)|
+|2023-12-10 03:17:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095#reply56)|
+|2023-12-10 16:05:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在比较轻量的 bi 和 etl 是什么？](https://www.v2ex.com/t/999214#reply1)|
+|2023-12-10 12:57:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google play 商店无法下载淘宝 APP（安卓新手请教原生安卓下载 app 的姿势）](https://www.v2ex.com/t/999186#reply22)|
+|2023-12-10 05:17:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年为何我还在使用 RSS](https://www.v2ex.com/t/999116#reply21)|
+|2023-12-10 13:32:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有混 reddit 的？为什么我的帖子经常被 spam？](https://www.v2ex.com/t/999192#reply3)|
+|2023-12-10 11:22:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓上现在有什么好用的代理软件客户端吗？](https://www.v2ex.com/t/999178#reply16)|
+|2023-12-10 14:25:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年有什么安卓手机原生就支持 Google 框架的吗](https://www.v2ex.com/t/999201#reply8)|
+|2023-12-10 13:05:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自己写个全栈项目但感觉没啥意思](https://www.v2ex.com/t/999191#reply7)|
+|2023-12-10 14:32:07|[小众软件](https://www.appinn.com/feed/)|[折腾的快乐：双键盘的解决方案](https://www.appinn.com/the-joy-of-dual-keyboards/)|
+|2023-12-10 03:58:54|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《意外杀手2》：最新爽片劲爆殴打，五大异形杀手轮番登场，搞笑又过瘾！](https://www.ximalaya.com/sound/692048731)|
+|2023-12-10 04:19:29|[掘墓人的小铲子](https://juemuren4449.com/atom.xml)|[文章被“抄袭”了](https://juemuren4449.com/archives/my-article-was-plagiarized)|
+|2023-12-10 16:17:17|[V2EX](https://www.v2ex.com/index.xml)|[ SSD 长时间不通电的固态硬盘重新通电，主控会对已有数据进行刷新吗](https://www.v2ex.com/t/999215#reply0)|
 |2023-12-10 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 169 期（2023.12.11）](https://www.ftium4.com/ux-weekly-169.html)|
 |2023-12-10 09:40:15|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 在 Fedora Linux 上值得尝试的酷炫 Flatpak 应用（12 月）](https://linux.cn/article-16457-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-10 09:02:16|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Zorin OS 17 正在重新定义 Linux 发行版的视觉体验](https://linux.cn/article-16456-1.html?utm_source=rss&utm_medium=rss)|
