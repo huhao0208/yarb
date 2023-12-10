@@ -2,6 +2,45 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-10 03:03:47|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[开源 UnitEval —— 构建 AI 辅助编程的高质量数据集与模型微调自动评估](http://www.phodal.com/blog/unit-eval/)|
+|2023-12-10 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)|
+|2023-12-10 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)|
+|2023-12-10 02:49:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【暴雪来了！第一波寒潮将带来暴雪，北方下两轮南方再等等】12月15日起，主寒潮将大举南下，剧烈降温将席卷全国，隆冬真正的来了。](https://dig.chouti.com/link/40870399)|
+|2023-12-10 02:41:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月10号06时39分，南沙仁爱礁附近海域，“尤娜扎·五月”1号艇无视我多次严正警告，违反《国际海上避碰规则》，以不专业、危险方式突然转向，故意冲撞我正常执法航行的海警21556艇，导致发生刮蹭，责任完全在菲方。](https://dig.chouti.com/link/40870392)|
+|2023-12-10 02:05:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[暴跌80%，市值蒸发超3635亿，海底捞，还在寻“底”](https://dig.chouti.com/link/40870254)|
+|2023-12-10 04:11:09|[V2EX](https://www.v2ex.com/index.xml)|[ Surge Surge Mac v5 License 还有两个车位， 12 月 7 日购入](https://www.v2ex.com/t/999110#reply0)|
+|2023-12-10 04:02:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你都读哪几分互联网周刊](https://www.v2ex.com/t/999109#reply0)|
+|2023-12-10 04:01:57|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 离开了浪浪山，简直不要太爽。](https://www.v2ex.com/t/999108#reply0)|
+|2023-12-10 03:59:45|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 这里有没有 11 平台的人？](https://www.v2ex.com/t/999107#reply1)|
+|2023-12-10 03:49:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求一个老人手机 2000 左右，信号好的](https://www.v2ex.com/t/999105#reply1)|
+|2023-12-10 03:48:52|[V2EX](https://www.v2ex.com/index.xml)|[ 摄影 2023 年了，有什么手机摄影 App 推荐的吗？](https://www.v2ex.com/t/999104#reply0)|
+|2023-12-10 03:46:04|[V2EX](https://www.v2ex.com/index.xml)|[ 阅读 有适合读书交流想法的地方吗？](https://www.v2ex.com/t/999103#reply2)|
+|2023-12-10 03:44:03|[V2EX](https://www.v2ex.com/index.xml)|[ Google Play Google pay 土耳其付款的问题。](https://www.v2ex.com/t/999102#reply9)|
+|2023-12-10 03:41:04|[V2EX](https://www.v2ex.com/index.xml)|[ Cloudflare 用户在国内，使用 Cloudflare 做 CDN，源站放在哪个地区国内访问最快呢？](https://www.v2ex.com/t/999101#reply4)|
+|2023-12-10 03:40:42|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 吐槽 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100#reply5)|
+|2023-12-10 03:33:46|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 校招生选择 Offer！大家觉得应该如何选](https://www.v2ex.com/t/999099#reply0)|
+|2023-12-10 03:31:09|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 快被 IPV6 逼疯了](https://www.v2ex.com/t/999098#reply10)|
+|2023-12-10 03:28:23|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏开发 求助 android 看广告掉线](https://www.v2ex.com/t/999097#reply1)|
+|2023-12-10 03:26:00|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 广东电信 100M 单宽带 360 元包年](https://www.v2ex.com/t/999096#reply3)|
+|2023-12-10 03:17:57|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095#reply12)|
+|2023-12-10 03:13:00|[V2EX](https://www.v2ex.com/index.xml)|[ 健康 流感后咳嗽不停怎么办](https://www.v2ex.com/t/999093#reply5)|
+|2023-12-10 03:11:09|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 时间维度中城市交通拥堵的可视化](https://www.v2ex.com/t/999092#reply3)|
+|2023-12-10 03:10:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有什么网页中的视频在线翻译字幕的工具吗？](https://www.v2ex.com/t/999091#reply0)|
+|2023-12-10 02:58:20|[V2EX](https://www.v2ex.com/index.xml)|[ macOS clash 总是搞乱 dns](https://www.v2ex.com/t/999090#reply11)|
+|2023-12-10 02:56:56|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 开发了一个免费的文生图网站，模型为 SDXL turbo](https://www.v2ex.com/t/999089#reply0)|
+|2023-12-10 02:52:43|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 各种输入框输入数字声音提示 bug](https://www.v2ex.com/t/999087#reply0)|
+|2023-12-10 02:49:16|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 耗时三年开发的 H5 商城，推荐给大家](https://www.v2ex.com/t/999086#reply1)|
+|2023-12-10 02:42:32|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 耗时三年开源的 H5 商城，强烈推荐](https://www.v2ex.com/t/999085#reply6)|
+|2023-12-10 01:58:58|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 我发现 MagSafe 出来这么久了，也没啥有趣的配件啊，翻来覆去就是电池/支架/指环扣？](https://www.v2ex.com/t/999080#reply11)|
+|2023-12-10 01:53:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Midjourney 设计出来的页面，有什么方法转成 PSD 和 figma 的文件吗或直接能出切图提供给前端使用？](https://www.v2ex.com/t/999078#reply3)|
+|2023-12-10 01:42:50|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 练手之作， 基于 WebRTC 的文件飞传工具](https://www.v2ex.com/t/999077#reply3)|
+|2023-12-10 01:41:18|[V2EX](https://www.v2ex.com/index.xml)|[ 云修电脑 Lenovo T460p 鼠标自己动咋回事](https://www.v2ex.com/t/999076#reply6)|
+|2023-12-10 01:23:45|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 看到一个帖子 M1 pro 先给电脑充满电 再外部充电宝 供电 效率更高？](https://www.v2ex.com/t/999074#reply4)|
+|2023-12-10 01:15:00|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 简单免费的 spam 检测 API？](https://www.v2ex.com/t/999073#reply2)|
+|2023-12-10 01:13:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 玩过 stable diffusion 作图的大佬们，可以分享下你们的心得吗](https://www.v2ex.com/t/999072#reply4)|
+|2023-12-10 01:11:39|[V2EX](https://www.v2ex.com/index.xml)|[ 站长 个人网站遭受 ddos，报警有用吗](https://www.v2ex.com/t/999071#reply10)|
+|2023-12-10 01:03:38|[V2EX](https://www.v2ex.com/index.xml)|[ Android 小米 14 闲鱼上 300 秒解 bl 锁可信不？](https://www.v2ex.com/t/999070#reply27)|
+|2023-12-10 00:43:58|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 老手机黑莓 Passport 和 Palm one 还能怎么发挥余热?](https://www.v2ex.com/t/999068#reply5)|
 |2023-12-10 01:21:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不以为耻，反以为荣](https://dig.chouti.com/link/40869966)|
 |2023-12-10 01:14:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国学者提出大胆假说，回答这一困扰学界多年的谜题】近日，中国科学院上海天文台副研究员邓洪平与美国加州理工学院博士后袁迁等人在Nature上发表论文，揭秘了地球内部深处巨大异常体的来源。//@宝树:地球内部隐藏着另一颗行星的尸体，倒也蛮带感的](https://dig.chouti.com/link/40869962)|
 |2023-12-10 00:27:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[南通叠石桥深度调研：怎样成为全球家纺跨境电商“供应链之王”](https://dig.chouti.com/link/40869708)|
