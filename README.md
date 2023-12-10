@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-12-09）
+﻿# 每日资讯（2023-12-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-10 01:21:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不以为耻，反以为荣](https://dig.chouti.com/link/40869966)|
+|2023-12-10 01:14:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国学者提出大胆假说，回答这一困扰学界多年的谜题】近日，中国科学院上海天文台副研究员邓洪平与美国加州理工学院博士后袁迁等人在Nature上发表论文，揭秘了地球内部深处巨大异常体的来源。//@宝树:地球内部隐藏着另一颗行星的尸体，倒也蛮带感的](https://dig.chouti.com/link/40869962)|
+|2023-12-10 00:27:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[南通叠石桥深度调研：怎样成为全球家纺跨境电商“供应链之王”](https://dig.chouti.com/link/40869708)|
+|2023-12-10 01:12:17|[虎嗅](https://rss.huxiu.com/)|[自驾去广西，看一条河分割两个世界](https://www.huxiu.com/article/2404356.html?f=rss)|
+|2023-12-10 00:57:03|[虎嗅](https://rss.huxiu.com/)|[教培老师生存报告：个体孤独，精神疲乏，价值失序](https://www.huxiu.com/article/2341115.html?f=rss)|
+|2023-12-10 00:42:42|[虎嗅](https://rss.huxiu.com/)|[人生漫漫，如何找到自己的稳定系统？](https://www.huxiu.com/article/2406537.html?f=rss)|
+|2023-12-10 01:15:00|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 简单免费的 spam 检测 API？](https://www.v2ex.com/t/999073#reply0)|
+|2023-12-10 01:13:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 玩过 stable diffusion 作图的大佬们，可以分享下你们的心得吗](https://www.v2ex.com/t/999072#reply0)|
+|2023-12-10 01:11:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 个人网站遭受 ddos，报警有用吗](https://www.v2ex.com/t/999071#reply1)|
+|2023-12-10 01:03:38|[V2EX](https://www.v2ex.com/index.xml)|[ Android 小米 14 闲鱼上 300 秒解 bl 锁可信不？](https://www.v2ex.com/t/999070#reply0)|
+|2023-12-10 00:43:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 老手机黑莓 Passport 和 Palm one 还能怎么发挥余热?](https://www.v2ex.com/t/999068#reply2)|
 |2023-12-09 12:22:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【煤老板归来 “围猎”房地产】陕西和内蒙古的煤老板在海南的酒店资产交易市场更为活跃。流动性紧缺的房企与不差钱的煤老板一拍即合，构成大宗资产交易中一道独特的风景线。](https://dig.chouti.com/link/40866999)|
 |2023-12-09 07:41:08|[O3noBLOG](https://feeds.feedburner.com/othree)|[源氏香 南知多](https://blog.othree.net/log/2023/12/09/genji-koh/)|
 |2023-12-09 12:15:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[近期安卓新机出了一堆，纠结了很久](https://www.v2ex.com/t/998995#reply40)|
