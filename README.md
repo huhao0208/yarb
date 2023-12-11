@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-11 02:05:27|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #212 Stray](https://www.ethanhuang13.com/p/212)|
+|2023-12-11 18:31:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[八個 iPadOS 17.2 的更新重點](https://applefans.today/ipados-17-2/)|
+|2023-12-11 18:14:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 正式推出 iOS 17.2 更新版本！](https://applefans.today/ios-17-2/)|
+|2023-12-11 18:00:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[教你如何使用 Apple 內建的 日誌 Journal app](https://applefans.today/ios-17-how-to-use-journal-app/)|
+|2023-12-11 09:56:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[GSC半马](http://mercurychong.blogspot.com/2023/12/gsc.html)|
+|2023-12-11 16:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[展讯 2023 连州国际摄影年展：与光共舞——《摄影世界》专题展](https://www.photoworld.com.cn/post/175662)|
+|2023-12-11 16:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[向阳而生 焕新出发——2023 连州国际摄影年展盛大开幕](https://www.photoworld.com.cn/post/175694)|
+|2023-12-11 16:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2023 连州国际摄影年展 时隔三年 重磅回归](https://www.photoworld.com.cn/post/175678)|
 |2023-12-11 08:10:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【阿里云的多事之秋】短短一个月里，阿里云出现了两次大规模故障，这在整个云计算行业中都是罕见的。实际上，近日阿里云还有另外两次小规模局部故障，一次在11月28日，12月5日也有一次异常，持续时间都很短，很快就被解决。](https://dig.chouti.com/link/40880745)|
 |2023-12-11 09:14:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[总算看见荧光海了！浙江花鸟岛的海滨生物集合](https://dig.chouti.com/link/40881268)|
 |2023-12-11 13:48:44|[Tinyfool的个人网站](https://codechina.org/feed/)|[Go语言的词干还原器库GoLem](https://codechina.org/2023/12/golem/)|
