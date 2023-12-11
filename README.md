@@ -2,6 +2,65 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-11 08:10:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【阿里云的多事之秋】短短一个月里，阿里云出现了两次大规模故障，这在整个云计算行业中都是罕见的。实际上，近日阿里云还有另外两次小规模局部故障，一次在11月28日，12月5日也有一次异常，持续时间都很短，很快就被解决。](https://dig.chouti.com/link/40880745)|
+|2023-12-11 09:14:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[总算看见荧光海了！浙江花鸟岛的海滨生物集合](https://dig.chouti.com/link/40881268)|
+|2023-12-11 13:48:44|[Tinyfool的个人网站](https://codechina.org/feed/)|[Go语言的词干还原器库GoLem](https://codechina.org/2023/12/golem/)|
+|2023-12-11 13:43:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[湖州安吉天荒坪盘山公路和杭州临安浙西天路之旅](https://hellodk.cn/post/1154)|
+|2023-12-11 10:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国汽车厂商引领“亚洲底特律”电动化转型](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8E%82%E5%95%86%E5%BC%95%E9%A2%86-%E4%BA%9A%E6%B4%B2%E5%BA%95%E7%89%B9%E5%BE%8B-%E7%94%B5%E5%8A%A8%E5%8C%96%E8%BD%AC%E5%9E%8B-69f059a7)|
+|2023-12-11 03:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国是如何让青年失业危机“消失”的？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%A9%E9%9D%92%E5%B9%B4%E5%A4%B1%E4%B8%9A%E5%8D%B1%E6%9C%BA-%E6%B6%88%E5%A4%B1-%E7%9A%84-9cf1671d)|
+|2023-12-11 11:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国11月未能摆脱通缩](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E6%9C%AA%E8%83%BD%E6%91%86%E8%84%B1%E9%80%9A%E7%BC%A9-21d5c731)|
+|2023-12-11 02:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国海警船朝菲律宾船只发射水炮](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E6%9C%9D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%88%B9%E5%8F%AA%E5%8F%91%E5%B0%84%E6%B0%B4%E7%82%AE-ea42c7d3)|
+|2023-12-11 10:27:31|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS](https://linux.cn/article-16461-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-11 08:21:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 PeerTube 发布第 6 版，获得比 YouTube 更好的功能](https://linux.cn/article-16460-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-11 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2023/12/11/daily-thoughts/)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为、小米新车定档，是时候给车圈一点小震撼了......](https://36kr.com/p/2555064159328392)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微软急了？Windows 12发布进程提速](https://36kr.com/p/2555801615278215)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[平替来了，大牌死了？](https://36kr.com/p/2555772772227459)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在欧洲推出二手服装平台，SHEIN与ZARA再刚上｜焦点分析](https://36kr.com/p/2536115487303172)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美机构：立即停止使用C和C++](https://36kr.com/p/2555664187824516)|
+|2023-12-11 16:07:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一线城市房租跳水：年轻人躺了，房东急了](https://36kr.com/p/2555603781163395)|
+|2023-12-11 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国公司全球化周报 拼多多Temu抢占美国“一元店”市场 / 喜茶出海进程加速](https://36kr.com/p/2554369250416776)|
+|2023-12-11 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[生成式AI浪潮面前，中小企业如何不再FOMO](https://36kr.com/p/2551968338205059)|
+|2023-12-11 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[ChatGPT 之父的另一面：谎言、操控、内斗](https://36kr.com/p/2554434954352771)|
+|2023-12-11 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大张伟：我最红的歌，都是最不开心的时候写的](https://36kr.com/p/2554241191025033)|
+|2023-12-11 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[刘强东发声：我不会躺平，也希望京东兄弟们绝不躺平](https://36kr.com/p/2555023830243714)|
+|2023-12-11 08:38:27|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[如何编写一个 Pulsar Broker Interceptor 插件](http://crossoverjie.top/2023/12/11/ob/Pulsar-Broker-Interceptor/)|
+|2023-12-11 11:28:03|[白宦成](https://www.ixiqin.com/feed/)|[我喜欢的歌手](https://www.ixiqin.com/2023/12/11/my-favorite-singer/)|
+|2023-12-11 16:05:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「民间防艾滋病第一人」高耀洁医生去世，哪些信息值得关注？](https://www.zhihu.com/question/634274464)|
+|2023-12-11 16:05:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[比特币突发跳水，日内大跌 4.44%，今年累计涨幅已超过 145%，比特币未来走势如何？](https://www.zhihu.com/question/634278279)|
+|2023-12-11 16:05:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[抑郁症患者到底能不能养宠物？会不会对猫很不公平？](https://www.zhihu.com/question/629257561)|
+|2023-12-11 16:05:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么说程序员不断的提高自己的技术有可能是一种误区？](https://www.zhihu.com/question/633845958)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年，你有哪些职场心愿？希望达成哪些职场目标？](https://www.zhihu.com/question/632472687)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卢顿如果在中超什么水平？](https://www.zhihu.com/question/633532465)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国海警依法驱离日非法进入我钓鱼岛领海船只，有哪些信息值得关注？](https://www.zhihu.com/question/634191620)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[城市遭遇暴风雪天气，作为居民，需要识别哪些潜在的危险并做好准备？](https://www.zhihu.com/question/634284557)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么《龙族》里的凯撒那么讨厌自己的家族却总是使用加图索家的名声？](https://www.zhihu.com/question/356126477)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么古代没有人想到把饮用水当成商品卖？](https://www.zhihu.com/question/633839825)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么相机还在使用可拆卸电池，手机电池早已是不可拆卸设计？](https://www.zhihu.com/question/633201206)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么 IT 项目总会出现延期？](https://www.zhihu.com/question/633155648)|
+|2023-12-11 16:05:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年你希望自己的生活能有哪些新尝试？](https://www.zhihu.com/question/634274028)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价盛宇发布的新专辑《于斯为盛》?](https://www.zhihu.com/question/634110786)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冬天跑步热了可以脱外套吗？](https://www.zhihu.com/question/633140216)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 bin 力压 369 和 the shy 成为 S13 年度最佳上单？](https://www.zhihu.com/question/634168206)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[刘备和公孙瓒是不是塑料兄弟及同窗好友？](https://www.zhihu.com/question/633674726)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年 11 月份北京 CPI 环比降幅扩大，同比由平转降，这一数据说明了什么？](https://www.zhihu.com/question/634261720)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[米莱就任阿根廷总统，称阿根廷只能实施「休克疗法」缓解危机，内阁 18 个部被砍一半，如何评价这些政策？](https://www.zhihu.com/question/634266661)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[驻韩美军一架 F-16 战机在韩国参加军演期间坠毁，目前情况如何？](https://www.zhihu.com/question/634259120)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以留下你摘抄最喜欢的短句吗？](https://www.zhihu.com/question/634282856)|
+|2023-12-11 16:05:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[彩民 10 万押中 2.2 亿巨奖，白岩松发声「回应未消除不解，需有说服力的交代」，哪些信息值得关注？](https://www.zhihu.com/question/634191208)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[长城汽车将举行懂车帝冬测标准质疑沟通会，议题包括「新能源冬测的科学公正标准」等，哪些信息值得关注？](https://www.zhihu.com/question/634279493)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《魔兽争霸 Ⅲ：冰封王座》中为何说人族飞机是空中霸主？](https://www.zhihu.com/question/631267847)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你认可「全民考研时代早点结束是好事」「未来国内读研回报率一定会下降」的观点吗？](https://www.zhihu.com/question/634164330)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[说一个《王者荣耀》里面你最爱玩的英雄吧？](https://www.zhihu.com/question/629108473)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我家宽带是 200Mbps，路由器的 2.4gWiFi 已经可以达到这个速率了，还有必要用 5gWiFi 吗？](https://www.zhihu.com/question/633634837)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[昔日「国货一哥」李宁 22 亿港元买楼，年内股价跌近 70%，哪些信息值得关注？](https://www.zhihu.com/question/634258749)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果武松喝的「三碗不过岗」是茅台，上山的后续会怎样？](https://www.zhihu.com/question/626747034)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[选购加湿器，有雾和无雾到底有哪些区别？](https://www.zhihu.com/question/630536286)|
+|2023-12-11 16:05:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年，最让你印象深刻的游戏大事件有哪些？](https://www.zhihu.com/question/633378774)|
+|2023-12-11 16:05:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么公司裁员裁的都是勤勤恳恳的人？](https://www.zhihu.com/question/634228736)|
+|2023-12-11 16:05:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小米华为高成长挤压苹果份额，11 月小米以 18.3% 市场份额登国产品牌第一，哪些信息值得关注？](https://www.zhihu.com/question/634271565)|
+|2023-12-11 16:05:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[做一名医生的压力通常来源于什么？](https://www.zhihu.com/question/633740560)|
+|2023-12-11 13:25:30|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2023-12-11 如何优化 Docker 下 Node.js 项目的体积](https://blog.cmyr.ltd/archives/be640cee.html)|
 |2023-12-11 08:04:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离谱！日本品牌推出犬型“爬行静香”玩具 发售即售罄](https://dig.chouti.com/link/40880400)|
 |2023-12-11 09:18:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【陈志朋疑似偷税漏税内幕】陈志朋这两年主要靠直播带货获得收入，“小帅豹”透露，在他任职期间帮陈志朋赚了2000万元人民币，据他估算，陈志朋的补税金额约1100万元人民币。](https://dig.chouti.com/link/40881309)|
 |2023-12-11 09:13:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国家抓饭地理](https://dig.chouti.com/link/40881253)|
