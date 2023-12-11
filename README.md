@@ -1,7 +1,15 @@
-﻿# 每日资讯（2023-12-10）
+﻿# 每日资讯（2023-12-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-11 01:09:37|[V2EX](https://www.v2ex.com/index.xml)|[ Android 有没有什么办法能关闭屏幕听 tiktok 的视频？](https://www.v2ex.com/t/999247#reply5)|
+|2023-12-11 01:08:21|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 自从升级了 Sonoma 14.1.2](https://www.v2ex.com/t/999246#reply1)|
+|2023-12-11 01:05:11|[V2EX](https://www.v2ex.com/index.xml)|[ 音乐 你们第一次是从哪里听到这首音乐的（之二）？](https://www.v2ex.com/t/999245#reply0)|
+|2023-12-11 01:03:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有查重图片相识度的软件？](https://www.v2ex.com/t/999244#reply3)|
+|2023-12-11 00:43:44|[V2EX](https://www.v2ex.com/index.xml)|[ 跑步 新手小白，有没有冬天跑步的装备推荐，坐标北京](https://www.v2ex.com/t/999238#reply2)|
+|2023-12-11 00:39:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有匿名临时文件分享的网盘](https://www.v2ex.com/t/999237#reply5)|
+|2023-12-11 00:19:40|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 差点真的买不到了](https://www.v2ex.com/t/999234#reply8)|
+|2023-12-11 00:11:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问服务器 522？](https://www.v2ex.com/t/999233#reply0)|
 |2023-12-10 12:40:30|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[给尊贵的饱记用户提供一些双十二薅羊毛思路。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447131&idx=1&sn=14f53002d0d599e0f9c8351ecdff9f8a)|
 |2023-12-10 16:42:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 Linus Torvalds：Linux 内核中的 Rust、AI 和疲劳的维护者](https://linux.cn/article-16459-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-10 15:00:00|[机核](https://www.gcores.com/rss)|[“昭昭天命”今何在？ 为什么《使命召唤》连一个战争故事都讲不好了](https://www.gcores.com/radios/174885)|
