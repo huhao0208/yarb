@@ -1,7 +1,20 @@
-﻿# 每日资讯（2023-12-11）
+﻿# 每日资讯（2023-12-12）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-12 01:17:22|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 点击墙纸回到桌面，四周有讨厌的灰框](https://www.v2ex.com/t/999565#reply1)|
+|2023-12-12 01:14:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何看待家长献血 100ml 子女可得 2 入学积分,你们献过血吗](https://www.v2ex.com/t/999564#reply0)|
+|2023-12-12 01:13:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 公司想搞一个关于 AI 问答的知识库](https://www.v2ex.com/t/999563#reply1)|
+|2023-12-12 01:13:00|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 上周末花了 100 元子装了套菊花 FTTR](https://www.v2ex.com/t/999562#reply1)|
+|2023-12-12 01:05:35|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 花了半天时间，做了个 m 站，现在浏览效果好多了](https://www.v2ex.com/t/999561#reply0)|
+|2023-12-12 01:01:06|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 为啥都买 AC+， AC+能用来干啥，从 IP4 到现在买过小 30 台 Apple 设备，没买过 AC+，是不是错过什么了。](https://www.v2ex.com/t/999560#reply2)|
+|2023-12-12 00:54:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 犹豫 jetbrains 全家桶要不要续费 已经两年了](https://www.v2ex.com/t/999557#reply8)|
+|2023-12-12 00:54:17|[V2EX](https://www.v2ex.com/index.xml)|[ 远程工作 硅谷外企 支持 remote，可以在任何城市 招聘 Engineer Manager ， Junior 以及 Senior Engineer，感兴趣的联系我！](https://www.v2ex.com/t/999556#reply0)|
+|2023-12-12 00:52:49|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH 原来国人给 Apple Watch 加上了这么多功能，还能外放看 B 站](https://www.v2ex.com/t/999555#reply2)|
+|2023-12-12 00:52:35|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 ChatGPT、文心一言等大模型加持的知识付费（CMS）解决方案](https://www.v2ex.com/t/999554#reply3)|
+|2023-12-12 00:46:00|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 财务转业 IT, 本以为很容易, 想不到很难, 请问有啥快速提高自身水平的路子吗?](https://www.v2ex.com/t/999553#reply24)|
+|2023-12-12 00:24:35|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 双十二装机配置单，请大家给点意见](https://www.v2ex.com/t/999552#reply7)|
+|2023-12-12 00:04:09|[V2EX](https://www.v2ex.com/index.xml)|[ Medium 求助，感谢 有没有哪位有 medium 的会员？帮忙看一篇文章](https://www.v2ex.com/t/999551#reply8)|
 |2023-12-11 02:05:27|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #212 Stray](https://www.ethanhuang13.com/p/212)|
 |2023-12-11 18:31:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[八個 iPadOS 17.2 的更新重點](https://applefans.today/ipados-17-2/)|
 |2023-12-11 18:14:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 正式推出 iOS 17.2 更新版本！](https://applefans.today/ios-17-2/)|
@@ -145,6 +158,7 @@
 |2023-12-11 08:06:12|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2023.12.10](https://www.justzht.com/2023-12-10/)|
 |2023-12-11 04:01:42|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)|
 |2023-12-11 04:01:41|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[几分靠打拼、几分是注定？借统计学探寻收入的秘密](https://sspai.com/post/84836)|
+|2023-12-12 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 49/2023](https://weekly.pychina.org/pyrecap/pyrw-2349.html)|
 |2023-12-11 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待《赛博朋克：2077》获得 TGA2023 年最佳持续运营游戏?](https://www.zhihu.com/question/633879373)|
 |2023-12-11 00:30:00|[Frank's Weblog](https://nyan.im/feed)|[Project Miata – Shifter Rebuild](https://nyan.im/p/miata-shifter-rebuild)|
 |2023-12-11 00:29:00|[Frank's Weblog](https://nyan.im/feed)|[Project Miata – 换挡杆维护](https://nyan.im/p/project-miata-shifter-rebuild-zh)|
