@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-12 08:30:47|[Hi, I Am I](https://5ime.cn/atom.xml)|[某内网渗透内部赛 Writeup](https://5ime.cn/msa-intranet-penetration.html)|
+|2023-12-12 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：为什么要参加游戏测试？](http://www.chuapp.com/article/289685.html)|
+|2023-12-12 12:00:00|[触乐](http://www.chuapp.com/feed)|[为梦起航：《Last Sentinel》与光子的新十年](http://www.chuapp.com/article/289683.html)|
+|2023-12-12 12:14:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一开始：学校你大可不必这么较真//后面：同学你们这就有点过分了](https://dig.chouti.com/link/40892160)|
+|2023-12-12 12:14:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《鲁迅爆改伏地魔》](https://dig.chouti.com/link/40892161)|
+|2023-12-12 07:05:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“税”字当选日本年度汉字，日媒提及岸田绰号“增税眼镜”](https://dig.chouti.com/link/40889374)|
+|2023-12-12 11:04:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[答主用 AI 开发游戏《完蛋！我被名场面包围了》，能带来什么启发？](https://dig.chouti.com/link/40891349)|
+|2023-12-12 08:10:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《芭比》9项提名领跑金球奖，诺兰、斯科塞斯将竞争最佳导演](https://dig.chouti.com/link/40890053)|
+|2023-12-12 09:42:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“男子被诬陷地铁偷拍”案一审宣判：两女子不构成侵权](https://dig.chouti.com/link/40890755)|
+|2023-12-12 06:50:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【董宇辉粉丝“叫板”东方甄选】截至发稿，东方甄选的粉丝一天掉了5万，并且还在持续下降。不少粉丝对这些教培直播间寄予厚望，“打败东方甄选，挖走董宇辉”。12月11日，在连续10天的上涨趋势下，东方甄选股价下跌7.13%。](https://dig.chouti.com/link/40889168)|
+|2023-12-12 11:44:48|[爱范儿](https://www.ifanr.com/feed)|[「一键脱衣」的 AI，连孩子都不放过](https://www.ifanr.com/1570365?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-12 05:58:41|[爱范儿](https://www.ifanr.com/feed)|[特斯拉和小鹏都点赞的这个「神奇技术」，理想 MEGA 为什么却不想要？](https://www.ifanr.com/1569679?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-12 05:48:33|[爱范儿](https://www.ifanr.com/feed)|[坐上这辆 30 年前的车，你活不过一秒](https://www.ifanr.com/1570011?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-12 02:52:01|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[游戏引擎中的可视化编辑器](https://blog.codingnow.com/2023/12/game_engine_editor.html)|
+|2023-12-12 07:12:33|[煎蛋](http://jandan.net/feed)|[电碗：用这种碗盛食物，不放盐也有咸味](http://jandan.net/p/115049)|
+|2023-12-12 04:01:41|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大窝作品](https://sspai.com/post/84930)|
 |2023-12-12 07:25:22|[机核](https://www.gcores.com/rss)|[巨物攀爬模拟器《Chasing the Unseen》2024年3月7日发售](https://www.gcores.com/articles/174981)|
 |2023-12-12 07:10:39|[机核](https://www.gcores.com/rss)|[像小时候捏橡皮泥一样 在VR中3D建模](https://www.gcores.com/videos/174961)|
 |2023-12-12 06:29:44|[机核](https://www.gcores.com/rss)|[《碧海黑帆》将于24年2月16日正式发售，新一轮封测即将开启](https://www.gcores.com/articles/174975)|
