@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-12 03:53:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我是怎么解决 tiktok 零播放问题的](https://w2solo.com/topics/4302)|
+|2023-12-12 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车回应12月28日发布，展车进门店，全国招销售](https://36kr.com/p/2555944797116553)|
+|2023-12-12 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPad的产品线，是时候改变了](https://36kr.com/p/2556385967595650)|
+|2023-12-12 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[王健林不下牌桌](https://36kr.com/p/2556929935006601)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨律师称杨丞琳演唱会机构或被罚款；李斌否认蔚来与合肥对赌1200亿；苹果计划2024年彻底改革iPad产品线](https://36kr.com/p/2557015822588546)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023，没有一个打工人逃得过AI](https://36kr.com/p/2556198864492673)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大模型「混乱期」：谨慎如腾讯，激进如字节](https://36kr.com/p/2555801625319560)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023年底，一些商业观点的转变](https://36kr.com/p/2556227281967490)|
+|2023-12-12 10:38:17|[Macin](https://www.macin.org/atom.xml)|[202311：边城十一月，雨雪乱霏霏](https://macin.org/2023/12/12/202311/)|
+|2023-12-12 10:19:43|[Macin](https://www.macin.org/atom.xml)|[东极岛：不完全登陆攻略](https://macin.org/2023/12/12/dong-ji-dao/)|
+|2023-12-12 01:49:53|[爱范儿](https://www.ifanr.com/feed)|[马斯克教「百年福特」们怎么做车，想解决 1 个 70 年的遗留问题](https://www.ifanr.com/1570240?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-12 01:05:16|[爱范儿](https://www.ifanr.com/feed)|[马斯克版「ChatGPT」Grok 上线！比本人更毒舌，快被网友玩坏了](https://www.ifanr.com/1570144?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-12 00:43:23|[爱范儿](https://www.ifanr.com/feed)|[早报｜余承东、吉利、长城怒怼，懂车帝回应/苹果发布 iOS 17.2 正式版/微信视频号电商 GMV 超千亿](https://www.ifanr.com/1570329?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-12 02:36:28|[I'm TualatriX](https://imtx.me/feed/latest/)|[从一次关于“ADHD”的闲聊讲起…](https://imtx.me/blog/starting-from-a-chat-about-adhd/)|
+|2023-12-12 02:10:00|[知乎每日精选](https://www.zhihu.com/rss)|[写小说是否有捷径可走?](http://www.zhihu.com/question/597106509/answer/3217821152?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-12 01:17:22|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 点击墙纸回到桌面，四周有讨厌的灰框](https://www.v2ex.com/t/999565#reply1)|
 |2023-12-12 01:14:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何看待家长献血 100ml 子女可得 2 入学积分,你们献过血吗](https://www.v2ex.com/t/999564#reply0)|
 |2023-12-12 01:13:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 公司想搞一个关于 AI 问答的知识库](https://www.v2ex.com/t/999563#reply1)|
