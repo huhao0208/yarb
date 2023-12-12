@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-12 19:34:41|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 UTG-Q-003：微软应用商店 7ZIP 供应链投毒事件始末](https://www.v2ex.com/t/999871#reply0)|
+|2023-12-12 19:14:34|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 17.3 开发测试来了](https://www.v2ex.com/t/999870#reply0)|
+|2023-12-12 18:20:35|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 现在都没 1T 的机械硬盘卖了吗？求推荐硬盘](https://www.v2ex.com/t/999868#reply2)|
+|2023-12-12 17:44:59|[V2EX](https://www.v2ex.com/index.xml)|[ Apple GPT4.0 有没有感兴趣的兄弟拼车，自用](https://www.v2ex.com/t/999866#reply0)|
+|2023-12-12 17:22:24|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH Watch OS 10.2 终于把噩梦般的结束体能训练二次确认取消了](https://www.v2ex.com/t/999865#reply0)|
+|2023-12-12 17:05:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 最近刚开始接触 uniapp 有点疑问想麻烦问一下](https://www.v2ex.com/t/999864#reply3)|
+|2023-12-12 16:56:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有大佬知道如何恢复地址栏的挂锁图标吗](https://www.v2ex.com/t/999863#reply0)|
+|2023-12-12 16:41:22|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 轻量博客程序，除了纯静态的，有什么值得推荐的？](https://www.v2ex.com/t/999860#reply3)|
+|2023-12-12 16:32:53|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 山东联通 er-x 上如何设置这几个参数](https://www.v2ex.com/t/999859#reply4)|
+|2023-12-12 16:04:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 不懂就问 为什么 PC 登录 IQOO 自带互传网页版，手机仅开数据流量，却可以将手机照片保存到 PC？下载速度很慢，这是什么机制？若是网盘，那手机仅开数据，为什么下载到 pc 会很慢？](https://www.v2ex.com/t/999858#reply3)|
+|2023-12-12 15:59:46|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 开发招聘](https://www.v2ex.com/t/999857#reply1)|
+|2023-12-12 15:59:10|[V2EX](https://www.v2ex.com/index.xml)|[ Android 下一部买什么？ iPhone 还是 一加 or 其他，比如 vivo？](https://www.v2ex.com/t/999856#reply15)|
+|2023-12-12 15:43:38|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 如果有一天没有网络信号了怎么办？](https://www.v2ex.com/t/999854#reply5)|
+|2023-12-12 15:42:45|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 学习新东西总是遗忘怎么办呢？面试时候又耗费大量时间准备](https://www.v2ex.com/t/999853#reply2)|
+|2023-12-12 15:41:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教下 minio 集群，上传 100G 左右的小文件后，感觉速度有些慢](https://www.v2ex.com/t/999852#reply0)|
+|2023-12-12 15:40:44|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 搞不定了，请教个 flutter 问题](https://www.v2ex.com/t/999851#reply1)|
+|2023-12-12 15:35:45|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 vmware“已死”](https://www.v2ex.com/t/999850#reply0)|
+|2023-12-12 15:35:30|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 有没有人 macos 的设置页面非常卡？](https://www.v2ex.com/t/999849#reply4)|
+|2023-12-12 15:30:10|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 头部 VC 经纬创投 招聘 AI 投资人](https://www.v2ex.com/t/999848#reply1)|
+|2023-12-12 15:28:55|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 问一下深圳的小伙伴们，都在用啥电单车（两个轮）](https://www.v2ex.com/t/999847#reply3)|
+|2023-12-12 15:24:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有做大客户销售的](https://www.v2ex.com/t/999846#reply3)|
+|2023-12-12 15:05:21|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 秋招 offer 选择，腾讯 vs 华为，想听听各位的建议](https://www.v2ex.com/t/999845#reply14)|
+|2023-12-12 15:00:34|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 求助： Zerotier 异常地向 moon 节点大量发送 udp 数据包](https://www.v2ex.com/t/999843#reply0)|
+|2023-12-12 14:52:04|[V2EX](https://www.v2ex.com/index.xml)|[ Python 吐槽 近期 Anaconda 的 Jupyter-qtconsole 包的问题让我很难受](https://www.v2ex.com/t/999842#reply4)|
+|2023-12-12 14:40:46|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 标签记账 喜获退款 把剩余的码发一下😭](https://www.v2ex.com/t/999841#reply8)|
+|2023-12-12 14:32:45|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 今天排完队了,升级 gpt4，怎么支付？](https://www.v2ex.com/t/999840#reply5)|
+|2023-12-12 16:00:00|[Anthony Fu](https://antfu.me/feed.xml)|[TwoSlash with Shikiji](https://antfu.me/posts/shikiji-twoslash)|
+|2023-12-12 16:08:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[TikTok电商重返印尼，但更重要的战场已出现 焦点分析](https://36kr.com/p/2556231256496256)|
+|2023-12-12 16:08:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马云“坐不住”了，刘强东也“急”了](https://36kr.com/p/2557107853320066)|
+|2023-12-12 16:08:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一碗30元，网红面馆卖不动了](https://36kr.com/p/2557229244078721)|
+|2023-12-12 16:08:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI招聘平台「HelloBoss」获数百万美元Pre-A轮融资，BOSS直聘前首席科学家薛延波加入｜36氪首发](https://36kr.com/p/2555998190491780)|
 |2023-12-12 08:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国公司发现与“中国制造”脱钩并非易事](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8F%91%E7%8E%B0%E4%B8%8E-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0-%E8%84%B1%E9%92%A9%E5%B9%B6%E9%9D%9E%E6%98%93%E4%BA%8B-dd542a21)|
 |2023-12-12 10:27:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Linux 爱好者线下沙龙：LLUG 2023·收官在北京](https://linux.cn/article-16465-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-12 09:46:33|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1213 Linux 内核直呼 666~](https://linux.cn/article-16464-1.html?utm_source=rss&utm_medium=rss)|
