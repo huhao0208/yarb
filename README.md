@@ -2,6 +2,49 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-12 08:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国公司发现与“中国制造”脱钩并非易事](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8F%91%E7%8E%B0%E4%B8%8E-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0-%E8%84%B1%E9%92%A9%E5%B9%B6%E9%9D%9E%E6%98%93%E4%BA%8B-dd542a21)|
+|2023-12-12 10:27:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Linux 爱好者线下沙龙：LLUG 2023·收官在北京](https://linux.cn/article-16465-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-12 09:46:33|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1213 Linux 内核直呼 666~](https://linux.cn/article-16464-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-12 04:24:30|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Kali Linux 2023.4 发布：首度支持树莓派 5，并搭载 GNOME 45](https://linux.cn/article-16463-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-12 03:09:46|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[软件开发 利用 Vely 在 Linux 构建你自己的 SaaS](https://linux.cn/article-16462-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-12 15:59:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[下一部买什么？ iPhone 还是 一加 or 其他，比如 vivo？](https://www.v2ex.com/t/999856#reply7)|
+|2023-12-12 15:59:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 开发招聘](https://www.v2ex.com/t/999857#reply0)|
+|2023-12-12 15:42:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[学习新东西总是遗忘怎么办呢？面试时候又耗费大量时间准备](https://www.v2ex.com/t/999853#reply1)|
+|2023-12-12 00:46:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[财务转业 IT, 本以为很容易, 想不到很难, 请问有啥快速提高自身水平的路子吗?](https://www.v2ex.com/t/999553#reply135)|
+|2023-12-12 14:27:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问各位大佬 v8 nodejs 的字节码如何反编译呢？ bytenode 生成的 jsc 文件 ](https://www.v2ex.com/t/999839#reply1)|
+|2023-12-12 03:47:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们电视会买电视会员吗？](https://www.v2ex.com/t/999643#reply77)|
+|2023-12-12 03:37:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[新工具来了！现在程序员做自己的知识付费，很简单！](https://www.v2ex.com/t/999639#reply45)|
+|2023-12-12 14:52:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 吐槽 近期 Anaconda 的 Jupyter-qtconsole 包的问题让我很难受](https://www.v2ex.com/t/999842#reply1)|
+|2023-12-12 12:26:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[提供端到端加密 E2EE 云服务会有法律风险吗](https://www.v2ex.com/t/999804#reply8)|
+|2023-12-12 11:39:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何让 LoadBalancer service 分配 ip 而不是 localhost](https://www.v2ex.com/t/999798#reply1)|
+|2023-12-12 14:17:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux -Nginx 遇到一个玄学问题！](https://www.v2ex.com/t/999837#reply6)|
+|2023-12-12 12:35:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2g 的 423+ 跑 pt 捉襟见肘啊](https://www.v2ex.com/t/999808#reply9)|
+|2023-12-12 02:24:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在还有什么办法能抓取 Q 群成员的 Q 号么](https://www.v2ex.com/t/999599#reply26)|
+|2023-12-12 09:50:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[连接 tailscale，看视频很卡，如何排查？](https://www.v2ex.com/t/999772#reply26)|
+|2023-12-12 06:17:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Java 有什么能够统计或者观察接口请求情况的工具或者方案么？](https://www.v2ex.com/t/999688#reply13)|
+|2023-12-12 13:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows11 多显示时，鼠标指针有时看不见是什么情况？](https://www.v2ex.com/t/999831#reply2)|
+|2023-12-12 07:40:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[虚拟币量化交易开发靠谱不？](https://www.v2ex.com/t/999727#reply18)|
+|2023-12-12 04:19:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google Play Console 怎么通过 github action 自动化部署新版本?](https://www.v2ex.com/t/999650#reply6)|
+|2023-12-12 02:32:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[同 database 不同 schema 多租户连接池问题](https://www.v2ex.com/t/999606#reply33)|
+|2023-12-12 10:49:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[flutter archive 只能解码 utf8 编码的 zip，中文编码压缩的就跪了，有办法吗](https://www.v2ex.com/t/999784#reply10)|
+|2023-12-12 03:36:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何确定 powershell 在终端输出的信息是 stdout 还是 stderr？](https://www.v2ex.com/t/999636#reply17)|
+|2023-12-12 07:57:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓小组件不刷新问题，魅族 18，要点进去应用才会刷新](https://www.v2ex.com/t/999740#reply4)|
+|2023-12-12 05:57:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[日经贴求助： 27 岁转码各位提提建议](https://www.v2ex.com/t/999677#reply36)|
+|2023-12-12 09:17:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我的自建 NAS](https://www.v2ex.com/t/999761#reply8)|
+|2023-12-12 08:59:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[k8s 某个 deployment 如何自动伸缩到 node 的数量](https://www.v2ex.com/t/999755#reply6)|
+|2023-12-12 16:04:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 不懂就问 为什么 PC 登录 IQOO 自带互传网页版，手机仅开数据流量，却可以将手机照片保存到 PC？下载速度很慢，这是什么机制？若是网盘，那手机仅开数据，为什么下载到 pc 会很慢？](https://www.v2ex.com/t/999858#reply0)|
+|2023-12-12 15:00:00|[机核](https://www.gcores.com/rss)|[世界的鲜血在阴影中流淌 出版编辑们的幻想书单 Vol.2](https://www.gcores.com/radios/174886)|
+|2023-12-12 14:43:34|[机核](https://www.gcores.com/rss)|[E3正式成为历史：美国娱乐软件协会确认展会寿终正寝](https://www.gcores.com/articles/174995)|
+|2023-12-12 14:00:00|[机核](https://www.gcores.com/rss)|[从头到脚体验一遍《铁拳8》！让AI模仿自己会很厉害吗？](https://www.gcores.com/videos/174980)|
+|2023-12-12 14:00:00|[机核](https://www.gcores.com/rss)|[新角色，新剧情，新系统：机核群访《铁拳8》制作人](https://www.gcores.com/articles/174947)|
+|2023-12-12 11:12:00|[机核](https://www.gcores.com/rss)|[现在的《仙境传说》，早已不只是一场对“青春”的青涩回忆](https://www.gcores.com/articles/174978)|
+|2023-12-12 10:51:14|[机核](https://www.gcores.com/rss)|[你们不要吵啦！《浩劫前夕》就是今年的最烂游戏之王！](https://www.gcores.com/videos/174988)|
+|2023-12-12 10:00:00|[机核](https://www.gcores.com/rss)|[年终秒杀低至 3 折起！吉考斯福利优惠活动再继续](https://www.gcores.com/articles/174941)|
+|2023-12-12 09:02:44|[机核](https://www.gcores.com/rss)|[《卧龙》第三弹DLC“风起荆襄”现已发售，新增12个关卡](https://www.gcores.com/articles/174986)|
+|2023-12-12 09:00:00|[机核](https://www.gcores.com/rss)|[以为可以花钱买的快乐，录音笔 VOL.97](https://www.gcores.com/radios/174984)|
+|2023-12-12 07:05:23|[中文信息学报](https://feedpress.me/wx-jcip1986)|[计算论辩专栏](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485405&idx=2&sn=f4c9dd903bfa5635c9ddabd9c1004b21)|
+|2023-12-12 07:05:23|[中文信息学报](https://feedpress.me/wx-jcip1986)|[《中文信息学报》新刊概览∣ 2023年第10期（37卷第10期）](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485405&idx=1&sn=1d31cfc3789912fe1b76de1c7e215c36)|
+|2023-12-12 04:41:27|[知乎每日精选](https://www.zhihu.com/rss)|[觉得自己画的太丑了，画不下去怎么办?](http://www.zhihu.com/question/460043107/answer/2969589390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-12 08:30:47|[Hi, I Am I](https://5ime.cn/atom.xml)|[某内网渗透内部赛 Writeup](https://5ime.cn/msa-intranet-penetration.html)|
 |2023-12-12 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：为什么要参加游戏测试？](http://www.chuapp.com/article/289685.html)|
 |2023-12-12 12:00:00|[触乐](http://www.chuapp.com/feed)|[为梦起航：《Last Sentinel》与光子的新十年](http://www.chuapp.com/article/289683.html)|
