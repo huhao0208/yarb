@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[月薪两万，啥也买不起？](https://36kr.com/p/2558662994402433)|
+|2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发丨「谛声科技」获超亿元B+轮融资，推进工业领域声学监测技术应用，中国移动旗下基金领投](https://36kr.com/p/2557735319854210)|
+|2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[「排队卖身」，智能驾驶大逃杀｜深氪lite](https://36kr.com/p/2557846915767685)|
+|2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[网红公司，草台班子？](https://36kr.com/p/2558453362695558)|
+|2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[阿里云首席商业官蔡英华离职 36氪独家](https://36kr.com/p/2558863408176258)|
+|2023-12-13 04:03:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[破380亿赌局，王健林王者归来？](https://36kr.com/p/2558379833286019)|
+|2023-12-13 04:03:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[我36岁，985本科毕业，用了整整14年的光阴，换来了一个惨痛的教训......](https://36kr.com/p/2557424818969992)|
+|2023-12-13 04:03:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[东方甄选“后院起火”](https://36kr.com/p/2558483523379335)|
+|2023-12-13 04:03:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李飞飞谷歌破局之作，用Transformer生成逼真视频，下一个Pika来了？](https://36kr.com/p/2557326571396226)|
+|2023-12-13 04:03:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在小红书月赚百万，“厂二代”们迎来泼天富贵](https://36kr.com/p/2557367294320003)|
+|2023-12-13 04:03:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨微信短剧小程序开始收取保证金；万达电影：实际控制人将变更为柯利明；郑爽被强制执行9050万元](https://36kr.com/p/2558440188042374)|
+|2023-12-13 04:03:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[刚刚，万达对赌危机解除，王健林“有救了”？](https://36kr.com/p/2557554817785224)|
+|2023-12-13 16:05:00|[虎嗅](https://rss.huxiu.com/)|[一条命，该“值”多少钱？](https://www.huxiu.com/article/2421632.html?f=rss)|
+|2023-12-13 14:06:30|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 对 Bash 感到厌倦？教你如何在 Linux 中更改默认 Shell](https://linux.cn/article-16469-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-13 12:16:50|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Armbian 23.11 版本全新上线](https://linux.cn/article-16468-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-13 09:10:03|[小众软件](https://www.appinn.com/feed/)|[宝宝起名软件 – 宝爸开发者用 AI「训练」几十万古诗词，做了一款宝宝起名应用 iPhone ](https://www.appinn.com/baobao-qiming/)|
+|2023-12-13 07:17:25|[小众软件](https://www.appinn.com/feed/)|[只听数字，英文听力练习｜听力数字专练](https://www.appinn.com/listen-to-numbers-in-english/)|
 |2023-12-13 04:41:21|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[害怕 Google Map 你的位置 會看光光嗎？Google 做了五大調整](https://applefans.today/2023-12-google-map-updates-to-location-history/)|
 |2023-12-13 10:50:00|[爱范儿](https://www.ifanr.com/feed)|[特斯拉人形机器人二代来了！手捏鸡蛋，深蹲蹦迪，更像真人了](https://www.ifanr.com/1570428?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-13 07:04:39|[爱范儿](https://www.ifanr.com/feed)|[库克都帮忙宣发的新歌，背后有什么魔力？](https://www.ifanr.com/1570406?utm_source=rss&utm_medium=rss&utm_campaign=)|
