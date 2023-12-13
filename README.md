@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-13 00:07:24|[余晟以为](https://feedpress.me/wx-yurii-says)|[Morricone，百转千回的缘分](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009780&idx=1&sn=8d2f39ab8bff0fdc72c757f51a02c711)|
+|2023-12-13 04:01:50|[机核](https://www.gcores.com/rss)|[PlayStation「2023年度精彩回顾」页面已上线](https://www.gcores.com/articles/175002)|
+|2023-12-13 02:42:12|[机核](https://www.gcores.com/rss)|[准备好钱包！2024年Steam特卖及游戏节日程公布](https://www.gcores.com/articles/175001)|
+|2023-12-13 01:45:43|[机核](https://www.gcores.com/rss)|[《俄罗斯方块99》X《超级马力欧兄弟 惊奇》特别联动将于本周五开启](https://www.gcores.com/articles/175000)|
+|2023-12-13 01:29:10|[机核](https://www.gcores.com/rss)|[《使命召唤 现代战争3》 2023 将于本周五开启免费试玩周末](https://www.gcores.com/articles/174999)|
+|2023-12-13 01:18:05|[机核](https://www.gcores.com/rss)|[《致命公司》热度不减、Steam Deck持续登顶：Steam周销量排行榜 2023年12月第2周](https://www.gcores.com/articles/174998)|
+|2023-12-13 03:39:22|[爱范儿](https://www.ifanr.com/feed)|[华为余承东怒怼懂车帝，「坑人」的冬测有什么猫腻？](https://www.ifanr.com/1570383?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-13 00:36:40|[爱范儿](https://www.ifanr.com/feed)|[早报｜小米指责余承东抹黑同行误导公众/苹果 Vision Pro 可年产 100 万台/微信短剧小程序开始收取保证金](https://www.ifanr.com/1570397?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-13 00:54:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有适合个人开发者的数据库推荐](https://www.v2ex.com/t/999887#reply8)|
 |2023-12-12 19:34:41|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 UTG-Q-003：微软应用商店 7ZIP 供应链投毒事件始末](https://www.v2ex.com/t/999871#reply0)|
 |2023-12-12 19:14:34|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 17.3 开发测试来了](https://www.v2ex.com/t/999870#reply0)|
