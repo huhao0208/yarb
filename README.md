@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-12）
+﻿# 每日资讯（2023-12-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-13 00:54:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有适合个人开发者的数据库推荐](https://www.v2ex.com/t/999887#reply8)|
 |2023-12-12 19:34:41|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 UTG-Q-003：微软应用商店 7ZIP 供应链投毒事件始末](https://www.v2ex.com/t/999871#reply0)|
 |2023-12-12 19:14:34|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 17.3 开发测试来了](https://www.v2ex.com/t/999870#reply0)|
 |2023-12-12 18:20:35|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 现在都没 1T 的机械硬盘卖了吗？求推荐硬盘](https://www.v2ex.com/t/999868#reply2)|
