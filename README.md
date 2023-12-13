@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-13 08:13:13|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[什么样的富人社区，才养得起这种面馆？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447228&idx=1&sn=3aadde3a9e4052458334c32d72d6cce4)|
+|2023-12-13 09:31:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[𝑂𝑝𝑒𝑛𝐴𝐼 𝐴𝑃𝐼 𝑃𝑟𝑜𝑥y 愚公代理](https://w2solo.com/topics/4308)|
+|2023-12-13 10:18:16|[Finisky Garden](https://finisky.github.io/atom.xml)|[小模型的惊人能力: Phi-2](https://finisky.github.io/phi2-the-surprising-power-summary/)|
+|2023-12-13 11:33:52|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[在Rust中处理整数溢出](https://jasonkayzk.github.io/2023/12/13/%E5%9C%A8Rust%E4%B8%AD%E5%A4%84%E7%90%86%E6%95%B4%E6%95%B0%E6%BA%A2%E5%87%BA/)|
+|2023-12-13 00:46:29|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[Rust中的向下转型](https://jasonkayzk.github.io/2023/12/13/Rust%E4%B8%AD%E7%9A%84%E5%90%91%E4%B8%8B%E8%BD%AC%E5%9E%8B/)|
+|2023-12-13 05:56:00|[一个工匠](https://www.yigegongjiang.com/atom.xml)|[【Swift 三方源码1】SwiftShell 高效的命令行工具](https://www.yigegongjiang.com/2023/SwiftSystemShell/)|
+|2023-12-13 03:27:00|[一个工匠](https://www.yigegongjiang.com/atom.xml)|[Swift 脚本开发环境搭建](https://www.yigegongjiang.com/2023/SwiftCommandEnv/)|
 |2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[月薪两万，啥也买不起？](https://36kr.com/p/2558662994402433)|
 |2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发丨「谛声科技」获超亿元B+轮融资，推进工业领域声学监测技术应用，中国移动旗下基金领投](https://36kr.com/p/2557735319854210)|
 |2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[「排队卖身」，智能驾驶大逃杀｜深氪lite](https://36kr.com/p/2557846915767685)|
