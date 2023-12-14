@@ -2,6 +2,62 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-14 01:37:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[卖出小耳窿？](http://mercurychong.blogspot.com/2023/12/blog-post_13.html)|
+|2023-12-14 12:30:51|[虎嗅](https://rss.huxiu.com/)|[双十二开始消失，快递网点的盈利希望又少了一些](https://www.huxiu.com/article/2425109.html?f=rss)|
+|2023-12-14 12:00:00|[虎嗅](https://rss.huxiu.com/)|[碧桂园与万达交易，能解燃眉之急吗？](https://www.huxiu.com/article/2425139.html?f=rss)|
+|2023-12-14 11:41:26|[虎嗅](https://rss.huxiu.com/)|[西部百强区第一区，是怎样炼成的？](https://www.huxiu.com/article/2425162.html?f=rss)|
+|2023-12-14 11:19:48|[虎嗅](https://rss.huxiu.com/)|[MCN不是一门好生意：从董宇辉“小作文”事件说起](https://www.huxiu.com/article/2425494.html?f=rss)|
+|2023-12-14 11:05:00|[虎嗅](https://rss.huxiu.com/)|[“内卷”的降糖药，能靠进医保活下来吗？](https://www.huxiu.com/article/2424685.html?f=rss)|
+|2023-12-14 11:04:00|[虎嗅](https://rss.huxiu.com/)|[如何写出漂亮的年终汇报](https://www.huxiu.com/article/2423799.html?f=rss)|
+|2023-12-14 10:46:37|[虎嗅](https://rss.huxiu.com/)|[基金经理跳槽的代价](https://www.huxiu.com/article/2420480.html?f=rss)|
+|2023-12-14 10:45:25|[虎嗅](https://rss.huxiu.com/)|[制造业的“下半场”：供应链的“坚韧”程度](https://www.huxiu.com/article/2414901.html?f=rss)|
+|2023-12-14 10:21:59|[虎嗅](https://rss.huxiu.com/)|[《易经》到底讲了啥？怎么算卦？](https://www.huxiu.com/article/2425142.html?f=rss)|
+|2023-12-14 10:04:31|[虎嗅](https://rss.huxiu.com/)|[前脚跌停、后脚涨停，碳酸锂深V反转](https://www.huxiu.com/article/2425102.html?f=rss)|
+|2023-12-14 10:00:44|[虎嗅](https://rss.huxiu.com/)|[收集事实，减少过度想象](https://www.huxiu.com/article/2425138.html?f=rss)|
+|2023-12-14 09:59:01|[虎嗅](https://rss.huxiu.com/)|[北国大地，雪的诱惑](https://www.huxiu.com/article/2424655.html?f=rss)|
+|2023-12-14 09:54:06|[虎嗅](https://rss.huxiu.com/)|[医院员工泄露周海媚病历，为何被行拘？](https://www.huxiu.com/article/2425111.html?f=rss)|
+|2023-12-14 09:52:40|[虎嗅](https://rss.huxiu.com/)|[2023年国谈结果出炉，明星抗癌药折戟](https://www.huxiu.com/article/2425098.html?f=rss)|
+|2023-12-14 09:43:00|[虎嗅](https://rss.huxiu.com/)|[音乐与食饮联动营销，创造品牌价值新思路？](https://www.huxiu.com/article/2424244.html?f=rss)|
+|2023-12-14 09:36:32|[虎嗅](https://rss.huxiu.com/)|[抱上茅台大腿，陆正耀醉翁之意不在酒](https://www.huxiu.com/article/2425097.html?f=rss)|
+|2023-12-14 09:35:00|[虎嗅](https://rss.huxiu.com/)|[快狗市值跌超百亿，股东忙着“出逃”](https://www.huxiu.com/article/2425096.html?f=rss)|
+|2023-12-14 09:00:56|[虎嗅](https://rss.huxiu.com/)|[你真的会做笔记吗？如何打造你的第二大脑](https://www.huxiu.com/article/2424654.html?f=rss)|
+|2023-12-14 08:57:01|[虎嗅](https://rss.huxiu.com/)|[日本人的笑之乾坤](https://www.huxiu.com/article/2424705.html?f=rss)|
+|2023-12-14 08:56:53|[虎嗅](https://rss.huxiu.com/)|[一边倒看涨？华尔街找不到一个日股“空头”](https://www.huxiu.com/article/2425088.html?f=rss)|
+|2023-12-14 08:45:41|[虎嗅](https://rss.huxiu.com/)|[“司机变总裁，三年营收上亿”，成功究竟靠什么？](https://www.huxiu.com/article/2425065.html?f=rss)|
+|2023-12-14 08:43:07|[虎嗅](https://rss.huxiu.com/)|[2024年，奢侈品牌将经受考验](https://www.huxiu.com/article/2425089.html?f=rss)|
+|2023-12-14 08:40:00|[虎嗅](https://rss.huxiu.com/)|[俞敏洪向董宇辉致歉，否认CEO与董宇辉二选一](https://www.huxiu.com/article/2425066.html?f=rss)|
+|2023-12-14 08:35:23|[虎嗅](https://rss.huxiu.com/)|[寒潮下南方人和北方人谁慌了？](https://www.huxiu.com/article/2424656.html?f=rss)|
+|2023-12-14 08:33:00|[虎嗅](https://rss.huxiu.com/)|[雪后北京：“望长城内外，惟余莽莽”](https://www.huxiu.com/article/2424643.html?f=rss)|
+|2023-12-14 08:20:00|[虎嗅](https://rss.huxiu.com/)|[Pika想干掉Runway，AI视频生成有多卷？‍‍‍‍‍‍‍‍](https://www.huxiu.com/article/2424674.html?f=rss)|
+|2023-12-14 08:16:23|[虎嗅](https://rss.huxiu.com/)|[GP：自己养起来的LP才能靠得住](https://www.huxiu.com/article/2424687.html?f=rss)|
+|2023-12-14 07:43:33|[虎嗅](https://rss.huxiu.com/)|[董宇辉“小作文”事件，反映出粉丝经济的底层矛盾](https://www.huxiu.com/article/2424639.html?f=rss)|
+|2023-12-14 07:43:26|[虎嗅](https://rss.huxiu.com/)|[内向的孩子没出息？这是何等愚蠢无知的偏见](https://www.huxiu.com/article/2424645.html?f=rss)|
+|2023-12-14 07:42:28|[虎嗅](https://rss.huxiu.com/)|[重庆职业足球的消亡与重生](https://www.huxiu.com/article/2421663.html?f=rss)|
+|2023-12-14 07:30:00|[虎嗅](https://rss.huxiu.com/)|[夜店不让丑人进？](https://www.huxiu.com/article/2419900.html?f=rss)|
+|2023-12-14 07:20:05|[虎嗅](https://rss.huxiu.com/)|[英语的双关，可以闹出多少笑话？](https://www.huxiu.com/article/2424224.html?f=rss)|
+|2023-12-14 07:17:35|[虎嗅](https://rss.huxiu.com/)|[苹果iOS 17.2推送了，升还是不升？](https://www.huxiu.com/article/2424199.html?f=rss)|
+|2023-12-14 07:13:50|[虎嗅](https://rss.huxiu.com/)|[大专毕业月入3万，你刷的土味短剧就是我写的](https://www.huxiu.com/article/2423396.html?f=rss)|
+|2023-12-14 07:12:25|[虎嗅](https://rss.huxiu.com/)|[功率半导体，日本押下重注](https://www.huxiu.com/article/2423418.html?f=rss)|
+|2023-12-14 07:07:49|[虎嗅](https://rss.huxiu.com/)|[广漂5年，我却很幸福？](https://www.huxiu.com/article/2423840.html?f=rss)|
+|2023-12-14 06:53:36|[虎嗅](https://rss.huxiu.com/)|[人民币基金成了“全村的希望”？](https://www.huxiu.com/article/2424252.html?f=rss)|
+|2023-12-14 06:52:49|[虎嗅](https://rss.huxiu.com/)|[普通人容易忽略的26条营销常识](https://www.huxiu.com/article/2424644.html?f=rss)|
+|2023-12-14 06:50:35|[虎嗅](https://rss.huxiu.com/)|[网红公司，草台班子？](https://www.huxiu.com/article/2423382.html?f=rss)|
+|2023-12-14 06:48:04|[虎嗅](https://rss.huxiu.com/)|[COP28气候峰会落幕：各国历史性同意“摆脱”化石燃料](https://www.huxiu.com/article/2424633.html?f=rss)|
+|2023-12-14 06:41:00|[虎嗅](https://rss.huxiu.com/)|[哈尔滨两周之旅：发现有趣小细节](https://www.huxiu.com/article/2424169.html?f=rss)|
+|2023-12-14 06:29:23|[虎嗅](https://rss.huxiu.com/)|[“前脚跌停，后脚涨停”，碳酸锂期货频繁异动](https://www.huxiu.com/article/2424206.html?f=rss)|
+|2023-12-14 06:07:16|[虎嗅](https://rss.huxiu.com/)|[2023年贺岁电影：一眼多，二眼好多](https://www.huxiu.com/article/2420713.html?f=rss)|
+|2023-12-14 05:21:34|[虎嗅](https://rss.huxiu.com/)|[蛋糕快被OpenAI们分完了，AI初创公司陷入融资困境](https://www.huxiu.com/article/2424170.html?f=rss)|
+|2023-12-14 05:10:00|[虎嗅](https://rss.huxiu.com/)|[张雪峰说文科生都是服务业，对吗](https://www.huxiu.com/article/2423841.html?f=rss)|
+|2023-12-14 04:55:00|[虎嗅](https://rss.huxiu.com/)|[一些想法：在2023年底再看香港](https://www.huxiu.com/article/2423368.html?f=rss)|
+|2023-12-14 04:38:28|[虎嗅](https://rss.huxiu.com/)|[同样下架《堡垒之夜》，为什么苹果的反垄断官司赢了，谷歌却输了？](https://www.huxiu.com/article/2423833.html?f=rss)|
+|2023-12-14 04:32:00|[虎嗅](https://rss.huxiu.com/)|[迷茫的年轻人，还不想认命](https://www.huxiu.com/article/2396017.html?f=rss)|
+|2023-12-14 04:30:00|[虎嗅](https://rss.huxiu.com/)|[个人养老金，你交了吗？](https://www.huxiu.com/article/2419907.html?f=rss)|
+|2023-12-14 04:13:09|[虎嗅](https://rss.huxiu.com/)|[廉航座位逼疯打工人](https://www.huxiu.com/article/2411363.html?f=rss)|
+|2023-12-14 09:43:54|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[小心，知识正走向阶层固化](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892587&idx=1&sn=156e6b38a220475410c47cc68af1da4f)|
+|2023-12-14 09:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[5年內印度iPhone產量增五倍，蘋果供應鏈加速投資](https://www.iphonetaiwan.org/2023/12/apple-india-manufacturing-expansion.html)|
+|2023-12-14 09:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Spotify與蘋果之爭：歐盟計劃重塑iPhone支付生態](https://www.iphonetaiwan.org/2023/12/eu-challenge-apple-spotify-iphone-payment.html)|
+|2023-12-14 09:04:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果地圖提升 AR 場景精準度：擴增實境新突破](https://www.iphonetaiwan.org/2023/12/apple-maps-ar-data-collection.html)|
+|2023-12-14 08:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[台積電與蘋果攜手2奈米晶片：科技新紀元即將來臨](https://www.iphonetaiwan.org/2023/12/taiwan-semiconductor-apple-2nm-chips.html)|
 |2023-12-14 07:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[拜登、习近平接连到访，为何人人都想拉拢越南？](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8B%9C%E7%99%BB%E7%BA%B7%E7%BA%B7%E5%88%B0%E8%AE%BF-%E4%B8%BA%E4%BD%95%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%83%B3%E6%88%90%E4%B8%BA%E8%B6%8A%E5%8D%97%E7%9A%84%E6%9C%8B%E5%8F%8B-a61dd8c6)|
 |2023-12-14 07:36:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【还争什么「新闻女王」，AI要7x24小时播新闻了】该系统的目的是取代那些只会照着提词器念稿子的主播，而不是真正的记者。](https://dig.chouti.com/link/40908659)|
 |2023-12-14 05:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【王莽的朋友圈】如果王莽生活的时代有微信朋友圈，想想看，王莽发一条消息，会有哪些人回应点赞？我们将得到一个长长的名单。](https://dig.chouti.com/link/40907607)|
