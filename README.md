@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-14 23:15:00|[plus studio](https://studyinglover.com/atom.xml)|[google gemini api使用](https://studyinglover.com/2023/12/14/google%20gemini%20api%E4%BD%BF%E7%94%A8/)|
+|2023-12-14 22:40:00|[plus studio](https://studyinglover.com/atom.xml)|[google gemini api申请](https://studyinglover.com/2023/12/14/google%20gemini%20api%E7%94%B3%E8%AF%B7/)|
+|2023-12-14 13:09:00|[触乐](http://www.chuapp.com/feed)|[一场“蛋仔派对”，可以成为家庭的亲情派对吗？](http://www.chuapp.com/article/289688.html)|
+|2023-12-14 12:55:24|[触乐](http://www.chuapp.com/feed)|[触乐夜话：当ADHD被误读](http://www.chuapp.com/article/289689.html)|
+|2023-12-14 11:51:00|[RSS feed of superl...](https://raw.githubusercontent.com/superleeyom/blog/master/feed.xml)|[Postman如何配置动态端口和IP](https://github.com/superleeyom/blog/issues/56)|
+|2023-12-14 16:05:00|[虎嗅](https://rss.huxiu.com/)|[历史学者段志强：去崇明乡野，过具体微小的日子](https://www.huxiu.com/article/2421041.html?f=rss)|
+|2023-12-14 07:22:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Joplin 和 Obsidian 作为笔记软件哪个更好](https://www.v2ex.com/t/1000378#reply59)|
+|2023-12-14 13:03:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[直连 cloudflare pages 被劫持到黄网 持续时间 17 点 45 到 20 点 49 ](https://www.v2ex.com/t/1000483#reply4)|
+|2023-12-14 05:21:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[感觉 C# 在蚕食 Python 的生态](https://www.v2ex.com/t/1000331#reply68)|
+|2023-12-14 11:44:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年底，还有哪家 国产 手机可以刷原厂海外 ROM？？](https://www.v2ex.com/t/1000463#reply28)|
+|2023-12-14 01:39:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[m3 max 和 13900k cpu 性能的简单对比](https://www.v2ex.com/t/1000236#reply65)|
+|2023-12-14 10:00:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[cloudflare tunnel 有私有化部署的替代方案吗？](https://www.v2ex.com/t/1000439#reply12)|
+|2023-12-14 15:35:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 fio 延迟指标的选择和计算](https://www.v2ex.com/t/1000519#reply0)|
+|2023-12-14 13:47:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[今天分享一个前端开发的刷题小程序，自己使用了一段时间，感觉非常好用，界面清爽，功能实用，问题全，回答很清晰。对于最近有面试需求的小伙伴，或者平时想提升技术的小伙伴，大有帮助。](https://w2solo.com/topics/4310)|
+|2023-12-14 16:06:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[董宇辉都出面了，东方甄选为何没能安抚愤怒的“粉丝”？](https://36kr.com/p/2559177198541954)|
+|2023-12-14 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[蔚来再「自救」：亏损已超800亿元，频砍业务优先卖车](https://36kr.com/p/2559917543562625)|
+|2023-12-14 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Zara前三季度营收利润大涨；资生堂成立风投基金；玛氏年收入已增至500亿美元丨品牌日报](https://36kr.com/p/2559968138665093)|
+|2023-12-14 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“华为天才”稚晖君再融资，金额超6亿元，投前估值35亿元 36氪独家](https://36kr.com/p/2560285742488705)|
+|2023-12-14 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[巨型LV游过黄浦江，除了土还有别的吗？｜营销观察](https://36kr.com/p/2558770428648577)|
+|2023-12-14 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[将小众技术路线的3D打印机卖到10亿元，一个跨境老兵的转型之路｜Insight全球](https://36kr.com/p/2559262318796162)|
+|2023-12-14 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[俞敏洪管不住一个小编](https://36kr.com/p/2560053259672964)|
+|2023-12-14 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美团的酒，抖音要干了](https://36kr.com/p/2558901118213505)|
+|2023-12-14 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨董宇辉再回应“小作文”事件；iPhone 16或调整相机岛设计；官方回应杨丞琳演唱会主办方经营异常](https://36kr.com/p/2559850747305089)|
+|2023-12-14 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉人形机器人二代来了，手捏鸡蛋，深蹲蹦迪，更像真人了](https://36kr.com/p/2559111605869703)|
+|2023-12-14 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Lululemon重注男装品类；阿迪达斯想在中国翻身；优衣库加速布局北美丨品牌日报](https://36kr.com/p/2558708610719107)|
+|2023-12-14 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[最前线 小米首款车配备最高101度电池，续航里程800公里](https://36kr.com/p/2558024757009796)|
+|2023-12-14 04:03:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人口，开始逆向流动了！](https://36kr.com/p/2558899879582855)|
+|2023-12-14 12:08:09|[晚点LatePost](https://feedpress.me/wx-postlate)|[见面会丨「晚点聊 LateTalk」两周年，不定期更新 50 期后的第一次线下相遇](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510492&idx=2&sn=71f6431c7a33843a2a57fdc855ceab6c)|
+|2023-12-14 12:08:08|[晚点LatePost](https://feedpress.me/wx-postlate)|[拆解腾讯游戏魔方工作室群：聚光灯外的突围](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510492&idx=1&sn=4da46df19f67148c218a6608b0d3546c)|
 |2023-12-14 01:37:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[卖出小耳窿？](http://mercurychong.blogspot.com/2023/12/blog-post_13.html)|
 |2023-12-14 12:30:51|[虎嗅](https://rss.huxiu.com/)|[双十二开始消失，快递网点的盈利希望又少了一些](https://www.huxiu.com/article/2425109.html?f=rss)|
 |2023-12-14 12:00:00|[虎嗅](https://rss.huxiu.com/)|[碧桂园与万达交易，能解燃眉之急吗？](https://www.huxiu.com/article/2425139.html?f=rss)|
