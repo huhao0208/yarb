@@ -1,12 +1,25 @@
-﻿# 每日资讯（2023-12-13）
+﻿# 每日资讯（2023-12-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-14 01:00:00|[机核](https://www.gcores.com/rss)|[Epic假日送好礼：239元《命运2》“传承收藏”组合包免费领](https://www.gcores.com/articles/175044)|
+|2023-12-14 01:11:34|[虎嗅](https://rss.huxiu.com/)|[从苏鲁浙到苏浙鲁，山东想重回“第二”？](https://www.huxiu.com/article/2422079.html?f=rss)|
+|2023-12-14 01:09:18|[虎嗅](https://rss.huxiu.com/)|[“厌女症”跟“性别歧视”有什么不同？](https://www.huxiu.com/article/2410508.html?f=rss)|
+|2023-12-14 01:01:30|[虎嗅](https://rss.huxiu.com/)|[盐湖股份被曝碳酸锂不符合广期所交割标准？](https://www.huxiu.com/article/2423053.html?f=rss)|
+|2023-12-14 01:00:00|[虎嗅](https://rss.huxiu.com/)|[谁“杀死”了西双版纳的古树普洱](https://www.huxiu.com/article/2420612.html?f=rss)|
+|2023-12-14 00:54:06|[虎嗅](https://rss.huxiu.com/)|[住建部副部长董建国：房企债务违约不等同于“爆雷”](https://www.huxiu.com/article/2422582.html?f=rss)|
+|2023-12-14 00:35:24|[虎嗅](https://rss.huxiu.com/)|[医保谈判支持医药创新，体现在哪里？](https://www.huxiu.com/article/2422118.html?f=rss)|
+|2023-12-14 00:33:00|[虎嗅](https://rss.huxiu.com/)|[“AI文生图著作权第一案” 引发的争议](https://www.huxiu.com/article/2422113.html?f=rss)|
+|2023-12-14 00:15:00|[虎嗅](https://rss.huxiu.com/)|[1万韩元即可买下你的悲惨人生](https://www.huxiu.com/article/2420443.html?f=rss)|
+|2023-12-14 00:08:00|[虎嗅](https://rss.huxiu.com/)|[钱在谁手里？](https://www.huxiu.com/article/2423081.html?f=rss)|
+|2023-12-14 00:06:36|[虎嗅](https://rss.huxiu.com/)|[美联储预计明年降息，黄金、美股大涨](https://www.huxiu.com/article/2423079.html?f=rss)|
+|2023-12-14 00:05:22|[虎嗅](https://rss.huxiu.com/)|[安全型恋人：需要你，但又没那么需要你](https://www.huxiu.com/article/2422061.html?f=rss)|
 |2023-12-13 08:13:13|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[什么样的富人社区，才养得起这种面馆？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447228&idx=1&sn=3aadde3a9e4052458334c32d72d6cce4)|
 |2023-12-13 09:31:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[𝑂𝑝𝑒𝑛𝐴𝐼 𝐴𝑃𝐼 𝑃𝑟𝑜𝑥y 愚公代理](https://w2solo.com/topics/4308)|
 |2023-12-13 10:18:16|[Finisky Garden](https://finisky.github.io/atom.xml)|[小模型的惊人能力: Phi-2](https://finisky.github.io/phi2-the-surprising-power-summary/)|
 |2023-12-13 11:33:52|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[在Rust中处理整数溢出](https://jasonkayzk.github.io/2023/12/13/%E5%9C%A8Rust%E4%B8%AD%E5%A4%84%E7%90%86%E6%95%B4%E6%95%B0%E6%BA%A2%E5%87%BA/)|
 |2023-12-13 00:46:29|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[Rust中的向下转型](https://jasonkayzk.github.io/2023/12/13/Rust%E4%B8%AD%E7%9A%84%E5%90%91%E4%B8%8B%E8%BD%AC%E5%9E%8B/)|
+|2023-12-14 00:00:00|[疯投圈](https://crazy.capital/feed)|[87. 经济动能切换，普通人何去何从？](https://crazy.capital/87)|
 |2023-12-13 05:56:00|[一个工匠](https://www.yigegongjiang.com/atom.xml)|[【Swift 三方源码1】SwiftShell 高效的命令行工具](https://www.yigegongjiang.com/2023/SwiftSystemShell/)|
 |2023-12-13 03:27:00|[一个工匠](https://www.yigegongjiang.com/atom.xml)|[Swift 脚本开发环境搭建](https://www.yigegongjiang.com/2023/SwiftCommandEnv/)|
 |2023-12-13 16:05:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[月薪两万，啥也买不起？](https://36kr.com/p/2558662994402433)|
