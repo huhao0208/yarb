@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-14 16:20:56|[爱范儿](https://www.ifanr.com/feed)|[充电速度再创纪录！极氪发布全新电池，极氪 007 首发搭载](https://www.ifanr.com/1570473?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-14 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[猫几天不见主人会怎么样？会以为自己被抛弃了吗？](https://www.zhihu.com/question/624586504)|
+|2023-12-14 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家说的体验比较好的健身房是什么样？](https://www.zhihu.com/question/632442838)|
+|2023-12-14 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年有哪一款香水是你的年度「本命香」？](https://www.zhihu.com/question/630322766)|
+|2023-12-14 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[给老年人买手机要买智能手机吗？](https://www.zhihu.com/question/632043038)|
+|2023-12-14 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 湖人 122:119 马刺，如何评价这场比赛？](https://www.zhihu.com/question/634778473)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[刚满 30 岁，互联网大厂员工，现在离职去国企是好选择吗？](https://www.zhihu.com/question/632472649)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《大国之树》中，水哥提到近几年经常在自家院子里种各种植物，当人看到自己种植的植物时，会有精神疗愈吗？](https://www.zhihu.com/question/634197229)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年你有哪些与《英雄联盟》有关，印象深刻的瞬间想要分享?](https://www.zhihu.com/question/633418367)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[千万粉丝网红痞幼就盗用他人视频道歉，短视频创作中应如何保护版权？](https://www.zhihu.com/question/634777153)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中央气象台持续发布寒潮暴雪冰冻黄色预警和大风蓝色预警，有哪些信息值得关注？](https://www.zhihu.com/question/634793404)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 ChatGPT 当选《自然》杂志 2023 年度科学人物？](https://www.zhihu.com/question/634821343)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[北京调整优化购房政策，首套房首付比例降至 3 成， 二套降至 40% ，还有哪些信息值得关注？](https://www.zhihu.com/question/634836447)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有多少人希望在自己上学的时候有一个「张雪峰老师」如果有了，自己现在会不会很不一样 ?](https://www.zhihu.com/question/633511495)|
+|2023-12-14 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[11 月 M2-M1 剪刀差扩大至 8.7 个百分点 ，人民币贷款同比少增 1368 亿元，如何解读？](https://www.zhihu.com/question/634778425)|
+|2023-12-14 16:04:12|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为啥武侠小说武功秘籍都是孤本?](https://www.zhihu.com/question/632787237)|
+|2023-12-14 15:23:54|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[系统运维 Linux 用户的 7 个 sudo 技巧和改进](https://linux.cn/article-16472-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-14 20:02:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一下 web app 架构问题](https://www.v2ex.com/t/1000535#reply0)|
+|2023-12-14 11:44:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年底，还有哪家 国产 手机可以刷原厂海外 ROM？？](https://www.v2ex.com/t/1000463#reply41)|
+|2023-12-14 07:22:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Joplin 和 Obsidian 作为笔记软件哪个更好](https://www.v2ex.com/t/1000378#reply66)|
+|2023-12-14 11:28:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大一统的账号体系可能不太靠谱现在？](https://www.v2ex.com/t/1000459#reply25)|
+|2023-12-14 05:21:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[感觉 C# 在蚕食 Python 的生态](https://www.v2ex.com/t/1000331#reply69)|
+|2023-12-14 15:00:00|[机核](https://www.gcores.com/rss)|[鲜血与冰冷的心：莱弥亚的崛起与纳迦什重回巅峰 中古战锤国家地理 Vol.6](https://www.gcores.com/radios/174887)|
+|2023-12-14 14:12:00|[机核](https://www.gcores.com/rss)|[小岛工作室宣布：将与独立电影公司A24合作拍摄《死亡搁浅》真人电影](https://www.gcores.com/articles/175088)|
+|2023-12-14 12:36:57|[机核](https://www.gcores.com/rss)|[香草社SRPG新游《圣兽之王》公布新角色、亲密度、契约仪式等最新信息](https://www.gcores.com/articles/175090)|
+|2023-12-14 11:00:00|[机核](https://www.gcores.com/rss)|[未完成的世界 其三 要塞的崩塌和重建](https://www.gcores.com/articles/161325)|
+|2023-12-14 10:30:00|[机核](https://www.gcores.com/rss)|[怀旧电影漫谈《黑客帝国》](https://www.gcores.com/videos/174993)|
+|2023-12-14 09:30:00|[机核](https://www.gcores.com/rss)|[格斗游戏能玩“糖豆人”？《碧蓝幻想Versus: Rising》不简单的升级之路](https://www.gcores.com/articles/175071)|
+|2023-12-14 14:27:03|[碗丸食事](https://feedpress.me/wx-foodfile-111010)|[🦀](http://mp.weixin.qq.com/s?__biz=MzU3MjcxOTk5NQ%3D%3D&mid=2247488897&idx=1&sn=af0bea981df5550cc20dc00e3df403f6)|
+|2023-12-14 09:00:40|[小众软件](https://www.appinn.com/feed/)|[微软 Windows 天气：最被低估的天气应用，拥有1975～2023 共 48 年历史天气数据｜Windows 10/11 自带天气](https://www.appinn.com/msn-weather/)|
+|2023-12-14 06:39:57|[小众软件](https://www.appinn.com/feed/)|[柠檬Push – 一款开源的跨平台、剪贴板共享工具](https://www.appinn.com/lemon-push/)|
 |2023-12-14 23:15:00|[plus studio](https://studyinglover.com/atom.xml)|[google gemini api使用](https://studyinglover.com/2023/12/14/google%20gemini%20api%E4%BD%BF%E7%94%A8/)|
 |2023-12-14 22:40:00|[plus studio](https://studyinglover.com/atom.xml)|[google gemini api申请](https://studyinglover.com/2023/12/14/google%20gemini%20api%E7%94%B3%E8%AF%B7/)|
 |2023-12-14 13:09:00|[触乐](http://www.chuapp.com/feed)|[一场“蛋仔派对”，可以成为家庭的亲情派对吗？](http://www.chuapp.com/article/289688.html)|
