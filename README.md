@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-15 11:13:03|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[在Kubernetes中部署Zookeeper和Kafka](https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2Zookeeper%E5%92%8CKafka/)|
+|2023-12-15 08:04:31|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[在Kubernetes中创建NFS类型的StorageClass](https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E5%88%9B%E5%BB%BANFS%E7%B1%BB%E5%9E%8B%E7%9A%84StorageClass/)|
+|2023-12-15 14:04:32|[白宦成](https://www.ixiqin.com/feed/)|[什么样的照片有长期的留存价值？](https://www.ixiqin.com/2023/12/15/what-kind-of-photos-have-long-term-retention-value/)|
+|2023-12-15 22:39:00|[plus studio](https://studyinglover.com/atom.xml)|[poe的gemini pro或是百度开发](https://studyinglover.com/2023/12/15/poe%E7%9A%84gemini%20pro%E6%88%96%E6%98%AF%E7%99%BE%E5%BA%A6%E5%BC%80%E5%8F%91/)|
+|2023-12-15 16:07:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[央行表示「稳慎扎实推进人民币国际化，完善境外人民币市场建设」，释放了哪些信号？](https://www.zhihu.com/question/635023694)|
+|2023-12-15 16:07:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[手机不保电了，但预算有限，你会选择换电池还是换手机？](https://www.zhihu.com/question/632113715)|
+|2023-12-15 16:07:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[寒冷的冬天，如何通过「以油养肤」养好皮肤？](https://www.zhihu.com/question/632473964)|
+|2023-12-15 16:07:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国内处于某领域天花板级别的旅游景点有哪些？](https://www.zhihu.com/question/630423831)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[降低首付比例、延长贷款年限，北京住房公积金已开始执行新政，这将带来哪些影响？](https://www.zhihu.com/question/635013072)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[零百三秒多并不是什么高科技，但是燃油车时代家用车没人做，是不是说明加速没用？](https://www.zhihu.com/question/634837380)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上下班路上，坐地铁出事故算不算工伤？](https://www.zhihu.com/question/634881285)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家统计局表示「房地产市场形势有望进一步趋于改善」，释放了哪些信号？明年楼市走势如何?](https://www.zhihu.com/question/634970901)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[普京举行年度记者会，话题涵盖俄乌冲突、国际形势、俄罗斯经济，反映出了俄罗斯哪些立场、现状以及发展方向？](https://www.zhihu.com/question/634954687)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一博主欲就「文科都是服务业」等言论起诉张雪峰，如何看待此事？](https://www.zhihu.com/question/634961196)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[11 月社会消费品零售总额同比增长 10.1％，餐饮收入增长 25.8%，哪些信息值得关注？](https://www.zhihu.com/question/634966141)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果现在入手 iPhone11，能用两年或者更久吗？](https://www.zhihu.com/question/626239174)|
+|2023-12-15 16:07:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冲锋衣可以当滑雪服吗？](https://www.zhihu.com/question/633706320)|
+|2023-12-15 16:07:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我国已累计培养 1100 多万研究生，如今的研究生资源过剩了吗？](https://www.zhihu.com/question/634504735)|
+|2023-12-15 16:07:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[央行称「 稳妥有效防范化解重点领域金融风险，加快金融稳定保障基金建设 」 ，将带来哪些影响？](https://www.zhihu.com/question/635024219)|
+|2023-12-15 11:10:49|[晚点LatePost](https://feedpress.me/wx-postlate)|[​​晚点财经｜京沪降低买房门槛；多国收紧移民政策](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510514&idx=2&sn=794693670fe5dd47a0dcf28a58f61b0f)|
+|2023-12-15 11:10:49|[晚点LatePost](https://feedpress.me/wx-postlate)|[在抖音，谁在推动创作者与商家更高效地匹配？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510514&idx=1&sn=93b4f665841fa2a94f2cf8a91808b261)|
+|2023-12-15 06:00:44|[知乎每日精选](https://www.zhihu.com/rss)|[中国天眼探测并构建世界最大的中性氢星系样本，这一巡天成果有哪些意义？](http://www.zhihu.com/question/634798604/answer/3325988340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-15 04:56:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Netflix 訂閱者也能回味經典遊戲 一起等待 俠盜獵車手 6 推出](https://applefans.today/2023-12-netflix-grand-theft-auto-vi/)|
 |2023-12-15 03:22:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如果忘記 iPhone 密碼，試試這四招讓被鎖的 iPhone 重生！](https://applefans.today/ultfone-toolkit-2023-12-iphone-and-ios-screen-unlock/)|
 |2023-12-15 09:36:01|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[系统运维 利用 DNS SRV 记录为 Postfix 提供负载平衡](https://linux.cn/article-16474-1.html?utm_source=rss&utm_medium=rss)|
