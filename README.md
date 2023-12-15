@@ -1,7 +1,32 @@
-﻿# 每日资讯（2023-12-14）
+﻿# 每日资讯（2023-12-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-15 01:12:11|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 昨天昌平线地铁车厢编组断开两半了，有专业人士分析下原因吗](https://www.v2ex.com/t/1000553#reply5)|
+|2023-12-15 01:05:33|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 用 uniapp 打包 ios 应用](https://www.v2ex.com/t/1000552#reply3)|
+|2023-12-15 01:04:00|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 116 期）：一个会议 AI 浏览器扩展插件，月收入 1.5 千美金](https://www.v2ex.com/t/1000551#reply0)|
+|2023-12-15 01:02:15|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 刚拿到驾照，之后要买车，选新能源还是油车？](https://www.v2ex.com/t/1000550#reply7)|
+|2023-12-15 00:52:08|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 「PageSpy · 开启远程调试新篇章」海报日推](https://www.v2ex.com/t/1000549#reply3)|
+|2023-12-15 00:49:13|[V2EX](https://www.v2ex.com/index.xml)|[ Intel Intel 新一代处理器 mtl 评测解禁了](https://www.v2ex.com/t/1000548#reply1)|
+|2023-12-15 00:45:22|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 硬盘用硬盘盒连接电脑，听到里面运行声音，但是电脑看不到盘符](https://www.v2ex.com/t/1000547#reply5)|
+|2023-12-15 00:39:57|[V2EX](https://www.v2ex.com/index.xml)|[ 哔哩哔哩 涨粉、点赞、推流，视频 vip，抖音，快手， b 站涨粉点赞等、 小红书，微信视频涨粉推流点赞，微博业务，腾讯视频等各种视频会员业务，微信公众号业务你需要的我都可以搞并且真实有效永不封号找我➕V： dyj_LSQ 欢迎各位打扰哟](https://www.v2ex.com/t/1000546#reply5)|
+|2023-12-15 00:39:40|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了一个在线多人平台跳跃页游](https://www.v2ex.com/t/1000545#reply9)|
+|2023-12-15 00:36:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求推荐本地多硬盘间文件实时同步工具](https://www.v2ex.com/t/1000544#reply1)|
+|2023-12-15 00:31:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有 Qx 和 AppleTV 的使用交流群啊？](https://www.v2ex.com/t/1000543#reply2)|
+|2023-12-15 00:11:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教大家有没有这样的 App 或者工具，有助于安全的。](https://www.v2ex.com/t/1000542#reply5)|
+|2023-12-15 00:11:24|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 分享一个好消息，我的公众号万粉了](https://www.v2ex.com/t/1000541#reply2)|
+|2023-12-15 00:07:33|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 导致不会自动关显示器的原因可能有哪些？](https://www.v2ex.com/t/1000540#reply1)|
+|2023-12-15 00:03:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于 mac 与 windows 的连接及同步问题？](https://www.v2ex.com/t/1000539#reply1)|
+|2023-12-15 00:01:19|[V2EX](https://www.v2ex.com/index.xml)|[ 加密货币 加密货币在网络违法犯罪活动中的利用情况调查，写的很全面，要警惕各种骗局啊！](https://www.v2ex.com/t/1000538#reply7)|
+|2023-12-15 01:07:00|[虎嗅](https://rss.huxiu.com/)|[2万字揭秘疫苗行业，垄断内幕与政治博弈](https://www.huxiu.com/article/2420648.html?f=rss)|
+|2023-12-15 01:02:33|[虎嗅](https://rss.huxiu.com/)|[4万亿沙特主权基金将来华](https://www.huxiu.com/article/2426986.html?f=rss)|
+|2023-12-15 01:00:38|[虎嗅](https://rss.huxiu.com/)|[美国住宅太阳能产业，为何濒临崩溃？](https://www.huxiu.com/article/2427006.html?f=rss)|
+|2023-12-15 01:00:00|[虎嗅](https://rss.huxiu.com/)|[情绪，群体行为的引爆点](https://www.huxiu.com/article/2423834.html?f=rss)|
+|2023-12-15 00:36:35|[虎嗅](https://rss.huxiu.com/)|[公募名将突发心梗离世：很难在生活和工作之间划清界限](https://www.huxiu.com/article/2426987.html?f=rss)|
+|2023-12-15 00:33:00|[虎嗅](https://rss.huxiu.com/)|[北京地铁昌平线雪夜事故](https://www.huxiu.com/article/2426712.html?f=rss)|
+|2023-12-15 00:10:00|[虎嗅](https://rss.huxiu.com/)|[“搏命文化”已死，欧美年轻人躺平了](https://www.huxiu.com/article/2414876.html?f=rss)|
+|2023-12-15 00:15:00|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)|
+|2023-12-15 01:00:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 116 期）：一个会议 AI 浏览器扩展插件，月收入 1.5 千美金](https://w2solo.com/topics/4312)|
 |2023-12-14 16:20:56|[爱范儿](https://www.ifanr.com/feed)|[充电速度再创纪录！极氪发布全新电池，极氪 007 首发搭载](https://www.ifanr.com/1570473?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-14 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[猫几天不见主人会怎么样？会以为自己被抛弃了吗？](https://www.zhihu.com/question/624586504)|
 |2023-12-14 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家说的体验比较好的健身房是什么样？](https://www.zhihu.com/question/632442838)|
