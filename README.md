@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-12-15）
+﻿# 每日资讯（2023-12-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-16 01:02:29|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 好像用 Lxqt 的人很少](https://www.v2ex.com/t/1000858#reply0)|
+|2023-12-16 00:53:57|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iPhone 15 还是 iPhone 15 pro?](https://www.v2ex.com/t/1000856#reply1)|
+|2023-12-16 00:48:26|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 最近我家宽问题很多，对 cf， aws 这些 cdn24 小时丢包（上海电信）](https://www.v2ex.com/t/1000854#reply3)|
+|2023-12-16 00:34:13|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 有没有人准备梭哈做空东方甄选的？](https://www.v2ex.com/t/1000853#reply7)|
+|2023-12-16 00:20:39|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 从来不使用 Edge，某次自动更新后几乎每天 msedge.exe 都有 60MB~100MB 异常流量，不知道在传输什么东西，出于隐私保护考虑打算禁用。直接给 msedge.exe 加一个 Everyone 禁止读取的权限有什么副作用吗？](https://www.v2ex.com/t/1000852#reply9)|
+|2023-12-16 00:30:14|[爱范儿](https://www.ifanr.com/feed)|[早报｜罗永浩称愿意支持董宇辉创业/iPad 和 MacBook 将改用 OLED 屏幕/孟羽童回应被董明珠怒斥](https://www.ifanr.com/1570660?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-16 00:12:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【马修-派瑞死因公布：抗抑郁药的急性作用】洛杉矶法医办公室发布Matthew Perry的尸检毒理学报告，报告显示他的死因主因是「氯胺酮的急性作用」，「血液标本中发现的氯胺酮含量很高，主要的致死效应来自心血管过度刺激和呼吸抑制」。死因还包括溺水、冠状动脉疾病和丁丙诺啡（用于治疗阿片类药物使用障碍）的影响。死亡方式被认定为意外事故。](https://dig.chouti.com/link/40928042)|
 |2023-12-15 11:24:01|[煎蛋](http://jandan.net/feed)|[“症状都消失了”：CAR-T 疗法让自身免疫疾病患者重获新生](http://jandan.net/p/115079)|
 |2023-12-15 16:09:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美团曾密切考察中东市场，出海仍在观望中｜36氪独家](https://36kr.com/p/2558857363430790)|
 |2023-12-15 16:09:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[看完2023年度锐词，汗流浃背了](https://36kr.com/p/2561257784417410)|
