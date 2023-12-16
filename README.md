@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-16 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你在低谷期学会了什么？](https://www.zhihu.com/question/630363339)|
+|2023-12-16 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[关于冬天，你能想到最温暖的小事是什么？](https://www.zhihu.com/question/635141699)|
+|2023-12-16 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些让你感到极其神秘的古墓？](https://www.zhihu.com/question/592475317)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[既然哈利波特是混血，为什么马尔福一开始想和他交朋友？](https://www.zhihu.com/question/543412098)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体谈年轻人迷上买金，称黄金满足了更多人「既想花钱又想存钱」的心理需求，如何看待此现象？你爱买黄金吗？](https://www.zhihu.com/question/634959323)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年，你认为你最好看的一张自拍照是什么？](https://www.zhihu.com/question/634201136)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[浙江省消保委表示「商家提供预制菜却不告知涉嫌侵犯消费者知情权」，对此，消费者有哪些维权手段？](https://www.zhihu.com/question/635034917)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[欣赏艺术是有门槛的，那艺术又该如何服务于大众？](https://www.zhihu.com/question/634215270)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季欧冠 16 强中西甲 4 支球队，意甲德甲各 3 支，英超仅 2 支，是否意味着英超第一联赛的地位陨落？](https://www.zhihu.com/question/634816402)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[蔚来品鉴会既设置「白酒品鉴」环节，又有「汽车试驾」环节，引发网友争议，如何看待此事？](https://www.zhihu.com/question/634980920)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[长五遥六火箭成功发射，哪些信息值得关注？](https://www.zhihu.com/question/635091679)|
+|2023-12-16 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中央气象台发布今年首个低温预警，应做好哪些防范措施？今年冬季寒潮天气有何发展趋势？](https://www.zhihu.com/question/635147553)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[近日，我国成功发射一型可重复使用的试验航天器，如何评价该航天器？将对我国航天业带来哪些影响？](https://www.zhihu.com/question/634951080)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价张家辉、阮经天、王大陆主演的电影《怒潮》？](https://www.zhihu.com/question/634820167)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 湖人 115:129 马刺，如何评价这场比赛？](https://www.zhihu.com/question/635130248)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[最新民调显示，巴民众赞同袭击，以民众支持继续战争，民意结果反映了什么？对巴以局势未来走向有何警示？](https://www.zhihu.com/question/635040282)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年大家给自己定了什么目标呢?](https://www.zhihu.com/question/635147154)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价米哈游《崩坏：星穹铁道》匹诺康尼邀请函名单？](https://www.zhihu.com/question/635074212)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 2023 年 12 月英语四六级考试题目？](https://www.zhihu.com/question/635155057)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年游戏产业年会取消未保分论坛，如何看待这一举措，释放了哪些信号？](https://www.zhihu.com/question/635156136)|
+|2023-12-16 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俞敏洪就直播间拉黑网友致歉，拉黑的网友朋友已被全部解除，如何看待此事？能否平息这场风波？](https://www.zhihu.com/question/635192077)|
+|2023-12-16 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[站立格斗在摔跤面前一点优势都没有吗?](https://www.zhihu.com/question/629239085)|
+|2023-12-16 06:59:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离开字节游戏的人们](https://dig.chouti.com/link/40930971)|
+|2023-12-16 08:22:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【到底是谁在夸《新闻女王》？】随着最近《新闻女王》剧终的烂尾，也证明了TVB连这样不太好的故事，他们都没有完整讲下去的欲望。搞事业不谈恋爱倒也没说错，只是连人性也给一起搞没了。](https://dig.chouti.com/link/40931815)|
+|2023-12-16 13:36:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当地时间12月15日晚，意大利哲学家、政治理论家安东尼奥·奈格里（Antonio Negri）在巴黎逝世，享年90岁。他是20世纪60-70年代意大利工人自治运动的领导者，2000年曾与美国学者迈克尔·哈特合著出版《帝国》](https://dig.chouti.com/link/40934102)|
+|2023-12-16 07:12:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[有网友正式起诉新华字典，质疑释义不当，起诉《新华字典》？网友扒出了这个当事人不简单…… 在网上发表一些反智言论，到处论证“英语是中国人发明的”，这都是程度轻的，明明已被剥夺教职、教师资格也没了，还打着XX学院副教授的旗号行事，三年前更是被判过刑，定性是：黑恶势力、发布虚假信息。](https://dig.chouti.com/link/40931261)|
+|2023-12-16 08:36:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[字节跳动回应被OpenAI封禁账户：从微软获得使用GPT API的许可，年中已停止使用GPT训练模型](https://dig.chouti.com/link/40931819)|
+|2023-12-16 08:36:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【从日本历史教科书中，“二舅”UP看清了日本人百年的精神内耗】想到知名日本左翼导演山本萨夫的电影《战争与人》三部曲，该系列全长达10小时，以一位新兴日本财阀伍代一家的视角，详细描写他们是如何压迫工人、与关东军狼狈为奸一起侵占东北大发战争财。](https://dig.chouti.com/link/40931858)|
+|2023-12-16 11:22:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【利用空驶列车“南水北调”：平煤集团挖煤又卖水】“用返程空车运水，既能实现资源优化利用，又可缓解受水区老百姓饮用水紧张现状。”“丹水北运”集装箱用的尼龙材料液袋，也由平煤集团生产。](https://dig.chouti.com/link/40933171)|
+|2023-12-16 04:04:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【佛罗里达州立法禁止中国学生进实验室】SB846法案属该州地方法律。尽管有辩护者提出，其并非禁止中国学生进入佛州的学术实验室，仅仅是多了一个审批手续，但实际操作中却并非那么简单。原因显而易见：SB846提出的是一种默认禁止状态，只有通过申请，获得特许方能解禁，意味着对佛州公立大学系统与中国学术交流的广泛限制。](https://dig.chouti.com/link/40929644)|
+|2023-12-16 04:54:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大专生连续直播5天后猝死：职校的“实习困境”](https://dig.chouti.com/link/40930077)|
+|2023-12-16 05:15:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[失去一只眼睛的小姐姐，给大家看看自己最“奇特”的假眼](https://dig.chouti.com/link/40930471)|
+|2023-12-16 05:16:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[杨照：什么叫好的社会？对我来说几十年没变：好的社会是让更多人可以自在生活的社会](https://dig.chouti.com/link/40930473)|
+|2023-12-16 06:04:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《变形金刚》大黄蜂原型车：最后一辆雪佛兰科迈罗下线，宣告停产](https://dig.chouti.com/link/40930507)|
+|2023-12-16 06:41:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【去冰岛半小时花3000元看岩浆：火山越喷，游客越多？】坐直升机看喷发出的岩浆，半小时至少花费500美元（约合3593元人民币）；一趟火山徒步行，一天需行走15公里以上。高风险，高收益，每次火山喷发季，也是冰岛旅游最佳宣传季，宣传点包括由暗转明的火山旅行。](https://dig.chouti.com/link/40930965)|
+|2023-12-16 08:40:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[商汤科技创始人、董事长、人工智能科学家汤晓鸥于12月15日在睡梦中不幸离世，享年55岁](https://dig.chouti.com/link/40931861)|
+|2023-12-16 06:22:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【被曝秘密使用ChatGPT训练自家大模型，字节跳动账户被OpenAI暂停】字节跳动大部分的GPT使用是通过Microsoft的Azure平台完成的，而不是直接通过OpenAI。至于微软是否会效仿OpenAI，暂停字节跳动的访问权限，有待进一步观察。](https://dig.chouti.com/link/40930923)|
+|2023-12-16 02:05:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[活在“社会想象”之外的中小学老师](https://dig.chouti.com/link/40928666)|
+|2023-12-16 02:12:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这剧情贝嫂见过？？……贝克汉姆穿内裤修电视，贝嫂“偷拍”：电工来修电视了](https://dig.chouti.com/link/40928898)|
+|2023-12-16 03:16:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“长江病了”，给长江做“体检”有多难？](https://dig.chouti.com/link/40929507)|
+|2023-12-16 03:04:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男性避孕药YCT-529在英国进入1期临床试验，此前在小鼠试验中有效率99%，可逆性100%](https://dig.chouti.com/link/40929106)|
+|2023-12-16 04:16:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“就这几个钱还贷甚款！”——首富怀念煤老板](https://dig.chouti.com/link/40930030)|
+|2023-12-16 03:15:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[C919首次飞越香港维多利亚湾](https://dig.chouti.com/link/40929483)|
+|2023-12-16 00:13:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月15日，俄罗斯皇家芭蕾舞团《天鹅湖》在辽宁沈阳盛京大剧院表演谢幕时，伴随着动感的音乐，演员集体加跳“科目三”，引发全场观众欢呼并鼓掌打节拍。而在12月9日上海2023年世界体育舞蹈大赛上，世界冠军克里斯蒂娜和几位舞者也一起展示了国标版“科目三”。](https://dig.chouti.com/link/40928076)|
+|2023-12-16 00:35:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人机博弈续：国际象棋、中国象棋和围棋，三棋人机巅峰战](https://dig.chouti.com/link/40928145)|
+|2023-12-16 03:50:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[东方甄选：免去孙东旭CEO职务，由俞敏洪兼任](https://dig.chouti.com/link/40929570)|
+|2023-12-16 02:05:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[武汉一楼盘大幅降价，老业主“维权” 主管部门：调价属市场主体自主经营范畴](https://dig.chouti.com/link/40928714)|
+|2023-12-16 15:21:59|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[Memos 数据库启动过程源码分析](https://www.edony.ink/memos-database-related-source-code-reviewing/)|
 |2023-12-16 01:25:48|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[系统运维 为 Nginx 配置 ModSecurity 网络应用防火墙](https://linux.cn/article-16479-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-16 00:06:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1217 FFmpeg 已经完成多线程功能开发](https://linux.cn/article-16478-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-16 12:28:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 过冬装备](https://www.v2ex.com/t/1000972#reply0)|
