@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-16 15:00:00|[机核](https://www.gcores.com/rss)|[再见，E3 GadioNews12.16](https://www.gcores.com/radios/174889)|
+|2023-12-16 06:13:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美太空军上将：中美几乎同时发射可重复使用的试验航天器，可能并非巧合】美太空军作战部部长萨尔茨曼说，“中国人对我们的航天飞机非常感兴趣，这并不奇怪。我们对他们的也非常感兴趣。因此，它们是在轨道上运行时最受关注的两个物体。他们试图在时间和顺序上与我们保持一致，这可能并非巧合。”](https://dig.chouti.com/link/40930832)|
+|2023-12-16 14:43:23|[鸟窝](https://colobu.com/atom.xml)|[2023年在地球上举行的Gopher大会](https://colobu.com/2023/12/16/gopher-conferences-in-2023/)|
 |2023-12-16 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你在低谷期学会了什么？](https://www.zhihu.com/question/630363339)|
 |2023-12-16 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[关于冬天，你能想到最温暖的小事是什么？](https://www.zhihu.com/question/635141699)|
 |2023-12-16 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些让你感到极其神秘的古墓？](https://www.zhihu.com/question/592475317)|
