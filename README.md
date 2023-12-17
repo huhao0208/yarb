@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-12-16）
+﻿# 每日资讯（2023-12-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-17 01:05:32|[太隐](https://wangyurui.com/feed.xml)|[谈《实践论》](https://wangyurui.com/posts/du-shi-jian-lun-f4ad8089)|
+|2023-12-17 01:06:00|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 1800 欧值得入手 Studio Display 吗？](https://www.v2ex.com/t/1001030#reply0)|
+|2023-12-17 00:56:09|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 上的 cmd+tab 的时候，如何让鼠标失效](https://www.v2ex.com/t/1001028#reply1)|
+|2023-12-17 00:55:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想弄个 medium 的微信小程序客户端](https://www.v2ex.com/t/1001027#reply2)|
+|2023-12-17 00:36:29|[V2EX](https://www.v2ex.com/index.xml)|[ 广州 赫基大厦附近租哪里？](https://www.v2ex.com/t/1001026#reply0)|
+|2023-12-17 00:04:47|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 提升幸福感必买小物：音响](https://www.v2ex.com/t/1001025#reply2)|
 |2023-12-16 15:00:00|[机核](https://www.gcores.com/rss)|[再见，E3 GadioNews12.16](https://www.gcores.com/radios/174889)|
 |2023-12-16 06:13:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美太空军上将：中美几乎同时发射可重复使用的试验航天器，可能并非巧合】美太空军作战部部长萨尔茨曼说，“中国人对我们的航天飞机非常感兴趣，这并不奇怪。我们对他们的也非常感兴趣。因此，它们是在轨道上运行时最受关注的两个物体。他们试图在时间和顺序上与我们保持一致，这可能并非巧合。”](https://dig.chouti.com/link/40930832)|
 |2023-12-16 14:43:23|[鸟窝](https://colobu.com/atom.xml)|[2023年在地球上举行的Gopher大会](https://colobu.com/2023/12/16/gopher-conferences-in-2023/)|
