@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-17 12:24:00|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[使用jenv管理jdk版本](https://jasonkayzk.github.io/2023/12/17/%E4%BD%BF%E7%94%A8jenv%E7%AE%A1%E7%90%86jdk%E7%89%88%E6%9C%AC/)|
+|2023-12-17 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 170 期（2023.12.18）](https://www.ftium4.com/ux-weekly-170.html)|
+|2023-12-17 05:23:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[翻到一封垃圾邮件，给我看乐了，发出现给大家一起瞧瞧](https://www.v2ex.com/t/1001065#reply26)|
+|2023-12-17 20:10:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[找到一些看似冷门但流量惊人的一些网站！- 独立产品灵感周刊 DecoHack #057](https://www.v2ex.com/t/1001191#reply0)|
+|2023-12-17 15:56:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Mac Safari 的 Youtube 怎么去广告？](https://www.v2ex.com/t/1001175#reply8)|
+|2023-12-17 15:31:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[怎么释放 Win11 的虚拟内存？因为虚拟内存满了导致各种 OOM 报错好多次了](https://www.v2ex.com/t/1001170#reply5)|
+|2023-12-17 07:00:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[准备换掉小米 14，寻找更合适的安卓手机](https://www.v2ex.com/t/1001084#reply47)|
+|2023-12-17 16:18:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[acme.sh 周末这 2 天是不是默认的 zerossl 蹦了？](https://www.v2ex.com/t/1001182#reply4)|
+|2023-12-17 08:24:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[作为一名大龄土木专科转行的 Java 后端开发，第二个三年想问问大家该怎么继续提升自己](https://www.v2ex.com/t/1001099#reply24)|
+|2023-12-17 15:06:38|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2023-12-17 记一次 Golang 因镜像源配置导致的构建失败](https://blog.cmyr.ltd/archives/9a8bee73.html)|
+|2023-12-17 17:04:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[董宇辉title显示为“东方甄选高级合伙人”](https://dig.chouti.com/link/40943355)|
+|2023-12-17 13:04:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[如何用Excel制作滚动条形图](https://dig.chouti.com/link/40942031)|
+|2023-12-17 01:10:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大山58岁：不再穿着唐装作揖拜年](https://dig.chouti.com/link/40937051)|
+|2023-12-17 20:03:18|[Decohack](https://www.decohack.com/feed)|[独立产品灵感周刊 DecoHack #057-冷门但流量惊人的一些网站！](https://www.decohack.com/Post/1499)|
+|2023-12-17 15:20:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Vivaldi 6.5 现已发布，展示面向未来的特性](https://linux.cn/article-16483-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-17 16:05:08|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[开播2分钟超10万人涌入！刚刚，董宇辉直播回应一切！俞敏洪：孙东旭被免与董宇辉无关](https://36kr.com/p/2563492648543620)|
 |2023-12-17 16:05:08|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[活在当下，赋予生活以意义的13条路径](https://36kr.com/p/2342330134353414)|
 |2023-12-17 16:05:08|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[考研上岸的人太多，宿舍不够分了](https://36kr.com/p/2564149643060614)|
