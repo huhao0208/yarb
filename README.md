@@ -2,6 +2,30 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-17 06:09:38|[余海峯 David 物理喵 phyc...](https://hfdavidyu.com/feed/)|[航行者的最後通訊](https://hfdavidyu.com/2023/12/17/voyager-1-final-communication/)|
+|2023-12-17 03:14:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[宠物正骨医生 ﾟ∀。 狗狗正骨之后的表情：这是什么魔法 ﾟ∀ﾟ ](https://dig.chouti.com/link/40938020)|
+|2023-12-17 03:05:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新加坡上周新冠确诊病例激增，政府“强烈建议”公众室内佩戴口罩，接种新冠疫苗加强针](https://dig.chouti.com/link/40937925)|
+|2023-12-17 03:13:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月上旬，东部战区海军某大队组织实战化训练。刘志磊 摄（解放军报）//后勤船，北救143东救335南救511](https://dig.chouti.com/link/40938012)|
+|2023-12-17 06:51:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【一条“普铁”开工，为何受三个省份关注？】公开信息显示，黄桶至百色铁路位于贵州、广西境内，是一条以货运为主、兼顾客运的区域性干线铁路。项目全长312.62公里，设计时速160公里，项目总投资338.54亿元，建设工期5年，计划2028年建成通车。](https://dig.chouti.com/link/40939359)|
+|2023-12-17 07:12:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[居民花近10万买十多米高大恐龙，隔壁大爷吓得睡不着觉](https://dig.chouti.com/link/40939733)|
+|2023-12-17 08:14:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阉割小公猪过程：开口，挤蛋，切断，一气喝成](https://dig.chouti.com/link/40940161)|
+|2023-12-17 06:57:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[草莓大降价，每斤比去年便宜两成，果农：二三月或能“草莓自由”](https://dig.chouti.com/link/40939360)|
+|2023-12-17 07:05:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾知名景点象鼻岩“象鼻”断裂，网民担心“野柳女王头”也将消失](https://dig.chouti.com/link/40939575)|
+|2023-12-17 03:14:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[C罗&利雅得胜利中国行确定，利雅得胜利将在1月24日对阵申花、1月28日对阵浙江。票务平台公布C罗中国行票价，票价分为6档，最低380元最高4580元。开票时间暂未公布。](https://dig.chouti.com/link/40938031)|
+|2023-12-17 03:56:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[原博主说这是丐版变形金刚，可围观群众都说这是天花板级的变形金刚。](https://dig.chouti.com/link/40938141)|
+|2023-12-17 04:04:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【埃塞奎博地区“百年争端”的来龙去脉】12月3日，委内瑞拉就争议地区归属问题举行全民公投，95%支持马杜罗政府对这片15.9万平方公里土地的主权诉求。委内瑞拉、圭亚那以及邻国巴西的军队已在周边集结，美国也以军演形式介入。为何该地区上百年来冲突不断？该地区会不会成为继俄乌、巴以之后，美国强势干预的“第三战场”？](https://dig.chouti.com/link/40938144)|
+|2023-12-17 04:13:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不讲理助攻，来自那不勒斯前锋奥斯梅恩](https://dig.chouti.com/link/40938468)|
+|2023-12-17 04:13:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[花豹在树梢眺望](https://dig.chouti.com/link/40938466)|
+|2023-12-17 03:00:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在北上广，约人City Walk比做爱难多了](https://dig.chouti.com/link/40937641)|
+|2023-12-17 04:12:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好朋友的妻子因为乳腺癌去世了，留下了我朋友和年幼的孩子。走投无路的他给我打来电话求助:「救救我」。当我急忙赶过去后，也瞬间泪崩。](https://dig.chouti.com/link/40938427)|
+|2023-12-17 03:33:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[脉脉CEO：取消早中晚餐免费餐食及补助，公积金缴纳比例从12%下调到5%](https://dig.chouti.com/link/40938100)|
+|2023-12-17 01:05:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【胡歌深夜发文疑回应粉丝：是我不想拍，请不要骂人】此前胡歌粉丝在胡歌超话指责胡歌工作室：胡歌现在出席活动，都不拍摄出发图吗？工作室有人吗？都吃干饭吗？事情起因是，央视官宣2024片单，其中有胡歌的待播剧《繁花》，其他工作室都有发布相关图文，胡歌的粉丝们因为胡歌工作室迟迟没有新的活动图片而感到不满。](https://dig.chouti.com/link/40936994)|
+|2023-12-17 02:01:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[雪落西二旗](https://dig.chouti.com/link/40937218)|
+|2023-12-17 01:12:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女记者艾莉森·帕克在2015 年的一次电视直播时，她和摄影师亚当·沃德成为一名前同事的刺杀目标，后者开枪射杀了他们。所附图片来自凶手的随身摄像设备。41岁的肇事者维斯特·李·弗拉纳根二世在警方长达5小时的追捕后自杀。](https://dig.chouti.com/link/40937075)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[用GPT-2监督GPT-4，防止AI毁灭人类? OpenAI Ilya超级对齐团队首篇论文出炉](https://36kr.com/p/2561960642927748)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[游戏业务调整之后，B站商业化的路该怎么走？](https://36kr.com/p/2562114038769288)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一条街6家卖自助盒饭，“盒饭效应”席卷餐饮业](https://36kr.com/p/2562001157823873)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[宫崎骏“收官作”席卷北美](https://36kr.com/p/2562102641452417)|
 |2023-12-17 00:39:45|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 重温过去：DG/UX UNIX 操作系统](https://linux.cn/article-16481-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-17 00:11:49|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1218 谷歌即将对 1% 的 Chrome 用户关闭第三方追踪](https://linux.cn/article-16480-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-17 08:01:13|[虎嗅](https://rss.huxiu.com/)|[商汤创始人汤晓鸥去世，他的三重 AI 人生](https://www.huxiu.com/article/2434942.html?f=rss)|
