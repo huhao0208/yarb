@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-17 02:38:17|[空城记](https://shinekid.com/feed/)|[尊重但不认同](https://shinekid.com/2023/12/respect-but-disagree/)|
+|2023-12-17 02:38:41|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 10 ：采购岗位](https://blog.devtang.com/2023/12/17/supply-chain-10/)|
+|2023-12-17 02:34:12|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 9 ：开源岗位](https://blog.devtang.com/2023/12/17/supply-chain-9/)|
+|2023-12-17 01:38:16|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 8 ：印刷的环节和成本](https://blog.devtang.com/2023/12/17/supply-chain-8/)|
+|2023-12-17 01:36:55|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 7 ：什么时候自己投资建厂](https://blog.devtang.com/2023/12/17/supply-chain-7/)|
+|2023-12-17 01:34:56|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 6 ：计划岗位](https://blog.devtang.com/2023/12/17/supply-chain-6/)|
+|2023-12-17 01:31:57|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 5 ：注塑成本估算](https://blog.devtang.com/2023/12/17/supply-chain-5/)|
+|2023-12-17 01:28:31|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 4 ：如何防止腐败](https://blog.devtang.com/2023/12/17/supply-chain-4/)|
+|2023-12-17 01:26:22|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 3 ：挑选供应商的核心因素](https://blog.devtang.com/2023/12/17/supply-chain-3/)|
+|2023-12-17 01:22:40|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 2 ：如何降本](https://blog.devtang.com/2023/12/17/supply-chain-2/)|
+|2023-12-17 01:20:34|[唐巧的博客](http://blog.devtang.com/atom.xml)|[供应链笔记 1 ：如何挑选供应商](https://blog.devtang.com/2023/12/17/supply-chain-1/)|
 |2023-12-17 01:05:32|[太隐](https://wangyurui.com/feed.xml)|[谈《实践论》](https://wangyurui.com/posts/du-shi-jian-lun-f4ad8089)|
 |2023-12-17 01:06:00|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 1800 欧值得入手 Studio Display 吗？](https://www.v2ex.com/t/1001030#reply0)|
 |2023-12-17 00:56:09|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 上的 cmd+tab 的时候，如何让鼠标失效](https://www.v2ex.com/t/1001028#reply1)|
