@@ -1,7 +1,20 @@
-﻿# 每日资讯（2023-12-17）
+﻿# 每日资讯（2023-12-18）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-18 00:06:42|[余晟以为](https://feedpress.me/wx-yurii-says)|[坚持了两年之后，小朋友突然不想去打冰球了…](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009788&idx=1&sn=0eec43c01395b537ea0cc63521d1eb0f)|
+|2023-12-18 01:11:00|[虎嗅](https://rss.huxiu.com/)|[硬杠茅台的汾酒斗士走了](https://www.huxiu.com/article/2439601.html?f=rss)|
+|2023-12-18 01:10:53|[虎嗅](https://rss.huxiu.com/)|[英美反垄断机构为何盯上微软和OpenAI？](https://www.huxiu.com/article/2436852.html?f=rss)|
+|2023-12-18 01:09:39|[虎嗅](https://rss.huxiu.com/)|[上海楼市政策调整后的首个周末，都在发生什么？](https://www.huxiu.com/article/2435577.html?f=rss)|
+|2023-12-18 00:50:00|[虎嗅](https://rss.huxiu.com/)|[2023年最火的运动员，曾在贵州卖卷粉](https://www.huxiu.com/article/2439623.html?f=rss)|
+|2023-12-18 00:44:09|[虎嗅](https://rss.huxiu.com/)|[站在命运面前，我们要怎么办？](https://www.huxiu.com/article/2435978.html?f=rss)|
+|2023-12-18 00:36:00|[虎嗅](https://rss.huxiu.com/)|[普通人再也查不到法院判决，意味着什么？](https://www.huxiu.com/article/2425485.html?f=rss)|
+|2023-12-18 00:20:50|[虎嗅](https://rss.huxiu.com/)|[从王自如到董宇辉，互联网年轻人在愤怒什么？](https://www.huxiu.com/article/2437900.html?f=rss)|
+|2023-12-18 00:18:33|[虎嗅](https://rss.huxiu.com/)|[什么会主导大模型公司的兴衰起伏？](https://www.huxiu.com/article/2438920.html?f=rss)|
+|2023-12-18 00:17:37|[虎嗅](https://rss.huxiu.com/)|[痴迷图像的汤晓鸥，生命定格在人工智能视觉的巅峰上](https://www.huxiu.com/article/2439396.html?f=rss)|
+|2023-12-18 00:07:30|[虎嗅](https://rss.huxiu.com/)|[增持回购持续升温，深市公司年内回购已超400亿](https://www.huxiu.com/article/2439376.html?f=rss)|
+|2023-12-18 00:05:00|[虎嗅](https://rss.huxiu.com/)|[养一只白羽鸡均赚1分钱？从业者熬过艰难一年](https://www.huxiu.com/article/2439375.html?f=rss)|
+|2023-12-18 00:04:12|[虎嗅](https://rss.huxiu.com/)|[语文该如何学、如何教？](https://www.huxiu.com/article/2423430.html?f=rss)|
 |2023-12-17 12:24:00|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[使用jenv管理jdk版本](https://jasonkayzk.github.io/2023/12/17/%E4%BD%BF%E7%94%A8jenv%E7%AE%A1%E7%90%86jdk%E7%89%88%E6%9C%AC/)|
 |2023-12-17 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 170 期（2023.12.18）](https://www.ftium4.com/ux-weekly-170.html)|
 |2023-12-17 05:23:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[翻到一封垃圾邮件，给我看乐了，发出现给大家一起瞧瞧](https://www.v2ex.com/t/1001065#reply26)|
@@ -25,6 +38,7 @@
 |2023-12-17 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美国可控核聚变4次点火成功，刷新纪录登Nature！首席女科学家入选年度十大人物](https://36kr.com/p/2562969541305993)|
 |2023-12-17 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[开掉9名高管，裁1/4员工，明星无人车敲警钟](https://36kr.com/p/2563554206000513)|
 |2023-12-17 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[俞敏洪赢了，东方甄选输了](https://36kr.com/p/2563444551067270)|
+|2023-12-18 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第157期 - 引力剧场](https://weekly.tw93.fun/posts/157-%E5%BC%95%E5%8A%9B%E5%89%A7%E5%9C%BA/)|
 |2023-12-17 09:37:12|[鸟窝](https://colobu.com/atom.xml)|[每个Go程序员必犯之错](https://colobu.com/2023/12/17/Less-Error-Prone-Loop-Variable-Scopin/)|
 |2023-12-17 14:39:48|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 保持对云服务供应商选择的多样性](https://linux.cn/article-16482-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-17 16:18:32|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 acme.sh 周末这 2 天是不是默认的 zerossl 蹦了？](https://www.v2ex.com/t/1001182#reply0)|
