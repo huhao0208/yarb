@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-18 16:14:07|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1220 OpenAI 探索用较低级的 AI 来监管更高级的 AI](https://linux.cn/article-16488-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-18 15:58:26|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 PWA：浏览器的新范式](https://linux.cn/article-16487-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-18 13:15:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Ardour 8.2 为数字音乐创作者增加了一项新功能](https://linux.cn/article-16486-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-18 15:42:00|[](https://blog.zoomquiet.io/feeds/all.atom.xml)|[生命3.0:普通人如何理解未来](https://blog.zoomquiet.io/231213-aigcxchina-life3.html)|
+|2023-12-18 15:51:47|[机核](https://www.gcores.com/rss)|[2023个人向年度游戏总结](https://www.gcores.com/articles/175250)|
+|2023-12-18 13:00:00|[机核](https://www.gcores.com/rss)|[游戏阅读 Vol.2丨狂野西部的堕落与救赎——《荒野大镖客》系列文本细读](https://www.gcores.com/radios/173186)|
+|2023-12-18 12:00:00|[机核](https://www.gcores.com/rss)|[每年拼手气的时候来咯！吉考斯超值福袋现已上架](https://www.gcores.com/articles/175245)|
+|2023-12-18 10:30:00|[机核](https://www.gcores.com/rss)|[战斗专家剑铁也！《大魔神》风云谈！](https://www.gcores.com/videos/175173)|
+|2023-12-18 10:13:49|[机核](https://www.gcores.com/rss)|[开发日志连发](https://www.gcores.com/videos/175247)|
+|2023-12-18 10:00:00|[机核](https://www.gcores.com/rss)|[译介丨Brendan Keogh：电子游戏作为一种身体游玩](https://www.gcores.com/articles/175225)|
+|2023-12-18 09:26:16|[机核](https://www.gcores.com/rss)|[《人中之龙８》公开娱乐场所详情： 多首卡拉OK新曲及世嘉街机游戏名作将登场！](https://www.gcores.com/articles/175240)|
+|2023-12-18 09:00:00|[机核](https://www.gcores.com/rss)|[与80岁资深科幻编辑谭楷老师录制节目的感想，录音笔 VOL.101](https://www.gcores.com/radios/175230)|
+|2023-12-18 14:39:57|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #44：只想做一个沙发土豆](https://w2solo.com/topics/4318)|
+|2023-12-18 13:50:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[W2SOLO X 百度灵境矩阵](https://w2solo.com/topics/4317)|
+|2023-12-18 13:18:58|[白宦成](https://www.ixiqin.com/feed/)|[使用 Docked Rails CLI 简化 Rails 的开发](https://www.ixiqin.com/2023/12/18/simplify-rails-development-using-docked-rails-cli/)|
 |2023-12-18 09:15:15|[小众软件](https://www.appinn.com/feed/)|[图格Pro – 简单好用的拼图 App macOS/iOS ](https://www.appinn.com/tuge-pro-for-apple/)|
 |2023-12-18 04:05:43|[小众软件](https://www.appinn.com/feed/)|[Latest – 开源、免费，Mac 软件管理器，可检查 Mac 绝大多数软件更新](https://www.appinn.com/max-codes-latest/)|
 |2023-12-18 07:32:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[个人使用小米 14 对比 iphone13，一个字，真香！](https://www.v2ex.com/t/1001361#reply79)|
