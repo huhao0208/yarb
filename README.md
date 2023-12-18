@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-18 10:04:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[小规模私有部署场景下，将 mysql/redis/sentinel/minio 这些放到 k8s 里面是否可行呢](https://www.v2ex.com/t/1001414#reply12)|
+|2023-12-18 04:01:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[手里的红米 K40 虚焊了，还有能解锁 BL 的手机推荐吗](https://www.v2ex.com/t/1001292#reply16)|
+|2023-12-18 02:39:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[拙作 5000 star 了](https://www.v2ex.com/t/1001243#reply25)|
+|2023-12-18 09:11:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[要不要先买个域名？为了我那自动剪辑音频的小工具...](https://www.v2ex.com/t/1001399#reply17)|
+|2023-12-18 05:41:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[寻求方案，解决 WEB 端，循环播放固定的视频播放带来的大量的流量消耗问题。](https://www.v2ex.com/t/1001322#reply62)|
+|2023-12-18 06:57:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[everything 索引原理探讨](https://www.v2ex.com/t/1001347#reply27)|
+|2023-12-18 07:32:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[个人使用小米 14 对比 iphone13，一个字，真香！](https://www.v2ex.com/t/1001361#reply62)|
+|2023-12-18 04:21:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[腾讯云 APP 备案擅自加码](https://www.v2ex.com/t/1001299#reply14)|
+|2023-12-18 08:52:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[说一个微信 for Windows 平常很难注意到但是对于写轮眼玩家很恼火的 bug](https://www.v2ex.com/t/1001391#reply3)|
+|2023-12-18 10:03:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开启 surge clash 等代理工具后 PHP 的站点打不开](https://www.v2ex.com/t/1001412#reply2)|
+|2023-12-18 03:07:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[golang 应该如何选择 api 网关呢](https://www.v2ex.com/t/1001257#reply44)|
+|2023-12-18 10:56:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[go json.Unmarshal 深拷贝性能太差怎么办？](https://www.v2ex.com/t/1001429#reply6)|
+|2023-12-18 11:02:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[31 岁，压力挺大， HRV 25ms 怎么解读，](https://www.v2ex.com/t/1001433#reply0)|
+|2023-12-18 08:00:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求 FTP+终端+远程在线编辑的终极方案](https://www.v2ex.com/t/1001371#reply12)|
+|2023-12-18 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：《去月球》和2023年](http://www.chuapp.com/article/289701.html)|
+|2023-12-18 09:42:33|[触乐](http://www.chuapp.com/feed)|[2023年度中国电竞产业年会电竞表演赛明日开赛](http://www.chuapp.com/article/289699.html)|
+|2023-12-18 09:40:59|[触乐](http://www.chuapp.com/feed)|[2023年度中国电竞产业年会电竞体验展明日开展](http://www.chuapp.com/article/289700.html)|
+|2023-12-18 09:39:09|[触乐](http://www.chuapp.com/feed)|[2023年度中国电竞产业年会议程一览](http://www.chuapp.com/article/289698.html)|
+|2023-12-18 00:38:05|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[关于 LRU map 的一些灵感](https://blog.mauve.icu/2023/12/18/thoughts/lru-map/)|
+|2023-12-18 08:33:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2023 Dec.10 - Dec.16](http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20231216/)|
+|2023-12-18 08:24:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2023 Dec.3 - Dec.9](http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20231209/)|
+|2023-12-18 12:25:55|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[老板请假了，这公司只剩我薯角了：））））](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447360&idx=1&sn=c6de93103e3c88ff41e87a5e3a9bb6fe)|
 |2023-12-18 05:45:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 人工智能教程（四）：概率论入门](https://linux.cn/article-16485-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-18 02:28:56|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #213 Apple 讓你反思與感恩？](https://www.ethanhuang13.com/p/213)|
 |2023-12-18 05:06:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[泰国计划对绕开马六甲海峡的“陆桥”项目开展全球招标](https://dig.chouti.com/link/40947809)|
