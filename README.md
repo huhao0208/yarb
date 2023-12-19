@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-19 16:02:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你有没有什么忠告给现在的考公人？](https://www.zhihu.com/question/542681824)|
+|2023-12-19 16:02:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[多家企业驰援甘肃，新东方及东方甄选捐款 1000 万，鸿星尔克捐 2000 万物资，哪些信息值得关注？](https://www.zhihu.com/question/635598498)|
+|2023-12-19 14:05:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“原油宝”第一案始末公布：中行全赔投资者穿仓损失，外加20%本金损失](https://dig.chouti.com/link/40964270)|
+|2023-12-19 14:36:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“涩谷系”文化运动的30年】“涩谷系”风潮和意识存在于90年代年轻人的心中，这种影响力可能比涩谷系音乐本身更深远。](https://dig.chouti.com/link/40964653)|
+|2023-12-19 11:14:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[万能创可贴](https://dig.chouti.com/link/40962826)|
+|2023-12-19 13:11:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[诶嘿！真特么有意思～](https://dig.chouti.com/link/40963938)|
+|2023-12-19 12:40:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ofo戴威二次创业败走美国，连锁咖啡馆仅剩一家](https://dig.chouti.com/link/40963432)|
+|2023-12-19 12:11:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【对话被骗至缅甸中科院博士】安徽合肥，张垚（化名）是中国科学院地球环境研究所博士，全国仅有500人的冷门专业从业者。 一年前，为筹集家人手术费，他被骗子以新加坡高薪工作诱骗至缅甸妙瓦底。没有“开单”，被打，关禁闭时默写《长恨歌》度日。引爆舆论后，他被解救回国，努力将生活和科研拉回正轨。](https://dig.chouti.com/link/40963266)|
+|2023-12-19 11:52:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[母亲进城做保洁：来自大厂女儿的记录](https://dig.chouti.com/link/40962920)|
+|2023-12-19 10:04:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据美国印太司令部司令表示，自从上个月“习拜会”以来，中方已经减少了对美国军机的所谓“危险拦截”行动](https://dig.chouti.com/link/40961725)|
+|2023-12-19 07:12:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[变形记](https://dig.chouti.com/link/40960259)|
+|2023-12-19 05:37:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自考 5 年, 终于毕业拿到了学位证](https://www.v2ex.com/t/1001627#reply114)|
+|2023-12-19 16:59:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Cloudflare 网站监测跟其它监测工具的监测结果差异这么大么？](https://www.v2ex.com/t/1001803#reply6)|
+|2023-12-19 06:44:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[手机存储爆满，天天提示，有什么优化方案？](https://www.v2ex.com/t/1001648#reply40)|
+|2023-12-19 17:11:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Prettier ESLint OpenCollective 诞生啦！](https://www.v2ex.com/t/1001805#reply0)|
+|2023-12-19 06:58:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Raycast 和 alfred 你们在用那个？](https://www.v2ex.com/t/1001654#reply42)|
+|2023-12-19 17:15:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 supadoc.ai 的 AI 文档生成的最新思考](https://www.v2ex.com/t/1001806#reply1)|
+|2023-12-19 10:31:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我的家庭万兆网络升级之路](https://www.v2ex.com/t/1001737#reply4)|
+|2023-12-19 03:08:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[买了轻量腾讯云服务器，发现一年了啥也没放，大家有什么好的思路](https://www.v2ex.com/t/1001579#reply87)|
 |2023-12-19 03:09:00|[oldj's blog](https://oldj.net/feed)|[增加新的柜员后会发生什么？](https://oldj.net/article/2023/12/19/what-happens-when-you-add-a-new-teller/)|
 |2023-12-19 21:45:15|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[个人信息管理软件 Essential PIM Pro v11.8多语言学习版](https://masuit.com/1586)|
 |2023-12-19 15:04:10|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 哇！微软的 Windows AI Studio 需要依赖 Linux 才能运行](https://linux.cn/article-16489-1.html?utm_source=rss&utm_medium=rss)|
