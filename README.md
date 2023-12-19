@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-19 03:09:00|[oldj's blog](https://oldj.net/feed)|[增加新的柜员后会发生什么？](https://oldj.net/article/2023/12/19/what-happens-when-you-add-a-new-teller/)|
+|2023-12-19 21:45:15|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[个人信息管理软件 Essential PIM Pro v11.8多语言学习版](https://masuit.com/1586)|
+|2023-12-19 15:04:10|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 哇！微软的 Windows AI Studio 需要依赖 Linux 才能运行](https://linux.cn/article-16489-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-19 08:57:37|[小众软件](https://www.appinn.com/feed/)|[Document_TagExplorer 2024 发布，为文件和文件夹加标签、写备注 Windows 7 及以上 ](https://www.appinn.com/document-tagexplorer-2024/)|
+|2023-12-19 10:17:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[MAGEASY Apple Watch 錶帶錶殻推薦：讓你的 Apple Watch 風格多變 更具保護力](https://applefans.today/2023-12-mageasy-apple-watch-bands-reviews/)|
+|2023-12-19 16:04:04|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马云放不下田园牧歌：新农业品牌亮相，首日天猫卖了不到100单](https://36kr.com/p/2567071302624900)|
+|2023-12-19 16:04:04|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023，中国消费大变局](https://36kr.com/p/2566245573404292)|
+|2023-12-19 16:04:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李斌，操刀今年最大一笔融资](https://36kr.com/p/2567109277640068)|
+|2023-12-19 16:04:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[传音畅销的高端机型，这配置在国内得破产](https://36kr.com/p/2566370197267842)|
+|2023-12-19 12:10:15|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[不躲不闪，还得是你啊，张家界](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892652&idx=1&sn=c49b3ed938edeef1c19844ea2ae50507)|
+|2023-12-19 15:55:00|[旅行者的随想](https://blog.besscroft.com/rss.xml)|[基于 K3s + Kilo 的跨云 Kubernetes 集群](https://blog.besscroft.com/articles/2023/cross-cloud-k3s/)|
+|2023-12-19 14:00:00|[カレーうどん屋](https://blog.laoliu.eu.org/atom.xml)|[深圳-香港三日行](https://blog.udon.eu.org/archives/2ef8bd61.html)|
+|2023-12-19 14:29:42|[触乐](http://www.chuapp.com/feed)|[IP界的“爽文主角”，正在打造自己的世界](http://www.chuapp.com/article/289704.html)|
+|2023-12-19 04:01:48|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[小米 14 Pro 上手体验](https://sspai.com/post/84510)|
+|2023-12-19 04:01:48|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大列作品](https://sspai.com/post/85106)|
 |2023-12-19 03:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国高净值人群日趋审慎，华尔街遭遇难题](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%87%80%E5%80%BC%E4%BA%BA%E7%BE%A4%E6%97%A5%E8%B6%8B%E5%AE%A1%E6%85%8E-%E4%BB%A4%E5%8D%8E%E5%B0%94%E8%A1%97%E9%81%AD%E9%81%87%E9%9A%BE%E9%A2%98-6d1554f1)|
 |2023-12-19 08:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[老年消费市场在中国渐成气候](https://cn.wsj.com/articles/%E8%80%81%E5%B9%B4%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B8%90%E6%88%90%E6%B0%94%E5%80%99-4eaa7cc2)|
 |2023-12-19 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：又下雪了](http://www.chuapp.com/article/289703.html)|
