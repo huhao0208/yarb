@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-12-18）
+﻿# 每日资讯（2023-12-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-19 01:02:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自从开始做独立开发，英文水平有大幅上升，为什么呢？](https://www.v2ex.com/t/1001523#reply2)|
+|2023-12-19 01:08:44|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 送码 我做了一个在手机灵动岛&锁屏看实时网速/步数/待办/跑步距离/打工人/照片/倒计时/手机使用次数/帧率/CPU... 的软件](https://www.v2ex.com/t/1001525#reply6)|
+|2023-12-19 01:08:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 百度腾讯高德地图 API 接口都收费，有没有免费的替代品](https://www.v2ex.com/t/1001524#reply0)|
+|2023-12-19 01:02:21|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 自从开始做独立开发，英文水平有大幅上升，为什么呢？](https://www.v2ex.com/t/1001523#reply3)|
+|2023-12-19 00:59:52|[V2EX](https://www.v2ex.com/index.xml)|[ Windows win 上模拟 mac 上的 cmd c/cmd v， power toys 刚开始生效，过一段时间就失效了？](https://www.v2ex.com/t/1001522#reply1)|
+|2023-12-19 00:51:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于公司搭建 AI 问答的一些风险](https://www.v2ex.com/t/1001521#reply7)|
+|2023-12-19 00:51:16|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 求教，给虚拟交易平台远程打工需要承担哪些风险](https://www.v2ex.com/t/1001520#reply3)|
+|2023-12-19 00:50:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 专心工作的时候大脑紧绷过早累, 你们呢?](https://www.v2ex.com/t/1001519#reply0)|
+|2023-12-19 00:20:25|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 Giffgaff eSIM 空中激活 + 发卡](https://www.v2ex.com/t/1001516#reply7)|
+|2023-12-19 00:17:18|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 8 寸左右看书的平板有推荐么？](https://www.v2ex.com/t/1001515#reply11)|
+|2023-12-19 06:37:09|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[博客的船新版本正式上线啦！](https://mok.moe/p/new-blog)|
 |2023-12-18 16:14:07|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1220 OpenAI 探索用较低级的 AI 来监管更高级的 AI](https://linux.cn/article-16488-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-18 15:58:26|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 PWA：浏览器的新范式](https://linux.cn/article-16487-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-18 13:15:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Ardour 8.2 为数字音乐创作者增加了一项新功能](https://linux.cn/article-16486-1.html?utm_source=rss&utm_medium=rss)|
