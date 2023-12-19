@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-19 02:39:52|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国西北部地震，超110人死亡](https://cn.nytimes.com/china/20231219/china-earthquake/?utm_source=RSS)|
+|2023-12-19 02:15:18|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[别再买那些“物美价廉”的羊绒衫了](https://cn.nytimes.com/opinion/20231219/holidays-environment-cashmere/?utm_source=RSS)|
+|2023-12-19 01:36:33|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[美国汉学家谷梅逝世，研究中国异议政治](https://cn.nytimes.com/obits/20231218/merle-goldman-dead/?utm_source=RSS)|
+|2023-12-19 04:14:24|[土木坛子](https://tumutanzi.com/feed)|[日常大量阅读能成为专家吗？](https://tumutanzi.com/archives/17172)|
+|2023-12-19 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「朋友圈闻神刷屏」引热议，网友称「是年轻人借梗说真心话」，「闻神」为何会爆火？背后反映出哪些现象？](https://www.zhihu.com/question/635426522)|
+|2023-12-19 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一年百模大战下来，有哪些技术趋势和行业真相逐渐浮出水面？](https://www.zhihu.com/question/632611275)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[京沪楼市新政首个周末，北京新房网签量环增 166% ，上海新房网签量环增 126%，哪些信息值得关注？](https://www.zhihu.com/question/635546261)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《完蛋！我被美女包围了》获 Steam 2023 年度杰出剧情游戏奖提名，对此你有什么想说的？](https://www.zhihu.com/question/635376989)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[甘肃积石山地震亲历者称「从未经历这么大地震，彻夜在屋外烤火避险」，地震来了如何自救？](https://www.zhihu.com/question/635543173)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么亚军上单 TheShy 在 2023 年底的转会期所有 LPL 队伍都不要？](https://www.zhihu.com/question/634638118)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[今年中央财政增发 1 万亿元国债，首批国债资金预算 2379 亿元已下达，哪些信息值得关注？](https://www.zhihu.com/question/635380684)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[苹果本周将停止在美销售 Apple Watch Series 9 及 Ultra 2，有哪些影响？](https://www.zhihu.com/question/635508925)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美方再次宣布对台售武，外交部回应「将对参与企业采取反制措施」，有哪些信息值得关注？](https://www.zhihu.com/question/635427446)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[关于办理醉酒危险驾驶刑事案件的意见印发，醉驾情节显著轻微、危害不大的，可不作为犯罪处理，意味着什么？](https://www.zhihu.com/question/635428633)|
+|2023-12-19 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23/24 赛季欧冠 1/8 决赛出炉： 那不勒斯战巴萨，国米遇马竞，莱比锡战皇马，哪些球队能晋级八强？](https://www.zhihu.com/question/635457538)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待「 3 万在鹤岗买房的小哥最后赔 8 千将房子转卖，并直言可能以后不会再来鹤岗」？](https://www.zhihu.com/question/418289830)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[螺纹钢抵得过亢龙锏嘛，放古代算不算神兵利器？](https://www.zhihu.com/question/634785011)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如今考研、考公、求职和留学对于大学毕业生而言面对，怎样的选择或组合性价比最高？](https://www.zhihu.com/question/631527097)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023「买了没玩」游戏排行榜出炉《博德之门 3》登顶，《王国之泪》第二，为什么这些游戏没玩下去？](https://www.zhihu.com/question/635380416)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[24 秋招因第一学历为双非，985/211 硕博仍逃不过简历被挂的命运，考研的意义还大吗？](https://www.zhihu.com/question/633750542)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[TES 官宣上单选手 Qingtian 下放至 LDL，如何评价他在 LPL 联赛的表现？](https://www.zhihu.com/question/635377330)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么说外资车企被我国新能源汽车卷哭了？](https://www.zhihu.com/question/633097539)|
+|2023-12-19 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[前电竞选手 MLXG 再谈理财「钱放银行是性价比最低的，现在我只亏 2 个点」，对此你有什么想说？](https://www.zhihu.com/question/635375041)|
 |2023-12-19 01:02:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自从开始做独立开发，英文水平有大幅上升，为什么呢？](https://www.v2ex.com/t/1001523#reply2)|
 |2023-12-19 01:08:44|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 送码 我做了一个在手机灵动岛&锁屏看实时网速/步数/待办/跑步距离/打工人/照片/倒计时/手机使用次数/帧率/CPU... 的软件](https://www.v2ex.com/t/1001525#reply6)|
 |2023-12-19 01:08:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 百度腾讯高德地图 API 接口都收费，有没有免费的替代品](https://www.v2ex.com/t/1001524#reply0)|
