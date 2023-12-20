@@ -2,6 +2,53 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-20 13:26:55|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 博通在收购 VMware 后重击客户](https://linux.cn/article-16493-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-20 13:10:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 Celeste：Rust 开发的多云端开源 GUI 文件同步客户端](https://linux.cn/article-16492-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-20 07:10:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 云端翱翔：龙蜥在构建 AI 与云的融合中的关键角色](https://linux.cn/article-16491-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-20 18:25:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有人能分享一下 Google Earth VR 的使用体验吗?真的有旅行的感觉吗?](https://www.v2ex.com/t/1002126#reply1)|
+|2023-12-20 13:37:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一加 12 国行 Rom 有内置谷歌吗？](https://www.v2ex.com/t/1002097#reply16)|
+|2023-12-20 11:14:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[和朋友公司之间签合同有必要写的太详细吗](https://www.v2ex.com/t/1002067#reply18)|
+|2023-12-20 17:49:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何访问正在编写的包的版本号？](https://www.v2ex.com/t/1002124#reply1)|
+|2023-12-20 16:59:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Go 竟然没有标准库的 min max](https://www.v2ex.com/t/1002121#reply4)|
+|2023-12-20 03:33:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 目标贴 2023 已经结束了，定一个 24 年目标吧！](https://www.v2ex.com/t/1001902#reply126)|
+|2023-12-20 10:39:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[多用户的爬虫服务，如何分配资源，确保每个用户的任务都能执行？](https://www.v2ex.com/t/1002058#reply8)|
+|2023-12-20 11:14:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[SSL 证书 是不是互联网新时代的人头税啊。。。。](https://www.v2ex.com/t/1002068#reply31)|
+|2023-12-20 13:18:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[mysql 8 更新了 uuid 函数,所以我想把 id 的值设为 uuid ,是否建表 id char 36 就可以了?](https://www.v2ex.com/t/1002094#reply5)|
+|2023-12-20 13:11:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows11 上怎么读取 APFS 的移动硬盘](https://www.v2ex.com/t/1002090#reply7)|
+|2023-12-20 13:04:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一下 pt 保种和刮削的冲突问题](https://www.v2ex.com/t/1002088#reply9)|
+|2023-12-20 07:16:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自学 k8s 对 Ingress 的一些疑惑](https://www.v2ex.com/t/1001980#reply17)|
+|2023-12-20 03:35:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[分享一套基于 Vue3+tailwindcss+Element Plus 的后台管理面板](https://www.v2ex.com/t/1001904#reply17)|
+|2023-12-20 04:48:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 将到， iTerm2 是不是还是唯一支持 tmux Integration 的终端？](https://www.v2ex.com/t/1001933#reply45)|
+|2023-12-20 02:12:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[阿里云穷疯了？连发三条](https://www.v2ex.com/t/1001855#reply64)|
+|2023-12-20 13:23:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[老码农请教 js/ts 入门。](https://www.v2ex.com/t/1002095#reply7)|
+|2023-12-20 09:47:23|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[吃过红美人，才知道什么叫橘子界的王者。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447439&idx=1&sn=59fa0b477fdab445b73b2e71e4c59341)|
+|2023-12-20 12:12:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2024年法国网球公开赛海报发布，艺术家保罗·鲁斯托将罗兰·加洛斯带到了塞纳河畔，网球化作日落倒映出红土赛场](https://dig.chouti.com/link/40975133)|
+|2023-12-20 14:13:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月20日，甘肃积石山，地震救援现场，一位消防员两口就吃掉几乎一碗牛肉面](https://dig.chouti.com/link/40976125)|
+|2023-12-20 12:36:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[字节跳动2023年营收被曝达1100亿美元，赶超腾讯逼近Meta](https://dig.chouti.com/link/40975214)|
+|2023-12-20 13:14:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[连输液都替。。。。。](https://dig.chouti.com/link/40975645)|
+|2023-12-20 07:36:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[摸底谷歌Gemini：CMU全面测评，Gemini Pro不敌GPT 3.5 Turbo](https://dig.chouti.com/link/40972313)|
+|2023-12-20 10:13:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[如何接近一朵带刺的玫瑰](https://dig.chouti.com/link/40974145)|
+|2023-12-20 12:11:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[胖东来：我明牌了](https://dig.chouti.com/link/40975068)|
+|2023-12-20 10:12:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[岛国网友自制了一个「压岁钱轮盘」，可以用手机偷偷控制指针停止的金额。过年的时候，亲戚家的小孩，想给多少钱就给多少钱！啊啊啊啊啊啊啊啊啊！你们大人好肮脏啊！ twi:Kazumasa Kusaba](https://dig.chouti.com/link/40974104)|
+|2023-12-20 10:13:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2023年，欧美圈“正能量积极向上”新闻汇总：](https://dig.chouti.com/link/40974169)|
+|2023-12-20 08:11:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[峨眉山景区，猴管用弹弓射猴子，防止野猴抢游客东西……终于有人“收拾”泼猴了](https://dig.chouti.com/link/40972813)|
+|2023-12-20 08:16:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[前不久，有个小姑娘手机丢了，她爷爷找到我们分局报警。老人说，手机一直能打通，但始终没人接。民警也帮着拨打，也是一样，觉得像是谁捡到了不想归还。正合计咋办，老人忽然发现自己手机短信数量暴增，打开一看，原来是捡拾者发来的。因为老人关闭了信息推送，迟迟没给回复，他就一直发消息。嗯，这位小哥有听觉障碍。](https://dig.chouti.com/link/40972926)|
+|2023-12-20 09:11:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[赛科龙rt2，坐高750，183kg，有点点重了](https://dig.chouti.com/link/40973453)|
+|2023-12-20 09:11:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[摄影师Benoit Lapray用动漫影视中的形象替换了巴黎街头的雕像](https://dig.chouti.com/link/40973522)|
+|2023-12-20 10:05:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【马来西亚宣布禁止以色列船只停靠该国港口】当地时间12月20日，马来西亚总理安瓦尔命令该国交通部立即实施永久禁令，封锁且不允许总部位于以色列的以星综合航运的船只停泊在任何马国港口。马政府同时决定禁止挂有以色列国旗的船只停靠，禁止任何一艘正在前往以色列的船只在马来西亚的港口上货，这两项禁令也同样立即生效。](https://dig.chouti.com/link/40973791)|
+|2023-12-20 10:13:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ .﹒︣︿﹒︣. ](https://dig.chouti.com/link/40974154)|
+|2023-12-20 03:12:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1996年12月19日，美国海军A-6入侵者攻击机的最后一次部署结束。海军正式退役A-6后，40架经过消毒的A-6机身在佛罗里达海岸沉没，形成“入侵者礁”，又名“亚特兰蒂斯海军航空站”，现已成为渔民和水肺潜水员的热门地点。](https://dig.chouti.com/link/40969428)|
+|2023-12-20 09:05:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ZAKER就小米汽车信息泄露事件致歉：开除涉事员工](https://dig.chouti.com/link/40973228)|
+|2023-12-20 04:11:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新干线上隔壁座位的男孩子，跟大概是从今天开始就要远距离恋爱的站台上的女朋友挥手告别后，拿出女朋友写的5张以上的信，看得梨花带雨。而坐在旁边的我，只能默默低头吃美味的牛肉盖浇饭…//后面没加一句“看着别人哭吃盖饭可真下饭啊” 吗](https://dig.chouti.com/link/40970219)|
+|2023-12-20 04:32:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[四川嬢嬢打成电竞冠军：“想让年轻人知道我们也行”](https://dig.chouti.com/link/40970368)|
+|2023-12-20 04:35:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[错误信息超级传播者：全球AI假新闻网站7个月内激增十几倍](https://dig.chouti.com/link/40970389)|
+|2023-12-20 05:04:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全市场共179只个人养老基金，成立至今超九成亏损，平均收益率为-4.47%](https://dig.chouti.com/link/40970531)|
+|2023-12-20 05:05:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[专访温子仁：《海王2》像《速激》？也许我潜意识受到影响](https://dig.chouti.com/link/40970749)|
+|2023-12-20 05:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[尼日利亚古代艺术](https://dig.chouti.com/link/40970911)|
+|2023-12-20 05:11:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI童话《卖核弹的小女孩》](https://dig.chouti.com/link/40970945)|
+|2023-12-20 09:01:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【海湾淘金：中国公司奔赴另一场招商引资】中国公司入海湾，部分是为了用石油美元填充美元基金留下的真空，部分是为了用当地市场的增长弥补国内市场的停滞。](https://dig.chouti.com/link/40972988)|
+|2023-12-20 10:02:57|[知乎每日精选](https://www.zhihu.com/rss)|[抗日战争末期的《中国分省地图》](http://zhuanlan.zhihu.com/p/632057864?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-20 09:34:25|[知乎每日精选](https://www.zhihu.com/rss)|[2024 年，如何用大模型做出一款属于自己的 AI 应用？](http://www.zhihu.com/question/635320578/answer/3332566660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-20 15:55:24|[白宦成](https://www.ixiqin.com/feed/)|[我的投资理财书单](https://www.ixiqin.com/2023/12/20/my-investment-and-financial-management-book-list/)|
 |2023-12-20 02:00:00|[白宦成](https://www.ixiqin.com/feed/)|[如何自定义 Docked？](https://www.ixiqin.com/2023/12/20/how-to-customize-docked/)|
 |2023-12-20 16:00:00|[虎嗅](https://rss.huxiu.com/)|[主动卷和被动卷](https://www.huxiu.com/article/2450087.html?f=rss)|
