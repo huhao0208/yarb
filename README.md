@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-21 09:20:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Teamlinker 开源啦，基于人工智能的新一代团队协作平台](https://w2solo.com/topics/4321)|
+|2023-12-21 05:34:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搞独立开发的看过来， 2023 年你们赚了多少钱？](https://www.v2ex.com/t/1002240#reply46)|
+|2023-12-21 16:26:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows 打游戏的方案是什么？](https://www.v2ex.com/t/1002463#reply8)|
+|2023-12-21 12:22:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 rdp 远程 win10 的时候，能不能做到被远程的桌面不退出登录？](https://www.v2ex.com/t/1002409#reply28)|
+|2023-12-21 10:44:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[问一下客户端和前端同学跨平台方案， flutter 现在还活着吗](https://www.v2ex.com/t/1002389#reply12)|
+|2023-12-21 16:58:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么还有很多人不愿意放弃 mysql5.7](https://www.v2ex.com/t/1002467#reply18)|
+|2023-12-21 01:30:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 Pixel8 vs 三星 S23+](https://www.v2ex.com/t/1002143#reply36)|
+|2023-12-21 11:14:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[威联通用 entware 安装的 syncthing 似乎出了问题](https://www.v2ex.com/t/1002394#reply8)|
+|2023-12-21 07:41:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个做了 6 年的小程序，只赚了 180 多块钱，结果微信竟然还要我认证，认证费 300](https://www.v2ex.com/t/1002311#reply46)|
+|2023-12-21 04:41:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大龄程序员的出路难道是开滴滴送外卖吗](https://www.v2ex.com/t/1002227#reply87)|
+|2023-12-21 15:20:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微信电脑版聊天记录有办法破解吗](https://www.v2ex.com/t/1002451#reply4)|
+|2023-12-21 19:24:53|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 无广告版的海盗湾，下载种子不再便秘](https://www.v2ex.com/t/1002474#reply0)|
+|2023-12-21 18:36:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 wise 账户以及入金问题](https://www.v2ex.com/t/1002473#reply0)|
+|2023-12-21 18:13:40|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH 大家的 Apple Watch 天冷会自动关机么？](https://www.v2ex.com/t/1002472#reply0)|
+|2023-12-21 17:42:49|[V2EX](https://www.v2ex.com/index.xml)|[ Android 苹果用户使用百度输入法的注意！](https://www.v2ex.com/t/1002470#reply1)|
+|2023-12-21 17:02:15|[V2EX](https://www.v2ex.com/index.xml)|[ macOS MacOS 系统下好用的输入法](https://www.v2ex.com/t/1002468#reply5)|
 |2023-12-21 13:36:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[找个 go 开发，全力临时搞个 demo 赚个小钱哈，关于 webrtc ice 的不会的勿扰](https://www.v2ex.com/t/1002425#reply7)|
 |2023-12-21 12:22:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 rdp 远程 win10 的时候，能不能做到被远程的桌面不退出登录？](https://www.v2ex.com/t/1002409#reply24)|
 |2023-12-21 02:23:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[jetbrains AI Assistant 无法使用](https://www.v2ex.com/t/1002167#reply51)|
