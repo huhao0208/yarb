@@ -1,7 +1,16 @@
-﻿# 每日资讯（2023-12-20）
+﻿# 每日资讯（2023-12-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-21 01:09:13|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 回顾 2023 年，你玩过的觉得很棒的游戏有哪些？](https://www.v2ex.com/t/1002140#reply3)|
+|2023-12-21 01:08:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 公积金突破 15 万了，该怎么合理利用？](https://www.v2ex.com/t/1002139#reply5)|
+|2023-12-21 01:03:54|[V2EX](https://www.v2ex.com/index.xml)|[ 淘宝 淘宝是真的该死了（个人意见）](https://www.v2ex.com/t/1002138#reply10)|
+|2023-12-21 01:03:40|[V2EX](https://www.v2ex.com/index.xml)|[ YouTube 尼日利亚 YouTube Premium 5=2](https://www.v2ex.com/t/1002137#reply0)|
+|2023-12-21 00:52:50|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iphone15 pro 更新到 17.2.1 后电信卡无服务](https://www.v2ex.com/t/1002136#reply4)|
+|2023-12-21 00:41:34|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 腾讯会议如何阻止自动更新](https://www.v2ex.com/t/1002135#reply1)|
+|2023-12-21 00:34:16|[V2EX](https://www.v2ex.com/index.xml)|[ 旅行 2023 年房车使用及旅行总结](https://www.v2ex.com/t/1002134#reply2)|
+|2023-12-21 00:23:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我想在 cloudflare 的 worker 中写云函数,涉及到查询的 sdk,那 sdk 依赖问题怎么解决? 第一次写云函数,请大佬们指教一下.我看了很多个模板,都没看到有引入依赖的方式](https://www.v2ex.com/t/1002132#reply2)|
+|2023-12-21 00:05:43|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPhone 12pro 升级 17.2 后面容 ID 不定时调用失败、摄像头不定时调用失败](https://www.v2ex.com/t/1002131#reply9)|
 |2023-12-20 13:26:55|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 博通在收购 VMware 后重击客户](https://linux.cn/article-16493-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-20 13:10:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 Celeste：Rust 开发的多云端开源 GUI 文件同步客户端](https://linux.cn/article-16492-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-20 07:10:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 云端翱翔：龙蜥在构建 AI 与云的融合中的关键角色](https://linux.cn/article-16491-1.html?utm_source=rss&utm_medium=rss)|
