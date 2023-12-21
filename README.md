@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-21 13:36:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[找个 go 开发，全力临时搞个 demo 赚个小钱哈，关于 webrtc ice 的不会的勿扰](https://www.v2ex.com/t/1002425#reply7)|
+|2023-12-21 12:22:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 rdp 远程 win10 的时候，能不能做到被远程的桌面不退出登录？](https://www.v2ex.com/t/1002409#reply24)|
+|2023-12-21 02:23:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[jetbrains AI Assistant 无法使用](https://www.v2ex.com/t/1002167#reply51)|
+|2023-12-21 04:41:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大龄程序员的出路难道是开滴滴送外卖吗](https://www.v2ex.com/t/1002227#reply85)|
+|2023-12-21 10:44:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[问一下客户端和前端同学跨平台方案， flutter 现在还活着吗](https://www.v2ex.com/t/1002389#reply9)|
+|2023-12-21 15:20:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微信电脑版聊天记录有办法破解吗](https://www.v2ex.com/t/1002451#reply3)|
+|2023-12-21 12:56:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[突发奇想：大家有没有闲置的 App 项目，或许可以打包转让出售？](https://www.v2ex.com/t/1002414#reply2)|
+|2023-12-21 09:24:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[公司希望我用 webview 接入网易云信的音视频通话，是不是实现不了啊](https://www.v2ex.com/t/1002370#reply7)|
+|2023-12-21 08:06:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[腾讯云刚推出的 EdgeOne CDN 有点香，按被攻击时的正常流量计费](https://www.v2ex.com/t/1002325#reply25)|
+|2023-12-21 05:34:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搞独立开发的看过来， 2023 年你们赚了多少钱？](https://www.v2ex.com/t/1002240#reply44)|
+|2023-12-21 01:30:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 Pixel8 vs 三星 S23+](https://www.v2ex.com/t/1002143#reply34)|
+|2023-12-21 16:05:00|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[「美呀医疗」种植牙手术机器人获批三类证，公司已启动上市准备工作](https://36kr.com/p/2569995053737608)|
+|2023-12-21 16:05:00|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[闲鱼上的ThinkPad，太坑了](https://36kr.com/p/2568955147214980)|
+|2023-12-21 16:05:00|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[PowerOn独家 华为智选车推出独立门店，预计2024年达到800家](https://36kr.com/p/2568634787177859)|
+|2023-12-21 16:05:00|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[手机壳卖到300元+，艺术家联名还能有什么新花样？｜营销观察](https://36kr.com/p/2569091381716361)|
+|2023-12-21 16:05:00|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[亚马逊创始人贝索斯深度访谈：ChatGPT 不是「发明」，而是「发现」](https://36kr.com/p/2569984328787592)|
+|2023-12-21 03:09:52|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[如何给开源项目发起提案](http://crossoverjie.top/2023/12/21/ob/Pulsar%20Proposal/)|
+|2023-12-21 16:00:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[年底最後一波 VPN 「終身」優惠價 只要 54 美元 跨區解鎖 Netflix、Disney+ 影音串流平台](https://applefans.today/2023-12-ivacy-vpn-special-offer/)|
+|2023-12-21 13:49:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 和 Apple Watch 都可以用的 匯率換算 app 《匯率計算機》](https://applefans.today/currency-converter-app/)|
+|2023-12-21 16:00:00|[虎嗅](https://rss.huxiu.com/)|[过不好当下，一切都毫无意义](https://www.huxiu.com/article/2454048.html?f=rss)|
+|2023-12-21 07:17:51|[王登科-DK博客](https://greatdk.com/feed)|[我试图用 GPT 改造 Google 统计，但最终变成了一个有点鸡肋的产品](https://greatdk.com/1958.html)|
 |2023-12-21 12:10:46|[白宦成](https://www.ixiqin.com/feed/)|[纪念外婆](https://www.ixiqin.com/2023/12/21/in-memory-of-my-grandmother/)|
 |2023-12-21 02:00:00|[白宦成](https://www.ixiqin.com/feed/)|[不消费无用的信息](https://www.ixiqin.com/2023/12/21/not-consuming-useless-information/)|
 |2023-12-21 17:15:34|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[重复文件清理 Duplicate Cleaner Pro v5.21.2汉化学习版](https://masuit.com/1776)|
