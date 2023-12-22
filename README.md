@@ -2,6 +2,44 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-22 19:59:10|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 公司发的电脑](https://www.v2ex.com/t/1002792#reply0)|
+|2023-12-22 19:48:35|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 某银行网银登陆为什么要用一个叫 Web Secure Connection Root 的自签 ca，是否可信？](https://www.v2ex.com/t/1002791#reply0)|
+|2023-12-22 18:55:45|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt 想问一下 openwrt 中 passwall 如何配置 chatgpt 的分流规则](https://www.v2ex.com/t/1002790#reply3)|
+|2023-12-22 18:07:03|[V2EX](https://www.v2ex.com/index.xml)|[ 加密货币 usdc 转美金](https://www.v2ex.com/t/1002789#reply0)|
+|2023-12-22 17:46:47|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPhone 新机的微信数据迁移带我搞懵了](https://www.v2ex.com/t/1002788#reply2)|
+|2023-12-22 17:32:56|[V2EX](https://www.v2ex.com/index.xml)|[ Mac mini 适配电缆黏手啊！各位有么？](https://www.v2ex.com/t/1002787#reply0)|
+|2023-12-22 16:49:39|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 为什么比 ALAC 更开放的 FLAC 编码反而不能装入标准的 mp4 容器？ ffmpeg 中需要指定参数强制装入](https://www.v2ex.com/t/1002786#reply5)|
+|2023-12-22 16:18:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何下载当前设置的电脑壁纸？](https://www.v2ex.com/t/1002782#reply0)|
+|2023-12-22 16:10:47|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 今天通知裁员了，部门解散。](https://www.v2ex.com/t/1002781#reply4)|
+|2023-12-22 15:59:49|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 iFast 英国数字银行账户注册成功](https://www.v2ex.com/t/1002780#reply0)|
+|2023-12-22 15:38:06|[V2EX](https://www.v2ex.com/index.xml)|[ Android 阿里百川的最新版标准版 SDK， targetSdkVersion 改为 30+后无法唤起淘宝 App](https://www.v2ex.com/t/1002779#reply0)|
+|2023-12-22 15:26:34|[V2EX](https://www.v2ex.com/index.xml)|[ YubiKey 求个 Yubikey5](https://www.v2ex.com/t/1002778#reply1)|
+|2023-12-22 15:25:53|[V2EX](https://www.v2ex.com/index.xml)|[ Java 今天整了个活，用纯 http post 做了一个反向代理/内网穿透的工具](https://www.v2ex.com/t/1002777#reply12)|
+|2023-12-22 15:15:31|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 试了试百度网盘群晖官方套件](https://www.v2ex.com/t/1002775#reply0)|
+|2023-12-22 15:14:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 “股市低迷，处理好家庭关系”](https://www.v2ex.com/t/1002774#reply0)|
+|2023-12-22 15:00:18|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI ChatGPT 会无端使用中文来回答英文问题](https://www.v2ex.com/t/1002773#reply0)|
+|2023-12-22 14:58:11|[V2EX](https://www.v2ex.com/index.xml)|[ Linux Linux 下各位都是用什么办法记住或查找那些自己安装的命令行软件的名字非系统自带或常用的命令）的？](https://www.v2ex.com/t/1002772#reply7)|
+|2023-12-22 14:54:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 电车的续航天冷了是真不行](https://www.v2ex.com/t/1002771#reply1)|
+|2023-12-22 14:41:39|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求推国内云服务器](https://www.v2ex.com/t/1002769#reply7)|
+|2023-12-22 14:38:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 打算做一个币圈公开或隐秘的发币项目， News 类还是论坛类会好点？](https://www.v2ex.com/t/1002768#reply0)|
+|2023-12-22 14:23:45|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 TP 的路由一个 wan 口只能为一个子网提供 ipv6](https://www.v2ex.com/t/1002766#reply0)|
+|2023-12-22 14:01:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 树莓派如何保证 usb 供电能稳定达到 5V 1A](https://www.v2ex.com/t/1002765#reply3)|
+|2023-12-22 13:59:50|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 开源 编译原理 pl/0 编译器 rust 实现 ](https://www.v2ex.com/t/1002764#reply0)|
+|2023-12-22 13:57:40|[V2EX](https://www.v2ex.com/index.xml)|[ Linux Linux 怎么在不给 sudo 权限的情况下以别的用户身份执行命令](https://www.v2ex.com/t/1002763#reply4)|
+|2023-12-22 13:53:46|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 微软的 Microsoft Authenticator 到底要怎么样才可以 云备份&恢复？](https://www.v2ex.com/t/1002762#reply1)|
+|2023-12-22 13:49:59|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 家庭网络固定公网 ip 似乎会导致严重的问题](https://www.v2ex.com/t/1002761#reply14)|
+|2023-12-22 13:49:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 pve 加硬盘，分区出了问题，炸了，求助](https://www.v2ex.com/t/1002760#reply1)|
+|2023-12-22 13:47:55|[V2EX](https://www.v2ex.com/index.xml)|[ 编程 现在大厂中对 UI 自动化测试有什么成熟的解决方案？](https://www.v2ex.com/t/1002759#reply0)|
+|2023-12-22 13:27:40|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 求职： Flutter 开发/ Python 后端岗位](https://www.v2ex.com/t/1002756#reply2)|
+|2023-12-22 13:25:42|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 断开某个网络驱动器造成双击此电脑卡 10 几秒](https://www.v2ex.com/t/1002754#reply10)|
+|2023-12-22 13:07:46|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 阿里云问题请教：使用 LVS 与 Keepalived 实现集群的均衡和高可用](https://www.v2ex.com/t/1002751#reply6)|
+|2023-12-22 12:51:44|[V2EX](https://www.v2ex.com/index.xml)|[ 杭州 杭州房租比去年都涨了不少](https://www.v2ex.com/t/1002750#reply5)|
+|2023-12-22 12:39:23|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 我还能不能去做技术工作， v 友看看我的 Python 代码，能找到一份什么级别的岗位。](https://www.v2ex.com/t/1002749#reply0)|
+|2023-12-22 12:38:33|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 搞了个在线交流阅读源码的平台，欢迎大佬们品鉴](https://www.v2ex.com/t/1002748#reply0)|
+|2023-12-22 12:36:01|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 美区官网买 app store gift card 大家怎么填地址和个人信息？](https://www.v2ex.com/t/1002746#reply11)|
+|2023-12-22 12:34:41|[V2EX](https://www.v2ex.com/index.xml)|[ 旅行 过完大年 30 然后自己去西藏](https://www.v2ex.com/t/1002745#reply16)|
+|2023-12-22 16:44:45|[est の 输入输出](http://feeds.feedburner.com/initiative)|[这个糟糕的世界对中年男人的恶意](https://blog.est.im/2023/stderr-16)|
+|2023-12-22 04:01:38|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[ 送码 派评 近期值得关注的 App](https://sspai.com/post/85158)|
 |2023-12-22 16:04:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么游戏改变了你?](https://www.zhihu.com/question/634645616)|
 |2023-12-22 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[24 考研最后一天，你建议复习还是休息？](https://www.zhihu.com/question/634447982)|
 |2023-12-22 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《红楼梦》中你们所记得的最小的细节是什么？](https://www.zhihu.com/question/39926189)|
