@@ -1,7 +1,12 @@
-﻿# 每日资讯（2023-12-22）
+﻿# 每日资讯（2023-12-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-23 01:05:36|[虎嗅](https://rss.huxiu.com/)|[东方甄选：孙东旭先生已辞任本公司非执行董事一职，即时生效](https://www.huxiu.com/article/2460013.html?f=rss)|
+|2023-12-23 01:00:01|[虎嗅](https://rss.huxiu.com/)|[万亿巨雷之后，聊聊那些奇葩的风控措施](https://www.huxiu.com/article/2456034.html?f=rss)|
+|2023-12-23 00:52:26|[虎嗅](https://rss.huxiu.com/)|[厌蠢情绪背后的“傲慢与偏见”](https://www.huxiu.com/article/2459024.html?f=rss)|
+|2023-12-23 00:01:42|[虎嗅](https://rss.huxiu.com/)|[经济第一大省，为何要画五个“圈”？](https://www.huxiu.com/article/2459033.html?f=rss)|
+|2023-12-23 11:22:55|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[大模型应用设计与实现指南](https://www.chenshaowen.com/blog/large-model-application-design-and-implementation-guide.html)|
 |2023-12-22 19:59:10|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 公司发的电脑](https://www.v2ex.com/t/1002792#reply0)|
 |2023-12-22 19:48:35|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 某银行网银登陆为什么要用一个叫 Web Secure Connection Root 的自签 ca，是否可信？](https://www.v2ex.com/t/1002791#reply0)|
 |2023-12-22 18:55:45|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt 想问一下 openwrt 中 passwall 如何配置 chatgpt 的分流规则](https://www.v2ex.com/t/1002790#reply3)|
