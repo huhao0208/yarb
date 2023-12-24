@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-24 02:52:36|[小众软件](https://www.appinn.com/feed/)|[Mainonly – 小书签：只显示网页上选中的区域，适合使用《沉浸式翻译》](https://www.appinn.com/selected-mainonly/)|
+|2023-12-24 03:51:11|[爱范儿](https://www.ifanr.com/feed)|[蔚来 ET9 亮相！预售价 80 万元，百万级行政轿车迎来「中国玩家」](https://www.ifanr.com/1571348?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-24 02:13:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“一秒化身美军”](https://dig.chouti.com/link/41007683)|
 |2023-12-24 01:15:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 新框架讨论](https://www.v2ex.com/t/1002948#reply1)|
 |2023-12-23 02:36:24|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[东京审判75年后，亚洲“二战”历史仍余音回荡](https://cn.nytimes.com/opinion/20231222/tokyo-war-crimes-75-anniversary/?utm_source=RSS)|
 |2023-12-23 07:45:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求教 23 年 12 月买 1000-1500 左右备用机](https://www.v2ex.com/t/1002868#reply12)|
