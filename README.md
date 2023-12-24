@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-23）
+﻿# 每日资讯（2023-12-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-24 01:15:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 新框架讨论](https://www.v2ex.com/t/1002948#reply1)|
 |2023-12-23 02:36:24|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[东京审判75年后，亚洲“二战”历史仍余音回荡](https://cn.nytimes.com/opinion/20231222/tokyo-war-crimes-75-anniversary/?utm_source=RSS)|
 |2023-12-23 07:45:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求教 23 年 12 月买 1000-1500 左右备用机](https://www.v2ex.com/t/1002868#reply12)|
 |2023-12-23 15:47:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[前端上传 base64 格式的图片的时候，为什么 Java 后端要对 byte 类型的负数值+256？](https://www.v2ex.com/t/1002933#reply3)|
