@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-25 02:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国发布网游新规草案后，腾讯市值蒸发460亿美元](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E7%BD%91%E6%B8%B8%E6%96%B0%E8%A7%84%E8%8D%89%E6%A1%88%E5%90%8E-%E8%85%BE%E8%AE%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91460%E4%BA%BF%E7%BE%8E%E5%85%83-85cedfaf)|
+|2023-12-25 03:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国失业青年：他们从官方数据中消失，但出现在图书馆里](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%B1%E4%B8%9A%E8%80%85%E5%B9%B6%E4%B8%8D%E6%80%BB%E6%98%AF%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%95%B0%E6%8D%AE%E4%B8%AD-%E4%BD%86%E4%BC%9A%E5%9C%A8%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B8%AD-0ae966d9)|
+|2023-12-25 01:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[市值损失250亿美元，中国体育用品巨头为何风光不再？](https://cn.wsj.com/articles/%E6%9D%8E%E5%AE%81%E7%AD%89%E4%B8%AD%E5%9B%BD%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E5%93%81%E7%89%8C%E9%94%99%E5%A4%B1%E5%85%88%E6%9C%BA-1e131d09)|
+|2023-12-25 03:35:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【小红书：目前暂无上市计划】此前有消息称小红书或最快将于2024年下半年赴港上市。一接近小红书的投资人表示，小红书在启动IPO前计划再进行一轮融资，“基本上也就是crossover轮，顺利的话将于明年上半年全部close”。](https://dig.chouti.com/link/41016905)|
+|2023-12-25 03:05:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[联合舰队护航后，马士基计划恢复红海东西向航线，正制定首批船舶尽快通行计划](https://dig.chouti.com/link/41016485)|
+|2023-12-25 02:04:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【积石山6.2级地震为何导致大量农房倒塌？】此次地震中倒塌及受损严重的农房大多建成年代较早，以村民自建的偏房、辅助用房为主，近年来农村危房改造中新建或改建过的农房基本没有整体倒塌情况，出现的问题主要是墙体开裂和外闪。此外，相较于用取暖炉的新房，旧房的火炕取暖更方便更经济，很多伤亡是由于住在旧房导致。](https://dig.chouti.com/link/41015637)|
 |2023-12-25 01:12:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 散客去深圳水贝买金首饰水深吗。](https://www.v2ex.com/t/1003095#reply0)|
 |2023-12-25 01:08:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享我用的最顺手的英语翻译工具和学习插件](https://www.v2ex.com/t/1003094#reply0)|
 |2023-12-25 01:07:54|[V2EX](https://www.v2ex.com/index.xml)|[ Android 安卓手机投屏到电脑，现在有什么推荐的方式吗？](https://www.v2ex.com/t/1003093#reply4)|
