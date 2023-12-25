@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-25 16:04:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么 80% 的码农都做不了架构师？](https://www.zhihu.com/question/628330433)|
+|2023-12-25 16:04:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 iQOO Neo9 系列双芯游戏性能技术沟通会? 为什么很多性能机都在卷双芯?](https://www.zhihu.com/question/636535147)|
+|2023-12-25 16:04:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年有没有一件小事让你开怀大笑？](https://www.zhihu.com/question/636414478)|
+|2023-12-25 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[手机日常使用，除了游戏以外你觉得最费电的操作是什么？](https://www.zhihu.com/question/631330445)|
+|2023-12-25 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么 Dreamweaver，FrontPage 会被淘汰？](https://www.zhihu.com/question/635562058)|
+|2023-12-25 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国产首艘大型邮轮「 爱达·魔都号 」在上海离港，进行首次试运营，有哪些信息值得关注？](https://www.zhihu.com/question/636483270)|
+|2023-12-25 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 2023 年 12 月 25 日 A 股市场情况？](https://www.zhihu.com/question/636472918)|
+|2023-12-25 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国女游客在日本滑雪被埋雪中身亡，冬季滑雪越来越受人们的欢迎，雪场上事故频发，哪些问题需要注意？](https://www.zhihu.com/question/636428544)|
+|2023-12-25 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你是如何把跑步融入到日常生活中的？](https://www.zhihu.com/question/635928276)|
+|2023-12-25 18:27:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 突然发现小米系统不登陆就不能安装软件了](https://www.v2ex.com/t/1003393#reply1)|
+|2023-12-25 16:49:52|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iOS App 苹果编辑推荐效果真的好么，虽然展示量确实看起来爆增了](https://www.v2ex.com/t/1003391#reply2)|
+|2023-12-25 16:44:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有现成的支持中文的 plantuml online server 吗](https://www.v2ex.com/t/1003390#reply0)|
+|2023-12-25 16:35:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有办法在不分独立域名的情况下合并两个内网互通的服务器的公网出口带宽吗？](https://www.v2ex.com/t/1003389#reply0)|
+|2023-12-25 16:22:24|[V2EX](https://www.v2ex.com/index.xml)|[ 智能家电 如何利用米家语音（小爱同学）产生自定义 HTTP 请求？](https://www.v2ex.com/t/1003387#reply3)|
+|2023-12-25 14:13:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[两只鹈鹕试图打劫，一只鱼鹰奋力逃脱](https://dig.chouti.com/link/41023546)|
+|2023-12-25 01:09:11|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[富士康工人反抗一周年纪念与访谈](https://fed.laborinfocn3.com/foxcon-worker-1year/)|
 |2023-12-25 14:36:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Banksy 的新作一个小时就被偷走，他位于巴以隔离墙的酒店也已经关闭](https://dig.chouti.com/link/41023603)|
 |2023-12-25 14:05:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[青岛警方破获地下钱庄非法买卖虚拟货币案，涉案158亿元](https://dig.chouti.com/link/41023352)|
 |2023-12-25 14:04:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网易对与暴雪重新合作不予回应，已解散团队短时间内难以重组】12月25日，针对网上有媒体传闻网易与暴雪或将重新合作，网易方面表示不予回应。有接近公司的人士表示，网易此前负责运营暴雪国服的团队今年已解散，短时间内为暴雪重组团队可能性不高。](https://dig.chouti.com/link/41023243)|
