@@ -1,7 +1,19 @@
-﻿# 每日资讯（2023-12-24）
+﻿# 每日资讯（2023-12-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-25 01:12:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 散客去深圳水贝买金首饰水深吗。](https://www.v2ex.com/t/1003095#reply0)|
+|2023-12-25 01:08:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享我用的最顺手的英语翻译工具和学习插件](https://www.v2ex.com/t/1003094#reply0)|
+|2023-12-25 01:07:54|[V2EX](https://www.v2ex.com/index.xml)|[ Android 安卓手机投屏到电脑，现在有什么推荐的方式吗？](https://www.v2ex.com/t/1003093#reply4)|
+|2023-12-25 01:06:02|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了个 ai 内容检测小站，大家体验一下！](https://www.v2ex.com/t/1003092#reply0)|
+|2023-12-25 01:03:21|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt TP Link XDR6088 安装 OpenWrt 官方镜像记录，同样适用于 6086 与 4288](https://www.v2ex.com/t/1003091#reply1)|
+|2023-12-25 00:56:43|[V2EX](https://www.v2ex.com/index.xml)|[ iOS app store 能不能只充 2 刀？想买个 app 余额有 4 刀还差 2 刀](https://www.v2ex.com/t/1003090#reply1)|
+|2023-12-25 00:33:48|[V2EX](https://www.v2ex.com/index.xml)|[ GitHub Copilot copilot 和 codiem 等 AI 辅助工具，公司都不让用。这种现象普遍吗？](https://www.v2ex.com/t/1003088#reply5)|
+|2023-12-25 00:23:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么我的 ssd 的文件存放的寿命如此的长呢？ 断电放了 4 年了，文件都在](https://www.v2ex.com/t/1003087#reply15)|
+|2023-12-25 00:20:57|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI LLM 综述：猫娘 Mixtral 与近半年 LLM 进展的杂谈](https://www.v2ex.com/t/1003086#reply2)|
+|2023-12-25 00:05:56|[V2EX](https://www.v2ex.com/index.xml)|[ GitHub 有哪些不太尊重贡献者的仓库？](https://www.v2ex.com/t/1003085#reply0)|
+|2023-12-25 00:03:54|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 2023 就要过去了，大家有写年终总结的习惯吗](https://www.v2ex.com/t/1003084#reply2)|
+|2023-12-25 00:49:30|[爱范儿](https://www.ifanr.com/feed)|[早报｜苹果多模态大模型悄然发布 / 董宇辉已成立新公司 / 马斯克 2023 年财富增长 7700 亿](https://www.ifanr.com/1571479?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[卖磁力过滤设备给宁德时代，大专夫妻北交所闯关成功｜专精快报](https://36kr.com/p/2574090521962120)|
 |2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[WATTMAN瓦特曼获数亿元B系列融资，深耕传统重工业的人工智能化｜硬氪首发](https://36kr.com/p/2574085077280133)|
 |2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[不愿去餐厅吃饭的年轻人，爱上了商超餐饮区](https://36kr.com/p/2573305522234752)|
