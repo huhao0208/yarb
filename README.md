@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-25 10:31:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 让 Fish Shell 比 Bash 更好的 11 大特性](https://linux.cn/article-16504-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-25 09:47:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Qubes OS 4.2 发布，支持 PipeWire 并更新了核心应用](https://linux.cn/article-16503-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-25 09:58:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Md 现在完全可以取代 word 的存在了](https://www.v2ex.com/t/1003326#reply57)|
+|2023-12-25 06:37:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[发布有几个月了，大家现在写 Rust 用 VsCode 还是 RustRover？](https://www.v2ex.com/t/1003241#reply27)|
+|2023-12-25 11:35:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 语法糖大合集](https://www.v2ex.com/t/1003344#reply2)|
+|2023-12-25 04:14:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[国内的安卓手机能锁屏下接 语音/视频 吗？](https://www.v2ex.com/t/1003181#reply27)|
+|2023-12-25 07:43:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[帮忙推荐一款云笔记软件吧？](https://www.v2ex.com/t/1003274#reply24)|
+|2023-12-25 09:23:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Otter, 兼具高性能与高命中率的内存缓存](https://www.v2ex.com/t/1003313#reply8)|
+|2023-12-25 09:14:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[感觉国外 Golang 语言很火，反而国内一般](https://www.v2ex.com/t/1003309#reply28)|
+|2023-12-25 11:52:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教个 pandas 问题, excel 某一列是包含货币样式的公式,pandas.read_excel 得到的结果全是 0...](https://www.v2ex.com/t/1003346#reply0)|
+|2023-12-25 07:12:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最新 AI 实战课《AI 零基础变现实战课，搞定 10+变现场景，开启副业第一桶金》](https://www.v2ex.com/t/1003258#reply9)|
+|2023-12-25 05:57:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何控制已打开的浏览器，从而实现 selenium 伪装](https://www.v2ex.com/t/1003217#reply13)|
+|2023-12-25 05:07:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[elasticsearch/lucene 怎么优化多语言搜索？](https://www.v2ex.com/t/1003197#reply9)|
+|2023-12-25 09:49:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个网页怎么发出 referer 不同的 https 请求？](https://www.v2ex.com/t/1003323#reply3)|
+|2023-12-25 09:29:25|[空城记](https://shinekid.com/feed/)|[圣诞快乐！刘同学](https://shinekid.com/2023/12/merry-christmas/)|
+|2023-12-25 07:20:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[告别煤炭的冬天](https://dig.chouti.com/link/41019377)|
+|2023-12-25 06:57:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这种颠游戏，到底有什么存在的意义...](https://dig.chouti.com/link/41018836)|
+|2023-12-25 06:15:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[赏心悦目！eurosport评选出的奥沙利文2023年度击球TOP5](https://dig.chouti.com/link/41018745)|
+|2023-12-25 08:10:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[20元轰炸六小时，170元包月，一分钟内40条验证码，起底“呼不停”灰产](https://dig.chouti.com/link/41019889)|
+|2023-12-25 09:15:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【法院披露“订婚强奸案”详情：被害人曾呼喊救命，网传“骗婚”等不实】5月1日，二人订婚。5月2日中午，被告提出发生性关系遭拒，被告不顾被害人反抗，强行与被害人发生性关系。事后，被害人情绪激动，实施了点火烧卧室柜子和客厅窗帘等行为，还逃出房间呼喊“救命”，被强行拖拽回房内。期间，被告还拿走了被害人手机。](https://dig.chouti.com/link/41020646)|
+|2023-12-25 07:06:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[CPU推理提升4到5倍，苹果用闪存加速大模型推理，Siri 2.0要来了？](https://dig.chouti.com/link/41019199)|
+|2023-12-25 01:04:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[揭秘横店爽剧基地：女演员欺辱戏多达70集](https://dig.chouti.com/link/41015162)|
+|2023-12-25 07:10:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[知网一文献总库下载量最高文章名为《现在不想写论文》，被下载7万多次](https://dig.chouti.com/link/41019210)|
+|2023-12-25 07:11:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[墨西哥坎昆的绝美日落](https://dig.chouti.com/link/41019286)|
+|2023-12-25 05:04:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据台湾“中央社”24日报道，一位定居加拿大的颜姓台湾旅客与家人前往古巴旅行。由于在入境时持所谓的“台湾护照”，古巴海关拒绝了他和家人的入境申请，并将他们遣返回加拿大。古巴官员表示，古巴奉行一个中国原则，不承认所谓的“台湾护照”。颜某和家人以“此前有朋友能入境”为由与古巴官员大声争执，仍被对方拒绝入境。](https://dig.chouti.com/link/41017679)|
+|2023-12-25 05:05:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【数千示威者试图闯入政府大楼，武契奇：颜色革命未遂】当地时间12月24日，塞尔维亚首都贝尔格莱德，超千人试图闯入政府大楼，反对国民议会选举结果，与警察发生冲突。晚些时候，塞尔维亚总统武契奇称这是一场未遂的“颜色革命”，并感谢“外国情报部门”提前向塞方提供信息。塞尔维亚总理称，武契奇所指“外国”为俄罗斯。](https://dig.chouti.com/link/41017952)|
+|2023-12-25 05:13:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[抽象到以为在整活](https://dig.chouti.com/link/41018181)|
+|2023-12-25 06:05:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[京东12月31日要卖特斯拉汽车？特斯拉相关人士否认：与京东的合作并非汽车销售相关业务](https://dig.chouti.com/link/41018543)|
+|2023-12-25 08:35:23|[小众软件](https://www.appinn.com/feed/)|[英雄联盟 LOL 怼人工具 – 自定义骂人短语、内置骂人库，通过快捷键随机发送 Windows ](https://www.appinn.com/lol-duiren/)|
+|2023-12-25 05:44:34|[小众软件](https://www.appinn.com/feed/)|[搜索酱 Chrome/Firefox 插件版- 右键搜索/划词搜索/拖拽搜索/模拟点击/页内高亮](https://www.appinn.com/sousuojiang-browser-addons/)|
+|2023-12-25 12:29:15|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 闲来无事整了个微信小程序（build in public?）](https://www.v2ex.com/t/1003354#reply0)|
+|2023-12-25 12:12:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 少壮不努力，______。](https://www.v2ex.com/t/1003351#reply7)|
+|2023-12-25 12:05:41|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 北京联通光宽带 自己换了华为的 HN8145XR 光猫](https://www.v2ex.com/t/1003350#reply0)|
+|2023-12-25 11:59:13|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于 API 设计问题，请大家指点指点](https://www.v2ex.com/t/1003348#reply0)|
+|2023-12-25 11:58:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助：使用 Hugingface Transformers 框架时的 SSL Error](https://www.v2ex.com/t/1003347#reply0)|
 |2023-12-25 05:30:40|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[避免帧间不变像素的重复渲染](https://blog.codingnow.com/2023/12/pixelculling.html)|
 |2023-12-25 00:59:42|[Decohack](https://www.decohack.com/feed)|[轻松阅读英文内容-终极翻译工具和插件推荐](https://www.decohack.com/Post/1513)|
 |2023-12-25 03:11:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 新廣告： iPhone 15 Plus 超強電力 讓插座無用武之地](https://applefans.today/2023-12-iphone-15-plus-battery-life-ad/)|
