@@ -2,6 +2,30 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-26 18:46:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Chrome 如何使用内置/右键翻译而不用设置系统代理](https://www.v2ex.com/t/1003679#reply1)|
+|2023-12-26 12:31:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们觉得做年度计划有用吗？](https://www.v2ex.com/t/1003626#reply9)|
+|2023-12-26 16:15:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[年终了，我在卖的软件也差不多终结了，分享下经历](https://www.v2ex.com/t/1003667#reply13)|
+|2023-12-26 14:57:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想问一下大家，在公司有跳板机/堡垒机的情况下，是怎么进行远程开发的？](https://www.v2ex.com/t/1003652#reply9)|
+|2023-12-26 17:57:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 unraid 文件系统如何选择的问题。](https://www.v2ex.com/t/1003676#reply0)|
+|2023-12-26 16:35:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[天天使用 Google 服务，结果辅助邮箱收到 Google 邮件，说八个月未登录。](https://www.v2ex.com/t/1003671#reply1)|
+|2023-12-26 12:27:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[GNOME 下大家用什么中文字体](https://www.v2ex.com/t/1003624#reply9)|
+|2023-12-26 15:48:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux 上有什么好的备份工具？](https://www.v2ex.com/t/1003665#reply3)|
+|2023-12-26 12:00:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一款颜值在线的 React 后台模板-- Slash Admin](https://www.v2ex.com/t/1003619#reply15)|
+|2023-12-26 06:28:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教下不同系统间的硬中断响应时间](https://www.v2ex.com/t/1003505#reply6)|
+|2023-12-26 10:01:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[初入 Nas 2 个盘 1. 要做 RAID 吗？ 2. 2.5G 网口能带来啥提升呀？ 3. 买了希捷银河 16T， 不知道正常能不能用个 3 年 5 年？](https://www.v2ex.com/t/1003590#reply20)|
+|2023-12-26 07:57:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个疑问，现在是人均一台开发机了？](https://www.v2ex.com/t/1003543#reply55)|
+|2023-12-26 15:13:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[android TEE 证书检测 BL、设备信息真的无法绕过吗？](https://www.v2ex.com/t/1003657#reply1)|
+|2023-12-26 15:24:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不知道有没有人考过 pythoninstitute 的 PCEP 证书？](https://www.v2ex.com/t/1003659#reply0)|
+|2023-12-26 08:27:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[写了个独立开发的专栏](https://www.v2ex.com/t/1003555#reply5)|
+|2023-12-26 12:01:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[Posts on Threads 2023.08 - 2023.12 ](https://www.changhai.org/articles/miscellaneous/eblog/202308.php)|
+|2023-12-26 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Sam Altman的AB面：曾三次被公司“劝退”，硅谷之王如何练成](https://36kr.com/p/2576142076355968)|
+|2023-12-26 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023年，超级APP的升与降](https://36kr.com/p/2577026545755523)|
+|2023-12-26 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[CAR-T迎来至暗时刻？对话范晓虎：不是穷途末路，而是刚刚开始｜36氪专访](https://36kr.com/p/2576065163437703)|
+|2023-12-26 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[网易、暴雪：是的，我们要复合了](https://36kr.com/p/2576195347423110)|
+|2023-12-26 16:05:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[我们还是希望蔚来能成功](https://36kr.com/p/2577025977394816)|
+|2023-12-26 11:09:29|[太隐](https://wangyurui.com/feed.xml)|[聊聊2023：感知 · 理知 · 认知](https://wangyurui.com/posts/liao-liao-2023-97971439)|
+|2023-12-26 09:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国仍难以重建在华情报网，了解中国领导层计划能力受限](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BB%8D%E9%9A%BE%E4%BB%A5%E9%87%8D%E5%BB%BA%E5%9C%A8%E5%8D%8E%E6%83%85%E6%8A%A5%E7%BD%91-%E4%BA%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E5%B1%82%E8%AE%A1%E5%88%92%E8%83%BD%E5%8A%9B%E5%8F%97%E9%99%90-ea5bae87)|
+|2023-12-26 05:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国资产看似低廉，但投资者曾经为其所伤](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E7%9C%8B%E4%BC%BC%E4%BD%8E%E5%BB%89-%E4%BD%86%E6%8A%95%E8%B5%84%E8%80%85%E6%9B%BE%E7%BB%8F%E4%B8%BA%E5%85%B6%E6%89%80%E4%BC%A4-b497e565)|
 |2023-12-26 08:20:51|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[​广东人颤抖吧！上海人自己发明的打边炉](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447555&idx=1&sn=e1b7e573b7b1ee5ba54e95a75911b6be)|
 |2023-12-26 16:03:15|[Fl0w3r](https://yousazoe.top/atom.xml)|[League Director Tutorial1](https://yousazoe.top/archives/4d49e06.html)|
 |2023-12-26 03:27:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我的助眠类播客《静夜斋》上线啦～](https://w2solo.com/topics/4329)|
