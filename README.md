@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-26 04:00:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家用 AWS 服务器的时候用 ec2 还是 lightsail ?](https://www.v2ex.com/t/1003464#reply3)|
+|2023-12-26 02:56:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[好迷茫，失业了，不知道咋办？能给点意见吗](https://www.v2ex.com/t/1003443#reply35)|
+|2023-12-26 01:02:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[被安卓恶心到了（准确来说是安卓 App 开发者）](https://www.v2ex.com/t/1003401#reply52)|
+|2023-12-26 03:40:43|[机核](https://www.gcores.com/rss)|[TV动画《药师少女的独语》第1季后半部PV公开，2024年1月6日开播](https://www.gcores.com/articles/175545)|
+|2023-12-26 03:38:09|[机核](https://www.gcores.com/rss)|[动作RPG游戏《遗物：第一守护者》实机演示公布，2025年发售](https://www.gcores.com/articles/175544)|
+|2023-12-26 02:19:29|[机核](https://www.gcores.com/rss)|[M27《名侦探柯南 百万美元的五稜星》公开新预告片](https://www.gcores.com/articles/175541)|
+|2023-12-26 02:04:27|[机核](https://www.gcores.com/rss)|[《心跳回忆 Girl's Side》1~3宣布登陆Switch，2024年2月14日发售](https://www.gcores.com/articles/175540)|
+|2023-12-26 02:00:00|[机核](https://www.gcores.com/rss)|[「吉考斯工业 × 战双帕弥什」联名系列现已在淘宝店正式发售](https://www.gcores.com/articles/175519)|
+|2023-12-26 01:37:14|[机核](https://www.gcores.com/rss)|[官方推荐：吉田修平公布年度最为喜爱的PS独立游戏](https://www.gcores.com/articles/175539)|
+|2023-12-26 01:33:05|[机核](https://www.gcores.com/rss)|[治愈系手绘风解谜游戏《麦洛和圣诞礼物》现已免费推出](https://www.gcores.com/articles/175538)|
+|2023-12-26 01:00:00|[机核](https://www.gcores.com/rss)|[Epic假日送好礼：199元《天外世界》太空人之选版免费领](https://www.gcores.com/articles/175532)|
+|2023-12-26 01:09:20|[爱范儿](https://www.ifanr.com/feed)|[早报 小米汽车发布会官宣定档/2024 放假安排来了/麦当劳回应涨价传闻](https://www.ifanr.com/1571601?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-25 16:04:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么 80% 的码农都做不了架构师？](https://www.zhihu.com/question/628330433)|
 |2023-12-25 16:04:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 iQOO Neo9 系列双芯游戏性能技术沟通会? 为什么很多性能机都在卷双芯?](https://www.zhihu.com/question/636535147)|
 |2023-12-25 16:04:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年有没有一件小事让你开怀大笑？](https://www.zhihu.com/question/636414478)|
