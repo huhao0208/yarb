@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-27 02:47:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[除了 VPN，还有什么安全方式在外网访问公司资源？](https://www.v2ex.com/t/1003747#reply34)|
+|2023-12-27 04:18:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[体会到资本家的心情了](https://www.v2ex.com/t/1003782#reply0)|
+|2023-12-27 02:42:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[K40s 刷 pe ， 电信卡只能 4g 上网，不能电话有解吗？](https://www.v2ex.com/t/1003746#reply8)|
+|2023-12-27 04:00:53|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[新关税、“严厉惩罚”中国：特朗普的2025年贸易议程](https://cn.nytimes.com/usa/20231226/trump-2025-trade-china/?utm_source=RSS)|
+|2023-12-27 03:48:38|[机核](https://www.gcores.com/rss)|[樱井政博：目前还在制作游戏，没有完全退休](https://www.gcores.com/articles/175583)|
+|2023-12-27 01:33:52|[机核](https://www.gcores.com/rss)|[Epic假日送好礼：解谜游戏《程序员升职记》免费领](https://www.gcores.com/articles/175579)|
+|2023-12-27 01:19:17|[机核](https://www.gcores.com/rss)|[《博德之门3》登顶：Steam周销量排行榜 2023年12月第3周](https://www.gcores.com/articles/175578)|
+|2023-12-27 01:00:00|[机核](https://www.gcores.com/rss)|[《白荆回廊》启程在即！从主题行业交流会看白荆的产品创新](https://www.gcores.com/articles/175580)|
+|2023-12-27 02:04:51|[知乎每日精选](https://www.zhihu.com/rss)|[2023 年度职场洞察报告 用数字和故事还原这一年](http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-27 01:09:38|[V2EX](https://www.v2ex.com/index.xml)|[ macOS safari 17.2.1 无痕模式的问题](https://www.v2ex.com/t/1003700#reply0)|
 |2023-12-27 00:59:01|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 本来想听点歌曲，结果听了一路的开头伴奏](https://www.v2ex.com/t/1003699#reply6)|
 |2023-12-27 00:58:24|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 类似 tinyML，做个运行在嵌入式 Linux 的《轻量级的》深度学习系统，有意义吗？](https://www.v2ex.com/t/1003698#reply1)|
