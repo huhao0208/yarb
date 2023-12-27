@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-27 09:17:00|[小众软件](https://www.appinn.com/feed/)|[画历 – 一款每日精选好图与创意设计的艺术日历，屏幕小组件 iPhone/iPad ](https://www.appinn.com/huali-for-ios/)|
+|2023-12-27 06:57:54|[小众软件](https://www.appinn.com/feed/)|[饭碗警告 – 将邮件/WebHook 转发至电话、短信、IM 通知](https://www.appinn.com/fwalert/)|
+|2023-12-27 14:09:00|[竹林里有冰的博客](https://zhul.in/rss.xml)|[vuejs、php、caddy 与 docker —— web 期末大作业上云部署](https://zhul.in/2023/12/27/php-and-vuejs-project-deploy-on-caddy/)|
+|2023-12-27 11:48:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜淘宝继续学拼多多？中概股又被要求披露更多内容](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511017&idx=2&sn=699cb19a9f5d26be655447fec17cdc8d)|
+|2023-12-27 11:48:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[东方甄选冲突由来：失衡的关系、不同的目标](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511017&idx=1&sn=41265199330b98063c1c89dffb2215b5)|
+|2023-12-27 11:50:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何理解 Svelte “无需虚拟 DOM”](https://www.v2ex.com/t/1003928#reply10)|
+|2023-12-27 14:47:58|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[订婚强奸案，婚姻摇摇晃晃](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892752&idx=1&sn=ca26e341af18c4551a4436565dd90b05)|
 |2023-12-27 10:04:04|[爱范儿](https://www.ifanr.com/feed)|[小米汽车最全爆料汇总，提前给你扒光这台 SU7 的底细](https://www.ifanr.com/1571773?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-27 09:35:01|[爱范儿](https://www.ifanr.com/feed)|[3i 智能净地站体验：清洁家电的第一性原理是什么](https://www.ifanr.com/1571737?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-27 03:02:16|[爱范儿](https://www.ifanr.com/feed)|[抖音商城开始找「锦鲤」？这是你的年末好运！](https://www.ifanr.com/1571682?utm_source=rss&utm_medium=rss&utm_campaign=)|
