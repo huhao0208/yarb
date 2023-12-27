@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-12-26）
+﻿# 每日资讯（2023-12-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-27 01:09:38|[V2EX](https://www.v2ex.com/index.xml)|[ macOS safari 17.2.1 无痕模式的问题](https://www.v2ex.com/t/1003700#reply0)|
+|2023-12-27 00:59:01|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 本来想听点歌曲，结果听了一路的开头伴奏](https://www.v2ex.com/t/1003699#reply6)|
+|2023-12-27 00:58:24|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 类似 tinyML，做个运行在嵌入式 Linux 的《轻量级的》深度学习系统，有意义吗？](https://www.v2ex.com/t/1003698#reply1)|
+|2023-12-27 00:56:39|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 安卓端 ChatGPT 可以用国内信用卡开通订阅了](https://www.v2ex.com/t/1003696#reply4)|
+|2023-12-27 00:52:15|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 北京联通 VPN 回家，为什么有时候可以连上，有时候连不上？](https://www.v2ex.com/t/1003695#reply4)|
+|2023-12-27 00:48:50|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 外企工程师推荐](https://www.v2ex.com/t/1003693#reply0)|
+|2023-12-27 00:48:34|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 敢问大家 iPhone15 pro 开 4g 还是 5g](https://www.v2ex.com/t/1003692#reply10)|
+|2023-12-27 00:40:29|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 有没有好用的私人音乐播放器](https://www.v2ex.com/t/1003691#reply11)|
+|2023-12-27 00:40:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 宽带重播后， IPV6 更新时间是多久？](https://www.v2ex.com/t/1003690#reply0)|
+|2023-12-27 00:39:13|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Aichat: 在终端中使用 GPT-4（V）、Gemini、LocalAI、Ollama、通义千问等大模型](https://www.v2ex.com/t/1003689#reply3)|
+|2023-12-27 00:08:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 信息贩卖真的无解吗？朋友差点被诈骗了](https://www.v2ex.com/t/1003688#reply11)|
 |2023-12-26 18:46:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Chrome 如何使用内置/右键翻译而不用设置系统代理](https://www.v2ex.com/t/1003679#reply1)|
 |2023-12-26 12:31:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们觉得做年度计划有用吗？](https://www.v2ex.com/t/1003626#reply9)|
 |2023-12-26 16:15:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[年终了，我在卖的软件也差不多终结了，分享下经历](https://www.v2ex.com/t/1003667#reply13)|
