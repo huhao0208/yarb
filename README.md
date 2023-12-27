@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-27 08:50:00|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[水果上新｜老广最爱的老树神橘，泉水般清甜](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447639&idx=2&sn=cebf91a3e052cfd1e46b17780f331703)|
+|2023-12-27 08:49:59|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[破店，点评 3.3，上海富人的老牌花胶鸡火锅](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447639&idx=1&sn=ec1247e1fae72c57aea211d4e623b89e)|
+|2023-12-27 14:55:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Android 刷 Magisk 能做到完美 Location 欺骗吗](https://www.v2ex.com/t/1003966#reply3)|
+|2023-12-27 09:19:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搞开源项目，收费卖文档有搞头吗](https://www.v2ex.com/t/1003893#reply47)|
+|2023-12-27 02:47:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[除了 VPN，还有什么安全方式在外网访问公司资源？](https://www.v2ex.com/t/1003747#reply74)|
+|2023-12-27 15:32:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[都过来瞧瞧，我碰到的应该是小米应用商店的 bug 而不是类似拼多多植入后门这种问题吧](https://www.v2ex.com/t/1003972#reply3)|
+|2023-12-27 15:25:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[go 返回值是否需要尽量返回值，而不返回指针呢？](https://www.v2ex.com/t/1003969#reply5)|
+|2023-12-27 09:43:41|[Luckydesigner](https://www.luckydesigner.space/feed)|[博采众长，看看大家都有什么如何使用 ChatGPT 的技巧](https://www.luckydesigner.space/how-to-use-chatgpt-according-to-others/)|
+|2023-12-27 20:03:37|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 听大家说最近都在收紧公网 ipv4，那我就来炫耀一下吧。](https://www.v2ex.com/t/1003985#reply0)|
+|2023-12-27 19:48:38|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教 clash.meta 的 fake-ip, redir-host 等问题](https://www.v2ex.com/t/1003984#reply1)|
+|2023-12-27 19:44:59|[V2EX](https://www.v2ex.com/index.xml)|[ macOS macOS 多屏幕切换窗口](https://www.v2ex.com/t/1003983#reply0)|
+|2023-12-27 18:13:13|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 深圳宝安机场停车，有个方案不知道可行性如何](https://www.v2ex.com/t/1003982#reply0)|
+|2023-12-27 17:24:32|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 全职远程｜国内🌍招聘｜ Web3 公司 WOO 技术岗汇总：技术支持/Manual QA /UI Automation QA /DeFi Frontend Developer/React Frontend Engine](https://www.v2ex.com/t/1003981#reply0)|
+|2023-12-27 17:08:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Shark 蒸汽拖把怎么样？](https://www.v2ex.com/t/1003979#reply0)|
+|2023-12-27 16:55:40|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招聘远程 PHP 和 vue 各一个](https://www.v2ex.com/t/1003977#reply0)|
+|2023-12-27 16:00:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有可自动运行的探究型 GPT 衍生智能平台？](https://www.v2ex.com/t/1003975#reply0)|
+|2023-12-27 15:45:46|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家现在都用什么网站 or 软件看番](https://www.v2ex.com/t/1003974#reply14)|
+|2023-12-27 15:38:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 跨省搬家有推荐吗？ 包括升降桌和人体工学椅， PC 显示器这些大件](https://www.v2ex.com/t/1003973#reply10)|
+|2023-12-27 15:27:03|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 成熟软件之美](https://linux.cn/article-16512-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-27 09:17:00|[小众软件](https://www.appinn.com/feed/)|[画历 – 一款每日精选好图与创意设计的艺术日历，屏幕小组件 iPhone/iPad ](https://www.appinn.com/huali-for-ios/)|
 |2023-12-27 06:57:54|[小众软件](https://www.appinn.com/feed/)|[饭碗警告 – 将邮件/WebHook 转发至电话、短信、IM 通知](https://www.appinn.com/fwalert/)|
 |2023-12-27 14:09:00|[竹林里有冰的博客](https://zhul.in/rss.xml)|[vuejs、php、caddy 与 docker —— web 期末大作业上云部署](https://zhul.in/2023/12/27/php-and-vuejs-project-deploy-on-caddy/)|
