@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-27 10:04:04|[爱范儿](https://www.ifanr.com/feed)|[小米汽车最全爆料汇总，提前给你扒光这台 SU7 的底细](https://www.ifanr.com/1571773?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-27 09:35:01|[爱范儿](https://www.ifanr.com/feed)|[3i 智能净地站体验：清洁家电的第一性原理是什么](https://www.ifanr.com/1571737?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-27 03:02:16|[爱范儿](https://www.ifanr.com/feed)|[抖音商城开始找「锦鲤」？这是你的年末好运！](https://www.ifanr.com/1571682?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-27 01:03:36|[爱范儿](https://www.ifanr.com/feed)|[早报 雷军称小米第一辆车「有点贵」/ 46.98 万起，华为问界 M9 大定突破 1 万 / 微信 AI 下月亮相](https://www.ifanr.com/1571704?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-27 09:19:23|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1228 研究人员利用《哈利·波特》研究 AI 的“遗忘”功能](https://linux.cn/article-16511-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-27 07:25:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 中国开源操作系统之浪潮涌动：53% 用户服务器 OS 首选龙蜥！](https://linux.cn/article-16510-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-27 02:05:59|[白宦成](https://www.ixiqin.com/feed/)|[我的 Hackathon 心法](https://www.ixiqin.com/2023/12/27/my-hackathon-mind-method/)|
 |2023-12-27 03:09:01|[伪斜杠青年](http://i.lckiss.com/?feed=rss2)|[Docker fail2ban chain 配置无效问题](https://i.lckiss.com/?p=8401)|
 |2023-12-27 02:07:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[好爸爸](http://mercurychong.blogspot.com/2023/12/blog-post_26.html)|
