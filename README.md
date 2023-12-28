@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-28 10:00:00|[机核](https://www.gcores.com/rss)|[啪的一下梦回N97？滑盖 Windows 掌机 AYANEO Slide 开箱](https://www.gcores.com/videos/175626)|
+|2023-12-28 09:00:00|[机核](https://www.gcores.com/rss)|[《战神 诸神黄昏》DLC做的也太好了吧！录音笔 VOL.109](https://www.gcores.com/radios/175623)|
+|2023-12-28 08:39:28|[机核](https://www.gcores.com/rss)|[含《瘟疫传说：安魂曲》：索尼公布1月PSN会免阵容](https://www.gcores.com/articles/175616)|
+|2023-12-28 00:57:34|[爱范儿](https://www.ifanr.com/feed)|[iPhone 设计负责人或联手 OpenAI 开发硬件/淘宝京东将支持仅退款/麦当劳中国部分产品涨价](https://www.ifanr.com/1571836?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-28 10:29:01|[Mobility](http://lichuanyang.top/atom.xml)|[怎么更科学的用知乎摸鱼](http://lichuanyang.top/posts/23393/)|
 |2023-12-28 06:25:28|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[3 折卖 app 了，最后几天！](https://w2solo.com/topics/4330)|
 |2023-12-28 04:18:22|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[还愿](https://www.justzht.com/bai-fo/)|
 |2023-12-28 08:20:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助 C++ MFC， CMFCRibbonComboBox 和 CMFCPropertyGridProperty](https://www.v2ex.com/t/1004150#reply0)|
