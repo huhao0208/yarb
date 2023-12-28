@@ -1,7 +1,10 @@
-﻿# 每日资讯（2023-12-27）
+﻿# 每日资讯（2023-12-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-28 00:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国如何管理人民币？其政策影响几何？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BA%BA%E6%B0%91%E5%B8%81-%E5%85%B6%E6%94%BF%E7%AD%96%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95-8f2a83cd)|
+|2023-12-28 00:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[霸道总裁和吸血鬼狼人：中国短剧应用如何征服美国主妇](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E5%BA%94%E7%94%A8%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD-%E8%A8%80%E6%83%85-%E5%90%B8%E8%A1%80%E9%AC%BC%E5%89%A7%E5%BE%81%E6%9C%8D%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%A6%87-6b851d15)|
+|2023-12-28 01:03:26|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国会放宽拟议中的网游新规吗](https://cn.nytimes.com/business/20231228/china-video-gaming-tencent-netease/?utm_source=RSS)|
 |2023-12-27 08:50:00|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[水果上新｜老广最爱的老树神橘，泉水般清甜](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447639&idx=2&sn=cebf91a3e052cfd1e46b17780f331703)|
 |2023-12-27 08:49:59|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[破店，点评 3.3，上海富人的老牌花胶鸡火锅](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447639&idx=1&sn=ec1247e1fae72c57aea211d4e623b89e)|
 |2023-12-27 14:55:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Android 刷 Magisk 能做到完美 Location 欺骗吗](https://www.v2ex.com/t/1003966#reply3)|
