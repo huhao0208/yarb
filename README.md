@@ -1,7 +1,21 @@
-﻿# 每日资讯（2023-12-28）
+﻿# 每日资讯（2023-12-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-29 01:06:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何在路由器解决遥测上传](https://www.v2ex.com/t/1004277#reply0)|
+|2023-12-29 01:03:26|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Storage List - 帮你管理家里物品的帮手，也可以帮你自动记消耗啦](https://www.v2ex.com/t/1004276#reply0)|
+|2023-12-29 01:01:45|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 118 期）：如何建立一个网站组合，产生 100 万美元利润？](https://www.v2ex.com/t/1004275#reply0)|
+|2023-12-29 00:58:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 在公司不爱说话是什么体验](https://www.v2ex.com/t/1004274#reply4)|
+|2023-12-29 00:53:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 firefox 有个开源的本地大模型 https://future.mozilla.org/blog/introducing-llamafile/，什么样的机器能跑动](https://www.v2ex.com/t/1004272#reply1)|
+|2023-12-29 00:52:45|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 0757 家宽公网 ip 被割接,还刚吗?](https://www.v2ex.com/t/1004271#reply0)|
+|2023-12-29 00:50:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 买二手房需要注意什么？](https://www.v2ex.com/t/1004270#reply3)|
+|2023-12-29 00:35:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 元旦准备返乡参加堂妹的婚礼，却在今天发现她把我老婆微信好友都删掉了](https://www.v2ex.com/t/1004269#reply29)|
+|2023-12-29 00:35:08|[V2EX](https://www.v2ex.com/index.xml)|[ Amazon z.cn 海外购改版通知](https://www.v2ex.com/t/1004268#reply1)|
+|2023-12-29 00:34:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 ps5 还是 switch](https://www.v2ex.com/t/1004267#reply19)|
+|2023-12-29 00:32:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 win11 系统 重启电脑显示网络速度比直接开机慢是什么原因？](https://www.v2ex.com/t/1004266#reply5)|
+|2023-12-29 00:27:08|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 虚拟产品——爱因斯坦的脑子，几乎 0 成本赚钱](https://www.v2ex.com/t/1004265#reply5)|
+|2023-12-29 00:11:07|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)|
+|2023-12-29 00:25:34|[爱范儿](https://www.ifanr.com/feed)|[早报 雷军称小米新车不可能定价 9.9 万/京东部分一线员工涨薪近 100%/OpenAI 和微软遭起诉，或赔数十亿美元](https://www.ifanr.com/1571929?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-28 12:12:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：二战德国秘密武器，作者Nimo Ben](https://dig.chouti.com/link/41056123)|
 |2023-12-28 14:12:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【日本性同意APP Kiroku发布正式版】该软件旨在帮助用户防止“以为对方同意，但事后对方宣称不同意”的情况。用户登录软件后，需确认10项内容，包括本次性行为没有涉及暴力或言语威胁、性行为人没有身心障碍、没有饮酒或睡眠不足影响判断力、没有受虐待、没有金钱影响等，然后开启位置分享，互相扫二维码确认同意。](https://dig.chouti.com/link/41057105)|
 |2023-12-28 14:13:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【乱港分子向英媒“大吐苦水”：英国拒绝庇护我们，理由花样百出】报道列举的申请被拒案例中，一名女申请人因担心港府律政司上诉，决定离港“逃”英。英国内政部认为，既然她已获批取回护照，鉴于中国“高度复杂的监控手法及有效的情报部门”，如果政府部门真对她“感兴趣”，她就不会被发还护照，于是拒绝了她的庇护申请。](https://dig.chouti.com/link/41057160)|
