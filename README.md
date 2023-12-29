@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-29 16:00:00|[Reimu's blog](https://blog.k8s.li/atom.xml)|[考驾照和买二手车](https://blog.k8s.li/honda-civic.html)|
+|2023-12-29 12:47:43|[空城记](https://shinekid.com/feed/)|[并非总结](https://shinekid.com/2023/12/not-a-summary-on-2023/)|
+|2023-12-29 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第十二期](http://crossoverjie.top/2023/12/29/ob/newsletter/Newsletter12-20231229/)|
+|2023-12-29 09:50:46|[爱范儿](https://www.ifanr.com/feed)|[极氪 007 挥出最强一拳，朝着小米 SU7 面门打去](https://www.ifanr.com/1572033?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-29 12:03:30|[机核](https://www.gcores.com/rss)|[译介丨为什么 Fishmans 如此令人难以忘怀？对话茂木欣一：“生活是最具戏剧性的”](https://www.gcores.com/articles/175676)|
 |2023-12-29 11:43:03|[机核](https://www.gcores.com/rss)|[《昭和米国物语》开发商铃空游戏发布2024年元旦贺图并公开部分游戏实机画面](https://www.gcores.com/articles/175678)|
 |2023-12-29 10:16:50|[机核](https://www.gcores.com/rss)|[暴雪国服回归有望:网易近期注册网之易（深圳）网络有限公司](https://www.gcores.com/articles/175674)|
