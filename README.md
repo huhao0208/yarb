@@ -1,7 +1,11 @@
-﻿# 每日资讯（2023-12-29）
+﻿# 每日资讯（2023-12-30）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-30 01:14:14|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify 21 年菲区老车 spotify 补两人](https://www.v2ex.com/t/1004567#reply0)|
+|2023-12-30 00:46:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问阿里云盘有什么办法自动签到吗？](https://www.v2ex.com/t/1004566#reply3)|
+|2023-12-30 00:31:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Chrome 默认拦截 http 下载有办法解决吗？](https://www.v2ex.com/t/1004564#reply1)|
+|2023-12-30 00:26:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么才能给在小县城的老人找到年轻力壮的护工保姆？有没有跨地保姆平台？](https://www.v2ex.com/t/1004563#reply6)|
 |2023-12-29 16:06:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[旅居陵水的年轻人](https://36kr.com/p/2581142121948553)|
 |2023-12-29 16:06:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人类平均寿命2030年至少108岁，下半生越来越长，怎么过……](https://36kr.com/p/2580538875127176)|
 |2023-12-29 16:06:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车，恐怕得要30万](https://36kr.com/p/2581119771158150)|
