@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-30 12:52:58|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1231 在 Linux 上，开发者可以将屏幕倾斜 22° 来编程](https://linux.cn/article-16519-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-30 12:40:33|[KAIX.IN](https://kaix.in/feed/)|[元旦晚会](https://kaix.in/2023/1230-new-year-party/)|
 |2023-12-30 16:04:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Github Action 生成 Docker 失败。](https://www.v2ex.com/t/1004725#reply1)|
 |2023-12-30 15:51:18|[V2EX](https://www.v2ex.com/index.xml)|[ Apple MacBook Air m2 投屏不了小米 Mini LED 电视？](https://www.v2ex.com/t/1004724#reply0)|
 |2023-12-30 15:39:40|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 1password8 对 safari 性能影响](https://www.v2ex.com/t/1004723#reply0)|
