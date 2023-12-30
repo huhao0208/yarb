@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-30 09:38:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 2023 年 Linux 用户值得试试的 8 个开源应用](https://linux.cn/article-16518-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-30 08:09:34|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Rhino Linux 2023.4 更新添加自动平铺功能](https://linux.cn/article-16517-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-30 11:30:00|[机核](https://www.gcores.com/rss)|[半年了，我们游戏到底咋样了？](https://www.gcores.com/videos/175704)|
+|2023-12-30 10:35:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#274：《阿玛拉王国：惩罚》](https://www.gcores.com/articles/175705)|
+|2023-12-30 04:44:59|[机核](https://www.gcores.com/rss)|[2023年-下半年-照片杂记](https://www.gcores.com/articles/175691)|
+|2023-12-30 02:00:00|[机核](https://www.gcores.com/rss)|[轻奇幻 胡铁效应（16）](https://www.gcores.com/articles/171829)|
+|2023-12-30 11:01:47|[触乐](http://www.chuapp.com/feed)|[年轻人的“新一代跨年方式”，在《蛋仔派对》里](http://www.chuapp.com/article/289728.html)|
 |2023-12-30 07:41:38|[触乐](http://www.chuapp.com/feed)|[元旦假期玩什么：RPG、策略、恋爱、恐怖……都要来一点](http://www.chuapp.com/article/289726.html)|
 |2023-12-30 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2023/12/30/daily-thoughts/)|
 |2023-12-30 03:00:35|[爱范儿](https://www.ifanr.com/feed)|[华为造了一座城市会客厅，技术和人文是它的底色](https://www.ifanr.com/1572050?utm_source=rss&utm_medium=rss&utm_campaign=)|
