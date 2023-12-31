@@ -2,6 +2,75 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-31 09:30:00|[Phuker's Blog](https://phuker.github.io/feeds/all.atom.xml)|[随手拍·2023](https://phuker.github.io/posts/photos-2023.html)|
+|2023-12-31 12:00:00|[机核](https://www.gcores.com/rss)|[2023唰地一下就过去了，但机核的这些照片能让人们尬住许久](https://www.gcores.com/articles/175515)|
+|2023-12-31 10:10:00|[机核](https://www.gcores.com/rss)|[什么是【走廊恐惧】？电子游戏与影视中的长廊恐怖](https://www.gcores.com/articles/175729)|
+|2023-12-31 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#275：《龙之信条》](https://www.gcores.com/articles/175706)|
+|2023-12-31 10:00:00|[机核](https://www.gcores.com/rss)|[《我的世界》年度总结](https://www.gcores.com/articles/175688)|
+|2023-12-31 08:20:52|[机核](https://www.gcores.com/rss)|[下周节目预告 1.1~1.7](https://www.gcores.com/articles/175728)|
+|2023-12-31 06:08:01|[机核](https://www.gcores.com/rss)|[2023手账总结](https://www.gcores.com/articles/175726)|
+|2023-12-31 04:18:11|[机核](https://www.gcores.com/rss)|[Chained Echoes / 宿命残响](https://www.gcores.com/articles/175720)|
+|2023-12-31 04:00:00|[机核](https://www.gcores.com/rss)|[EP.11 《年会不能停》：虚假的和解，前三十年和后三十年的符号碰撞](https://www.gcores.com/videos/175715)|
+|2023-12-31 00:50:24|[机核](https://www.gcores.com/rss)|[知行合一吗？](https://www.gcores.com/articles/175693)|
+|2023-12-31 12:28:34|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 笔记本 Type-C 外接显示器经常闪屏是什么原因啊](https://www.v2ex.com/t/1004845#reply0)|
+|2023-12-31 12:27:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 咨询一下开车时候戴的眼镜](https://www.v2ex.com/t/1004844#reply0)|
+|2023-12-31 12:17:01|[V2EX](https://www.v2ex.com/index.xml)|[ Android WebView 竟然貌似不支持 js async 函数？](https://www.v2ex.com/t/1004843#reply0)|
+|2023-12-31 12:16:26|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 就是不喜欢刷题该怎么办呢？](https://www.v2ex.com/t/1004842#reply2)|
+|2023-12-31 12:13:00|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 淘宝百亿补贴买到已激活 AirPods Pro](https://www.v2ex.com/t/1004841#reply0)|
+|2023-12-31 12:07:30|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 2023 小记](https://www.v2ex.com/t/1004839#reply0)|
+|2023-12-31 12:03:56|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 推荐一个 macos 下的小工具 free](https://www.v2ex.com/t/1004838#reply2)|
+|2023-12-31 11:57:01|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 大家对于 C 端产品的用户体验。好看 or 好用？](https://www.v2ex.com/t/1004837#reply2)|
+|2023-12-31 11:55:38|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud iPhone 5s 无法登录 icloud 和 appstore](https://www.v2ex.com/t/1004836#reply3)|
+|2023-12-31 11:41:29|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 一个老程序员的 2024 独立开发计划](https://www.v2ex.com/t/1004835#reply2)|
+|2023-12-31 11:25:33|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 15PM Infuse 外接屏幕看剧经常中断， iPad 不会，你们遇到过吗？](https://www.v2ex.com/t/1004834#reply0)|
+|2023-12-31 11:08:10|[V2EX](https://www.v2ex.com/index.xml)|[ Apple ios 屏蔽越狱检测用什么方法或者是插件最好？](https://www.v2ex.com/t/1004833#reply0)|
+|2023-12-31 11:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 高浓度的异丙醇擦屏幕会有啥影响吗？](https://www.v2ex.com/t/1004831#reply6)|
+|2023-12-31 11:02:58|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 日本东京！ ELESTYLE 株式会社 2024 春季招聘](https://www.v2ex.com/t/1004830#reply0)|
+|2023-12-31 10:37:11|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 苹果充值用户请教一下，现在 gpt 会员到期后，能随时想续订就能续订吗？](https://www.v2ex.com/t/1004828#reply1)|
+|2023-12-31 10:37:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 2023 找女朋友一年无果，跨年夜又是一个人，求疏导](https://www.v2ex.com/t/1004827#reply2)|
+|2023-12-31 10:00:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 准中年人养生，如何更好的摄入水分？](https://www.v2ex.com/t/1004826#reply9)|
+|2023-12-31 09:47:00|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 有没有人好奇过 manjaro 比 arch 夹带了哪些私货？](https://www.v2ex.com/t/1004825#reply12)|
+|2023-12-31 09:44:33|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 疑似钉钉数据泄露](https://www.v2ex.com/t/1004824#reply6)|
+|2023-12-31 09:37:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我又来请教了（三问）索尼电视到底怎么安装 netflix](https://www.v2ex.com/t/1004823#reply0)|
+|2023-12-31 09:31:16|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 移动 H2-3 光猫如何获取超级密码](https://www.v2ex.com/t/1004822#reply2)|
+|2023-12-31 09:24:01|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 联想小新 pro14 2023 7840HS，睡眠状态下，蓝牙耗电异常。](https://www.v2ex.com/t/1004821#reply0)|
+|2023-12-31 09:12:11|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 我一点都不怀念 2023](https://www.v2ex.com/t/1004820#reply3)|
+|2023-12-31 09:09:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么样才能真正的戒掉手冲?](https://www.v2ex.com/t/1004819#reply37)|
+|2023-12-31 09:06:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 一段 WebAssembly 生成的 js 代码能否看出逆向代码是什么](https://www.v2ex.com/t/1004818#reply2)|
+|2023-12-31 09:04:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于 Github 提交内容的问题](https://www.v2ex.com/t/1004817#reply2)|
+|2023-12-31 09:01:14|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 订阅了 kodeco 有没有想要资料的不要 49.9 刀只要 49](https://www.v2ex.com/t/1004816#reply0)|
+|2023-12-31 08:42:16|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 使用版本制的 Linux 大拿遇到系统更新是怎么做的？](https://www.v2ex.com/t/1004813#reply12)|
+|2023-12-31 08:21:53|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple One 美区超大杯五缺一](https://www.v2ex.com/t/1004812#reply1)|
+|2023-12-31 07:43:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 遇到貌似有点无解的 Todesk 远控问题](https://www.v2ex.com/t/1004811#reply3)|
+|2023-12-31 07:33:01|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 唉，彻底结束了。难受了一个下午。](https://www.v2ex.com/t/1004809#reply41)|
+|2023-12-31 07:07:51|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 Natter 更新了：更稳定的 TCP 打洞， Docker 支持...](https://www.v2ex.com/t/1004806#reply6)|
+|2023-12-31 07:01:05|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 Go 语言为什么很少使用数组？](https://www.v2ex.com/t/1004805#reply9)|
+|2023-12-31 06:58:09|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 求助：有什么桌面的电脑音响推荐么？](https://www.v2ex.com/t/1004803#reply13)|
+|2023-12-31 06:49:24|[V2EX](https://www.v2ex.com/index.xml)|[ Android Pixel7a + 移动 NFC-SIM 怎么才可以使用 NFC 刷公交，门禁](https://www.v2ex.com/t/1004801#reply19)|
+|2023-12-31 06:48:51|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[2023 节点：追着变化的计划](http://www.phodal.com/blog/node-2023/)|
+|2023-12-31 15:59:00|[ddadaal.me](https://ddadaal.me/rss.xml)|[2023年总结](https://ddadaal.me/articles/summary-for-2023/cn)|
+|2023-12-31 02:40:46|[251 的魔法实验室](https://blog.251.sh/feed/)|[我的 2023](https://blog.251.sh/oh-my-2023)|
+|2023-12-31 08:52:38|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 Xplorer：不仅仅是一个漂亮的开源文件管理器！](https://linux.cn/article-16521-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-31 08:33:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 在抛弃 Xorg 之前，请三思。Wayland 会毁掉一切！](https://linux.cn/article-16520-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-31 09:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[AirTag：拯救聖誕節，追回被盜行李的故事](https://www.iphonetaiwan.org/2023/12/airtag-luggage-recovery-story.html)|
+|2023-12-31 08:33:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果專利突破！iPhone / iPad 多點觸控體驗大升級](https://www.iphonetaiwan.org/2023/12/apple-patent-iphone-ipad-touch-enhancement.html)|
+|2023-12-31 05:05:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[快2024了，这些年轻人却用上了「老人机」](https://dig.chouti.com/link/41081645)|
+|2023-12-31 05:12:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[花豹凶狠的眼神](https://dig.chouti.com/link/41081775)|
+|2023-12-31 06:05:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【程方毅：华人的边界】至于马来西亚的华文教育是否会转变成“华语教学”，我认为虽然存在着华人社区内部群体分化问题与代际问题，但只要马来人群体继续因为伊斯兰教维持边界并且甚至将其过度政治化，那马来华人的族群边界也将会继续被维持，而作为边界维持机制之一的华文教育自然也能够继续维持。](https://dig.chouti.com/link/41081976)|
+|2023-12-31 06:12:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[决不允许热能一点点浪费](https://dig.chouti.com/link/41082145)|
+|2023-12-31 06:12:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被这个娃娃感动到了](https://dig.chouti.com/link/41082137)|
+|2023-12-31 09:04:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[李国庆宣布离婚成功，已成自由身，长达4年离婚大战落幕](https://dig.chouti.com/link/41083087)|
+|2023-12-31 09:05:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[段永平再向母校浙江大学捐赠，合计超10亿元](https://dig.chouti.com/link/41083171)|
+|2023-12-31 09:05:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上海迪士尼：受空气污染影响，跨年夜演出可能不包含烟花效果](https://dig.chouti.com/link/41083225)|
+|2023-12-31 07:05:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[特斯拉上架Cybersoft毯子，售价1129元，还有490元的啤酒杯、350元的哨子](https://dig.chouti.com/link/41082363)|
+|2023-12-31 07:14:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[推特有病漫画家beetle moses（用户名beetlemoses）。翻译一些新老作品~](https://dig.chouti.com/link/41082482)|
+|2023-12-31 03:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大汉帝国这个地下动物园里，有一只陪葬了2000年的大熊猫……](https://dig.chouti.com/link/41080850)|
+|2023-12-31 08:13:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这么说不合适](https://dig.chouti.com/link/41082987)|
+|2023-12-31 07:15:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[苏翊鸣大方示爱朱易：Love U！此前，滑雪摄影师在社媒更新了苏翊鸣和朱易牵手的照片](https://dig.chouti.com/link/41082538)|
+|2023-12-31 07:37:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾一家机车行的鹦鹉，平常吸收了太多资讯，造成鹦鹉掌握的信息量很大](https://dig.chouti.com/link/41082603)|
+|2023-12-31 05:04:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人口小县机构整合背后：高海拔致多人请病假，部门剩下一两个干活的](https://dig.chouti.com/link/41081445)|
+|2023-12-31 05:05:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国SEC据悉可能会在下周通知现货比特币ETF发行人，他们已获准推出现货比特币ETF 路透 ](https://dig.chouti.com/link/41081623)|
+|2023-12-31 05:12:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿根廷总统自费乘商业航班前往观看女友演出，在飞机上带领乘客一起高喊口号，演出结束后与女友热情拥吻](https://dig.chouti.com/link/41081692)|
 |2023-12-31 04:55:00|[oldj's blog](https://oldj.net/feed)|[也谈西方伪史论](https://oldj.net/article/2023/12/31/discussion-on-western-pseudo-history-theory/)|
 |2023-12-31 07:43:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 遇到貌似有点无解的 Todesk 远控问题](https://www.v2ex.com/t/1004811#reply2)|
 |2023-12-31 07:39:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 社会财富分配不公，都给谁赚了啊？](https://www.v2ex.com/t/1004810#reply9)|
