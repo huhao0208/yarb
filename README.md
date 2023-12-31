@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-31 14:32:18|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[如何升级 Golang 和依赖的版本](https://www.sulinehk.com/post/how-to-upgrade-golang-and-dependencies-version/)|
+|2023-12-31 14:05:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[拘留一周后，印度法院下令：释放两名vivo高管](https://dig.chouti.com/link/41085164)|
+|2023-12-31 09:23:58|[白宦成](https://www.ixiqin.com/feed/)|[人口、矿产和旅游资源有什么共性？](https://www.ixiqin.com/2023/12/31/population-minerals-and-tourism-resources/)|
+|2023-12-31 15:59:45|[This Cute World](https://thiscute.world/index.xml)|[我的 2023 - 认识更多有趣的人，见识更宽广的世界](https://thiscute.world/posts/2023-summary/)|
+|2023-12-31 12:26:56|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1232 GitHub 正式发布 Copilot 编程助手](https://linux.cn/article-16522-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-31 12:07:46|[小众软件](https://www.appinn.com/feed/)|[STRapp – 单机版极简 TXT 小说阅读器｜基于易笺（SimpleTextReader） Windows ](https://www.appinn.com/strapp/)|
+|2023-12-31 08:42:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[使用版本制的 Linux 大拿遇到系统更新是怎么做的？](https://www.v2ex.com/t/1004813#reply18)|
+|2023-12-31 16:10:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[V 友们 2024 新年快乐！](https://www.v2ex.com/t/1004877#reply32)|
+|2023-12-31 12:17:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[WebView 竟然貌似不支持 js async 函数？](https://www.v2ex.com/t/1004843#reply10)|
+|2023-12-31 13:38:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[非得用微服务吗？](https://www.v2ex.com/t/1004852#reply16)|
+|2023-12-31 16:30:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我的 2023 之年终总结](https://www.v2ex.com/t/1004879#reply2)|
+|2023-12-31 12:16:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[就是不喜欢刷题该怎么办呢？](https://www.v2ex.com/t/1004842#reply8)|
+|2023-12-31 06:38:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有什么 git 项目管理的 GUI 工具 类似 sourcetree 的？](https://www.v2ex.com/t/1004799#reply33)|
+|2023-12-31 10:42:19|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[2023 年度记录](https://scottyeung.top/2023/record-of-2023/)|
+|2023-12-31 12:40:13|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2023-12-31 草梅友仁的 2023 年度项目总结](https://blog.cmyr.ltd/archives/4a5799d3.html)|
 |2023-12-31 12:38:48|[kok的笔记本](https://wocai.de/index.xml/)|[2023 读书推荐](https://wocai.de/post/2023/12/2023-%E8%AF%BB%E4%B9%A6%E6%8E%A8%E8%8D%90/)|
 |2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么有些阿斯塔特不愿意进无畏？](https://www.zhihu.com/question/636407561)|
 |2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么时候发现猫咪越长大越懂事了？](https://www.zhihu.com/question/634661139)|
