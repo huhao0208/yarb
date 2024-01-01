@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-01 00:12:15|[华山感染](https://feedpress.me/wx-hsinfect)|[日月开新元，万象启新篇，2024元旦快乐！](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500884&idx=1&sn=44e38fb5917c3dc7409be94a338dd77b)|
+|2024-01-01 03:38:04|[机核](https://www.gcores.com/rss)|[小岛秀夫：新年快乐，《死亡搁浅2》和《OD》正在同步开发](https://www.gcores.com/articles/175751)|
 |2023-12-31 14:32:18|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[如何升级 Golang 和依赖的版本](https://www.sulinehk.com/post/how-to-upgrade-golang-and-dependencies-version/)|
 |2023-12-31 14:05:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[拘留一周后，印度法院下令：释放两名vivo高管](https://dig.chouti.com/link/41085164)|
 |2023-12-31 09:23:58|[白宦成](https://www.ixiqin.com/feed/)|[人口、矿产和旅游资源有什么共性？](https://www.ixiqin.com/2023/12/31/population-minerals-and-tourism-resources/)|
