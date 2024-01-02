@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-02 07:48:01|[小众软件](https://www.appinn.com/feed/)|[Stitch Photos – 长截图自动拼接工具｜全景照片自动拼接工具 Android 限免 ](https://www.appinn.com/stitch-photos/)|
+|2024-01-02 06:27:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 rdp 的时候， chromium 内核的软件无法输入，包括 vscode， edge](https://www.v2ex.com/t/1005167#reply11)|
+|2024-01-02 07:29:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Java 日子人想学点其他的语言来丰富下自己的技能点，是继续 JVM 系列的语言还是搞点新潮的 rust/next.js？](https://www.v2ex.com/t/1005197#reply33)|
+|2024-01-02 11:53:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不蒜子 博客计数又挂了。。](https://www.v2ex.com/t/1005281#reply4)|
+|2024-01-02 10:00:00|[机核](https://www.gcores.com/rss)|[看看2023游戏界发生的大事，所以2024会更好对吗？](https://www.gcores.com/videos/175791)|
+|2024-01-02 09:00:00|[机核](https://www.gcores.com/rss)|[机核因扎吉，录音笔Vol.112](https://www.gcores.com/radios/175792)|
+|2024-01-02 08:54:55|[机核](https://www.gcores.com/rss)|[PlayStation Plus 1月会免游戏：《瘟疫传说：安魂曲》、《暗邪西部》、《无名小卒救世界》](https://www.gcores.com/articles/175795)|
+|2024-01-02 08:45:00|[机核](https://www.gcores.com/rss)|[《战神 诸神黄昏》 游戏摄影集](https://www.gcores.com/articles/175785)|
+|2024-01-02 08:32:14|[机核](https://www.gcores.com/rss)|[暴雪老将开发：即时战略游戏《风暴之门》公布开发进度蒙太奇](https://www.gcores.com/articles/175793)|
+|2024-01-02 12:00:00|[触乐](http://www.chuapp.com/feed)|[《美国阿卡迪亚》：自媒体时代的寓言](http://www.chuapp.com/article/289734.html)|
+|2024-01-02 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：墙倒众人推](http://www.chuapp.com/article/289733.html)|
+|2024-01-02 20:17:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[1100元起，27寸1080P@280Hz 1ms新电竞屏，支持freesync，M270han03.0/LM270WF9面板！](https://masuit.com/1672)|
+|2024-01-02 08:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果服務收入2024：法規風暴如何影響850億美元業務](https://www.iphonetaiwan.org/2024/01/blog-post.html)|
+|2024-01-02 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 52/2023](https://weekly.pychina.org/pyrecap/pyrw-2352.html)|
 |2024-01-02 09:17:48|[Macin](https://www.macin.org/atom.xml)|[平潭岛：风吹来的冬日海边](https://macin.org/2024/01/02/ping-tan-dao/)|
 |2024-01-02 05:22:18|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[修复 WSL2 镜像网络模式下无法连接 Docker 的问题](https://www.sulinehk.com/post/fix-docker-connection-issues-in-wsl2-mirrored-networking-mode/)|
 |2024-01-02 06:06:09|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一休：一款小而美的休息提醒工具](https://w2solo.com/topics/4342)|
