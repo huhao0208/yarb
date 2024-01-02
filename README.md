@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-01）
+﻿# 每日资讯（2024-01-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-02 03:25:14|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[2023 年度十大照片](https://mok.moe/p/2023-photos)|
 |2024-01-01 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 172 期（2024.01.02）](https://www.ftium4.com/ux-weekly-172.html)|
 |2024-01-01 09:31:54|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.1.1](https://www.justzht.com/2024-1-1/)|
 |2024-01-01 06:41:33|[Tinyfool的个人网站](https://codechina.org/feed/)|[在Mac上用FFMpeg做youtube上传视频的预处理](https://codechina.org/2024/01/mac-ffmpeg-youtube/)|
