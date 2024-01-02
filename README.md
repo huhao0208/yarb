@@ -2,6 +2,63 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-02 14:33:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[红海航运受阻：空班已现，运价上涨，中欧班列提前爆满](https://dig.chouti.com/link/41104616)|
+|2024-01-02 15:38:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《非诚勿扰3》的失利与冯小刚的“脱轨”](https://dig.chouti.com/link/41105132)|
+|2024-01-02 15:05:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【埃克森美孚退出伊拉克，中石油正式成为西古尔纳-1油田牵头合同者】当一个油田项目非常重要且复杂时，一般会有几个石油公司作为联合体共同参与。联合体中会有一位领头者，即牵头合同者，当有重要事宜需要表态或者重大决策需要投票时，牵头合同者与招标人签订合同的行为，等同于联合体各方共同与招标人签订合同。](https://dig.chouti.com/link/41104948)|
+|2024-01-02 11:13:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[饼叔：从东北横跨黑龙江，赶俄罗斯早市，中俄边境一江之隔的城市什么样？](https://dig.chouti.com/link/41102996)|
+|2024-01-02 12:14:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当地时间1月2日下午的航拍画面：日本石川县珠洲市金泽大学的一个停车场内，用折叠椅等物品拼成的“SOS”字样](https://dig.chouti.com/link/41103464)|
+|2024-01-02 12:13:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新闻联播：偷拍是吧，我直接给你来个大的](https://dig.chouti.com/link/41103430)|
+|2024-01-02 12:36:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[发“日本地震是报应？”海南广播电视总台：一主持人发布不当言论，暂停其工作](https://dig.chouti.com/link/41103536)|
+|2024-01-02 14:43:47|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.1.2](https://www.justzht.com/2024-1-2/)|
+|2024-01-02 19:30:36|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 求助大佬们！ Mac Surge Hysteria2 无法连接问题](https://www.v2ex.com/t/1005331#reply0)|
+|2024-01-02 19:05:54|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 想探讨一点汉语名称，例如动视和深信服](https://www.v2ex.com/t/1005330#reply2)|
+|2024-01-02 18:52:54|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 同一系统推送通知， MacBook Pro 通知比 iPhone 和 iPad 慢若干秒，有无人遇到类似情况？](https://www.v2ex.com/t/1005329#reply0)|
+|2024-01-02 18:44:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 archive.org 上的资源可信度怎么样？](https://www.v2ex.com/t/1005328#reply0)|
+|2024-01-02 18:43:52|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 今天获发了一个很好的邮箱](https://www.v2ex.com/t/1005327#reply0)|
+|2024-01-02 18:38:27|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 2024 UI 设计 + 静态样式前端](https://www.v2ex.com/t/1005326#reply0)|
+|2024-01-02 17:19:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 什么工具适合方便的发送原始 HTTP 包？](https://www.v2ex.com/t/1005324#reply3)|
+|2024-01-02 17:11:59|[V2EX](https://www.v2ex.com/index.xml)|[ Amazon Web Services AWS 抵扣优惠券是怎么获得的？](https://www.v2ex.com/t/1005323#reply1)|
+|2024-01-02 16:56:46|[V2EX](https://www.v2ex.com/index.xml)|[ 创业组队 一起聊聊 35+ ^_^](https://www.v2ex.com/t/1005322#reply1)|
+|2024-01-02 16:43:26|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 有没有好用的 WEB 文件管理器?](https://www.v2ex.com/t/1005321#reply1)|
+|2024-01-02 16:17:49|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 AI Agent 方向初创公司诚聘 前后端和 UI 设计师](https://www.v2ex.com/t/1005318#reply0)|
+|2024-01-02 15:35:57|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 支付宝购买美区礼品卡显示「补货中」](https://www.v2ex.com/t/1005314#reply6)|
+|2024-01-02 15:30:37|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 跟 iPad mini6 大小、性能差不多的安卓平板推荐](https://www.v2ex.com/t/1005313#reply6)|
+|2024-01-02 15:29:05|[V2EX](https://www.v2ex.com/index.xml)|[ Rust 为什么这一段 rust 报错？](https://www.v2ex.com/t/1005312#reply3)|
+|2024-01-02 15:20:09|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 2023 总结：我在上海做程序员的第八年](https://www.v2ex.com/t/1005310#reply0)|
+|2024-01-02 15:14:49|[V2EX](https://www.v2ex.com/index.xml)|[ Chrome 如何导出导入或者直接迁移 chrome 中的下载记录到另一台电脑上?win 系统](https://www.v2ex.com/t/1005309#reply0)|
+|2024-01-02 15:11:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 当使用硬件 RAID 的时候，如何搭建 NAS](https://www.v2ex.com/t/1005308#reply1)|
+|2024-01-02 15:04:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 看电视剧繁花第一集遇到的数学问题](https://www.v2ex.com/t/1005307#reply0)|
+|2024-01-02 14:56:27|[V2EX](https://www.v2ex.com/index.xml)|[ V2EX 5000th day](https://www.v2ex.com/t/1005306#reply0)|
+|2024-01-02 14:45:30|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 60G 数据的目录如何在多台笔记本电脑和台式机上自动同步](https://www.v2ex.com/t/1005305#reply2)|
+|2024-01-02 14:29:31|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 心血来潮写了一个推特图片、视频爬虫工具](https://www.v2ex.com/t/1005304#reply0)|
+|2024-01-02 14:21:50|[V2EX](https://www.v2ex.com/index.xml)|[ Android 为什么很多改机工作室都选用小米手机](https://www.v2ex.com/t/1005303#reply12)|
+|2024-01-02 14:06:34|[V2EX](https://www.v2ex.com/index.xml)|[ VPS natseek 怎么续费啊？](https://www.v2ex.com/t/1005301#reply1)|
+|2024-01-02 14:03:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助： vscode 通过 ssh 连接虚拟机，此时 windows 中的 vscode go 无法自动补全](https://www.v2ex.com/t/1005300#reply4)|
+|2024-01-02 14:01:04|[V2EX](https://www.v2ex.com/index.xml)|[ macOS macos 使用 n 切换版本的使用很慢，用 rust 做了个小工具,创建临时的 nodejs 环境，需要配合 n 使用](https://www.v2ex.com/t/1005299#reply0)|
+|2024-01-02 13:59:21|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 TrollStore2 现在已经在 16.6/16.6.1 安装](https://www.v2ex.com/t/1005298#reply0)|
+|2024-01-02 13:52:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问一下大家，用什么平台给国内的亲人私密 unlisted 分享 vlog 视频？](https://www.v2ex.com/t/1005297#reply1)|
+|2024-01-02 13:33:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求购 21 年以前的 Apple 开发者账户，已过期的也可以](https://www.v2ex.com/t/1005296#reply3)|
+|2024-01-02 13:31:52|[V2EX](https://www.v2ex.com/index.xml)|[ 电影 元旦休假，折腾了一天用台老电脑整了套 16T 的 nas](https://www.v2ex.com/t/1005295#reply8)|
+|2024-01-02 13:21:47|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 基本可以确定 HP 自家的系列预装软件有内存泄漏问题](https://www.v2ex.com/t/1005293#reply1)|
+|2024-01-02 12:44:49|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 转需 看完这篇你会买到全淘宝最便宜的友善 R2S/R5S/R4S/R5C 软路由](https://www.v2ex.com/t/1005291#reply2)|
+|2024-01-02 12:20:49|[V2EX](https://www.v2ex.com/index.xml)|[ 创业组队 关于 2024 年开始公司要 5 年内实缴注册资金，这个很多中小企业会活不下去](https://www.v2ex.com/t/1005288#reply14)|
+|2024-01-02 12:20:40|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 9 年码农 2023 年存下 25w,不知道算多还是少](https://www.v2ex.com/t/1005287#reply15)|
+|2024-01-02 12:20:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 购买山里/村里的民房是否可行？](https://www.v2ex.com/t/1005286#reply18)|
+|2024-01-02 12:17:48|[V2EX](https://www.v2ex.com/index.xml)|[ Chrome chrome 启动时，偶尔会自己打开必应主页](https://www.v2ex.com/t/1005285#reply1)|
+|2024-01-02 12:16:52|[V2EX](https://www.v2ex.com/index.xml)|[ 编程 2024 年的第一次更新， MoonBit 更新了这些……](https://www.v2ex.com/t/1005284#reply0)|
+|2024-01-02 12:09:59|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 最近几年哪个大版本 macOS 更稳定？](https://www.v2ex.com/t/1005283#reply6)|
+|2024-01-02 11:54:21|[V2EX](https://www.v2ex.com/index.xml)|[ 公司运营 24 年 7 月公司资金要实缴了](https://www.v2ex.com/t/1005282#reply4)|
+|2024-01-02 11:53:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 不蒜子 博客计数又挂了。。](https://www.v2ex.com/t/1005281#reply7)|
+|2024-01-02 11:49:46|[V2EX](https://www.v2ex.com/index.xml)|[ Windows windows 触控笔&软件推荐](https://www.v2ex.com/t/1005280#reply3)|
+|2024-01-02 11:44:02|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 ​大学生最近想去找实习，有过来人能说下实习要注意的套路吗？](https://www.v2ex.com/t/1005279#reply2)|
+|2024-01-02 11:43:35|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 关于请同学帮忙内推被拒绝](https://www.v2ex.com/t/1005278#reply10)|
+|2024-01-02 11:43:26|[V2EX](https://www.v2ex.com/index.xml)|[ iOS Apple music 什么都好 就是推荐机制不行](https://www.v2ex.com/t/1005277#reply4)|
+|2024-01-02 11:39:40|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 老程序员的出海 SaaS 项目获得第二个付费用户](https://www.v2ex.com/t/1005276#reply4)|
+|2024-01-02 11:34:05|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes KubeFin 新版本发布 - 支持 K8s 多维度成本洞察，同时支持 argo workflow/knative 负载成本洞察](https://www.v2ex.com/t/1005275#reply0)|
+|2024-01-02 11:32:49|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 摆摊第一天](https://www.v2ex.com/t/1005274#reply8)|
+|2024-01-02 11:19:06|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 一个完全免费给视频生成双语字幕的方法](https://www.v2ex.com/t/1005272#reply2)|
+|2024-01-02 11:15:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 CDN 被刷几百 TB 流量求防刷措施](https://www.v2ex.com/t/1005271#reply11)|
+|2024-01-02 11:12:57|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 代码助手 comate 最近搞活动了，速来薅](https://www.v2ex.com/t/1005270#reply1)|
 |2024-01-02 11:41:59|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1234 流量分析显示，6G 标准该准备了](https://linux.cn/article-16527-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-02 08:18:02|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 人工智能教程（五）：Anaconda 以及更多概率论](https://linux.cn/article-16526-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-02 15:21:42|[est の 输入输出](https://blog.est.im/rss)|[Start positive](https://blog.est.im/2024/stderr-01)|
