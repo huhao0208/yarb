@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-03 09:26:47|[空城记](https://shinekid.com/feed/)|[付出总有回报](https://shinekid.com/2024/01/effort-pays-back/)|
+|2024-01-03 02:41:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[又是被 mysql 加字段搞郁闷的一天](https://www.v2ex.com/t/1005389#reply37)|
+|2024-01-03 02:04:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们是怎么部署 nodejs 的？](https://www.v2ex.com/t/1005371#reply93)|
+|2024-01-03 05:07:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[兄弟们，你们是怎么扩大自己的社交圈的](https://www.v2ex.com/t/1005446#reply40)|
+|2024-01-03 10:46:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最节省成本抵御网络攻击（ddos、cc 等）的手段是？](https://www.v2ex.com/t/1005595#reply12)|
+|2024-01-03 07:38:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514#reply55)|
+|2024-01-03 04:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家的工作中会有 Code Review 吗？](https://www.v2ex.com/t/1005441#reply64)|
+|2024-01-03 08:28:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果又要防 CC 攻击、又要保障用户使用 CDN 加速， CDN 到底是应该配置在 WAF 前面好还是配置在 WAF 后面好？](https://www.v2ex.com/t/1005537#reply20)|
+|2024-01-03 08:25:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[这为什么会死锁呢，为什么换 duplicate key update 就不报错了，有沒有 dba 大哥说说](https://www.v2ex.com/t/1005536#reply2)|
+|2024-01-03 09:57:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何低成本拥有一张外国手机卡，平时流量需求也有，不过流量需求不是很大，手持三星 s21 ultra，估计要实体卡了。](https://www.v2ex.com/t/1005575#reply6)|
+|2024-01-03 07:16:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[免费华为云服务器新活动](https://www.v2ex.com/t/1005506#reply6)|
+|2024-01-03 03:30:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[PHP 转 Java ，上千张表需要 CRUD](https://www.v2ex.com/t/1005420#reply50)|
+|2024-01-03 03:44:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一位普通程序员的 2023 年终总结和 2024 展望](https://www.v2ex.com/t/1005427#reply13)|
+|2024-01-03 10:54:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我的 2023 命令行年度总结](https://www.v2ex.com/t/1005596#reply1)|
+|2024-01-03 08:05:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[4090 阉割版即将上线， 12999 起](https://www.v2ex.com/t/1005525#reply12)|
+|2024-01-03 03:25:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开源项目被收购，为什么有些任这么酸？](https://www.v2ex.com/t/1005418#reply19)|
+|2024-01-03 08:20:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[使用 ChatGPT 突破能力边界 之 前端小白实现沉浸式翻译的核心功能](https://www.v2ex.com/t/1005534#reply6)|
+|2024-01-03 06:17:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[实现一个企业内部知识库的问答机器人](https://www.v2ex.com/t/1005478#reply7)|
+|2024-01-03 10:03:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[云游戏是如何实现的](https://www.v2ex.com/t/1005578#reply4)|
+|2024-01-03 07:03:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[gRpc 有无方法可以手动发送一个 error？](https://www.v2ex.com/t/1005500#reply3)|
+|2024-01-03 09:00:00|[机核](https://www.gcores.com/rss)|[了不起的《麦瑟尔夫人》，录音笔 VOL.113](https://www.gcores.com/radios/175830)|
+|2024-01-03 08:42:15|[机核](https://www.gcores.com/rss)|[《潜水员戴夫》全球销量已超300万份](https://www.gcores.com/articles/175833)|
+|2024-01-03 07:41:08|[机核](https://www.gcores.com/rss)|[赵志强在加班的时候，咳出了一个时钟](https://www.gcores.com/videos/175822)|
+|2024-01-03 11:51:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2024 年 1 月 3 日](https://www.changhai.org/articles/miscellaneous/blog/202401.php#latest)|
+|2024-01-03 07:33:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 你可能错过的 2023 年 9 个值得关注的 Linux 发行版](https://linux.cn/article-16529-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-03 06:24:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Gentoo Linux 现在提供用于快速软件安装的二进制包](https://linux.cn/article-16528-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-03 04:39:31|[ryank231231.blog](https://ryank231231.top/feed/)|[2024, 你好](https://ryank231231.top/archives/hello-2014-1.html)|
 |2024-01-03 08:01:17|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[年度面包网购榜 12 强（无广](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447882&idx=1&sn=85fdbeceb3a83f378b23a6aaf5325679)|
 |2024-01-03 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[男子患胃癌发现一家 5 口全感染幽门螺杆菌（HP），HP 感染与胃癌有直接的因果关系吗？](https://www.zhihu.com/question/637625911)|
 |2024-01-03 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在中东部署 244 天后，美国最大核航母将撤离，释放了什么信号？](https://www.zhihu.com/question/637582312)|
