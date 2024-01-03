@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-03 10:46:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最节省成本抵御网络攻击（ddos、cc 等）的手段是？](https://www.v2ex.com/t/1005595#reply18)|
+|2024-01-03 03:30:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[PHP 转 Java ，上千张表需要 CRUD](https://www.v2ex.com/t/1005420#reply53)|
+|2024-01-03 02:04:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们是怎么部署 nodejs 的？](https://www.v2ex.com/t/1005371#reply102)|
+|2024-01-03 04:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家的工作中会有 Code Review 吗？](https://www.v2ex.com/t/1005441#reply71)|
+|2024-01-03 13:38:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为何谷歌不学中国厂商所统一推送服务？](https://www.v2ex.com/t/1005622#reply13)|
+|2024-01-03 16:09:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[v 站我没挂代理啊，这速度怎么嗖嗖的](https://www.v2ex.com/t/1005643#reply0)|
+|2024-01-03 05:07:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[兄弟们，你们是怎么扩大自己的社交圈的](https://www.v2ex.com/t/1005446#reply44)|
+|2024-01-03 15:26:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[shc 对 arm 设备不兼容，如何解决？](https://www.v2ex.com/t/1005637#reply2)|
+|2024-01-03 07:38:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514#reply68)|
+|2024-01-03 09:57:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何低成本拥有一张外国手机卡，平时流量需求也有，不过流量需求不是很大，手持三星 s21 ultra，估计要实体卡了。](https://www.v2ex.com/t/1005575#reply16)|
+|2024-01-03 02:41:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[又是被 mysql 加字段搞郁闷的一天](https://www.v2ex.com/t/1005389#reply40)|
+|2024-01-03 12:43:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[RunJS Collect 重构升级，收藏效果拉满~](https://www.v2ex.com/t/1005612#reply0)|
+|2024-01-03 10:03:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[云游戏是如何实现的](https://www.v2ex.com/t/1005578#reply7)|
+|2024-01-03 08:21:52|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[北大清华“畅行互通”，有多荒谬？](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892827&idx=1&sn=afb0da6417ceb5c73302bc91f0d5bca2)|
+|2024-01-03 13:43:41|[小众软件](https://www.appinn.com/feed/)|[NewPipe 更新，开始支持 YouTube 直播、Shorts 短片](https://www.appinn.com/newpipe-v0-26/)|
+|2024-01-03 09:24:22|[小众软件](https://www.appinn.com/feed/)|[NLCISBNPlugin – Calibre 插件：从「中国国家图书馆」获取图书信息，包括 ISBN、书名、作者、出版日期等](https://www.appinn.com/nlcisbnplugin-for-calibre/)|
+|2024-01-03 06:42:31|[小众软件](https://www.appinn.com/feed/)|[截图/贴图工具 PixPin 新增截图历史记录回溯，可找回之前的截图，以及之前的截图区域](https://www.appinn.com/pixpin-records/)|
+|2024-01-03 15:14:51|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 908 Div. 2 ](https://blog.mauve.icu/2024/01/03/acm/codeforces/CodeforcesRound908(Div.%202)/)|
 |2024-01-03 09:26:47|[空城记](https://shinekid.com/feed/)|[付出总有回报](https://shinekid.com/2024/01/effort-pays-back/)|
 |2024-01-03 02:41:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[又是被 mysql 加字段搞郁闷的一天](https://www.v2ex.com/t/1005389#reply37)|
 |2024-01-03 02:04:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们是怎么部署 nodejs 的？](https://www.v2ex.com/t/1005371#reply93)|
