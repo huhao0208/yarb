@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-03 20:15:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 如何实现单例模式](https://www.v2ex.com/t/1005652#reply0)|
+|2024-01-03 04:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家的工作中会有 Code Review 吗？](https://www.v2ex.com/t/1005441#reply72)|
+|2024-01-03 07:38:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514#reply74)|
+|2024-01-03 18:24:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[长远来看真机改机、云机改机对抗风控，哪个更有优势](https://www.v2ex.com/t/1005651#reply0)|
+|2024-01-03 05:07:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[兄弟们，你们是怎么扩大自己的社交圈的](https://www.v2ex.com/t/1005446#reply45)|
+|2024-01-03 15:26:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[shc 对 arm 设备不兼容，如何解决？](https://www.v2ex.com/t/1005637#reply3)|
+|2024-01-03 09:57:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何低成本拥有一张外国手机卡，平时流量需求也有，不过流量需求不是很大，手持三星 s21 ultra，估计要实体卡了。](https://www.v2ex.com/t/1005575#reply17)|
+|2024-01-03 10:46:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最节省成本抵御网络攻击（ddos、cc 等）的手段是？](https://www.v2ex.com/t/1005595#reply21)|
+|2024-01-03 13:38:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为何谷歌不学中国厂商所统一推送服务？](https://www.v2ex.com/t/1005622#reply16)|
+|2024-01-03 14:07:04|[木鸟杂记](https://www.qtmuniao.com/atom.xml)|[Y Combinator 2024 年关注 20 个创业领域](https://www.qtmuniao.com/2024/01/03/yc-2024-rfs/)|
+|2024-01-03 15:53:04|[SHRIK3](https://shrik3.com/index.xml)|[C syntax is bad for regex](https://shrik3.com/post/c_syntax_bad_regex/)|
+|2024-01-03 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[百度“悔婚”](https://36kr.com/p/2587362930648704)|
+|2024-01-03 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[库迪咖啡发布人机协作战略，推行商用机器人规模化应用](https://36kr.com/p/2588342802152328)|
+|2024-01-03 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[只卖骑行配件营收10亿，低调义乌公司掘金千亿赛道｜Insight全球](https://36kr.com/p/2587818394647425)|
+|2024-01-03 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年，哪些大厂正在贬值？](https://36kr.com/p/2588230693190279)|
+|2024-01-03 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[原钉钉副总裁创业杀入AI Agent赛道，获亿元融资 36氪独家](https://36kr.com/p/2588269475707522)|
+|2024-01-03 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[困在回购协议里的投资人](https://36kr.com/p/2588510531893895)|
+|2024-01-03 03:30:49|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[哈佛校长在争议中辞职，一场保守派的胜利？](https://cn.nytimes.com/usa/20240103/harvard-president-claudine-gay-resignation-conservatives-hamas-israel-free-speech/?utm_source=RSS)|
+|2024-01-03 09:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Vision Pro 外螢幕可顯示跑馬燈、天氣等圖示](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-external-display.html)|
+|2024-01-03 08:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果「家人共享」訴訟和解：每人最高獲得50美元](https://www.iphonetaiwan.org/2024/01/apple-family-sharing-lawsuit-settlement.html)|
+|2024-01-03 08:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16系列將於2024年改變尺寸！最新更新](https://www.iphonetaiwan.org/2024/01/apple-iphone-16-size-change-2024.html)|
 |2024-01-03 10:46:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最节省成本抵御网络攻击（ddos、cc 等）的手段是？](https://www.v2ex.com/t/1005595#reply18)|
 |2024-01-03 03:30:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[PHP 转 Java ，上千张表需要 CRUD](https://www.v2ex.com/t/1005420#reply53)|
 |2024-01-03 02:04:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们是怎么部署 nodejs 的？](https://www.v2ex.com/t/1005371#reply102)|
