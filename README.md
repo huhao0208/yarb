@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-04 03:36:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“大剩娶亲”之翻越喜马拉雅版——中国单身汉，涌向尼泊尔找老婆？】中国的社交媒体上，尼泊尔被盛情描述为一个“好多妹子”的“女儿国”，物价低，娶妻成本低。“尼泊尔新娘”更是一个“不贪图物质”“不要彩礼”“任劳任怨”的贤妻良母型群体。尼泊尔——继越南之后，会成为中国单身男性的“脱单圣地”吗？](https://dig.chouti.com/link/41120561)|
+|2024-01-04 13:13:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【部分图片中的内容可能会引起不适】 AI 生成 - 中世纪奇幻电影《黑暗之魂》 （Reddit：WarPack23）](https://dig.chouti.com/link/41126403)|
+|2024-01-04 14:05:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比特币ETF难获批？前花旗高管计划发行无需SEC批准的比特币存托凭证](https://dig.chouti.com/link/41126758)|
+|2024-01-04 14:05:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【劳工改革被叫停，阿根廷“休克疗法”问题在哪？】当地时间1月3日，阿根廷国家劳工上诉法庭发布禁令，宣布暂停总统米莱“休克疗法”中关于劳工改革的相关措施，包括将工作试用期从3个月延长到8个月、削减遣散赔偿费以及允许企业解雇参与抗议活动的员工等。阿根廷最大的劳工组织劳工总联合会认为这些措施损害了工人权利。](https://dig.chouti.com/link/41126769)|
+|2024-01-04 01:05:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我瞒着父亲把他送进临终病房】妈妈癌症去世之后，2023年年初，独生女Erika不得不接受一个残酷的现实——同时患两种原发癌症的父亲，可能只有半年的生存期。她做了一个主治医生的经验里，也不常见的决定——瞒着父亲，把他送到安宁病房，放弃治疗，希望在最后的日子里最大程度减少他的痛苦。](https://dig.chouti.com/link/41118885)|
+|2024-01-04 13:36:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1994年以来首次改变：微软在PC键盘中添加了AI键](https://dig.chouti.com/link/41126460)|
+|2024-01-04 15:44:06|[To the Lighthouse](https://owlswims.com/feed)|[想象力的制图师｜2023 我最喜欢的十本书](https://owlswims.com/2023-reading/)|
+|2024-01-04 16:05:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[敢和“懂车帝”们断掉合作，华为怎么能这么刚？](https://36kr.com/p/2589644006538114)|
+|2024-01-04 16:05:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一家水面下的FA，如何做出百亿融资](https://36kr.com/p/2589921088699015)|
+|2024-01-04 16:05:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[车圈出“成绩单”了，比亚迪300万辆遥遥领先](https://36kr.com/p/2589038673787784)|
+|2024-01-04 16:05:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[斯坦福炒虾机器人爆火全网，华人团队成本22万元，能做满汉全席还会洗碗](https://36kr.com/p/2589969603738244)|
+|2024-01-04 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[千亿大疆，杀入便携式储能“血海” 焦点分析](https://36kr.com/p/2587283892921989)|
+|2024-01-04 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中年职场人卖保险：不体面，但能月入2万](https://36kr.com/p/2588974912846472)|
+|2024-01-04 09:40:43|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你们要的 2024 零食榜来了（不是](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447964&idx=1&sn=4685ca2f41c7e40e3a9dd937708d2821)|
+|2024-01-04 05:25:50|[Kenvix's Blog](https://kenvix.com/rss.xml)|[利用Windows卷影副本 Volume Shadow 找回被覆盖和删除的数据](https://kenvix.com/post/windows-restore-file-from-volume-shadow/)|
+|2024-01-04 14:30:24|[Dennis](https://www.domon.cn/rss/)|[2023年跑步总结](https://www.domon.cn/2023nian-pao-bu-zong-jie/)|
 |2024-01-04 10:46:19|[f2h2h1's blog](https://f2h2h1.github.io/rss.xml)|[ACME的使用经验](https://f2h2h1.github.io/article/ACME的使用经验.html)|
 |2024-01-04 00:39:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[本站电子书购买链接更新](https://www.changhai.org/articles/introduction/ebooks.php)|
 |2024-01-04 07:11:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ˉ▽￣～ 切~~](https://dig.chouti.com/link/41122792)|
