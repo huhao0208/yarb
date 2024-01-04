@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-03）
+﻿# 每日资讯（2024-01-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-04 00:47:21|[爱范儿](https://www.ifanr.com/feed)|[小米回应网传汽车售价/鸿蒙 OS 或成为中国第二大手机操作系统/网易推出第二代教育大模型](https://www.ifanr.com/1572368?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-03 20:15:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 如何实现单例模式](https://www.v2ex.com/t/1005652#reply0)|
 |2024-01-03 04:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家的工作中会有 Code Review 吗？](https://www.v2ex.com/t/1005441#reply72)|
 |2024-01-03 07:38:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514#reply74)|
