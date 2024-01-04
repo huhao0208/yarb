@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-04 04:06:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 了，三星 Galaxy Note20 Ultra 5G 还值得购买吗](https://www.v2ex.com/t/1005751#reply2)|
+|2024-01-04 00:41:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[爆论： 10 年后，国内的码农将不再会有 35 岁歧视](https://www.v2ex.com/t/1005658#reply79)|
+|2024-01-04 01:43:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[打算给老妈买台手机,求巨佬们建议](https://www.v2ex.com/t/1005683#reply55)|
+|2024-01-04 04:19:48|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招募队友： js 全栈进](https://www.v2ex.com/t/1005755#reply0)|
+|2024-01-04 04:19:05|[V2EX](https://www.v2ex.com/index.xml)|[ 旅行 元旦三天假期，去了趟珠海，全程共骑行 350+ km，写了篇博客，记录一下～](https://www.v2ex.com/t/1005754#reply0)|
+|2024-01-04 04:18:39|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 老弟年后求职贴，专精 Android、Flutter，次精 Unity、嵌入式、SQL 优化、高并发处理。](https://www.v2ex.com/t/1005753#reply0)|
+|2024-01-04 04:09:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 新公司法公司要实缴,之前开的皮包公司咋搞](https://www.v2ex.com/t/1005752#reply0)|
+|2024-01-04 03:18:12|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜阿里、腾讯合计回购超千亿元；黄仁勋，在任时间最长的科技 CEO](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511194&idx=2&sn=25af0a1fb71a86651f8a91c6e7b152eb)|
+|2024-01-04 03:18:12|[晚点LatePost](https://feedpress.me/wx-postlate)|[古茗、蜜雪冰城将上市，15 个点看下沉新王的异同](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511194&idx=1&sn=aa6cd6e65d54c8fa3fac1c968d6f93a1)|
+|2024-01-04 04:01:42|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本月玩什么 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)|
+|2024-01-04 04:01:42|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[App+1 Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)|
+|2024-01-04 04:01:42|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[你的 2023，藏在这些 app 里](https://sspai.com/post/85390)|
 |2024-01-04 00:47:21|[爱范儿](https://www.ifanr.com/feed)|[小米回应网传汽车售价/鸿蒙 OS 或成为中国第二大手机操作系统/网易推出第二代教育大模型](https://www.ifanr.com/1572368?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-03 20:15:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 如何实现单例模式](https://www.v2ex.com/t/1005652#reply0)|
 |2024-01-03 04:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家的工作中会有 Code Review 吗？](https://www.v2ex.com/t/1005441#reply72)|
