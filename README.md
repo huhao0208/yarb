@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-05 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第十三期：一些提高生产力工具的终端命令](http://crossoverjie.top/2024/01/05/ob/newsletter/Newsletter12-20240105/)|
+|2024-01-05 09:03:10|[空城记](https://shinekid.com/feed/)|[如何修复Windows Store](https://shinekid.com/2024/01/how-to-repair-windows-store/)|
+|2024-01-05 10:44:34|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1237 Ubuntu 考虑停止提供源代码 ISO](https://linux.cn/article-16537-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-05 08:59:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 2024 开年，LLUG 和你相约在武汉](https://linux.cn/article-16536-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-05 08:28:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 2023 年开源和 Linux 世界的 8 个决定性时刻](https://linux.cn/article-16535-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-05 09:33:04|[知乎每日精选](https://www.zhihu.com/rss)|[小米汽车的动力电池有哪些技术创新？很安全吗？](http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-05 10:41:36|[爱范儿](https://www.ifanr.com/feed)|[因为它，马斯克和兵马俑跳起了《科目三》](https://www.ifanr.com/1572522?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-05 08:21:31|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 上海联通拨号商宽自动收回公网 IP](https://www.v2ex.com/t/1006210#reply0)|
 |2024-01-05 08:18:52|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 0755 电信套餐到期在想要不要续约](https://www.v2ex.com/t/1006209#reply0)|
