@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-05 10:41:36|[爱范儿](https://www.ifanr.com/feed)|[因为它，马斯克和兵马俑跳起了《科目三》](https://www.ifanr.com/1572522?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-05 08:21:31|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 上海联通拨号商宽自动收回公网 IP](https://www.v2ex.com/t/1006210#reply0)|
 |2024-01-05 08:18:52|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 0755 电信套餐到期在想要不要续约](https://www.v2ex.com/t/1006209#reply0)|
 |2024-01-05 08:13:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 学习/工作时总是无法集中注意力怎么破？](https://www.v2ex.com/t/1006208#reply2)|
