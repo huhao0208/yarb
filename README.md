@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-01-04）
+﻿# 每日资讯（2024-01-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-05 00:49:30|[爱范儿](https://www.ifanr.com/feed)|[OpenAI 或下周推出 GPT 商店/Windows 电脑键盘将迎 30 年来首次重大变化/苹果 Vision Pro 上网体验视频泄露](https://www.ifanr.com/1572484?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-05 00:14:33|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)|
 |2024-01-04 01:47:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[冷眼《決戰股市終極方案》的提醒](http://mercurychong.blogspot.com/2024/01/blog-post.html)|
 |2024-01-04 11:06:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[「老头乐」被禁了，但开它的人还在](https://dig.chouti.com/link/41125186)|
 |2024-01-04 17:21:17|[机核](https://www.gcores.com/rss)|[大学生创业做游戏靠谱吗？](https://www.gcores.com/videos/175886)|
