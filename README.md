@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-01-05）
+﻿# 每日资讯（2024-01-06）
 
 |时间|来源|标题|
 |---|---|---|
@@ -25,6 +25,7 @@
 |2024-01-05 11:08:50|[Conge](https://conge.github.io/feed.xml)|[2023 十二月读语言学，觉醒，职场，极简，小说…14本](https://conge.livingwithfcs.org/2024/01/05/reading_summary/)|
 |2024-01-05 02:47:03|[白宦成](https://www.ixiqin.com/feed/)|[《大国大城》书摘](https://www.ixiqin.com/2024/01/05/book-excerpt-from-great-powers-and-cities/)|
 |2024-01-05 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第十三期：一些提高生产力工具的终端命令](http://crossoverjie.top/2024/01/05/ob/newsletter/Newsletter12-20240105/)|
+|2024-01-06 11:22:55|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[AI 基础设施之 Nydus 懒加载镜像配置与实践](https://www.chenshaowen.com/blog/ai-infrastructure-nydus-configuration-and-practice.html)|
 |2024-01-05 09:03:10|[空城记](https://shinekid.com/feed/)|[如何修复Windows Store](https://shinekid.com/2024/01/how-to-repair-windows-store/)|
 |2024-01-05 10:44:34|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1237 Ubuntu 考虑停止提供源代码 ISO](https://linux.cn/article-16537-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-05 08:59:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 2024 开年，LLUG 和你相约在武汉](https://linux.cn/article-16536-1.html?utm_source=rss&utm_medium=rss)|
