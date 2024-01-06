@@ -2,6 +2,65 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-06 21:00:00|[瓦解的生活记事](https://hin.cool/atom.xml)|[域名邮箱踩坑记](https://hin.cool/posts/exmailgo.html)|
+|2024-01-06 09:20:47|[太隐](https://wangyurui.com/feed.xml)|[瓦尔登湖畔](https://wangyurui.com/posts/wa-er-deng-hu-pan-35b631b2)|
+|2024-01-06 05:24:20|[太隐](https://wangyurui.com/feed.xml)|[四明狂客](https://wangyurui.com/posts/si-ming-kuang-ke-5432da12)|
+|2024-01-06 16:03:30|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 clash 如何处理自定义配置？](https://www.v2ex.com/t/1006491#reply2)|
+|2024-01-06 16:02:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 debian 11 安装很慢是怎么回事？](https://www.v2ex.com/t/1006490#reply0)|
+|2024-01-06 15:17:32|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 关于 arm 版的 Linux 系统的 load average 疑问](https://www.v2ex.com/t/1006489#reply0)|
+|2024-01-06 15:10:37|[V2EX](https://www.v2ex.com/index.xml)|[ 地球 抖音看多了，死的时候要不要冲破一下“结界”换取灵魂自由？](https://www.v2ex.com/t/1006487#reply0)|
+|2024-01-06 15:02:13|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 如果未来国内家宽能实现上下行带宽对等，但是有全速流量限制，各位会选择使用吗？](https://www.v2ex.com/t/1006485#reply8)|
+|2024-01-06 14:59:08|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 PayPal 的账户服务真的不行](https://www.v2ex.com/t/1006484#reply1)|
+|2024-01-06 14:26:20|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 为什么每年各家的微信红包封面都要抢？](https://www.v2ex.com/t/1006483#reply6)|
+|2024-01-06 14:24:50|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 请教一下家庭内网无线传输的方案](https://www.v2ex.com/t/1006482#reply5)|
+|2024-01-06 14:22:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 2025 年了。去学网络验证破解。还有出路吗？](https://www.v2ex.com/t/1006481#reply12)|
+|2024-01-06 14:09:07|[V2EX](https://www.v2ex.com/index.xml)|[ 跑步 佳明 255 的运动建议只有跑步吗？](https://www.v2ex.com/t/1006479#reply2)|
+|2024-01-06 13:38:59|[V2EX](https://www.v2ex.com/index.xml)|[ Android 最近学 jetpack compose，发现真不错，很想把手机里一堆臃肿的 app 都自己写一个客户端代替得了，可惜拿不到接口 hh](https://www.v2ex.com/t/1006476#reply0)|
+|2024-01-06 13:36:27|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 类似 shadcn/ui 的 UI 库分享](https://www.v2ex.com/t/1006475#reply0)|
+|2024-01-06 13:27:16|[V2EX](https://www.v2ex.com/index.xml)|[ MIUI miui+有点东西啊](https://www.v2ex.com/t/1006474#reply5)|
+|2024-01-06 13:13:08|[V2EX](https://www.v2ex.com/index.xml)|[ Windows win10 有线连接 iPhone 热点后， PC 的 wifi 联网总是自动断掉](https://www.v2ex.com/t/1006473#reply0)|
+|2024-01-06 13:10:45|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 0755 移动也来天天宽带了。](https://www.v2ex.com/t/1006472#reply1)|
+|2024-01-06 12:51:14|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 一个好消息，上海联通宽带已复机；一个坏消息，提速包失效。](https://www.v2ex.com/t/1006471#reply2)|
+|2024-01-06 12:45:27|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 大龄的普通程序员，大家都是怎么打算的？](https://www.v2ex.com/t/1006470#reply6)|
+|2024-01-06 12:44:57|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 V 友们， iOS 微信-切换钱包地区 有 URL scheme 或其他方便的方式切换吗](https://www.v2ex.com/t/1006469#reply0)|
+|2024-01-06 12:41:14|[V2EX](https://www.v2ex.com/index.xml)|[ IPv6 路由器有 ipv4 和 ipv6 两个公网 ip，不关闭 ipv6 的情况下，如何隐藏 ipv6 的 IP？](https://www.v2ex.com/t/1006468#reply3)|
+|2024-01-06 12:37:13|[V2EX](https://www.v2ex.com/index.xml)|[ Python 一个小玩意，读取 excel 文件，可以编辑执行 Python 代码对 excel 处理](https://www.v2ex.com/t/1006467#reply5)|
+|2024-01-06 12:27:56|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 ## 迷茫到痛苦的读研, 求前辈指导](https://www.v2ex.com/t/1006466#reply0)|
+|2024-01-06 12:25:02|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 封装为 exe 问题](https://www.v2ex.com/t/1006464#reply9)|
+|2024-01-06 12:24:17|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 有什么云平台可以直接从 docker hub 上创建一个运行实例吗？](https://www.v2ex.com/t/1006463#reply5)|
+|2024-01-06 12:09:24|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 买了台华为 pixlab v1 打印机怎么在 Linux 用](https://www.v2ex.com/t/1006461#reply4)|
+|2024-01-06 12:08:20|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 35 岁真的是程序员的大限吗？](https://www.v2ex.com/t/1006460#reply23)|
+|2024-01-06 12:04:45|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 固定宽带 按流量计费 且上行，下行分开计费](https://www.v2ex.com/t/1006459#reply10)|
+|2024-01-06 11:53:46|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH Apple watch 值得买吗？](https://www.v2ex.com/t/1006458#reply16)|
+|2024-01-06 11:53:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 各大交易所的 API，该怎么用？想请个大佬教我一下](https://www.v2ex.com/t/1006457#reply0)|
+|2024-01-06 11:51:30|[V2EX](https://www.v2ex.com/index.xml)|[ VPS VPS 不小心挂了，重建了 wordpress 博客](https://www.v2ex.com/t/1006456#reply0)|
+|2024-01-06 11:41:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 持有多国护照会被发现吗？是不是只要进出中国的时候用中国护照就没问题了](https://www.v2ex.com/t/1006454#reply23)|
+|2024-01-06 11:33:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 现在做开发还有必要适配 XP 系统 吗](https://www.v2ex.com/t/1006453#reply12)|
+|2024-01-06 11:32:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 微信浏览器的 cookies 有效期最长多久](https://www.v2ex.com/t/1006452#reply2)|
+|2024-01-06 11:17:14|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 目前国内有什么投资可以保值？](https://www.v2ex.com/t/1006451#reply9)|
+|2024-01-06 11:15:36|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 go 中关于 T 和 *T 方法集的一点疑问](https://www.v2ex.com/t/1006449#reply1)|
+|2024-01-06 11:13:22|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 分享一个兼职赚钱的路子，就是用 GPT 辅助写文章发在各个平台上，我亲自试了，真的可行](https://www.v2ex.com/t/1006448#reply5)|
+|2024-01-06 10:58:35|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 今天在 b 站看到深田的一部，剧情笑死🤣](https://www.v2ex.com/t/1006447#reply8)|
+|2024-01-06 10:50:14|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Mac 睡眠唤醒后提示 USB4 外置 ssd 没有正常退出。](https://www.v2ex.com/t/1006446#reply0)|
+|2024-01-06 10:25:04|[V2EX](https://www.v2ex.com/index.xml)|[ 摄影 相机怎样拍摄这样的效果](https://www.v2ex.com/t/1006444#reply3)|
+|2024-01-06 10:19:18|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 vfuu](https://www.v2ex.com/t/1006443#reply2)|
+|2024-01-06 10:13:44|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 有没有人也用过北京市中小学云卡系统，进来吐槽下](https://www.v2ex.com/t/1006441#reply0)|
+|2024-01-06 10:04:34|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 2023 年 2 月份注册的 gpt 账号，现在还没封，安全了吗](https://www.v2ex.com/t/1006440#reply6)|
+|2024-01-06 09:46:11|[V2EX](https://www.v2ex.com/index.xml)|[ Python 某网站在购物过程中最后点支付的时候会让选择三方支付如 paypay，然后跳转到三方支付页面](https://www.v2ex.com/t/1006439#reply1)|
+|2024-01-06 09:44:53|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 联通腾讯二选一，看来只能放弃微信 QQ 等腾讯系了](https://www.v2ex.com/t/1006438#reply16)|
+|2024-01-06 09:40:30|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 这几天看到讨论小应用 GUI 方案，偶然发现一款应用， Web 界面同时体积小，哪位帮看一下这是什么技术框架](https://www.v2ex.com/t/1006437#reply16)|
+|2024-01-06 09:33:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 从本地加载 huggingface 模型报错,大佬帮忙看看](https://www.v2ex.com/t/1006436#reply2)|
+|2024-01-06 09:33:03|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 潮流周刊第 34 期（摘要）](https://www.v2ex.com/t/1006435#reply0)|
+|2024-01-06 09:26:56|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 出一个 OVH 美 17.88 年付小鸡](https://www.v2ex.com/t/1006434#reply0)|
+|2024-01-06 09:08:44|[V2EX](https://www.v2ex.com/index.xml)|[ 买买买 湖南的朋友请问下那款烤火箱好用](https://www.v2ex.com/t/1006432#reply0)|
+|2024-01-06 08:58:46|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 2024 年的程序员还有救吗？](https://www.v2ex.com/t/1006431#reply1)|
+|2024-01-06 08:52:30|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何开发一款微信小程序控制智能设备](https://www.v2ex.com/t/1006430#reply8)|
+|2024-01-06 16:03:09|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么赵高和易小川可以轻易抛弃两千年的记忆，确非要记住前 20 年？](https://www.zhihu.com/question/637648894)|
+|2024-01-06 16:03:09|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你们平常有发现什么特别可爱的事情吗？](https://www.zhihu.com/question/430500729)|
+|2024-01-06 16:03:09|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么好的励志话语人生感悟？](https://www.zhihu.com/question/638217369)|
+|2024-01-06 16:03:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 德玛西亚杯总决赛 BLG 3:0 击败 JDG 夺得冠军，如何评价这场比赛？](https://www.zhihu.com/question/638363682)|
+|2024-01-06 16:03:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果 AI 能够完美复制人类情感和意识，你会愿意与之建立亲密情感关系吗？](https://www.zhihu.com/question/638178079)|
+|2024-01-06 14:57:10|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 假如 Windows XP 有 2024 版](https://linux.cn/article-16539-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-06 12:25:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 封装为 exe 问题](https://www.v2ex.com/t/1006464#reply2)|
 |2024-01-06 12:24:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有什么云平台可以直接从 docker hub 上创建一个运行实例吗？](https://www.v2ex.com/t/1006463#reply0)|
 |2024-01-06 08:53:47|[小众软件](https://www.appinn.com/feed/)|[DevCheck – 实时显示 Android 设备硬件、操作系统信息，免费无广告](https://www.appinn.com/devcheck/)|
