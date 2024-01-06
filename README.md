@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-06 12:25:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 封装为 exe 问题](https://www.v2ex.com/t/1006464#reply2)|
+|2024-01-06 12:24:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有什么云平台可以直接从 docker hub 上创建一个运行实例吗？](https://www.v2ex.com/t/1006463#reply0)|
+|2024-01-06 08:53:47|[小众软件](https://www.appinn.com/feed/)|[DevCheck – 实时显示 Android 设备硬件、操作系统信息，免费无广告](https://www.appinn.com/devcheck/)|
+|2024-01-06 08:14:13|[小众软件](https://www.appinn.com/feed/)|[神操作：用 Everything 1.5 进行代码片段管理](https://www.appinn.com/everything-1-5a-code-snippet/)|
+|2024-01-06 09:47:06|[61’s life](https://61.life/feed.xml)|[我的 2023](http://61.life/2024/0106)|
+|2024-01-06 08:19:31|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1238 就连 Linus Torvalds 都觉得电子邮件补丁模式需要改变](https://linux.cn/article-16538-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-06 05:32:50|[沉舟侧畔 Blog](https://springwood.me/feed/)|[服务器以及 wordpress 网站受灾重建](https://springwood.me/server-reconstruction/)|
 |2024-01-06 05:17:16|[爱范儿](https://www.ifanr.com/feed)|[连「男妈妈」都有的 emoji，成了价值几千万美元的「呈堂证供」](https://www.ifanr.com/1572573?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-06 04:56:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[陪孩子写作业，为什么要放下手机？](https://dig.chouti.com/link/41142198)|
