@@ -2,6 +2,46 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-07 05:10:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI nijijourney生成的一组机娘图](https://dig.chouti.com/link/41150960)|
+|2024-01-07 12:13:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这边建议您分手呢](https://dig.chouti.com/link/41154151)|
+|2024-01-07 06:08:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[近日，万科创始人王石演讲时回应妻子田朴珺“傍大款”传言……王石：我是二婚，我那年轻媳妇认识我的时候时，她的现金存款比我多，当时她已经是瑞安房地产公司大陆的房地产顾问，非常成功了，要说傍大款，那应该是我傍她才对。](https://dig.chouti.com/link/41151378)|
+|2024-01-07 11:01:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克被爆料长期吸毒？本人回应：吸食K粉仅为治疗抑郁症](https://dig.chouti.com/link/41153512)|
+|2024-01-07 04:09:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴黎首家男同主题面包店，全是巨根..... 和野大喜](https://dig.chouti.com/link/41150558)|
+|2024-01-07 06:09:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《天竺鼠车车》作者见里朝希画的新年贺图，可可爱爱](https://dig.chouti.com/link/41151413)|
+|2024-01-07 09:01:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI也在996？一位离职员工自白：代码贡献第四，经常工作6天](https://dig.chouti.com/link/41152477)|
+|2024-01-07 04:32:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当可可西里网红狼变得狗里狗气】围绕网红狼，半年多来议论从未停止。有动保机构号召禁止投喂，也有人觉得投喂挽救了的狼的生命，还有人把这头狼与打工人相对比，说它脱掉了“狼乙己的长衫”……](https://dig.chouti.com/link/41150668)|
+|2024-01-07 06:09:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[豪猪尖刺的工作原理](https://dig.chouti.com/link/41151418)|
+|2024-01-07 06:53:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[水兵不够用，英国2艘军舰刚翻新完就要退役](https://dig.chouti.com/link/41151559)|
+|2024-01-07 07:02:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[知情人士称马斯克“长期吸食毒品”，律师否认：他定期接受药检](https://dig.chouti.com/link/41151746)|
+|2024-01-07 00:12:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[隐藏在菜单里的秘密：最贵的大菜为何放在最前面？](https://dig.chouti.com/link/41148811)|
+|2024-01-07 05:01:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【因政治资金丑闻，“安倍派”一名众议员被逮捕】东京地方检察厅特别搜查部1月7日逮捕了“安倍派”众议员池田佳隆和其两名会计负责人。对于现任国会议员被捕，“安倍派”的一名高层在接受该媒体采访时称，对此表示“非常遗憾”。其还称，“本派系将高度重视这一系列事态，将继续最大限度配合搜查。”](https://dig.chouti.com/link/41150874)|
+|2024-01-07 02:09:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[回到老家过年的我 vs 回到自家出租屋里的我](https://dig.chouti.com/link/41149524)|
+|2024-01-07 03:01:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西洋钟的“中国化”](https://dig.chouti.com/link/41149804)|
+|2024-01-07 03:09:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因为导播照片失误导致播音员经历人类十大酷刑之一——憋笑](https://dig.chouti.com/link/41150023)|
+|2024-01-07 03:09:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《花束般的恋爱》演员菅田将晖的新造型释出：](https://dig.chouti.com/link/41150069)|
+|2024-01-07 04:02:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从电视剧《繁花》的“三个钱包”理论，聊聊现实中前“上海首富”周公子的底牌](https://dig.chouti.com/link/41150489)|
+|2024-01-07 04:09:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好熊的一条狗啊](https://dig.chouti.com/link/41150571)|
+|2024-01-07 04:19:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[27岁女孩日本滑雪身亡：爆火运动背后的复杂危险](https://dig.chouti.com/link/41150657)|
+|2024-01-07 12:19:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[redme note 11 刷什么系统比较好](https://www.v2ex.com/t/1006609#reply2)|
+|2024-01-07 07:30:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不算不知道，一算吓一跳，每个月的订阅制支出竟高达 1000+](https://www.v2ex.com/t/1006566#reply64)|
+|2024-01-07 09:34:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 前端图标趋势：在 TailwindCSS 中使用 SVG 图标](https://www.v2ex.com/t/1006579#reply3)|
+|2024-01-07 11:35:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[实际项目中如何使用线程池](https://www.v2ex.com/t/1006600#reply1)|
+|2024-01-07 10:33:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[需要一个 html 代码生成工具](https://www.v2ex.com/t/1006587#reply3)|
+|2024-01-07 09:40:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想将 mysql 数据每 10 条合并成 1 条，请问 sql 语句怎么写？有办法吗？谢谢](https://www.v2ex.com/t/1006581#reply3)|
+|2024-01-07 10:36:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开源 im 客户端探索结果](https://www.v2ex.com/t/1006590#reply0)|
+|2024-01-07 07:31:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[TIOBE 2023 年度语言： C#！](https://www.v2ex.com/t/1006567#reply8)|
+|2024-01-07 11:31:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从零开始手把手教你学编程 Java](https://www.v2ex.com/t/1006599#reply8)|
+|2024-01-07 12:25:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 可有偿 京东淘宝营销活动低代码技术咨询](https://www.v2ex.com/t/1006611#reply0)|
+|2024-01-07 06:45:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想找一个 js 逆向的学习交流的组织](https://www.v2ex.com/t/1006558#reply3)|
+|2024-01-07 06:14:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[VSCode + Copilot + OneDrive + mdNice 写日志](https://www.v2ex.com/t/1006548#reply1)|
+|2024-01-07 09:56:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[都啥年代了, 还在炒啥前端, 都给我学 AI](https://www.v2ex.com/t/1006584#reply0)|
+|2024-01-07 10:01:20|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#277：《守护者冒险：遗忘山谷》](https://www.gcores.com/articles/175944)|
+|2024-01-07 09:30:00|[机核](https://www.gcores.com/rss)|[我为何要不自量力地“发掘”中国的史前聚落](https://www.gcores.com/articles/175571)|
+|2024-01-07 06:11:57|[机核](https://www.gcores.com/rss)|[新职业“PICTOMANCER”公开！《最终幻想14》东京粉丝节新情报汇总](https://www.gcores.com/articles/175968)|
+|2024-01-07 05:28:42|[机核](https://www.gcores.com/rss)|[下周节目预告 1.8~1.14](https://www.gcores.com/articles/175967)|
+|2024-01-07 02:50:48|[机核](https://www.gcores.com/rss)|[ 灵异诡画 《白色高跟鞋》&《镜子》](https://www.gcores.com/articles/175961)|
+|2024-01-07 01:30:41|[机核](https://www.gcores.com/rss)|[2001 网络漫游：ARG 的拂晓时分（上）](https://www.gcores.com/articles/175959)|
+|2024-01-07 01:58:17|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 909 Div. 3 ](https://blog.mauve.icu/2024/01/07/acm/codeforces/CodeforcesRound909(Div.%203)/)|
 |2024-01-07 03:40:00|[oldj's blog](https://oldj.net/feed)|[怀念爷爷](https://oldj.net/article/2024/01/07/in-memory-of-grandfather/)|
 |2024-01-07 03:34:35|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[编码数据集生成框架 UnitGen 0.4.0：代码文档生成、测试代码生成](http://www.phodal.com/blog/fine-tuning-data-framework-unit-gen-v0-4-0/)|
 |2024-01-07 03:34:03|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AutoDev Coder 6.7B 代码微调模型（v1 试验版）](http://www.phodal.com/blog/autodev-coder-v1/)|
