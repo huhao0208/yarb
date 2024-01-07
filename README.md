@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-07 19:20:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[Latest post on Threads：2024.1.7](https://www.changhai.org/articles/miscellaneous/eblog/202401.php#latest)|
+|2024-01-07 18:27:43|[V2EX](https://www.v2ex.com/index.xml)|[ Netflix 貌似被埃及区清退了](https://www.v2ex.com/t/1006658#reply2)|
+|2024-01-07 17:42:51|[V2EX](https://www.v2ex.com/index.xml)|[ 买买买 有哪些好的买鞋渠道吗，前几天去看阿迪耐克的鞋怎么都这么贵](https://www.v2ex.com/t/1006657#reply4)|
+|2024-01-07 17:32:32|[V2EX](https://www.v2ex.com/index.xml)|[ 天黑以后 20240108 午夜俱乐部](https://www.v2ex.com/t/1006656#reply1)|
+|2024-01-07 16:58:19|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 群晖系统的"用户组"好奇怪啊，管理员用户实际上不在 administrators 组里？](https://www.v2ex.com/t/1006654#reply1)|
+|2024-01-07 05:40:31|[鸟窝](https://colobu.com/atom.xml)|[Go运行时的并发原语](https://colobu.com/2024/01/07/concurrent-codes-in-Go-runtime-and-standard-library/)|
+|2024-01-07 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 173 期（2024.01.08）](https://www.ftium4.com/ux-weekly-173.html)|
 |2024-01-07 13:56:08|[唐巧的博客](http://blog.devtang.com/atom.xml)|[将 Hexo 升级到 V7.0](https://blog.devtang.com/2024/01/07/upgrade-hexo-to-v7-0/)|
 |2024-01-07 15:02:40|[机核](https://www.gcores.com/rss)|[《早安34星》实战视频](https://www.gcores.com/videos/175979)|
 |2024-01-07 15:00:00|[机核](https://www.gcores.com/rss)|[浪潮的把戏丨《潮痕》：机器，战争，孩子，项链，记忆，以及未来](https://www.gcores.com/radios/175922)|
