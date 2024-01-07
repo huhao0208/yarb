@@ -1,7 +1,13 @@
-﻿# 每日资讯（2024-01-06）
+﻿# 每日资讯（2024-01-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-07 00:42:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[跟我说这是大鹏？？？？？](https://dig.chouti.com/link/41148876)|
+|2024-01-07 01:22:29|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享一下 ast-grep，结构化代码搜索工具](https://www.v2ex.com/t/1006506#reply0)|
+|2024-01-07 00:55:38|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 阿哦，一早起来发现江苏移动 ipv6 废了](https://www.v2ex.com/t/1006505#reply3)|
+|2024-01-07 00:52:20|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 求教 wifi 转有线的简单方法](https://www.v2ex.com/t/1006504#reply5)|
+|2024-01-07 00:30:18|[V2EX](https://www.v2ex.com/index.xml)|[ MySQL 救命， SourceForge Web Hosting 里的 MySQL admin 居然是封死的](https://www.v2ex.com/t/1006502#reply0)|
+|2024-01-07 00:17:45|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 NeuralRad Cloud：史上首个免费使用的器官和肿瘤分割云服务](https://www.v2ex.com/t/1006501#reply5)|
 |2024-01-06 16:04:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI画中国退休老太太微博大火：「傻鹅之王」和快乐小狗挑战GPT-4想象力极限](https://36kr.com/p/2592716554353542)|
 |2024-01-06 16:04:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[三思而后行的反面：行动产生信息](https://36kr.com/p/2550296901048708)|
 |2024-01-06 16:04:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[钠离子电池，正式“上车”｜焦点分析](https://36kr.com/p/2590475612797833)|
