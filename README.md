@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-08 12:56:55|[Bing's Blog](https://www.bbing.com.cn/index.xml)|[Work Monitor 视频监控工具](https://imcbc.cn/202401/work-monitor/)|
+|2024-01-08 09:30:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1240 Mozilla 已经将目光投向 Firefox 以外的领域](https://linux.cn/article-16543-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-08 08:43:21|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 使用 NFS 将 Git 提交记录显示成文件目录](https://linux.cn/article-16542-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-08 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/1](https://weekly.pychina.org/pyrecap/pyrw-2401.html)|
 |2024-01-08 16:07:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[支付宝新功能上热搜，能找“搭子”](https://36kr.com/p/2593256342583939)|
 |2024-01-08 16:07:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[瑞幸、四叶咖都已卖火，2024第一杯爆款咖啡是“橙子味”的？](https://36kr.com/p/2592483118086793)|
 |2024-01-08 16:07:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[热搜第一，微信官方紧急致歉](https://36kr.com/p/2594673573133187)|
