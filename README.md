@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-07）
+﻿# 每日资讯（2024-01-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-08 00:00:45|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #214 M3 Max 太香了我沒忍住](https://www.ethanhuang13.com/p/214)|
 |2024-01-07 19:20:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[Latest post on Threads：2024.1.7](https://www.changhai.org/articles/miscellaneous/eblog/202401.php#latest)|
 |2024-01-07 18:27:43|[V2EX](https://www.v2ex.com/index.xml)|[ Netflix 貌似被埃及区清退了](https://www.v2ex.com/t/1006658#reply2)|
 |2024-01-07 17:42:51|[V2EX](https://www.v2ex.com/index.xml)|[ 买买买 有哪些好的买鞋渠道吗，前几天去看阿迪耐克的鞋怎么都这么贵](https://www.v2ex.com/t/1006657#reply4)|
@@ -49,6 +50,7 @@
 |2024-01-07 12:41:22|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 感觉最近运营商会越来越挑战消费者了~~~~](https://www.v2ex.com/t/1006613#reply13)|
 |2024-01-07 12:39:37|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 超大流量的流量耗子 过街老鼠 人人喊打](https://www.v2ex.com/t/1006612#reply29)|
 |2024-01-07 07:30:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不算不知道，一算吓一跳，每个月的订阅制支出竟高达 1000+](https://www.v2ex.com/t/1006566#reply86)|
+|2024-01-08 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第160期 - 爱吃炒饭](https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/)|
 |2024-01-07 15:55:00|[ddadaal.me](https://ddadaal.me/rss.xml)|[增加自制博客点击量统计](https://ddadaal.me/articles/added-blog-page-click-monitoring/cn)|
 |2024-01-07 05:10:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI nijijourney生成的一组机娘图](https://dig.chouti.com/link/41150960)|
 |2024-01-07 12:13:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这边建议您分手呢](https://dig.chouti.com/link/41154151)|
