@@ -2,6 +2,45 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-09 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[哪个瞬间让你觉得，学会化妆真的可以变自信？](https://www.zhihu.com/question/632642102)|
+|2024-01-09 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 2024 年 1 月新番《迷宫饭》？](https://www.zhihu.com/question/637760416)|
+|2024-01-09 10:48:01|[机核](https://www.gcores.com/rss)|[悬疑冒险游戏《尘埃终须落定》1月18日发售](https://www.gcores.com/articles/176050)|
+|2024-01-09 10:00:00|[机核](https://www.gcores.com/rss)|[游戏提一嘴 第四期：整个高配电脑，狠狠地玩点击放置游戏](https://www.gcores.com/videos/176044)|
+|2024-01-09 09:00:00|[机核](https://www.gcores.com/rss)|[不在线，录音笔 VOL.117](https://www.gcores.com/radios/176046)|
+|2024-01-09 09:00:00|[机核](https://www.gcores.com/rss)|[漫画丨《摸鱼小秦开播了》01](https://www.gcores.com/articles/176037)|
+|2024-01-09 07:30:00|[机核](https://www.gcores.com/rss)|[【福利】高自由度畅快对战！《未元物质》现已登陆Steam平台](https://www.gcores.com/articles/176043)|
+|2024-01-09 07:20:00|[机核](https://www.gcores.com/rss)|[俺做了个鼠标](https://www.gcores.com/videos/176016)|
+|2024-01-09 06:51:25|[机核](https://www.gcores.com/rss)|[《将熄之焰 序章》现已免费登陆Steam，游戏正式版将于1月18日上线](https://www.gcores.com/articles/176041)|
+|2024-01-09 06:37:40|[机核](https://www.gcores.com/rss)|[岛哥哥2023年度影视剧集优选](https://www.gcores.com/articles/176039)|
+|2024-01-09 05:30:06|[机核](https://www.gcores.com/rss)|[TA《酸雨战争》海陆下士&海蛇摩托体验](https://www.gcores.com/videos/175712)|
+|2024-01-09 04:00:00|[机核](https://www.gcores.com/rss)|[跨界桌游不插电！2024年第一场BOOOMLab创作挑战现在开启](https://www.gcores.com/articles/175794)|
+|2024-01-09 03:54:15|[机核](https://www.gcores.com/rss)|[《间谍过家家CODE: White》x《街头霸王6》联动活动现已上线](https://www.gcores.com/articles/176036)|
+|2024-01-09 03:26:00|[机核](https://www.gcores.com/rss)|[CDPR没能实现的赛博朋克世界——《ChromeBook2》装备篇](https://www.gcores.com/articles/176033)|
+|2024-01-09 03:24:44|[机核](https://www.gcores.com/rss)|[《霍格沃茨之遗》2023年全平台总销量突破2200万份](https://www.gcores.com/articles/176035)|
+|2024-01-09 02:57:32|[机核](https://www.gcores.com/rss)|[「怪奇物语」第五季，关于演员阵容、上映日期和舞台剧信息](https://www.gcores.com/articles/176027)|
+|2024-01-09 02:12:59|[机核](https://www.gcores.com/rss)|[PS5手柄操控索尼概念电动车：索尼CES 2024消息汇总](https://www.gcores.com/articles/176031)|
+|2024-01-09 02:00:00|[机核](https://www.gcores.com/rss)|[守望译事：LE SSERAFIM联动](https://www.gcores.com/articles/176021)|
+|2024-01-09 02:00:00|[机核](https://www.gcores.com/rss)|[《迷宫饭》中的怪物考（五）：海蛇丨Sea Serpent](https://www.gcores.com/articles/175782)|
+|2024-01-09 02:00:00|[机核](https://www.gcores.com/rss)|[轻奇幻丨胡铁效应（20）](https://www.gcores.com/articles/171965)|
+|2024-01-09 01:45:46|[机核](https://www.gcores.com/rss)|[《咩咩启示录》销量超350万，“肉躯之罪”更新1月16日来袭](https://www.gcores.com/articles/176028)|
+|2024-01-09 01:34:07|[机核](https://www.gcores.com/rss)|[《半条命2》RTX版公布最新预告、RTX HDR增强在路上：英伟达CES 2024展会技术消息汇总](https://www.gcores.com/articles/176025)|
+|2024-01-09 10:10:28|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[終於等到你！ Apple Vision Pro 開賣 /預購時間出爐](https://applefans.today/2024-01-apple-vision-pro-launch/)|
+|2024-01-09 09:31:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1241 OpenAI 称不用版权材料训练不出来 ChatGPT](https://linux.cn/article-16545-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-09 10:01:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[江苏公布诈骗罪“数额巨大”认定标准：由六万调整为十万](https://dig.chouti.com/link/41174751)|
+|2024-01-09 09:09:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[腾讯字节拆墙，《王者荣耀》抖音直播禁令冰融在即](https://dig.chouti.com/link/41174454)|
+|2024-01-09 11:11:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【陈天桥成美国最大外籍地主之一】彭博1月8日引述美国杂志《土地报告》 Land Report 的最新排名称，陈天桥在俄勒冈州拥有10.8万英亩 8万零127公顷 林地，在美国地主排名榜排在第82位。现年50岁的陈天桥在2015年斥资85万美元从美国住宅抵押贷款公司富达国民金融 Fidelity National Financial Ventures 购得上述面积的土地。](https://dig.chouti.com/link/41175690)|
+|2024-01-09 10:09:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[央视新闻频道总制片人耿志民发布的一条朋友圈，谈到前国足主帅李铁的情况。耿志民：“李铁能最终执教国家队，就是一路砸钱砸上去的。”今晚20点，央视反腐专题片持续发力纵深推进第四集《一体推进“三不腐”》将披露足球领域腐败案细节。](https://dig.chouti.com/link/41175131)|
+|2024-01-09 09:57:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[20元四个菜的东北老盒饭有得赚吗？](https://dig.chouti.com/link/41174709)|
+|2024-01-09 03:25:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【8年6进决赛夺4冠！青森山田又赢了，但我并不喜欢这个结果】之所以说近江夺冠更有戏剧性，一方面是上次说过的近江这种进攻推进性很好看很圈粉，另一方面学校在甲子园有过下克上的经历，而这一次足球如果能够黑到底肯定是足以拍一部日剧的素材了。此外还有一点，就是球队其实是在负债比赛。](https://dig.chouti.com/link/41170750)|
+|2024-01-09 08:11:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾多个网友表示刚刚收到警报短信。以前只是台防务部门在我卫星发射后发个通告，现在大选前，台湾方面故意制造紧张空气，还是玩“抗中保台”那一套。不过，台湾网友现在也不好骗了。](https://dig.chouti.com/link/41173838)|
+|2024-01-09 03:27:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“生活中的道歉大部分是为了减少麻烦，很少有人认为自己真的需要请求原谅”](https://dig.chouti.com/link/41170751)|
+|2024-01-09 04:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“推进剂严重损失”，美国52年来首次“重返月球”任务或面临失败】 在“游隼”月球着陆器8日成功发射升空数小时后，美国航天机器人技术公司（AstroboticTechnology）表示，因推进系统故障连带造成的“推进剂严重损失”，其团队“正在评估可行的替代任务剖面”。多方观测认为，“游隼”已不太可能按照计划完成月球软着陆。](https://dig.chouti.com/link/41171111)|
+|2024-01-09 05:56:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1990年，我们把5头长江江豚放到了一个叫天鹅洲的地方，30年后它们长成了这样](https://dig.chouti.com/link/41172137)|
+|2024-01-09 09:24:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Vision Pro首日將提供超過150部3D電影和空間遊戲](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-3d-entertainment.html)|
+|2024-01-09 08:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[大摩：iOS 18和Siri 2.0將提振iPhone 16銷量](https://www.iphonetaiwan.org/2024/01/apple-iphone-16-siri-2-0-ai-revolution.html)|
+|2024-01-09 08:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果：iPhone、iPad、Mac、TV和Watch是五家應用商店](https://www.iphonetaiwan.org/2024/01/apple-app-store-eu-challenge.html)|
+|2024-01-09 10:02:33|[知乎每日精选](https://www.zhihu.com/rss)|[安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享](http://zhuanlan.zhihu.com/p/676436144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2024-01-09 10:01:36|[知乎每日精选](https://www.zhihu.com/rss)|[大模型行业如何持续发展（知乎AI先行者沙龙）](http://zhuanlan.zhihu.com/p/676874333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-09 06:29:31|[爱范儿](https://www.ifanr.com/feed)|[大模型 App Store 时刻前夕，拥有 7 亿用户的钉钉要「干掉」应用](https://www.ifanr.com/1572869?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-09 06:01:11|[爱范儿](https://www.ifanr.com/feed)|[vivo S18 Pro 体验：人像手机就是这个时代的拍立得](https://www.ifanr.com/1572774?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-09 03:55:30|[爱范儿](https://www.ifanr.com/feed)|[蔚来手机，得先是一台合格的「手机」](https://www.ifanr.com/1572832?utm_source=rss&utm_medium=rss&utm_campaign=)|
