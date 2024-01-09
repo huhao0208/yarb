@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-01-08）
+﻿# 每日资讯（2024-01-09）
 
 |时间|来源|标题|
 |---|---|---|
@@ -19,6 +19,7 @@
 |2024-01-08 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么是哈尔滨？“我们已准备一年”](https://36kr.com/p/2592578462743428)|
 |2024-01-08 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨微信致歉：私密朋友圈bug已彻底修复；iPhone“电池门”赔款开始陆续到账；教育部辟谣将缩短学制、取消中考](https://36kr.com/p/2595243224071043)|
 |2024-01-08 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[骂错了，《繁花》才不是中年版小时代](https://36kr.com/p/2593879241947781)|
+|2024-01-09 15:04:58|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[请注意，你的 Pulsar 集群可能有删除数据的风险](http://crossoverjie.top/2024/01/09/ob/Pulsar-Delete-Topic/)|
 |2024-01-08 16:05:30|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么小时候那么穷，还是很多人都想回到小时候?](https://www.zhihu.com/question/632711676)|
 |2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[再见，NBA！33 岁的卢比奥，生涯能否谈得上成功？](https://www.zhihu.com/question/638128977)|
 |2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果未来教师过剩，会不会考虑设置专职班主任岗位，减轻班主任既当任课老师又当班主任的负担？](https://www.zhihu.com/question/638062138)|
