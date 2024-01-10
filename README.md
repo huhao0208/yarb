@@ -2,6 +2,80 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-10 00:30:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[持有10年以上的主力](http://mercurychong.blogspot.com/2024/01/10.html)|
+|2024-01-10 08:03:20|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[style 表的结构化访问](https://blog.codingnow.com/2024/01/style_attrib_access.html)|
+|2024-01-10 08:53:47|[小众软件](https://www.appinn.com/feed/)|[movie-web – 从前端到后端完全开源的在线电影、电视剧搜索与播放工具](https://www.appinn.com/movie-web/)|
+|2024-01-10 10:47:29|[机核](https://www.gcores.com/rss)|[这半透挺妙的，看看雷柏VT9PRO双高速双模版鼠标](https://www.gcores.com/videos/176106)|
+|2024-01-10 10:00:00|[机核](https://www.gcores.com/rss)|[国内首次正式授权，有声书《冰与火之歌 卷一：权力的游戏》春节期间上线](https://www.gcores.com/articles/176038)|
+|2024-01-10 09:00:00|[机核](https://www.gcores.com/rss)|[紧急审讯！机核网最年轻DOTA玩家！录音笔 VOL.118](https://www.gcores.com/radios/176092)|
+|2024-01-10 08:43:33|[机核](https://www.gcores.com/rss)|[《深空梦里人》 公民沉睡者 将于2月2日新增简体中文](https://www.gcores.com/articles/176100)|
+|2024-01-10 08:14:02|[机核](https://www.gcores.com/rss)|[幻系列大更新！ROG发布幻Air14和幻Air16两款「全能本」产品](https://www.gcores.com/articles/176095)|
+|2024-01-10 07:35:01|[机核](https://www.gcores.com/rss)|[《卡库远古封印》遗迹世界&战斗优化实机展示](https://www.gcores.com/videos/176094)|
+|2024-01-10 07:34:10|[机核](https://www.gcores.com/rss)|[2024年GDC将于3月18日至22日在美国旧金山Moscone Center举办](https://www.gcores.com/articles/176096)|
+|2024-01-10 07:00:30|[机核](https://www.gcores.com/rss)|[小鹏汇天飞行汽车亮相北美CES，“陆地航母”四季度开启预订](https://www.gcores.com/articles/176090)|
+|2024-01-10 04:49:29|[机核](https://www.gcores.com/rss)|[CDPR没能实现的赛博朋克世界——《ChromeBook2》团队篇](https://www.gcores.com/articles/176088)|
+|2024-01-10 03:50:49|[机核](https://www.gcores.com/rss)|[索尼在CES 2024上展示了三种PS5 Slim的新配色](https://www.gcores.com/articles/176085)|
+|2024-01-10 03:09:58|[机核](https://www.gcores.com/rss)|[星战浩克：HotToys星球大战残次品小队清障王人偶](https://www.gcores.com/articles/176076)|
+|2024-01-10 03:06:28|[机核](https://www.gcores.com/rss)|[剧版《最后生还者》第二季「艾比」演员确定，将由「凯特琳·德弗」饰演](https://www.gcores.com/articles/176080)|
+|2024-01-10 02:36:00|[机核](https://www.gcores.com/rss)|[克苏鲁文化各生物名字的来源、含义、背景英语语言学解析](https://www.gcores.com/videos/176060)|
+|2024-01-10 02:30:00|[机核](https://www.gcores.com/rss)|[《耻辱2界外魔之死》预告镜头拆解](https://www.gcores.com/videos/176055)|
+|2024-01-10 02:20:00|[机核](https://www.gcores.com/rss)|[译介丨四十年了，而我还在这里：沃伦·斯派克特自传](https://www.gcores.com/articles/176048)|
+|2024-01-10 02:19:44|[机核](https://www.gcores.com/rss)|[【福利】国产解谜游戏《迷失岛4小屋实验》现已正式发售！](https://www.gcores.com/articles/176078)|
+|2024-01-10 02:08:44|[机核](https://www.gcores.com/rss)|[究极缝合怪游戏《幻兽帕鲁》将于1月19日以抢先体验形式发售](https://www.gcores.com/articles/176075)|
+|2024-01-10 01:58:07|[机核](https://www.gcores.com/rss)|[《黎明杀机》将于1月31日实装“心灵杀手”章节，带来全新逃生者艾伦·韦克](https://www.gcores.com/articles/176073)|
+|2024-01-10 01:43:00|[机核](https://www.gcores.com/rss)|[90%时间都在吃灰的“刚需”？Steam Deck适合你吗？](https://www.gcores.com/videos/176066)|
+|2024-01-10 01:42:15|[机核](https://www.gcores.com/rss)|[动画《异兽魔都》宣布制作续篇，主视觉图公开](https://www.gcores.com/articles/176072)|
+|2024-01-10 11:44:16|[爱范儿](https://www.ifanr.com/feed)|[马斯克的星辰大海背后，是「有毒」的工作文化](https://www.ifanr.com/1572925?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-10 12:28:35|[V2EX](https://www.v2ex.com/index.xml)|[ Apple M1 芯片的 mac，死活连不上安卓手机热点](https://www.v2ex.com/t/1007618#reply0)|
+|2024-01-10 12:27:35|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud iCloud 的同步逻辑到底是怎么样的？](https://www.v2ex.com/t/1007617#reply0)|
+|2024-01-10 12:23:34|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 关于开发脚本软件引起的一场巨额官司](https://www.v2ex.com/t/1007616#reply6)|
+|2024-01-10 12:21:19|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 字节社招 组内直招 杭州 –广告技术团队](https://www.v2ex.com/t/1007615#reply1)|
+|2024-01-10 12:07:45|[V2EX](https://www.v2ex.com/index.xml)|[ YouTube 求个 youtube 车位](https://www.v2ex.com/t/1007611#reply0)|
+|2024-01-10 12:07:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 alist 挂载迅雷云盘转存速度](https://www.v2ex.com/t/1007610#reply0)|
+|2024-01-10 12:02:24|[V2EX](https://www.v2ex.com/index.xml)|[ Java 一种基于 Java17、SpringBoot3 和 JOOQ 的现代 Java 技术栈](https://www.v2ex.com/t/1007609#reply0)|
+|2024-01-10 11:55:41|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 大学最后悔的事情是没认真谈过一段谈恋爱](https://www.v2ex.com/t/1007608#reply4)|
+|2024-01-10 11:46:43|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 一个复制谷歌百度搜索下拉框，搜索建议词全部文本的扩展](https://www.v2ex.com/t/1007606#reply0)|
+|2024-01-10 11:43:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 没有高级的洗衣机，请问大家怎么处理羽绒服啊？](https://www.v2ex.com/t/1007605#reply4)|
+|2024-01-10 11:36:52|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 有没有 MBP M 系列芯片的电脑用久了开始跟 Intel 芯片一样发热降频风扇狂转的？](https://www.v2ex.com/t/1007604#reply3)|
+|2024-01-10 11:12:29|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 一年的周末时间做 app 失败，准备 GooglePlay 和 B 站视频一起做](https://www.v2ex.com/t/1007602#reply2)|
+|2024-01-10 11:11:28|[V2EX](https://www.v2ex.com/index.xml)|[ 天津 找一起學習編程的朋友](https://www.v2ex.com/t/1007601#reply1)|
+|2024-01-10 11:06:42|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 有人处理过全损吗，兄弟们给点意见](https://www.v2ex.com/t/1007600#reply0)|
+|2024-01-10 11:02:18|[V2EX](https://www.v2ex.com/index.xml)|[ 服务器 阿里云活动服务器真的垃圾](https://www.v2ex.com/t/1007599#reply11)|
+|2024-01-10 10:53:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 扫码下载 APK，在 PDA 上会将 .apk 文件转为.zip，文件名也会更改](https://www.v2ex.com/t/1007598#reply1)|
+|2024-01-10 10:46:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 sqlalchemy 查询报错，求大佬们帮忙瞅瞅](https://www.v2ex.com/t/1007597#reply2)|
+|2024-01-10 10:45:31|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 怎么修改 Apple Music 的推荐内容？](https://www.v2ex.com/t/1007596#reply0)|
+|2024-01-10 10:37:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 过年回家想整个娱乐设备， SteamDeckOLED 出了，现在 LCD 版本还值得购买吗？](https://www.v2ex.com/t/1007595#reply3)|
+|2024-01-10 10:30:30|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 移动 ssd 文件损坏，提示位置不可用 无法访问 文件或目录损坏且无法读取](https://www.v2ex.com/t/1007594#reply1)|
+|2024-01-10 10:28:10|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 因为沉迷 POE，做一款自己用的的 Vorici Calculator 计算器](https://www.v2ex.com/t/1007593#reply0)|
+|2024-01-10 10:01:29|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 大家进来推荐下浏览器？](https://www.v2ex.com/t/1007591#reply1)|
+|2024-01-10 09:58:24|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 理想汽车 L789 碰撞安全性怎么样](https://www.v2ex.com/t/1007590#reply2)|
+|2024-01-10 09:55:48|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 为什么总是有人热衷于自己生活本就不是很稳定的情况下，盲目的去生孩子？](https://www.v2ex.com/t/1007589#reply21)|
+|2024-01-10 09:54:47|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 找出 2 个数据集的差异工具网站推广](https://www.v2ex.com/t/1007586#reply0)|
+|2024-01-10 09:51:08|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 pyqt 的开发多吗, 说说看有什么美化技巧吗](https://www.v2ex.com/t/1007585#reply1)|
+|2024-01-10 09:46:58|[V2EX](https://www.v2ex.com/index.xml)|[ 旅行 年后打算请 6 天年假去成都玩，一共安排了 9 天，求建议！](https://www.v2ex.com/t/1007584#reply7)|
+|2024-01-10 09:40:19|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 北京联通宽带价格打下来了， 888 一年 150G+500 分钟+200M 宽带，第二年续费 588 元](https://www.v2ex.com/t/1007583#reply6)|
+|2024-01-10 09:39:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Microsoft 365 Windows 版本 Word 讀取輸入法語言，以至於字體不斷從標楷體變為 SimSum，該如何解決這個問題？](https://www.v2ex.com/t/1007582#reply5)|
+|2024-01-10 09:38:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 我的升降桌最低支持 62cm，是不是可以用沙发椅？](https://www.v2ex.com/t/1007581#reply2)|
+|2024-01-10 09:35:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 微信自动点赞、转发、群发的云端工具是什么原理](https://www.v2ex.com/t/1007579#reply4)|
+|2024-01-10 09:33:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么才能学好唱歌呢（隔壁学钢琴有感而发）](https://www.v2ex.com/t/1007578#reply12)|
+|2024-01-10 09:32:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我的宝塔面板里突然多了一个计划任务](https://www.v2ex.com/t/1007577#reply8)|
+|2024-01-10 09:29:03|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 看了下 v0 根据图片生成 html 的功能](https://www.v2ex.com/t/1007576#reply0)|
+|2024-01-10 09:25:21|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 推荐一个 替代 Readwise/Cubox 的选择：五彩](https://www.v2ex.com/t/1007575#reply1)|
+|2024-01-10 09:24:56|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 过程分享 - 我的第一个 Chrome 插件](https://www.v2ex.com/t/1007574#reply1)|
+|2024-01-10 09:22:51|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 字节 上海 北京 杭州 深圳 资深 Java 后端开发工程师-飞书企业应用-业财一体化-部门直达 leader](https://www.v2ex.com/t/1007573#reply2)|
+|2024-01-10 09:21:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 锐捷 NBR 路由 ipv6 的骚功能,大佬们有办法解决么](https://www.v2ex.com/t/1007572#reply3)|
+|2024-01-10 09:20:43|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 推荐一套深度学习服务器配置](https://www.v2ex.com/t/1007571#reply7)|
+|2024-01-10 09:18:28|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 想知道， 2024 年大家在 A 股都赚钱了吗？](https://www.v2ex.com/t/1007570#reply27)|
+|2024-01-10 09:16:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 vs code 如何同步配置](https://www.v2ex.com/t/1007569#reply1)|
+|2024-01-10 09:16:15|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 要不要从游戏转 IOS 开发？](https://www.v2ex.com/t/1007567#reply14)|
+|2024-01-10 09:12:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教各位老哥，我这种情况还能继续做 5.1.2 吗？](https://www.v2ex.com/t/1007566#reply0)|
+|2024-01-10 09:10:54|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 咨询一个大容量的云主机或者其他云产品，内详](https://www.v2ex.com/t/1007565#reply7)|
+|2024-01-10 09:09:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问在大家眼里工作上什么是 PUA？](https://www.v2ex.com/t/1007564#reply8)|
+|2024-01-10 09:03:42|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 无经验，微信小程序开发的一些基础问题，求解答或者链接](https://www.v2ex.com/t/1007562#reply2)|
+|2024-01-10 09:02:16|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 现在找女朋友这么难, xdm 为啥不在公司把握机会找对象呢](https://www.v2ex.com/t/1007561#reply8)|
+|2024-01-10 09:00:00|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 Ecosia.org 亡了吗？😰](https://www.v2ex.com/t/1007560#reply3)|
+|2024-01-10 08:58:30|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 RAX3000M 如何刷 immortalwrt 固件？](https://www.v2ex.com/t/1007558#reply1)|
+|2024-01-10 08:55:39|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 讨论一个被裁员补偿金的问题](https://www.v2ex.com/t/1007557#reply18)|
 |2024-01-10 00:58:27|[爱范儿](https://www.ifanr.com/feed)|[早报 小米手机销量登顶国产第一/苹果发布 Vision Pro 预热视频/董宇辉新账号首播销售额破 1.5 亿元](https://www.ifanr.com/1572914?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-10 06:59:08|[小众软件](https://www.appinn.com/feed/)|[在 Windows 11 中禁用圆角](https://www.appinn.com/disable-rounded-corners-in-windows-11/)|
 |2024-01-10 04:03:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[京东达达出了“内鬼”？](https://36kr.com/p/2597265315969921)|
