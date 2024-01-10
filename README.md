@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-09）
+﻿# 每日资讯（2024-01-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-10 00:52:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年做了两个项目 没有挣 money 也失业了](https://www.v2ex.com/t/1007354#reply12)|
 |2024-01-09 09:05:25|[空城记](https://shinekid.com/feed/)|[清高](https://shinekid.com/2024/01/aloof/)|
 |2024-01-09 18:38:03|[Macin](https://www.macin.org/atom.xml)|[泸县：假装在南宋看石刻](https://macin.org/2024/01/09/lu-xian-shi-ke/)|
 |2024-01-09 04:01:49|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[App+1 用 Collections Database 搭建自己的数据库](https://sspai.com/post/85464)|
