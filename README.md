@@ -2,6 +2,57 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-10 10:16:01|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1242 苹果公司要求开发者将 Vision Pro 应用称为“空间计算应用”](https://linux.cn/article-16548-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-10 08:09:27|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Linux 内核 6.7 发布，包含众多修复和新的文件系统](https://linux.cn/article-16547-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-10 07:25:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Deepin 成为第一个为照片和 IDE 集成 AI 功能的 Linux 发行版](https://linux.cn/article-16546-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-10 16:16:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 急！ PVE 的一个 win10 虚拟机忘记密码无法进入，有啥办法吗？](https://www.v2ex.com/t/1007661#reply0)|
+|2024-01-10 16:15:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 2024.1 有啥费率不低，能绑国内 visa，运营资本和牌照相对稳，和对众商友好的虚拟信用卡提供商？](https://www.v2ex.com/t/1007660#reply0)|
+|2024-01-10 16:13:56|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 移动端的 Safari 用 adguard 有必要付费吗？](https://www.v2ex.com/t/1007659#reply0)|
+|2024-01-10 16:12:33|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 爆文的本质就是资料整理](https://www.v2ex.com/t/1007658#reply0)|
+|2024-01-10 15:37:25|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 应用想上架 Setapp，被无情拒绝](https://www.v2ex.com/t/1007657#reply2)|
+|2024-01-10 15:25:30|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有大佬接了解过这个项目？](https://www.v2ex.com/t/1007656#reply0)|
+|2024-01-10 15:24:46|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有一个 idea，不知有没有市场，大家讨论一下](https://www.v2ex.com/t/1007655#reply11)|
+|2024-01-10 15:24:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 win11 开机后用 mac 远程 rdp，直接报错 0x204，怎么回事？](https://www.v2ex.com/t/1007654#reply1)|
+|2024-01-10 15:21:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助 mac 上是买 surge 还是 stash](https://www.v2ex.com/t/1007653#reply1)|
+|2024-01-10 15:15:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享下自己的简单 dotfiles，并想从大佬们的意见中学习](https://www.v2ex.com/t/1007652#reply1)|
+|2024-01-10 15:11:36|[V2EX](https://www.v2ex.com/index.xml)|[ GitHub 求助万能的 v 友](https://www.v2ex.com/t/1007651#reply1)|
+|2024-01-10 14:56:57|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 大家的认知是什么时候从“理工男改变世界”到“我就是一臭写代码的”](https://www.v2ex.com/t/1007650#reply5)|
+|2024-01-10 14:56:32|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 全职远程 / 前端 Cocos 开发 游戏策划 / 12~35K / 英国游戏工作室 ](https://www.v2ex.com/t/1007649#reply3)|
+|2024-01-10 14:53:38|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 询问各位 v 友在二手交易里都是啥方式](https://www.v2ex.com/t/1007648#reply1)|
+|2024-01-10 14:32:39|[V2EX](https://www.v2ex.com/index.xml)|[ 淘宝 淘宝越来越离谱了嗷](https://www.v2ex.com/t/1007647#reply4)|
+|2024-01-10 14:20:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 为什么 Python 会有.venv 虚拟环境的概念？](https://www.v2ex.com/t/1007645#reply2)|
+|2024-01-10 14:19:51|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 每天都要在不同服务器上重复输入各种命令，有没有一个工具可以解决这个痛点？](https://www.v2ex.com/t/1007643#reply15)|
+|2024-01-10 14:18:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么 iOS 的 chrome 每次打开 V2 都是这个界面？](https://www.v2ex.com/t/1007641#reply0)|
+|2024-01-10 14:13:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 关于 k8s 的二次开发以及日常运维后台开发所选语言](https://www.v2ex.com/t/1007640#reply1)|
+|2024-01-10 14:07:29|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 让 5 岁的孩子去泰国参加短期的夏令营和冬令营可以收获什么?](https://www.v2ex.com/t/1007639#reply1)|
+|2024-01-10 14:01:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 坐标北京，想知道消防隐患举报打哪个电话？](https://www.v2ex.com/t/1007638#reply4)|
+|2024-01-10 13:45:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 帝国 CMS 和 DEDE 的时代一去不复返了， 4204 年用什么 CMS、开源企业站程序](https://www.v2ex.com/t/1007635#reply6)|
+|2024-01-10 13:42:40|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro macbook 屏幕会像 studio display 那样吗](https://www.v2ex.com/t/1007634#reply2)|
+|2024-01-10 13:32:10|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 为什么同个节点移动可以测速联通不能](https://www.v2ex.com/t/1007632#reply0)|
+|2024-01-10 13:25:42|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 GitHub 支持添加多个两步验证吗？](https://www.v2ex.com/t/1007631#reply4)|
+|2024-01-10 13:18:35|[V2EX](https://www.v2ex.com/index.xml)|[ iOS 酷狗概念版开屏广告](https://www.v2ex.com/t/1007627#reply0)|
+|2024-01-10 13:11:18|[V2EX](https://www.v2ex.com/index.xml)|[ 海外运营 有人需要海外短信群发吗？ TG：@ZivLawSunRise](https://www.v2ex.com/t/1007626#reply0)|
+|2024-01-10 13:06:22|[V2EX](https://www.v2ex.com/index.xml)|[ Apple homepod mini 连接不同的 ap 路由器，不能组合](https://www.v2ex.com/t/1007625#reply1)|
+|2024-01-10 13:01:05|[V2EX](https://www.v2ex.com/index.xml)|[ Tesla 特斯拉在国内如何提取 edr 数据](https://www.v2ex.com/t/1007623#reply4)|
+|2024-01-10 12:58:02|[V2EX](https://www.v2ex.com/index.xml)|[ 耳机 求 500 以内耳机推荐](https://www.v2ex.com/t/1007622#reply7)|
+|2024-01-10 12:40:50|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt openwrt 的 ipv6 转发问题](https://www.v2ex.com/t/1007621#reply0)|
+|2024-01-10 12:38:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 启动时如何选择性地屏蔽 nvme 硬盘？](https://www.v2ex.com/t/1007620#reply3)|
+|2024-01-10 12:34:46|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 最便宜的 NAS 方案是什么？给老家监控存储用](https://www.v2ex.com/t/1007619#reply6)|
+|2024-01-10 12:28:35|[V2EX](https://www.v2ex.com/index.xml)|[ Apple M1 芯片的 mac，死活连不上安卓手机热点](https://www.v2ex.com/t/1007618#reply1)|
+|2024-01-10 12:27:35|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud iCloud 的同步逻辑到底是怎么样的？](https://www.v2ex.com/t/1007617#reply3)|
+|2024-01-10 12:23:34|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 关于开发脚本软件引起的一场巨额官司](https://www.v2ex.com/t/1007616#reply44)|
+|2024-01-10 12:21:19|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 字节社招 组内直招 杭州 –广告技术团队](https://www.v2ex.com/t/1007615#reply3)|
+|2024-01-10 12:07:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 alist 挂载迅雷云盘转存速度](https://www.v2ex.com/t/1007610#reply3)|
+|2024-01-10 12:02:24|[V2EX](https://www.v2ex.com/index.xml)|[ Java 一种基于 Java17、SpringBoot3 和 JOOQ 的现代 Java 技术栈](https://www.v2ex.com/t/1007609#reply1)|
+|2024-01-10 11:55:41|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 大学最后悔的事情是没认真谈过一段谈恋爱](https://www.v2ex.com/t/1007608#reply16)|
+|2024-01-10 11:46:43|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 一个复制谷歌百度搜索下拉框，搜索建议词全部文本的扩展](https://www.v2ex.com/t/1007606#reply1)|
+|2024-01-10 11:43:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 没有高级的洗衣机，请问大家怎么处理羽绒服啊？](https://www.v2ex.com/t/1007605#reply18)|
+|2024-01-10 11:36:52|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 有没有 MBP M 系列芯片的电脑用久了开始跟 Intel 芯片一样发热降频风扇狂转的？](https://www.v2ex.com/t/1007604#reply4)|
+|2024-01-10 13:10:23|[机核](https://www.gcores.com/rss)|[ALIENWARE笔记本全新升级！外星人CES 2024新品发布会产品汇总](https://www.gcores.com/articles/176107)|
+|2024-01-10 13:00:00|[机核](https://www.gcores.com/rss)|[无J之谈Vol.8丨《地球上最聪明的小子》：用图像写作的漫画狂人——克里斯·韦尔（下）](https://www.gcores.com/radios/173132)|
+|2024-01-10 07:28:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[怎么搭建自己的 Docker-hub 镜像源，本地搭一个得了 自己用！](https://www.v2ex.com/t/1007508#reply10)|
+|2024-01-10 06:33:59|[知乎每日精选](https://www.zhihu.com/rss)|[AI 落地进行时，让创新真正触手可及｜AI 先行者沙龙圆桌实录](http://zhuanlan.zhihu.com/p/676903031?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2024-01-10 06:33:36|[知乎每日精选](https://www.zhihu.com/rss)|[「百模大战」之后，预见行业新生态｜AI 先行者沙龙圆桌实录](http://zhuanlan.zhihu.com/p/676902538?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-10 00:30:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[持有10年以上的主力](http://mercurychong.blogspot.com/2024/01/10.html)|
 |2024-01-10 08:03:20|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[style 表的结构化访问](https://blog.codingnow.com/2024/01/style_attrib_access.html)|
 |2024-01-10 08:53:47|[小众软件](https://www.appinn.com/feed/)|[movie-web – 从前端到后端完全开源的在线电影、电视剧搜索与播放工具](https://www.appinn.com/movie-web/)|
