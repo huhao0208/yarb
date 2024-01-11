@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-11 09:07:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[柯南官方统计：麻醉针至今共发射88次，其中毛利小五郎一人被扎55次（统计对象是原作第1卷到第104卷、不包含动画原创部分）](https://dig.chouti.com/link/41197291)|
+|2024-01-11 09:07:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1999年、2021年、2025年，中美两国在印太地区的军力对比，出自美军印太司令部的报告。2023年12月13日，山东青岛，原国防大学教授金一南出席D26中国农化行业领袖年度峰会并发表演讲，援引了这份资料。](https://dig.chouti.com/link/41197245)|
+|2024-01-11 03:28:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[细菌、基因与土壤：病原体往事](https://dig.chouti.com/link/41193494)|
+|2024-01-11 10:01:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿根廷首次有外长与台湾进行“政府间”联系？阿方已主动向中方澄清：这是不实炒作](https://dig.chouti.com/link/41197537)|
+|2024-01-11 10:10:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[世界上最大的紫水晶晶洞，高3.27米，重2.5吨，形成于约1亿3000千万年前，它还有个名字叫“乌拉圭皇后”~](https://dig.chouti.com/link/41197922)|
+|2024-01-11 04:01:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[卸行政职务后郑强重回学术界：以通讯作者身份在国际刊物发文](https://dig.chouti.com/link/41193750)|
+|2024-01-11 04:08:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1月9日，浙江杭州，男子骑车撞上理发店玻璃门，店主第一反应是先关空调……“老板是个会过日子的人”](https://dig.chouti.com/link/41194024)|
+|2024-01-11 06:46:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我，53岁早餐店店主，炸油条蒸馒头12年，26万人在抖音看我写散文](https://dig.chouti.com/link/41195442)|
+|2024-01-11 01:10:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[抢了个寂寞……临走时深深怀疑人生](https://dig.chouti.com/link/41191864)|
+|2024-01-11 03:11:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[文班亚马21分钟得16分12篮板10助攻，且0失误，成为NBA历史最年轻砍下三双的中锋，也是历史最年轻的0失误三双先生，单场登场21分钟砍下三双也是登场时间历史第二少，仅次于威少的20分钟（用时方面，最短的是约基奇的14分钟）](https://dig.chouti.com/link/41193341)|
+|2024-01-11 03:32:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[SpaceX首次使用星链卫星发送短信，计划今年推出直连手机服务](https://dig.chouti.com/link/41193514)|
+|2024-01-11 07:02:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[爱泼斯坦文件：17岁女子被迫与安德鲁王子发生性关系](https://dig.chouti.com/link/41195719)|
+|2024-01-11 07:09:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1月11日13时30分，太原卫星发射中心在山东海阳附近海域使用引力一号遥一商业运载火箭，将云遥一号18~20星3颗卫星送入预定轨道。此次任务是引力一号商业运载火箭的首次飞行。引力一号刷新全球运力最大固体运载火箭、中国运力最大民营商业运载火箭纪录。](https://dig.chouti.com/link/41195885)|
+|2024-01-11 06:11:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[昨晚意大利杯赛前，同城死敌拉齐奥和罗马球迷在看台互送新年烟花~](https://dig.chouti.com/link/41195283)|
+|2024-01-11 04:08:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[每一根头发都有自己的名字](https://dig.chouti.com/link/41194064)|
+|2024-01-11 09:31:25|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1243 Linux 内核开发者再次讨论从 C 语言转换为现代 C++ 语言](https://linux.cn/article-16550-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-11 04:01:42|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[智能家居的网关新形态：Aqara 方舟智慧中枢 M3 体验](https://sspai.com/post/85621)|
+|2024-01-11 05:11:56|[Dennis](https://www.domon.cn/rss/)|[2023年度书籍回顾](https://www.domon.cn/2023nian-du-shu-ji-hui-gu/)|
+|2024-01-11 03:10:12|[白宦成](https://www.ixiqin.com/feed/)|[「杭州菲住布渴酒店」简评](https://www.ixiqin.com/2024/01/11/a-brief-review-of-hangzhou-feizhu-buke-hotel/)|
 |2024-01-11 02:57:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【CES 2024】全新 Mila Air 3 支援 HomeKit](https://applefans.today/2024-01-mila-air-3-ces/)|
 |2024-01-11 01:25:46|[靜風說](http://www.jingfengshuo.com/feed)|[王小波《黑铁时代》读后感](https://www.jingfengshuo.com/archives/2722.html)|
 |2024-01-11 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有一张照片可以展示出你家小猫咪的独特气质？](https://www.zhihu.com/question/613443729)|
