@@ -1,7 +1,19 @@
-﻿# 每日资讯（2024-01-10）
+﻿# 每日资讯（2024-01-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-11 01:12:57|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt 求各位大佬路由器推荐，能刷 openwrt 且带 usb 的无线路由器](https://www.v2ex.com/t/1007687#reply1)|
+|2024-01-11 01:09:35|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 GPT 热潮褪去，又搞了一个 Chat web](https://www.v2ex.com/t/1007686#reply0)|
+|2024-01-11 00:59:44|[V2EX](https://www.v2ex.com/index.xml)|[ Surge Surge5 for Mac 拼车](https://www.v2ex.com/t/1007685#reply0)|
+|2024-01-11 00:57:25|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 OpenAI 官方的 GPTs 商店](https://www.v2ex.com/t/1007684#reply0)|
+|2024-01-11 00:48:03|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 请人付费将基于 tinygrad 的最简单的深度学习模型部署在 Ubuntu 的电脑 CPU 上运行](https://www.v2ex.com/t/1007683#reply0)|
+|2024-01-11 00:45:12|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 因为休陪产假 15 天，被扣绩效工资。合理合法吗?](https://www.v2ex.com/t/1007682#reply29)|
+|2024-01-11 00:43:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 说说你们治疗好了秃顶的有效方法？](https://www.v2ex.com/t/1007681#reply13)|
+|2024-01-11 00:39:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 mst 菊花联怎么玩呀](https://www.v2ex.com/t/1007680#reply2)|
+|2024-01-11 00:32:06|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 昨天夜里不到 4 点就醒了，脑子里一直意淫未来何去何从。](https://www.v2ex.com/t/1007679#reply10)|
+|2024-01-11 00:31:14|[V2EX](https://www.v2ex.com/index.xml)|[ 加密货币 比特幣 ETF 通過了啦](https://www.v2ex.com/t/1007678#reply6)|
+|2024-01-11 00:20:50|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 马上过年了 V2EX 福利 ！安排 1 千斤奉节脐橙](https://www.v2ex.com/t/1007677#reply12)|
+|2024-01-11 00:49:02|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[咖啡师的手｜工劳小报 #34](https://feed.laborinfozh.com/issue34/)|
 |2024-01-10 09:12:16|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[水果上新｜云南高原的蓝莓，一下午能炫两盒。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448280&idx=2&sn=d644c85c065698f2e8d495b2fdf39c69)|
 |2024-01-10 09:12:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[天价打边炉店，背叛了广东人](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448280&idx=1&sn=23dc43386eaf6962c08fbabb6f27e65c)|
 |2024-01-10 13:13:10|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[“为夫喊冤”，宽容、鼓励还是打击？](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892941&idx=1&sn=8b38b27ff2b97709af0c65554e2ab8c5)|
