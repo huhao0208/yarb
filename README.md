@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-11）
+﻿# 每日资讯（2024-01-12）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-12 00:51:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 120 期）：帮助 App 监测竞争对手，每月盈利 8000 美元](https://w2solo.com/topics/4356)|
 |2024-01-11 16:53:56|[子来园](https://wanghuibin0.github.io/index.xml)|[人生要做什么](https://simplecoding.fun/posts/2024/01/what-to-do/)|
 |2024-01-11 19:13:47|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 换个思路，出国读个博士说不定能改变现状](https://www.v2ex.com/t/1007974#reply7)|
 |2024-01-11 18:40:18|[V2EX](https://www.v2ex.com/index.xml)|[ Steam 找了个新靶机，给 v 友们试试](https://www.v2ex.com/t/1007973#reply1)|
