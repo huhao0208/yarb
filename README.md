@@ -2,6 +2,39 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-12 12:38:33|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 泛型中级教程](https://www.sulinehk.com/post/golang-generics-intermediate-tutorial/)|
+|2024-01-12 16:06:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[12 月社融规模增量 1.94 万亿，M2 同比增 9.7%，新增人民币贷款 1.17 万亿，如何解读？](https://www.zhihu.com/question/639225134)|
+|2024-01-12 16:06:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你摘抄过哪些教育方面经典名人语录？](https://www.zhihu.com/question/593981729)|
+|2024-01-12 16:06:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冬季嘴唇总是干燥起皮，有哪些滋润温和的润唇膏推荐？](https://www.zhihu.com/question/637633405)|
+|2024-01-12 18:56:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[选择 NAS 系统，不知道选什么好](https://www.v2ex.com/t/1008256#reply1)|
+|2024-01-12 02:15:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大龄 iOS 正在转 Java ，学习 Java 中，但是看到很多工作多年 35 岁的 Java 也找不到工作，我迷茫了，请教各位怎么办](https://www.v2ex.com/t/1008022#reply49)|
+|2024-01-12 18:23:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助：有偿求 MailGun 账号](https://www.v2ex.com/t/1008255#reply0)|
+|2024-01-12 17:06:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[C# Windows Cef 框架如何用 WPF 原生控件?](https://www.v2ex.com/t/1008250#reply5)|
+|2024-01-12 17:10:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有 iPad 远程连接 windows 的靠谱 app](https://www.v2ex.com/t/1008251#reply3)|
+|2024-01-12 01:19:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[初创企业什么情况需要使用付费邮箱](https://www.v2ex.com/t/1007993#reply51)|
+|2024-01-12 00:43:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Java 应用内存不断增长](https://www.v2ex.com/t/1007983#reply59)|
+|2024-01-12 12:47:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[NAS 组建问题，该选择 NAS 专用的机箱还是选择塔式机箱？是选择用 n/j 系列还是选择低功耗的 cpu？](https://www.v2ex.com/t/1008209#reply25)|
+|2024-01-12 15:24:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[抓包遇到奇怪问题一则，求大佬指点](https://www.v2ex.com/t/1008237#reply7)|
+|2024-01-12 15:27:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[giser 职业的困惑](https://www.v2ex.com/t/1008238#reply3)|
+|2024-01-12 19:54:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家第一次情感经历都是在啥时候？](https://www.v2ex.com/t/1008257#reply0)|
+|2024-01-12 07:02:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Gotcha Rest Client 正式开源，跨平台，高颜值，超好用的 Postman 替代品 !](https://www.v2ex.com/t/1008121#reply21)|
+|2024-01-12 15:40:32|[SHRIK3](https://shrik3.com/index.xml)|[reflections on how ChatGPT HAS changed things](https://shrik3.com/post/chatgpt/)|
+|2024-01-12 09:49:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我不理解：国产剧改名备忘录】看了一本讲韩剧的书《韩剧如何讲故事》。书中说，剧名很重要，普通的名字改一个瞩目的能引发观众关注度的，不泯然众剧的名字，效果就完全不一样。](https://dig.chouti.com/link/41208449)|
+|2024-01-12 10:02:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[德帕迪约性侵疑云又现“反陈情书”，苏菲·玛索指其“粗鲁”](https://dig.chouti.com/link/41208771)|
+|2024-01-12 13:07:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中断一年半后，美国恢复购买俄罗斯石油，价格还高于自己制定的上限】美国统计局最新数据显示，2023年10月，美国从俄罗斯进口了一批近3.7万桶的石油，这是自一年半前以来的首次石油交易。11月美国再次购买约1万桶俄罗斯石油。购入价格分别为每桶74美元和76美元，均高于美国制定的每桶60美元的价格上限。](https://dig.chouti.com/link/41210492)|
+|2024-01-12 14:12:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[过年回家相亲现状](https://dig.chouti.com/link/41211024)|
+|2024-01-12 08:32:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[东北搓澡，一辈子能搓出多少斤泥？](https://dig.chouti.com/link/41207784)|
+|2024-01-12 08:13:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以“卖水”为例解释常见的一些互联网黑话↓↓](https://dig.chouti.com/link/41207562)|
+|2024-01-12 05:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“过劳”的小学教师，成了相亲鄙视链的底端】一个小学班主任如此形容自己的日常：每周负责4节早课、5节午读、10个课间操、8节课后服务，以及15节正课，课余时间要处理学生的纠纷，回复家长信息、必要时再叫家长到学校沟通。下班后还要准备评比资料、批改作业、筹备公开课、写听课日记。](https://dig.chouti.com/link/41205762)|
+|2024-01-12 11:02:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[外媒报道称中国拟在近地轨道建立由2.6万颗卫星组成的低轨卫星通信网](https://dig.chouti.com/link/41209310)|
+|2024-01-12 12:01:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI CEO 阿尔特曼做客比尔盖茨访谈节目：ChatGPT 将能够生成视频](https://dig.chouti.com/link/41209748)|
+|2024-01-12 12:32:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[揭秘抄底上海20栋别墅的钢铁大佬：隐现80后“创三代”，多元产业曾年入超千亿](https://dig.chouti.com/link/41210130)|
+|2024-01-12 04:08:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[水结冰的可视化：随着温度降低，水分子的动能逐渐降低。 通常当温度降低到0摄氏度左右，水分子动能降低到不足以摆脱原子或分子之间的吸引力（氢键）时，液态的水就会冻结为固态的水。](https://dig.chouti.com/link/41205181)|
+|2024-01-12 07:01:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[文科博主起诉张雪峰未获法院受理：“舔”言论未指向特定个人](https://dig.chouti.com/link/41206635)|
+|2024-01-12 16:08:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[罗永浩指责荣耀“任意门”功能抄袭｜最前线](https://36kr.com/p/2601050838219649)|
+|2024-01-12 16:08:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年最确定的赛道](https://36kr.com/p/2600855113579400)|
+|2024-01-12 16:08:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉打响今年价格战第一枪：Model 3/Y齐降价，最多优惠2万](https://36kr.com/p/2601105652398720)|
+|2024-01-12 16:08:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[高铁一等座，为什么总有人打掼蛋？](https://36kr.com/p/2600897577826945)|
 |2024-01-12 10:20:06|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No.105 Jos de Mul](https://wangyurui.com/posts/leng-jing-tong-xun-no-105-jos-de-mul-cefcb030)|
 |2024-01-12 10:45:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1244 美国讨论限制中国获取 RISC-V 技术](https://linux.cn/article-16552-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-12 12:19:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享一些出海注册公司渠道](https://www.v2ex.com/t/1008207#reply0)|
