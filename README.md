@@ -2,6 +2,81 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-12 10:45:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1244 美国讨论限制中国获取 RISC-V 技术](https://linux.cn/article-16552-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-12 12:19:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享一些出海注册公司渠道](https://www.v2ex.com/t/1008207#reply0)|
+|2024-01-12 12:17:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教一个打洞失败的问题](https://www.v2ex.com/t/1008206#reply1)|
+|2024-01-12 12:15:43|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 送订阅会员 200 多天独立开发的英语学习系统 LangWeGo 开始测试。对标竞品为 LingQ、LanguageReactor、Relingo](https://www.v2ex.com/t/1008205#reply0)|
+|2024-01-12 11:52:08|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 vaultwarden 备份思路](https://www.v2ex.com/t/1008203#reply10)|
+|2024-01-12 11:51:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 老家的有线电视居然停了！看电视有什么的替代品吗](https://www.v2ex.com/t/1008202#reply0)|
+|2024-01-12 11:39:10|[V2EX](https://www.v2ex.com/index.xml)|[ Vue.js 用 JSX 写 Vue 的时候， JSX 是写 setup 里面好呢，还是写 render 里面好呢？](https://www.v2ex.com/t/1008201#reply0)|
+|2024-01-12 11:38:24|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 PP 网络浏览器，内置对 nginx proxy_pass 的支持](https://www.v2ex.com/t/1008200#reply0)|
+|2024-01-12 11:35:35|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud Journal 的图片/视频可以设置存储在 iCloud 吗？](https://www.v2ex.com/t/1008199#reply0)|
+|2024-01-12 11:19:16|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 亲测 跟风哥飞群友，我也“卷”了一把 ReplaceAnything，亲身体验，效果惊艳！](https://www.v2ex.com/t/1008197#reply1)|
+|2024-01-12 11:16:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为知笔记如何使用原生 markdown 模式](https://www.v2ex.com/t/1008196#reply2)|
+|2024-01-12 11:12:36|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 有用过蒲公英 4G 路由器的吗？用来组网怎么样？](https://www.v2ex.com/t/1008195#reply0)|
+|2024-01-12 11:07:04|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes KubeBlocks 被 YouTube DOT 频道推荐](https://www.v2ex.com/t/1008194#reply0)|
+|2024-01-12 11:05:49|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招聘 前端 PHP Flutter](https://www.v2ex.com/t/1008193#reply0)|
+|2024-01-12 10:51:16|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 同一块硬盘在不同的主板上工作发出的噪音强度有明显的区别，这是什么原理？](https://www.v2ex.com/t/1008191#reply1)|
+|2024-01-12 10:50:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 v 友们有什么克系风格的美剧/英剧推荐？](https://www.v2ex.com/t/1008190#reply0)|
+|2024-01-12 10:37:02|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 北京哪儿有卖包子卖面食的小吃店吗](https://www.v2ex.com/t/1008188#reply5)|
+|2024-01-12 10:21:15|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 V 站有塞尔达节点，能搞个原神节点吗？](https://www.v2ex.com/t/1008187#reply1)|
+|2024-01-12 10:15:24|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 CHAT-GPT 个人合租车， 4=2,人满封车。](https://www.v2ex.com/t/1008186#reply1)|
+|2024-01-12 10:08:12|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 一个 http 转发工具](https://www.v2ex.com/t/1008184#reply0)|
+|2024-01-12 09:59:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 风管机要选择海信还是日本？](https://www.v2ex.com/t/1008183#reply0)|
+|2024-01-12 09:59:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有这么一种光纤设备可以链接多个网线，网线之间隔离](https://www.v2ex.com/t/1008182#reply12)|
+|2024-01-12 09:52:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 一个有关 git 的问题](https://www.v2ex.com/t/1008181#reply1)|
+|2024-01-12 09:50:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 台式机升级求助](https://www.v2ex.com/t/1008180#reply0)|
+|2024-01-12 09:47:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 哪里能弄到足球比赛的直播源 api](https://www.v2ex.com/t/1008179#reply0)|
+|2024-01-12 09:41:22|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 大佬们，深圳哪里洗车，服务好，性价比高？想内外都洗一下。](https://www.v2ex.com/t/1008178#reply5)|
+|2024-01-12 09:35:15|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 等等看今年的烟花大不大](https://www.v2ex.com/t/1008176#reply2)|
+|2024-01-12 09:32:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有什么可以追踪自己每天工作时长的 app 或者服务吗？](https://www.v2ex.com/t/1008175#reply3)|
+|2024-01-12 09:31:34|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 五款在线 AI 文字转语音工具 - 免费把文字变音频](https://www.v2ex.com/t/1008174#reply0)|
+|2024-01-12 09:26:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 老版本 ios 系统如何下载要求最新系统的软件](https://www.v2ex.com/t/1008173#reply0)|
+|2024-01-12 09:09:58|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 go slice 切片的一个疑问](https://www.v2ex.com/t/1008171#reply10)|
+|2024-01-12 09:06:24|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 随时操作 JS 变量？毒蘑菇变量更新了，快来瞅瞅吧。🥰🥰](https://www.v2ex.com/t/1008169#reply15)|
+|2024-01-12 09:01:55|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 用来打游戏的 Magic Keyboard 键盘终于找到完美的继任者了， Mistel Air One](https://www.v2ex.com/t/1008167#reply4)|
+|2024-01-12 08:59:17|[V2EX](https://www.v2ex.com/index.xml)|[ JavaScript 匹配特殊符号的正则竟然匹配了数字](https://www.v2ex.com/t/1008165#reply12)|
+|2024-01-12 08:58:39|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 字节跳动商业化-求前端实习/校招/社招 急招 ](https://www.v2ex.com/t/1008163#reply1)|
+|2024-01-12 08:56:09|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 应届 offer 选择求助, 美团, 壁仞](https://www.v2ex.com/t/1008162#reply8)|
+|2024-01-12 08:51:24|[V2EX](https://www.v2ex.com/index.xml)|[ Linux Linux 内核 rhashtable 效率](https://www.v2ex.com/t/1008160#reply1)|
+|2024-01-12 08:50:28|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 用 chatgpt 写的网站完成，谈谈体验。](https://www.v2ex.com/t/1008159#reply1)|
+|2024-01-12 08:49:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于植发的若干问题解答](https://www.v2ex.com/t/1008158#reply8)|
+|2024-01-12 08:48:35|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 微信的文字识别是不是离线的？](https://www.v2ex.com/t/1008157#reply6)|
+|2024-01-12 08:47:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 GitHub Copilot 免费条件中的 “GitHub 上的常用开源存储库” 指的是什么？有老哥知道吗？](https://www.v2ex.com/t/1008156#reply0)|
+|2024-01-12 08:45:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 国内手机有没有必要安装 GMS？](https://www.v2ex.com/t/1008155#reply18)|
+|2024-01-12 08:33:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有做过油品配送系统的进来聊聊](https://www.v2ex.com/t/1008154#reply0)|
+|2024-01-12 08:27:37|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 有没有什么像素级复刻 Windows 画图的程序呀？](https://www.v2ex.com/t/1008152#reply3)|
+|2024-01-12 08:27:11|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 互联网年龄焦虑有多严重，大龄考研还值得吗？](https://www.v2ex.com/t/1008151#reply1)|
+|2024-01-12 08:21:16|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 初次感受到社保的关爱](https://www.v2ex.com/t/1008150#reply23)|
+|2024-01-12 08:20:47|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 内网穿透求助](https://www.v2ex.com/t/1008149#reply14)|
+|2024-01-12 08:19:33|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 马来西亚区 Apple One 超大杯 找长期车友 季 75](https://www.v2ex.com/t/1008148#reply4)|
+|2024-01-12 08:18:16|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 出海第一站： ReplaceAnything， AI 替换图片中某一个部分](https://www.v2ex.com/t/1008146#reply1)|
+|2024-01-12 08:13:12|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 上海电信 IPV6 和公网 IPV4](https://www.v2ex.com/t/1008145#reply5)|
+|2024-01-12 08:12:55|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 深圳电信携号转网有老哥有好的路子吗](https://www.v2ex.com/t/1008144#reply2)|
+|2024-01-12 10:22:48|[机核](https://www.gcores.com/rss)|[像素风俯视角ARPG游戏《我的挚友》正式公开](https://www.gcores.com/articles/176187)|
+|2024-01-12 09:00:00|[机核](https://www.gcores.com/rss)|[早入还是晚入，这是个问题，录音笔 VOL.120](https://www.gcores.com/radios/176182)|
+|2024-01-12 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图215期:刷会手机，早点休息](https://www.gcores.com/articles/172523)|
+|2024-01-12 07:43:53|[机核](https://www.gcores.com/rss)|[《圣兽之王》“探索心得篇”视频公开，下载版预购已开启](https://www.gcores.com/articles/176176)|
+|2024-01-12 07:30:00|[机核](https://www.gcores.com/rss)|[独属2023的几何旋律——来自西区主创们的精选推荐](https://www.gcores.com/articles/176089)|
+|2024-01-12 07:19:54|[机核](https://www.gcores.com/rss)|[「主机游戏全球市场展望及开发技术沙龙」将于1月19日上海举办](https://www.gcores.com/articles/176175)|
+|2024-01-12 07:11:37|[机核](https://www.gcores.com/rss)|[《光环》真人剧集发布第二季正式预告](https://www.gcores.com/articles/176174)|
+|2024-01-12 07:04:59|[机核](https://www.gcores.com/rss)|[《卧龙 完全版》2月7日推出，新PC体验版同日免费推出](https://www.gcores.com/articles/176173)|
+|2024-01-12 06:25:02|[机核](https://www.gcores.com/rss)|[优秀的银河城游戏，《波斯王子：失落的王冠》媒体评分汇总](https://www.gcores.com/articles/176165)|
+|2024-01-12 05:08:29|[机核](https://www.gcores.com/rss)|[《莫莫多拉： 月下告别》现已正式发售，游戏原声集同步上架](https://www.gcores.com/articles/176169)|
+|2024-01-12 04:51:30|[机核](https://www.gcores.com/rss)|[关于爱、死亡和牺牲的故事: 《驱灵者：新伊甸的幽灵》将于2月13日推出](https://www.gcores.com/articles/176168)|
+|2024-01-12 04:06:43|[机核](https://www.gcores.com/rss)|[《拳皇15》PS国行版1月15日发售](https://www.gcores.com/articles/176167)|
+|2024-01-12 02:00:00|[机核](https://www.gcores.com/rss)|[学术论文丨J-pop：从创意的意识型态到 DiY 的音乐文化 PART1](https://www.gcores.com/articles/176155)|
+|2024-01-12 01:43:32|[机核](https://www.gcores.com/rss)|[《黄金太阳 开启的封印》来了：Nintendo Switch Online扩展包将于1月17日新增两款GBA游戏](https://www.gcores.com/articles/176162)|
+|2024-01-12 01:23:56|[机核](https://www.gcores.com/rss)|[Epic喜加一：开放世界航海游戏《Sail Forth》免费领](https://www.gcores.com/articles/176161)|
+|2024-01-12 01:16:08|[机核](https://www.gcores.com/rss)|[多人合作对战《终极拉扯》将于1月18日结束抢先体验正式发售](https://www.gcores.com/articles/176160)|
+|2024-01-12 01:11:46|[机核](https://www.gcores.com/rss)|[《沙漠大冒险》现已在Steam开启预购，将于4月26日发售](https://www.gcores.com/articles/176159)|
+|2024-01-12 07:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台湾大选在即，变数之大牵动全球神经](https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E5%9C%A8%E5%8D%B3-%E5%8F%98%E6%95%B0%E4%B9%8B%E5%A4%A7%E7%89%B5%E5%8A%A8%E5%85%A8%E7%90%83%E7%A5%9E%E7%BB%8F-f68749f7)|
+|2024-01-12 09:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国通缩忧虑加深](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%9A%E7%BC%A9%E5%BF%A7%E8%99%91%E5%8A%A0%E6%B7%B1-6edf17e7)|
+|2024-01-12 02:50:15|[爱范儿](https://www.ifanr.com/feed)|[CES 2024：车企「画饼」失败，一个存在了数十年的老物件，成为全场最大亮点](https://www.ifanr.com/1573042?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-12 02:42:28|[爱范儿](https://www.ifanr.com/feed)|[零跑发布新车 C10 ，要用 15.18 万元，成为「更理想的家」](https://www.ifanr.com/1573135?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-12 02:28:26|[爱范儿](https://www.ifanr.com/feed)|[「最美纯电」吉利银河 E8 上市，用 17 万元的售价，撬动小米 SU7](https://www.ifanr.com/1572553?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-12 01:50:03|[爱范儿](https://www.ifanr.com/feed)|[早报 微软市值一度超越苹果/SpaceX 星舰第三次试飞最快下月进行/荣耀回应抄袭锤子争议](https://www.ifanr.com/1573187?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-12 08:56:40|[小众软件](https://www.appinn.com/feed/)|[图片助手 ImageAssistant – 批量看图/下图工具：这样看小姐姐图片，太方便了吧](https://www.appinn.com/image-assistant/)|
 |2024-01-12 07:10:16|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[2024 01 12](https://wiki-mkdocs-topaz.vercel.app/%E5%91%A8%E6%9C%9F%E6%80%A7%E7%AC%94%E8%AE%B0/%E6%97%A5%E8%AE%B0/2024-01-12/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2024-01-12 07:02:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Gotcha Rest Client 正式开源，跨平台，高颜值，超好用的 Postman 替代品 !](https://www.v2ex.com/t/1008121#reply8)|
 |2024-01-12 08:20:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[内网穿透求助](https://www.v2ex.com/t/1008149#reply0)|
