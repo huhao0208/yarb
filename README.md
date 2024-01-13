@@ -1,7 +1,13 @@
-﻿# 每日资讯（2024-01-12）
+﻿# 每日资讯（2024-01-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-13 01:10:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 24 寸显示器 1080P 能用吗？懂的老哥说下](https://www.v2ex.com/t/1008267#reply1)|
+|2024-01-13 00:56:00|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有会 Firebase/Supabase+shadcn-ui/AntDesign 搭网站的朋友](https://www.v2ex.com/t/1008266#reply0)|
+|2024-01-13 00:36:26|[V2EX](https://www.v2ex.com/index.xml)|[ Apple apple vision pro 对戴眼镜用户不友好？](https://www.v2ex.com/t/1008265#reply5)|
+|2024-01-13 00:24:28|[V2EX](https://www.v2ex.com/index.xml)|[ Telegram 频道消息提取器，破除电报消息转发保存限制👍](https://www.v2ex.com/t/1008264#reply0)|
+|2024-01-13 00:20:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 VR 好歹还能打游戏， AR 能干啥呢？？](https://www.v2ex.com/t/1008263#reply6)|
+|2024-01-13 11:22:55|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[AI 基础设施之使用 Dragonfly V2 分发集群的镜像](https://www.chenshaowen.com/blog/ai-infrastructure-distribute-image-with-dragonfly-v2.html)|
 |2024-01-12 12:38:33|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 泛型中级教程](https://www.sulinehk.com/post/golang-generics-intermediate-tutorial/)|
 |2024-01-12 16:06:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[12 月社融规模增量 1.94 万亿，M2 同比增 9.7%，新增人民币贷款 1.17 万亿，如何解读？](https://www.zhihu.com/question/639225134)|
 |2024-01-12 16:06:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你摘抄过哪些教育方面经典名人语录？](https://www.zhihu.com/question/593981729)|
