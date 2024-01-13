@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-13 03:20:02|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 13 款最佳开源 ChatGPT 替代品](https://linux.cn/article-16553-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-13 01:22:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[有没有用 Firebase/Supabase+shadcn-ui/AntDesign 搭网站的独立开发者，寻远程合作](https://w2solo.com/topics/4357)|
+|2024-01-13 03:19:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位用 vim 键位的, 是怎么解决 esc 频繁按键的问题的呢?](https://www.v2ex.com/t/1008294#reply14)|
+|2024-01-13 04:00:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有木有别人帮你超自信解决 bug？说再不行打洗](https://www.v2ex.com/t/1008301#reply0)|
+|2024-01-13 01:00:57|[爱范儿](https://www.ifanr.com/feed)|[腾讯多款游戏断开，官方致歉/特斯拉中国多款车型降价/苹果 Vision Pro 头显细节曝光](https://www.ifanr.com/1573276?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-13 02:12:27|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[聚焦台湾大选：民进党力拼继续执政，两岸关系成焦点议题](https://cn.nytimes.com/asia-pacific/20240113/taiwan-election-democratic-progressive-party/?utm_source=RSS)|
+|2024-01-13 04:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Mac銷售趨勢與PC市場變動分析：2024新品即將登場](https://www.iphonetaiwan.org/2024/01/apple-pc-market-insights-2024.html)|
 |2024-01-13 01:10:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 24 寸显示器 1080P 能用吗？懂的老哥说下](https://www.v2ex.com/t/1008267#reply1)|
 |2024-01-13 00:56:00|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有会 Firebase/Supabase+shadcn-ui/AntDesign 搭网站的朋友](https://www.v2ex.com/t/1008266#reply0)|
 |2024-01-13 00:36:26|[V2EX](https://www.v2ex.com/index.xml)|[ Apple apple vision pro 对戴眼镜用户不友好？](https://www.v2ex.com/t/1008265#reply5)|
