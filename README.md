@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-13 14:45:53|[est の 输入输出](http://feeds.feedburner.com/initiative)|[碎碎念一下《年会不能停》，微剧透](https://blog.est.im/2024/stderr-02)|
+|2024-01-13 15:42:17|[机核](https://www.gcores.com/rss)|[无人能命令我，我的智慧已经远远超出了凡人的弱点【小风】《战锤40K故事》](https://www.gcores.com/videos/176214)|
+|2024-01-13 15:01:50|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[桌面应用 在 Linux 上提升游戏体验的 7 个有效建议及工具](https://linux.cn/article-16555-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-13 15:32:08|[白宦成](https://www.ixiqin.com/feed/)|[《人生十二法则2》书摘](https://www.ixiqin.com/2024/01/13/book-excerpt-from-twelve-laws-of-life-2/)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[CES 2024丨国产机器人爆火，连微软CEO纳德拉都来参观](https://36kr.com/p/2601201855167110)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[传奇落幕，智慧永存：查理·芒格的十条人生底层洞见](https://36kr.com/p/2560317414759556)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年轻创业者，难逃被教育](https://36kr.com/p/2602369328102023)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美团为什么难出海？](https://36kr.com/p/2601599035652744)|
+|2024-01-13 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉又降价，真成国产车“平替”了？](https://36kr.com/p/2602367501007490)|
+|2024-01-13 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9点1氪丨多家航司调整规则，机票买贵24小时内符合条件可免费退；A股现天价离婚案；董宇辉新号粉丝突破1000万](https://36kr.com/p/2601842335398787)|
+|2024-01-13 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023最惨基金公司，一年缩水500亿](https://36kr.com/p/2601606674086793)|
+|2024-01-13 18:50:03|[竹林里有冰的博客](https://zhul.in/rss.xml)|[在 JavaScript 中，箭头函数中的 this 指针到底指向哪里？](https://zhul.in/2024/01/14/where-does-this-refer-in-arrow-function-in-js/)|
+|2024-01-13 19:14:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 百度为什么对于内容农场类的垃圾站完全不闻不问？](https://www.v2ex.com/t/1008457#reply0)|
+|2024-01-13 19:07:50|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 在有复杂功能且持续迭代过程中的工程，如何保持架构简洁、代码可读性等？](https://www.v2ex.com/t/1008456#reply1)|
+|2024-01-13 18:26:25|[V2EX](https://www.v2ex.com/index.xml)|[ Telegram Java 中 Selenium 框架如何实现对 telegram 网页版的页面往上滚动到顶部？](https://www.v2ex.com/t/1008455#reply1)|
+|2024-01-13 18:25:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 說出來想哭，剛被釋放，感覺失去了一切，都不知道接下來的路如何走了](https://www.v2ex.com/t/1008454#reply3)|
+|2024-01-13 18:11:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有什么找到远程工作的靠谱渠道？](https://www.v2ex.com/t/1008453#reply2)|
+|2024-01-13 17:36:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问购买二手安卓手机会有病毒的风险吗](https://www.v2ex.com/t/1008452#reply10)|
+|2024-01-13 17:29:31|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 base 北京,无锡 寻找 前端，后端，客户端 同学](https://www.v2ex.com/t/1008451#reply0)|
+|2024-01-13 16:59:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 深夜小节目，一般都喜欢看点什么？](https://www.v2ex.com/t/1008450#reply0)|
+|2024-01-13 16:54:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 刚才才发现 echo 回声关闭了，好可惜啊](https://www.v2ex.com/t/1008449#reply2)|
+|2024-01-13 16:42:11|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 星空相机 – 让普通人也能拍摄出有艺术感的作品](https://www.v2ex.com/t/1008448#reply0)|
+|2024-01-13 16:25:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 遇到个麻烦事，手机号泄露到接码平台了，怎么处理？](https://www.v2ex.com/t/1008447#reply15)|
 |2024-01-13 13:54:04|[依云's Blog](https://blog.lilydjwg.me/posts.rss)|[使用 atuin 管理 shell 命令历史](https://blog.lilydjwg.me/posts/216770.html)|
 |2024-01-13 15:00:00|[机核](https://www.gcores.com/rss)|[狂聊硬件，任天堂的设计为何那么与众不同？ GadioNews01.13](https://www.gcores.com/radios/175926)|
 |2024-01-13 13:13:46|[机核](https://www.gcores.com/rss)|[轻漫画丨救世儿嬉 ：章节24 爱情不是万能的](https://www.gcores.com/articles/176212)|
