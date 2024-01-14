@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-14 02:53:11|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AutoDev 1.5.3：精准测试生成、本地模型强化与流程自动化优化](http://www.phodal.com/blog/autodev-1-5-3-accurate-test-generation/)|
 |2024-01-13 14:45:53|[est の 输入输出](http://feeds.feedburner.com/initiative)|[碎碎念一下《年会不能停》，微剧透](https://blog.est.im/2024/stderr-02)|
 |2024-01-13 15:42:17|[机核](https://www.gcores.com/rss)|[无人能命令我，我的智慧已经远远超出了凡人的弱点【小风】《战锤40K故事》](https://www.gcores.com/videos/176214)|
 |2024-01-13 15:01:50|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[桌面应用 在 Linux 上提升游戏体验的 7 个有效建议及工具](https://linux.cn/article-16555-1.html?utm_source=rss&utm_medium=rss)|
