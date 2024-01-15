@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-15 14:38:23|[机核](https://www.gcores.com/rss)|[译介丨Upiroy（波兰民俗吸血鬼）是有血肉的人](https://www.gcores.com/articles/176285)|
+|2024-01-15 11:20:59|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[白话 Pulsar Bookkeeper 的存储模型](http://crossoverjie.top/2024/01/15/ob/Bookkeeper-storage/)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[贾玲减掉的100斤，每斤至少值200万](https://36kr.com/p/2605631409683333)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节需要新的“大力”](https://36kr.com/p/2603185077149824)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年手机大战：谁吃肉？谁喝汤？](https://36kr.com/p/2605165353253510)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年市场10个猜想](https://36kr.com/p/2605128978824067)|
+|2024-01-15 16:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[阿里腾讯京东没做成的事，让这家公司做成了｜产品观察](https://36kr.com/p/2604520625060487)|
+|2024-01-15 16:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发｜餐饮供应链走向成熟，「鲜沐」完成新一轮融资](https://36kr.com/p/2604577570470784)|
+|2024-01-15 16:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年的上海，至真园的生意都是被谁抢走的？ 商业Friday](https://36kr.com/p/2600891350448777)|
+|2024-01-15 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/2](https://weekly.pychina.org/pyrecap/pyrw-2402.html)|
 |2024-01-15 13:25:50|[机核](https://www.gcores.com/rss)|[够了，我不想庆祝失败！](https://www.gcores.com/articles/176286)|
 |2024-01-15 13:00:00|[机核](https://www.gcores.com/rss)|[游戏阅读 Vol.4丨颠覆传统游戏善恶观的异质设计——《尼尔》系列文本细读](https://www.gcores.com/radios/173188)|
 |2024-01-15 12:11:52|[机核](https://www.gcores.com/rss)|[体验象棋职业生涯：《棋弈无限：中国象棋》现已在Steam发售](https://www.gcores.com/articles/176282)|
