@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-14）
+﻿# 每日资讯（2024-01-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-15 01:20:07|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.1.14](https://www.justzht.com/2024-1-14/)|
 |2024-01-14 15:45:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助，有没有免费或者不需要企业认证的电话语音通知](https://www.v2ex.com/t/1008608#reply6)|
 |2024-01-14 05:56:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐一个搭建在局域网的 web 端知识共享软件](https://www.v2ex.com/t/1008503#reply34)|
 |2024-01-14 13:01:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开源免费可商用的 BI 框架，哪个最好？](https://www.v2ex.com/t/1008584#reply8)|
