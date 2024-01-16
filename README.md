@@ -1,7 +1,17 @@
-﻿# 每日资讯（2024-01-15）
+﻿# 每日资讯（2024-01-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-16 00:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[赖清德当选台湾总统将如何影响中美关系](https://cn.wsj.com/articles/%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB-4e9f4178)|
+|2024-01-16 01:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[波音恢复向中国交付MAX飞机面临更长等待](https://cn.wsj.com/articles/%E6%B3%A2%E9%9F%B3%E6%81%A2%E5%A4%8D%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%A4%E4%BB%98max%E9%A3%9E%E6%9C%BA%E9%9D%A2%E4%B8%B4%E6%9B%B4%E9%95%BF%E7%AD%89%E5%BE%85-0cd25f13)|
+|2024-01-16 01:17:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有好用的新的使用了规则集的 sing-box 最新配置模板， 网上找了几个都不好用](https://www.v2ex.com/t/1008945#reply0)|
+|2024-01-16 01:15:36|[V2EX](https://www.v2ex.com/index.xml)|[ 杭州 想买几条烟带给几个玩的好的大学同学](https://www.v2ex.com/t/1008944#reply0)|
+|2024-01-16 01:13:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们的春节安排是怎么样的？](https://www.v2ex.com/t/1008943#reply1)|
+|2024-01-16 00:52:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 真有人花钱买 ssl 证书？](https://www.v2ex.com/t/1008942#reply18)|
+|2024-01-16 00:47:00|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求指导： ios 有什么好的跨应用文件镜像同步方案](https://www.v2ex.com/t/1008940#reply2)|
+|2024-01-16 00:45:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 推荐个好用的羽毛球，带链接](https://www.v2ex.com/t/1008939#reply3)|
+|2024-01-16 00:28:13|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 想买 WPS 超级会员，怎么买便宜？](https://www.v2ex.com/t/1008938#reply11)|
+|2024-01-16 00:04:42|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 自从买了车，各种问题导致心情异常烦恼--后续](https://www.v2ex.com/t/1008934#reply17)|
 |2024-01-15 14:38:23|[机核](https://www.gcores.com/rss)|[译介丨Upiroy（波兰民俗吸血鬼）是有血肉的人](https://www.gcores.com/articles/176285)|
 |2024-01-15 11:20:59|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[白话 Pulsar Bookkeeper 的存储模型](http://crossoverjie.top/2024/01/15/ob/Bookkeeper-storage/)|
 |2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[贾玲减掉的100斤，每斤至少值200万](https://36kr.com/p/2605631409683333)|
