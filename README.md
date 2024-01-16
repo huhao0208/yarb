@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-16 08:49:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1248 AI 女友涌入 OpenAI 的 GPT 商店](https://linux.cn/article-16562-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-16 07:33:21|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 连可怜的记事本都没躲过微软的 AI 魔爪](https://linux.cn/article-16561-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-16 08:06:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深圳欢乐谷正式开园，“碰撞事故”过山车等12个项目未开放](https://dig.chouti.com/link/41246279)|
+|2024-01-16 10:23:34|[Conge](https://conge.github.io/feed.xml)|[折返点 2402 - 清华跑者](https://conge.livingwithfcs.org/2024/01/16/ReturnPoint-tsinghua_runners/)|
+|2024-01-16 19:12:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[抖音视频不压缩的最大规格是多少？](https://www.v2ex.com/t/1009213#reply2)|
+|2024-01-16 03:31:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[看看西部数码的嘴脸，一生黑](https://www.v2ex.com/t/1009015#reply32)|
+|2024-01-16 16:11:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[被稀土掘金这内容农场网站气死](https://www.v2ex.com/t/1009200#reply7)|
+|2024-01-16 04:03:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐 8gen3 手机](https://www.v2ex.com/t/1009032#reply73)|
+|2024-01-16 15:53:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨老人多了，养老投资少了；美联储去年 “亏” 1143 亿美元](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511675&idx=2&sn=18ea768e2be6ebd5dcfbe20a26f16d15)|
+|2024-01-16 15:53:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[从拉链扣到汽车，一体压铸如何改变制造世界的方式丨TECH TUESDAY](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511675&idx=1&sn=f473b7902de61f187fe5f616e3b3605e)|
+|2024-01-16 14:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果Vision Pro的「開放天空」功能消失了！失望？](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-2024-function-update.html)|
 |2024-01-16 14:02:02|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《绝境求生》：流落沙漠求生，资源有限狒狒包围，只有一个女人！](https://www.ximalaya.com/sound/700259537)|
 |2024-01-16 08:36:32|[小众软件](https://www.appinn.com/feed/)|[DDColor – 黑白图像上色，为老照片添加生动、自然的色彩](https://www.appinn.com/ddcolor-model/)|
 |2024-01-16 04:59:25|[小众软件](https://www.appinn.com/feed/)|[Podcast Generator – 开源的播客发布与管理系统，居然用来听有声书](https://www.appinn.com/podcast-generator/)|
