@@ -2,6 +2,67 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-17 00:00:01|[Josherich’s Blog](https://www.josherich.me/feed.xml)|[First Christianity in Korea](https://josherich.me/short/korean-christian)|
+|2024-01-17 07:24:02|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[Ant Engine 开源](https://blog.codingnow.com/2024/01/ant_engine_open_source.html)|
+|2024-01-17 10:22:20|[Dawner](https://dawner.top/atom.xml)|[Jimei·Arles Photography Exhibition 2023](https://dawner.top/posts/jimeiarles-photography-exhibition-2023/)|
+|2024-01-17 11:22:30|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 Parch Linux：一个简洁易用的基于 Arch 的发行版](https://linux.cn/article-16565-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-17 07:12:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1249 LG 洗衣机每天上传近 4GB 的数据？](https://linux.cn/article-16564-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-17 16:21:24|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 开源项目管理系统 Leantime 发布 3.0](https://www.v2ex.com/t/1009514#reply0)|
+|2024-01-17 16:18:13|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 2024 了，来说说去年最后悔的一件事吧](https://www.v2ex.com/t/1009513#reply0)|
+|2024-01-17 16:17:28|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 承接 UI 设计 and 响应前端----2024](https://www.v2ex.com/t/1009512#reply0)|
+|2024-01-17 16:10:37|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 大 A 又又又暴跌了，肿么办](https://www.v2ex.com/t/1009511#reply0)|
+|2024-01-17 15:46:29|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 比尔盖茨对话 OpenAI CEO - 我没想到 ChatGPT 会变得这么好](https://www.v2ex.com/t/1009509#reply0)|
+|2024-01-17 15:40:03|[V2EX](https://www.v2ex.com/index.xml)|[ Apple tvOS 的小火箭是不是还不支持 HY2 节点同步](https://www.v2ex.com/t/1009508#reply0)|
+|2024-01-17 15:22:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 做个类似 upwork 这种的人力招聘站, 前端, 价格大概多少？](https://www.v2ex.com/t/1009507#reply0)|
+|2024-01-17 15:09:30|[V2EX](https://www.v2ex.com/index.xml)|[ Google 作为曾经 email 容量的屠龙少年，现在好像变成了恶龙](https://www.v2ex.com/t/1009506#reply10)|
+|2024-01-17 15:08:35|[V2EX](https://www.v2ex.com/index.xml)|[ Android 百度网盘订会员也不能去除开屏广告，可以破吗？](https://www.v2ex.com/t/1009505#reply0)|
+|2024-01-17 15:01:23|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 上线了一个关于 AI 颜值打分的小玩具，欢迎大家体验](https://www.v2ex.com/t/1009504#reply0)|
+|2024-01-17 14:51:17|[V2EX](https://www.v2ex.com/index.xml)|[ Android 有几个修改版的 APP 出现在 play store 更新列表里,有没有办法隐藏?](https://www.v2ex.com/t/1009501#reply1)|
+|2024-01-17 14:42:30|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple One 美区超大杯发车两年，继续找车友](https://www.v2ex.com/t/1009499#reply1)|
+|2024-01-17 14:40:35|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 办理了一张兴业银行卡，竟然不给我开通网上转账功能](https://www.v2ex.com/t/1009498#reply4)|
+|2024-01-17 14:31:29|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 各位 V 友，谁有类似 新酷卡或者酷网通这类的代码](https://www.v2ex.com/t/1009496#reply0)|
+|2024-01-17 14:19:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求推荐个 头戴式蓝牙耳机？](https://www.v2ex.com/t/1009494#reply0)|
+|2024-01-17 14:03:51|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 自带的输入法咋实现拼音分词？](https://www.v2ex.com/t/1009493#reply0)|
+|2024-01-17 14:03:07|[V2EX](https://www.v2ex.com/index.xml)|[ Android 安卓上有没有这样的 app，语音识别手机播放的音频视频为文字，是内录的 因为带耳机 ，最好能翻看历史记录，像油管的 transcript。](https://www.v2ex.com/t/1009492#reply3)|
+|2024-01-17 13:58:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想要做个可以交互的 web Linux 命令终端，求教除了 websocket 可以用什么技术？](https://www.v2ex.com/t/1009491#reply3)|
+|2024-01-17 13:54:02|[V2EX](https://www.v2ex.com/index.xml)|[ GitHub 如何在手机把 github 某个目录下的网址作为 shortcut 储存到手机上？](https://www.v2ex.com/t/1009489#reply0)|
+|2024-01-17 13:53:51|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海浦东招聘 招做过后期开发 Java or Python 愿意转做产品经理的 1-3 年经验 digital 经理](https://www.v2ex.com/t/1009488#reply0)|
+|2024-01-17 13:48:36|[V2EX](https://www.v2ex.com/index.xml)|[ Android 请问下除了在 play store 上留评外，还有其他办法联系 app 开发者么？](https://www.v2ex.com/t/1009487#reply2)|
+|2024-01-17 13:36:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 windows 下是否可以知道某些应用程序在后台截图或录屏?](https://www.v2ex.com/t/1009486#reply1)|
+|2024-01-17 13:29:47|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 坐标 加拿大 多伦多 求一个内推的岗位](https://www.v2ex.com/t/1009485#reply1)|
+|2024-01-17 13:19:58|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 我做了一个有点不一样的电子木鱼](https://www.v2ex.com/t/1009484#reply4)|
+|2024-01-17 13:19:20|[V2EX](https://www.v2ex.com/index.xml)|[ 上海 上海大宁整租出租](https://www.v2ex.com/t/1009483#reply1)|
+|2024-01-17 13:14:03|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 工作这么多年，对接过最令人作呕的公司是阿里](https://www.v2ex.com/t/1009482#reply11)|
+|2024-01-17 12:47:38|[V2EX](https://www.v2ex.com/index.xml)|[ AirPods airpods pro 一代 50%音量以下听不到](https://www.v2ex.com/t/1009479#reply3)|
+|2024-01-17 12:32:09|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 我开发了一个 vscode 插件，有效地解决了我在国际化软件开发过程中的痛点。](https://www.v2ex.com/t/1009478#reply0)|
+|2024-01-17 12:27:05|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 去告了单位劳动法违规仲裁后，会被别的公司制裁吗不请你工作怎么办，他们之间有联网吗](https://www.v2ex.com/t/1009477#reply2)|
+|2024-01-17 12:25:47|[V2EX](https://www.v2ex.com/index.xml)|[ ThinkPad 2024 年 ThinkPad 小红点漂移的问题解决了吗？](https://www.v2ex.com/t/1009476#reply1)|
+|2024-01-17 12:22:47|[V2EX](https://www.v2ex.com/index.xml)|[ 创业组队 出海创业项目寻找前端&后端人才](https://www.v2ex.com/t/1009475#reply0)|
+|2024-01-17 12:21:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 chatGPT 登录的时候，总是跳转回首页？](https://www.v2ex.com/t/1009474#reply3)|
+|2024-01-17 12:13:00|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 给大家推荐一个和 GPT4 水平接近 甚至超越 的大模型 Mistral-Medium，现阶段可免费使用](https://www.v2ex.com/t/1009473#reply0)|
+|2024-01-17 12:11:17|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 老板总考虑使用 GPT 取代程序员，我们该怎么自保？](https://www.v2ex.com/t/1009472#reply13)|
+|2024-01-17 12:02:04|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 远程/20~35K/急聘 区块链工程师 Leader & Devops 工程师](https://www.v2ex.com/t/1009470#reply2)|
+|2024-01-17 11:56:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有在使用 Astro 的朋友吗？](https://www.v2ex.com/t/1009469#reply3)|
+|2024-01-17 11:49:46|[V2EX](https://www.v2ex.com/index.xml)|[ Twitter 这是什么 twitter 骗局？](https://www.v2ex.com/t/1009468#reply1)|
+|2024-01-17 11:48:15|[V2EX](https://www.v2ex.com/index.xml)|[ App Store iPhone 手机推荐 APP 求教](https://www.v2ex.com/t/1009467#reply0)|
+|2024-01-17 11:47:24|[V2EX](https://www.v2ex.com/index.xml)|[ 上海 上海宽带求推荐](https://www.v2ex.com/t/1009466#reply0)|
+|2024-01-17 11:35:19|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求问 在内存限制下如何对数组排序](https://www.v2ex.com/t/1009465#reply12)|
+|2024-01-17 11:17:31|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问个人网站的投稿页面可以怎么弄？](https://www.v2ex.com/t/1009462#reply1)|
+|2024-01-17 11:15:24|[V2EX](https://www.v2ex.com/index.xml)|[ MySQL 解密 MySQL： MySQL 是如何确保数据完整性和一致性的？](https://www.v2ex.com/t/1009461#reply5)|
+|2024-01-17 11:13:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 单位实行 12 小时工作制每周上 6 天，每月 26 天按劳动法规定要给加班费吗不给的话去哪投诉](https://www.v2ex.com/t/1009460#reply12)|
+|2024-01-17 11:12:33|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 买了一个微波炉回家， 2024 年新年快乐](https://www.v2ex.com/t/1009459#reply7)|
+|2024-01-17 11:12:10|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 问一下 r5 3900x 的 最低频率是不是 2200mhz](https://www.v2ex.com/t/1009458#reply3)|
+|2024-01-17 11:04:40|[V2EX](https://www.v2ex.com/index.xml)|[ iOS iPhone13 非 pro 更新 iOS17 卡么？](https://www.v2ex.com/t/1009457#reply8)|
+|2024-01-17 10:53:34|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 看了别人做微信红包封面，我也做了几个，龙年红包](https://www.v2ex.com/t/1009456#reply5)|
+|2024-01-17 10:51:49|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 今年什么时候发红包封面呢](https://www.v2ex.com/t/1009455#reply1)|
+|2024-01-17 10:49:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 说说过年都准备了多少预算？不算不知道，一算这哪是过年啊，这不纯纯是要我命么？](https://www.v2ex.com/t/1009454#reply4)|
+|2024-01-17 10:49:26|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 宽带被封，好消息！抖音买了黑心云设备的，参与下这个，亲测 199 无门槛券](https://www.v2ex.com/t/1009453#reply11)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[潜望长焦镜头真的是高端手机的发展趋势吗？](https://www.zhihu.com/question/630932088)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[去年全球智能手机出货量同比下降 3.2%，苹果出货量首次超越三星成为全球第一，哪些信息值得关注？](https://www.zhihu.com/question/639838086)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 17 日晚油价迎新年首跌，加满一箱 92 号汽油将少花 2 元，如何看待此轮油价调整？](https://www.zhihu.com/question/639759779)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么「看起来超有仪式感，实则做法很简单」的团圆年菜？](https://www.zhihu.com/question/638174901)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[热播剧《繁花》男主感染的甲肝，曾于上海爆发 30 万病例感染，甲肝是一种怎样的传染病？](https://www.zhihu.com/question/639802072)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国台办回应大陆是否会全面终止 ECFA，称正研究进一步采取「中止部分产品关税减让」等措施，意味着什么？](https://www.zhihu.com/question/639906586)|
 |2024-01-17 12:31:26|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[該升級 iCloud+ 6TB 、12TB 嗎？ iCloud+ 方案/費用有哪些？](https://applefans.today/2024-01-how-to-use-icloud/)|
 |2024-01-17 11:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我们活在不一样的中国】也许你常设想润出去的可能，计算成本、规划未来，但可能很少注意到，中国也是一些外国人的移居目的地。和我们一样，他们也要计算成本、规划未来。美国人沈恺伟2005年至今一直在中国生活，他这篇文章会从所有人都要经历的四大人生关头“生、老、病、死”讲起，呈现在华外籍人士的真实生活。](https://dig.chouti.com/link/41260182)|
 |2024-01-17 10:01:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马德兴：中国足球的外交溃败 不只是内部腐烂了](https://dig.chouti.com/link/41259058)|
