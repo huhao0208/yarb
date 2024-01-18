@@ -2,6 +2,102 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 01:41:49|[华山感染](https://feedpress.me/wx-hsinfect)|[《繁花》男主患的这种病，1988年的上海有30万人中招](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500974&idx=1&sn=996113635c29869874ffc659c9ca3566)|
+|2024-01-18 04:21:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家有没有购买日本🇯🇵或泰国🇹🇭调味料经验？感觉相比国内靠谱一点。](https://www.v2ex.com/t/1009641#reply0)|
+|2024-01-18 04:16:17|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 不要瞎玩](https://www.v2ex.com/t/1009639#reply0)|
+|2024-01-18 04:00:49|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI Chat GPT PLUS 合租拼车 免费试用](https://www.v2ex.com/t/1009636#reply1)|
+|2024-01-18 04:00:24|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 深圳一号线 坪洲地铁口，两房一厅转租](https://www.v2ex.com/t/1009635#reply0)|
+|2024-01-18 03:50:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于 A 股下跌我的一种看法](https://www.v2ex.com/t/1009633#reply8)|
+|2024-01-18 03:50:29|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么回事，我怎么一注册账号就被封禁啊](https://www.v2ex.com/t/1009632#reply0)|
+|2024-01-18 03:49:38|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro Mac 中文输入法输入英文单词的奇怪 Bug，卡住或者吞字母](https://www.v2ex.com/t/1009631#reply1)|
+|2024-01-18 03:47:48|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 关于正确打包 deb 包求教](https://www.v2ex.com/t/1009630#reply0)|
+|2024-01-18 03:47:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 吐槽一下某同事，居然把 Ubuntu 读成 uboot](https://www.v2ex.com/t/1009629#reply10)|
+|2024-01-18 03:37:57|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 做一个选择题](https://www.v2ex.com/t/1009627#reply2)|
+|2024-01-18 03:36:33|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 大佬们帮推荐个 vps](https://www.v2ex.com/t/1009626#reply0)|
+|2024-01-18 03:27:52|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 该不该去仲裁了？急需 V 友们给点建议](https://www.v2ex.com/t/1009625#reply9)|
+|2024-01-18 03:27:04|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 发现一个基于 terminal 历史命令生成年度贡献图的工具](https://www.v2ex.com/t/1009624#reply2)|
+|2024-01-18 03:26:28|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 #深圳# #海外 AIGC#招图像算法、语音算法、NLP、 Java 开发等岗位，流程贼快](https://www.v2ex.com/t/1009623#reply0)|
+|2024-01-18 03:25:46|[V2EX](https://www.v2ex.com/index.xml)|[ iOS swiftrx 的代码把我看哭了](https://www.v2ex.com/t/1009622#reply1)|
+|2024-01-18 03:25:30|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 World of Warcraft 经典音乐，但是 Lofi](https://www.v2ex.com/t/1009621#reply0)|
+|2024-01-18 03:22:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 GDP 和 A 股指数有联系吗](https://www.v2ex.com/t/1009619#reply8)|
+|2024-01-18 03:20:43|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 恒生指数也没能收复 1997 高点](https://www.v2ex.com/t/1009618#reply3)|
+|2024-01-18 03:17:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 默默问下,gpt4 可以哪里可以买到号啊或者说可以拼么？](https://www.v2ex.com/t/1009617#reply0)|
+|2024-01-18 03:15:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 24 年，想看看大家的订阅付费，软件或服务都可以](https://www.v2ex.com/t/1009615#reply20)|
+|2024-01-18 03:15:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 A 股要到哪里去？](https://www.v2ex.com/t/1009614#reply0)|
+|2024-01-18 03:09:20|[V2EX](https://www.v2ex.com/index.xml)|[ 科技 请问如何给路由设置代理?](https://www.v2ex.com/t/1009613#reply6)|
+|2024-01-18 03:07:59|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招聘远程！远程！远程！前端](https://www.v2ex.com/t/1009612#reply0)|
+|2024-01-18 03:05:34|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享开源 Gemini Pro Chat，支持文字和图片识别](https://www.v2ex.com/t/1009611#reply0)|
+|2024-01-18 03:02:27|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 运营商新操作:强制光猫 RMS 纳管](https://www.v2ex.com/t/1009610#reply4)|
+|2024-01-18 03:00:07|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 梦回 2015](https://www.v2ex.com/t/1009609#reply5)|
+|2024-01-18 02:59:17|[V2EX](https://www.v2ex.com/index.xml)|[ PHP 求指点 PHP 内存泄露排查](https://www.v2ex.com/t/1009607#reply2)|
+|2024-01-18 02:59:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请教 url encode 问题](https://www.v2ex.com/t/1009606#reply5)|
+|2024-01-18 02:55:30|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 日本原装的虎牌电饭锅是不是智商税？](https://www.v2ex.com/t/1009604#reply26)|
+|2024-01-18 02:51:10|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 家庭共享中多个地区的 Apple ID 咋不能共享已购买 app？](https://www.v2ex.com/t/1009601#reply2)|
+|2024-01-18 02:47:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 沪指跌破 2800 点刷新 2020 年 4 月以来新低，你割菜还是加仓了？](https://www.v2ex.com/t/1009600#reply5)|
+|2024-01-18 02:45:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何在 iPhone 中彻底隐藏 APP？](https://www.v2ex.com/t/1009599#reply1)|
+|2024-01-18 02:45:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 大 A 终于降到 2800 点以下了，我可以安心割肉了](https://www.v2ex.com/t/1009598#reply5)|
+|2024-01-18 02:45:12|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 说下本地移动在网络上的变化](https://www.v2ex.com/t/1009597#reply3)|
+|2024-01-18 02:44:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 老大的作用是不是就是盯着手下有没有在干活？](https://www.v2ex.com/t/1009596#reply16)|
+|2024-01-18 02:44:28|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 Notion 发布了 Calendar（日历）应用，可以整合 Notion database 使用](https://www.v2ex.com/t/1009595#reply11)|
+|2024-01-18 02:44:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问机场有地方可以停放电瓶车吗？](https://www.v2ex.com/t/1009594#reply1)|
+|2024-01-18 02:40:45|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 兄弟们，这段代码有没有人能给我翻译下？写了个啥？](https://www.v2ex.com/t/1009592#reply14)|
+|2024-01-18 02:40:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想搭建自己的博客，求大佬们推荐方案](https://www.v2ex.com/t/1009591#reply21)|
+|2024-01-18 02:39:58|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 家里有些老照片想修复放大一下，找不到优化方案啊？](https://www.v2ex.com/t/1009590#reply0)|
+|2024-01-18 02:39:05|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求推荐 IDEA 的 builder 构造插件/工具](https://www.v2ex.com/t/1009589#reply5)|
+|2024-01-18 02:34:10|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes 容器连通性 容器到某个网络是否畅通 检查方案](https://www.v2ex.com/t/1009587#reply9)|
+|2024-01-18 02:33:27|[V2EX](https://www.v2ex.com/index.xml)|[ Visual Studio Code 关于 proto3 跳转的问题](https://www.v2ex.com/t/1009586#reply0)|
+|2024-01-18 02:33:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 J4125 刷 iKuai， iPhone6s 频繁掉线](https://www.v2ex.com/t/1009585#reply0)|
+|2024-01-18 02:31:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何对一个有数据的盘和一块新盘做成 raid1](https://www.v2ex.com/t/1009584#reply0)|
+|2024-01-18 02:27:26|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 春节不回家，在深圳有什么好玩的推荐？](https://www.v2ex.com/t/1009582#reply6)|
+|2024-01-18 02:22:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何绑定美区 appstore 的支付](https://www.v2ex.com/t/1009579#reply2)|
+|2024-01-18 02:22:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 在 typora 的 yaml 块下输入中文，会将拼音强制截断到 yaml 块内？](https://www.v2ex.com/t/1009578#reply0)|
+|2024-01-18 02:21:50|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 我做了一款 AI 女友聊天游戏，欢迎大家体验](https://www.v2ex.com/t/1009577#reply0)|
+|2024-01-18 02:20:04|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 求推荐一款立式的 iPhone 15 Plus 适用的 Qi 无线充电器。](https://www.v2ex.com/t/1009575#reply7)|
+|2024-01-18 04:01:59|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大连人职业足球俱乐部宣布解散「因历史债务无法化解，俱乐部无法正常运营」，哪些信息值得关注？](https://www.zhihu.com/question/639958449)|
+|2024-01-18 04:01:59|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 Ubisoft 高层的表示：玩家应习惯不再「拥有」电子游戏的时代?](https://www.zhihu.com/question/639885865)|
+|2024-01-18 04:01:59|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[LCK 十支队伍联名发布「实现可持续 LCK 的共同声明」就联赛现状炮轰联赛，这将造成哪些影响？](https://www.zhihu.com/question/639920932)|
+|2024-01-18 04:01:59|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上海话里爷叔是什么意思？](https://www.zhihu.com/question/638909250)|
+|2024-01-18 04:01:59|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待科研圈内学术讲座 / 会议的主持人在主讲人讲完后只给 1-2 个提问机会，甚至不给提问机会的现象？](https://www.zhihu.com/question/639481422)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《原神》4.4 海灯节即将到来，舞狮少年嘉明的出场能否达到 2.4 云堇出场的盛况?](https://www.zhihu.com/question/639760512)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[使用 M 档拍照，将 ISO 设置为自动是不是一个好主意？](https://www.zhihu.com/question/639055060)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国足 vs 黎巴嫩评分：武磊 6.2 分连续两场全场最低，张琳芃全队最高，如果是你会如何打分？](https://www.zhihu.com/question/639977680)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价陈哲远、鞠婧祎主演的《仙剑四》？](https://www.zhihu.com/question/639922593)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[手机的拍照效果是像素越高越好吗？](https://www.zhihu.com/question/630966250)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024LCK 春季赛首日焦点战 GEN 让一追二赢下 T1，如何评价这场比赛？](https://www.zhihu.com/question/639950921)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[手机上有什么实用的 App 推荐？](https://www.zhihu.com/question/637066138)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[考上 985 需要天赋吗？](https://www.zhihu.com/question/264197730)|
+|2024-01-18 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[围棋现在真的变得像柯洁所说的那样很无聊？就像两个人在对答案吗？](https://www.zhihu.com/question/639562315)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想让脸上的皮肤跟手一样白，有哪些温和美白的护肤品？](https://www.zhihu.com/question/639595117)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[描写「佳人」的古诗词有哪些？](https://www.zhihu.com/question/639909581)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何理解心理学教授王小华分享的「职场人设跟真实自我的关系与平衡」问题？](https://www.zhihu.com/question/639632403)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[对于「吸烟跑马大爷」被禁赛，作为跑步爱好者你有什么感想？](https://www.zhihu.com/question/639348613)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何选择耳机，是选择头戴式耳机还是耳塞式耳机？](https://www.zhihu.com/question/636445567)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在一天的忙碌工作后，你会选择立刻开始打扫卫生收拾家务还是直接休息一段时间后再开始？](https://www.zhihu.com/question/639935195)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你是如何整理自己的手机相册，如何给你的照片分类的？](https://www.zhihu.com/question/636530549)|
+|2024-01-18 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些 200 以内适合干敏皮在冬季使用的国货舒缓修护精华？](https://www.zhihu.com/question/634479896)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[抢票「林俊杰」付款变「林子祥」，消费者质疑平台「跳票」，平台否认系统问题并同意退票，哪些信息值得关注？](https://www.zhihu.com/question/640036300)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[4399 元起的荣耀 Magic6 系列值得买吗，和其他同档位机型相比有什么不同？](https://www.zhihu.com/question/640041244)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[旅途中你偶遇过哪些有趣的地名？](https://www.zhihu.com/question/638919057)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 18 日是腊八节，这个节日是怎么来的？为什么喝腊八粥的习俗能够流传至今？](https://www.zhihu.com/question/639053175)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[辛弃疾领 50 骑闯 5 万金兵大营，是真实发生的事件么？](https://www.zhihu.com/question/639689202)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[坐火车时，你有哪些「堪称狼狈」的经历？](https://www.zhihu.com/question/638919202)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[荣耀 Magic6 系列的实际体验怎么样，首发值得冲一台吗？](https://www.zhihu.com/question/640041164)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[文笔挑战：「愿赊红尘一壶酒」————你会怎么样接出下半句?](https://www.zhihu.com/question/639932344)|
+|2024-01-18 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何理解心理学教授王小华所说的「想实现『躺卷平衡』的良好心态，大家需要更关注自我动机」？](https://www.zhihu.com/question/639632396)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价海贼王漫画 1104 话？](https://www.zhihu.com/question/639728882)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[重量级拳击手遇到身高体重比他大很多的壮汉是不是就打不过了?](https://www.zhihu.com/question/639561662)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[开「新」过年，有哪些家居家电入选了你新一年的「必购清单」？](https://www.zhihu.com/question/639801276)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俄方称将在所有领域与朝鲜发展关系，包括「敏感领域」，如何解读？对于当今世界格局将有何影响？](https://www.zhihu.com/question/640045203)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《繁花》如果不在上海拍摄，还有哪些城市的气质和这个剧特别搭？](https://www.zhihu.com/question/639094994)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 17 日天舟七号货运飞船发射任务取得圆满成功，此次发射将完成哪些任务？](https://www.zhihu.com/question/639935069)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[华中农大涉嫌学术不端教授多项专利被驳回，如何看待此事？将带来哪些影响？](https://www.zhihu.com/question/639971762)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[马上腊八节了，有没有好的腊八文案推荐一下的？](https://www.zhihu.com/question/510100569)|
+|2024-01-18 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[参加国家公务员面试不穿正装会被扣分吗？](https://www.zhihu.com/question/638521192)|
+|2024-01-18 02:02:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【隐藏在西安城中村的白领】徐家庄是西安知名的“白领村”，距地铁三号线仅100米，紧邻高等院校和高新区，周边办公楼林立。低廉的租金，十几块钱就能吃饱的沿街餐馆，吸引了许多上班族入住其中。有人把这里当成“躺平圣地”，有人把它当作在这个城市里的生存起点。](https://dig.chouti.com/link/41265612)|
+|2024-01-18 02:11:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一点点来自东北的搓澡震撼](https://dig.chouti.com/link/41265858)|
+|2024-01-18 02:32:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌AlphaGeometry答对30道高中国际奥赛数学题中25道，接近高中数学奥赛金牌水平](https://dig.chouti.com/link/41265986)|
+|2024-01-18 02:10:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1月17日晚，海南文昌，沙滩边围观火箭发射的场景，氛围感拉满](https://dig.chouti.com/link/41265815)|
+|2024-01-18 03:31:25|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[HIT-SCIR发布首个中文扩词表增量预训练混合专家模型Chinese-Mixtral-8x7B](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812270&idx=1&sn=2b01fb890672094353e5c4785ba685ad)|
 |2024-01-18 00:32:07|[爱范儿](https://www.ifanr.com/feed)|[早报｜QQ 音乐回应电视端将单独付费 / 三星首款 AI 手机实测 / 苹果推出空间影音格式](https://www.ifanr.com/1573666?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-17 10:18:37|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[都说了外面买不到，怎么还有人不信邪啊。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448584&idx=1&sn=f4c297cdcb97d7a4230608022118ccc4)|
 |2024-01-17 15:00:00|[机核](https://www.gcores.com/rss)|[异世界可真多，最近又是一大波 天天ACG 1.17](https://www.gcores.com/radios/176230)|
