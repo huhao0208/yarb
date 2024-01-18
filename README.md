@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 13:48:26|[机核](https://www.gcores.com/rss)|[OMEN暗影精灵10 SLIM 14等新品发布，惠普10代游戏家族新品发布会今日举行](https://www.gcores.com/articles/176443)|
+|2024-01-18 11:17:15|[机核](https://www.gcores.com/rss)|[背包管理自走棋游戏《背包乱斗》将于3月8日发售抢先体验版](https://www.gcores.com/articles/176440)|
+|2024-01-18 11:09:47|[机核](https://www.gcores.com/rss)|[原告撤诉：网易诉暴雪案今日开庭取消](https://www.gcores.com/articles/176441)|
+|2024-01-18 11:00:00|[机核](https://www.gcores.com/rss)|[经典重制RPG《赵云传：云汉腾龙》正式发售Steam，首周68.4元](https://www.gcores.com/articles/176400)|
+|2024-01-18 10:25:13|[机核](https://www.gcores.com/rss)|[用三款酒，踏遍威士忌世界](https://www.gcores.com/articles/176422)|
+|2024-01-18 10:18:34|[机核](https://www.gcores.com/rss)|[《圣兽之王》公布新角色、丰富兵种及培养方法等新情报](https://www.gcores.com/articles/176436)|
+|2024-01-18 10:16:51|[机核](https://www.gcores.com/rss)|[不思凡新作《大雨》解读](https://www.gcores.com/videos/176438)|
+|2024-01-18 09:33:12|[机核](https://www.gcores.com/rss)|[《物语》系列再启动：“Off Season·Monster Season”宣布动画化](https://www.gcores.com/articles/176435)|
+|2024-01-18 09:00:00|[机核](https://www.gcores.com/rss)|[Win掌机到底是给谁玩的？录音笔 VOL.124](https://www.gcores.com/radios/176425)|
+|2024-01-18 08:46:56|[机核](https://www.gcores.com/rss)|[运牛，我亲爱的德式桌游大爹](https://www.gcores.com/articles/176329)|
+|2024-01-18 08:40:52|[机核](https://www.gcores.com/rss)|[2023年国产游戏年度混剪](https://www.gcores.com/videos/176432)|
+|2024-01-18 09:30:49|[爱范儿](https://www.ifanr.com/feed)|[中国智造的繁花，正在盛开](https://www.ifanr.com/1573598?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-18 06:12:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[人走茶涼的收工宴](http://mercurychong.blogspot.com/2024/01/blog-post_17.html)|
 |2024-01-18 08:17:52|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这货是山姆的好还是奥乐齐的好？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448626&idx=1&sn=183dea6be857da7ec2ac275f0398a2e3)|
 |2024-01-18 12:03:10|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《当怪物来敲门》：成年人的黑暗童话，千年树精吞噬小男孩，一部奇幻的治愈之旅！](https://www.ximalaya.com/sound/700640964)|
 |2024-01-18 14:01:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从一夜暴富到破产：与台湾“断交”的瑙鲁是个什么样的国家](https://dig.chouti.com/link/41273310)|
