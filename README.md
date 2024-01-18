@@ -2,6 +2,46 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 08:17:52|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这货是山姆的好还是奥乐齐的好？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448626&idx=1&sn=183dea6be857da7ec2ac275f0398a2e3)|
+|2024-01-18 12:03:10|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《当怪物来敲门》：成年人的黑暗童话，千年树精吞噬小男孩，一部奇幻的治愈之旅！](https://www.ximalaya.com/sound/700640964)|
+|2024-01-18 14:01:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从一夜暴富到破产：与台湾“断交”的瑙鲁是个什么样的国家](https://dig.chouti.com/link/41273310)|
+|2024-01-18 14:02:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国社交平台Reddit制定3月底IPO计划，或出售近10%股权](https://dig.chouti.com/link/41273447)|
+|2024-01-18 14:08:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[请用“我，兔子，桥，钥匙”写一句话。//我桥，这兔子钥匙了！//我钥匙兔子我就桥不起你。](https://dig.chouti.com/link/41273598)|
+|2024-01-18 13:10:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国议员姜成熙与韩国总统尹锡悦握手后，被疑似总统保镖的人捂嘴，粗暴拖走……事后姜成熙回应称：与尹锡悦握手时，我说，我们需要改变政府政策。否则，人民会感到不高兴。随后，他被一些不明身份的人拖出了活动会场，可能是总统的保镖。](https://dig.chouti.com/link/41272998)|
+|2024-01-18 13:52:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【华中农大教授回应被举报学术不端：举报全部不实，一个学生带头，有个学生带头，威胁其他人一起举报】1月18日，当事教授黄某若回复记者称，学生举报不实。三天来，他每日只睡一两小时，认真看了学生写的125页举报材料，写好了回复材料，准备交给学校。“材料上，我一一列举了证据。为学生考虑，我没有在网上发出来。”](https://dig.chouti.com/link/41273226)|
+|2024-01-18 12:01:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以军发现哈马斯火箭弹发射器：埋在土中 精心伪装 一次能打10发弹](https://dig.chouti.com/link/41272171)|
+|2024-01-18 09:08:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[迷惑操作！世界经济论坛竟请来萨满巫师，台下座无虚席看着女巫在台上作法 //A股是不是就缺这么一个做法的](https://dig.chouti.com/link/41270628)|
+|2024-01-18 06:28:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【假“公检法”，围猎“00后”中国留学生】针对海外留学生的电诈活动有“专属剧本”。诈骗分子首先会冒充公检法机关、使馆、海关、国际快递公司等工作人员与留学生联系，随后以涉嫌洗钱、偷渡、走私等犯罪行为要对其进行调查，以海外人士最为关心的学业、签证等为由进行威胁恐吓，最后要求其汇款转账。](https://dig.chouti.com/link/41268636)|
+|2024-01-18 11:01:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[微信内测“听一听”功能：升级微信音乐音频业务 单设一级入口](https://dig.chouti.com/link/41271553)|
+|2024-01-18 08:09:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1979 年，在埃及的列侬和洋子](https://dig.chouti.com/link/41269888)|
+|2024-01-18 11:09:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[饲养员拧不过鳄鱼](https://dig.chouti.com/link/41271928)|
+|2024-01-18 05:01:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[字节跳动在加拿大、澳大利亚筹建研发中心，支持TikTok等海外业务](https://dig.chouti.com/link/41267639)|
+|2024-01-18 08:32:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【GPT-5首次曝光后，Altman：现在最重要的事就是GPT-5】据Altman介绍， GPT-5将是一个多模态模型，支持语音、图像、代码和视频，并在个性化和定制化功能方面实现重大更新，具备更强的推理能力和更高的准确性。当前大模型的通病——幻觉问题也将在GPT-5中得到解决。](https://dig.chouti.com/link/41269999)|
+|2024-01-18 09:57:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[远征墨西哥的中国工厂：在抢劫、偷盗、内斗中寻找希望](https://dig.chouti.com/link/41270931)|
+|2024-01-18 10:08:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一些4chan绘图楼（drawthread）的混搭和玩梗图](https://dig.chouti.com/link/41271290)|
+|2024-01-18 10:01:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网易诉暴雪案今日开庭取消，法院：系原告撤诉](https://dig.chouti.com/link/41271059)|
+|2024-01-18 09:08:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[弟弟说在床底放一条LED灯带看起来会很潮，于是我试了一下，结果看起来像极了小火慢炖。](https://dig.chouti.com/link/41270648)|
+|2024-01-18 09:08:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[狗好大只](https://dig.chouti.com/link/41270696)|
+|2024-01-18 08:13:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[感受一下：同款衣服的上身效果对比](https://dig.chouti.com/link/41269951)|
+|2024-01-18 05:03:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[实探兑付暴风眼中的鼎益丰：诱导投资者转签“数字期权”合同，“三个月后都是上亿身家”](https://dig.chouti.com/link/41267721)|
+|2024-01-18 06:09:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[侃爷Kanye West展示自己新做的钛合金牙套，花了85万美元…](https://dig.chouti.com/link/41268527)|
+|2024-01-18 07:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【冰雪游“搓澡热”背后的洗浴行业：搓澡师傅断档，招工困难】兴旺的东北沐浴业，正面临搓澡技师断层现状。“整体上，年轻人干这个的越来越少，基本上都是40岁往上，50多甚至60的都有…搓澡工年龄断层现象全国都很普遍，在扬州也一样。”很多搓澡工表示，年轻人不愿意入行，更愿意选择快递、外卖及短视频等自由度高的行业。](https://dig.chouti.com/link/41269048)|
+|2024-01-18 02:32:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[世界上最优秀的“游戏速通犬”，只比人类纪录慢50秒](https://dig.chouti.com/link/41265985)|
+|2024-01-18 03:01:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[四川雅江探获锂资源近百万吨：亚洲迄今探明最大规模伟晶岩型单体锂矿](https://dig.chouti.com/link/41266181)|
+|2024-01-18 04:12:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我们如何对待动物，AI就如何对待我们？](https://dig.chouti.com/link/41267366)|
+|2024-01-18 04:01:46|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)|
+|2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[迈进 Galaxy AI 新时代，三星 Galaxy S24 系列正式发布](https://www.photoworld.com.cn/post/175976)|
+|2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“DPReview 2023 年度读者选择奖” 结果揭晓，尼康在读者臻选六大奖项中斩获五奖](https://www.photoworld.com.cn/post/175986)|
+|2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2024 年索尼电影摄影机系列固件升级计划抢先看](https://www.photoworld.com.cn/post/175997)|
+|2024-01-18 04:59:09|[摄影世界](https://feedx.net/rss/photoworld.xml)|[聚焦大美湾镇——雪堰镇、常州太湖湾摄影大赛评选结果公示](https://www.photoworld.com.cn/post/175900)|
+|2024-01-18 00:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2024 年 “体育大拜年” 同心县第二届 “鑫月驾校杯” 篮球争霸赛胜利闭幕](https://www.photoworld.com.cn/post/175965)|
+|2024-01-18 13:29:15|[鸟窝](https://colobu.com/atom.xml)|[遍历函数？Go 1.22中隐藏的功能](https://colobu.com/2024/01/18/range-over-func/)|
+|2024-01-18 16:07:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球PC市场终于止跌，AI PC成了“全场的希望”？](https://36kr.com/p/2609613642932100)|
+|2024-01-18 16:07:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[翻到日本网友对比亚迪的评论，我都感觉有些不好意思了](https://36kr.com/p/2609449678173696)|
+|2024-01-18 16:07:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[抖音打快手，腾讯当“奶妈”](https://36kr.com/p/2609836809204994)|
+|2024-01-18 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2.5 万元的苹果头显值不值？首批测评来了：戴 20 分钟就头疼、虚拟键盘难上手、但确实很“沉浸”](https://36kr.com/p/2608954484290825)|
+|2024-01-18 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[智氪 日本收复「失落的三十年」，大牛市还能走多久？](https://36kr.com/p/2609601348138243)|
+|2024-01-18 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这些宣告“跨界储能”的企业，没能跨进2024年 焦点分析](https://36kr.com/p/2601099988990600)|
 |2024-01-18 12:02:04|[小众软件](https://www.appinn.com/feed/)|[最离谱的敲木鱼：没有最扯，只有更扯｜真的可以敲木鱼了](https://www.appinn.com/wooden-fish/)|
 |2024-01-18 03:48:35|[小众软件](https://www.appinn.com/feed/)|[ZipXtract – 支持 RAR 格式，开源压缩、解压缩工具 Android ](https://www.appinn.com/zipxtract-for-android/)|
 |2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[史上首次：苹果成为全球手机一哥，带动安卓机皇们卷疯了潜望镜头](https://36kr.com/p/2608614564164868)|
