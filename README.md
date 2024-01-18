@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-17）
+﻿# 每日资讯（2024-01-18）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 00:32:07|[爱范儿](https://www.ifanr.com/feed)|[早报｜QQ 音乐回应电视端将单独付费 / 三星首款 AI 手机实测 / 苹果推出空间影音格式](https://www.ifanr.com/1573666?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-17 10:18:37|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[都说了外面买不到，怎么还有人不信邪啊。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448584&idx=1&sn=f4c297cdcb97d7a4230608022118ccc4)|
 |2024-01-17 15:00:00|[机核](https://www.gcores.com/rss)|[异世界可真多，最近又是一大波 天天ACG 1.17](https://www.gcores.com/radios/176230)|
 |2024-01-17 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.36丨失魂落魄](https://www.gcores.com/radios/176374)|
