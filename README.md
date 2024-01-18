@@ -2,6 +2,45 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 12:02:04|[小众软件](https://www.appinn.com/feed/)|[最离谱的敲木鱼：没有最扯，只有更扯｜真的可以敲木鱼了](https://www.appinn.com/wooden-fish/)|
+|2024-01-18 03:48:35|[小众软件](https://www.appinn.com/feed/)|[ZipXtract – 支持 RAR 格式，开源压缩、解压缩工具 Android ](https://www.appinn.com/zipxtract-for-android/)|
+|2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[史上首次：苹果成为全球手机一哥，带动安卓机皇们卷疯了潜望镜头](https://36kr.com/p/2608614564164868)|
+|2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[用智谱AI的类「GPTs」，我做一个Agent只花了30秒 产品观察](https://36kr.com/p/2608639258179079)|
+|2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[创始人档案被丢、高管移民美国：还在打国货情怀的大宝，早已卖身外资](https://36kr.com/p/2608211129742598)|
+|2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[疯狂小杨哥进军TikTok：新加坡首播破纪录，三个月已吸粉200万](https://36kr.com/p/2608717693482496)|
+|2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[谷歌裁员3万人大逃杀，数百员工已被AI淘汰，IMF主席断言全球40%岗位遭冲击，1/5码农悬了](https://36kr.com/p/2608282761311497)|
+|2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[不想花钱的年轻人，把盒马逼成了折扣店](https://36kr.com/p/2608581316654343)|
+|2024-01-18 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[现在大家都开始反操作理财了](https://36kr.com/p/2608341317285120)|
+|2024-01-18 04:03:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨字节跳动加速将TikTok员工迁至海外；茅台市值跌破2万亿；大麦回应抢票林俊杰付款林子祥](https://36kr.com/p/2609399961531655)|
+|2024-01-18 10:31:25|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1250 苹果公司首次在全球智能手机市场占据首位](https://linux.cn/article-16567-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-18 11:00:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求救🆘求救🆘 系统是基于 ubuntu22.04 lts 的 elementary os 7，更新 apt 时突然卡了，然后就黑屏进入了 busybox 的 shell 中，该怎么办？](https://www.v2ex.com/t/1009769#reply5)|
+|2024-01-18 12:30:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[google office 为什么不出 mac 或者 pc 版本？](https://www.v2ex.com/t/1009795#reply1)|
+|2024-01-18 11:57:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助: 黑群晖 nas 内网下载只有上传的一半](https://www.v2ex.com/t/1009786#reply1)|
+|2024-01-18 09:38:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[东芝硬盘是垃圾，奉劝各位不要买。求帮助！](https://www.v2ex.com/t/1009748#reply21)|
+|2024-01-18 11:48:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[新手想买个服务器，学习&项目用，求解](https://www.v2ex.com/t/1009781#reply9)|
+|2024-01-18 12:26:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个 pyside6 ui 的小问题](https://www.v2ex.com/t/1009794#reply0)|
+|2024-01-18 01:58:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[rockylinux 搭建 nas 靠谱吗](https://www.v2ex.com/t/1009561#reply18)|
+|2024-01-18 02:59:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求指点 PHP 内存泄露排查](https://www.v2ex.com/t/1009607#reply23)|
+|2024-01-18 02:34:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[容器连通性 容器到某个网络是否畅通 检查方案](https://www.v2ex.com/t/1009587#reply38)|
+|2024-01-18 11:54:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[都 2024 年了，你们公司的 Android app 还支持 32 位系统吗？](https://www.v2ex.com/t/1009785#reply2)|
+|2024-01-18 10:06:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[分享一下我的开源项目 MapStructPlus，一个更好用的 Java Bean 模型转换工具](https://www.v2ex.com/t/1009758#reply6)|
+|2024-01-18 11:47:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[android wps 的坑](https://www.v2ex.com/t/1009780#reply0)|
+|2024-01-18 10:35:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最近试用了 Vercel，感觉不错，想订阅但还是有点担心](https://www.v2ex.com/t/1009761#reply15)|
+|2024-01-18 10:51:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我们是如何对 PyTorch 发起供应链攻击的](https://www.v2ex.com/t/1009764#reply2)|
+|2024-01-18 01:34:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[s23u vs s24+ 咋选](https://www.v2ex.com/t/1009543#reply29)|
+|2024-01-18 11:30:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何编写 Pratt 解析器？（以 MoonBit 为例）](https://www.v2ex.com/t/1009776#reply0)|
+|2024-01-18 08:42:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[程序员转方向，这个问题还没有找到答案，郁闷啊， https://v2ex.com/t/1008022](https://www.v2ex.com/t/1009728#reply2)|
+|2024-01-18 11:25:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[grafana+prometheus 有监控 mysq 慢查询语句的模板吗？](https://www.v2ex.com/t/1009774#reply0)|
+|2024-01-18 01:41:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[问一下 有什么好的 Windows11 优化软件](https://www.v2ex.com/t/1009548#reply15)|
+|2024-01-18 10:08:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 年,请问现在是否有了免 cgo 的 sql 嵌入式数据库?](https://www.v2ex.com/t/1009759#reply5)|
+|2024-01-18 06:33:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问 QQ 相册里的相片如何转移到威联通](https://www.v2ex.com/t/1009680#reply10)|
+|2024-01-18 06:17:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[这套垃圾配置训练模型可以吗](https://www.v2ex.com/t/1009676#reply18)|
+|2024-01-18 05:13:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么 MIUI 的 Android 用户名是实名啊？](https://www.v2ex.com/t/1009651#reply23)|
+|2024-01-18 09:47:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[分享下自己的开源项目 Pywss](https://www.v2ex.com/t/1009754#reply1)|
+|2024-01-18 09:31:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[KubeVPN - 云原生开发工具/网络 VPN 工具，打通本地和 k8s 集群网络](https://www.v2ex.com/t/1009746#reply1)|
+|2024-01-18 10:03:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果Vision Pro顛覆你對遊戲的想像！不再受限傳統操作](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-game-revolution.html)|
+|2024-01-18 09:07:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[想換手機又怕損失？iPhone 15 保值率高達全球第一](https://www.iphonetaiwan.org/2024/01/iphone-15-second-hand-market-insights.html)|
+|2024-01-18 08:23:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果修復「LeftoverLocals」GPU漏洞 - 保障數據安全](https://www.iphonetaiwan.org/2024/01/apple-gpu-vulnerability-fix.html)|
 |2024-01-18 04:11:18|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[全新 Apple Watch Black Unity 運動型錶帶 – 團結花開](https://applefans.today/2024-01-apple-watch-black-unity/)|
 |2024-01-18 03:19:15|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[迎龍年！Apple 推出 AirPods Pro 2 龍年特別款](https://applefans.today/2024-year-of-the-dragon-airpods-pro/)|
 |2024-01-18 06:44:12|[est の 输入输出](http://feeds.feedburner.com/initiative)|[FastAPI/Starlette 长连接感知断开](https://blog.est.im/2024/stdout-01)|
