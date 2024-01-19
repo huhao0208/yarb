@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-19 19:07:08|[V2EX](https://www.v2ex.com/index.xml)|[ 浏览器 Google Chrome 已支持使用 Zstandard（zstd）作为 Content-Encoding](https://www.v2ex.com/t/1010179#reply1)|
+|2024-01-19 18:56:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 耳朵来大姨妈了](https://www.v2ex.com/t/1010178#reply1)|
+|2024-01-19 18:47:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 睡不着，偷偷➕了一次，还是睡不着，啊啊啊！](https://www.v2ex.com/t/1010177#reply3)|
+|2024-01-19 18:43:19|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 为什么 Vision Pro 的通用处理器参数部分挺克制的？](https://www.v2ex.com/t/1010176#reply5)|
+|2024-01-19 18:23:28|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 用圆弧转换时间和价格](https://www.v2ex.com/t/1010175#reply0)|
+|2024-01-19 17:27:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求推荐个便宜的将来能支持 wifi7 的手机](https://www.v2ex.com/t/1010174#reply0)|
+|2024-01-19 16:52:26|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud Icloud 跑了 30 多个 G 的流量，如何设置不会再出现这个情况](https://www.v2ex.com/t/1010171#reply1)|
+|2024-01-19 16:51:29|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 为什么 Mac OS 会默认把 sd 卡格成两个分区？](https://www.v2ex.com/t/1010170#reply0)|
+|2024-01-19 16:34:41|[V2EX](https://www.v2ex.com/index.xml)|[ Windows win 下如何以管理员权限开机自启应用？](https://www.v2ex.com/t/1010169#reply3)|
+|2024-01-19 16:18:58|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 过滤已经阅览过的重复文件, 适合电影, 书籍, 文档](https://www.v2ex.com/t/1010167#reply5)|
+|2024-01-19 16:07:22|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 分享一个应届生找工作遇到的公司 HR 迷操作](https://www.v2ex.com/t/1010166#reply2)|
+|2024-01-19 04:53:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[侵權問題持續延燒 美國只能販賣「沒有」血氧偵測功能的 Apple Watch Series 9 和 Ultra 2](https://applefans.today/2024-01-apple-watch-blood-oxygen-issue/)|
+|2024-01-19 12:01:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌克兰外长称计划组织泽连斯基与中国领导人电话会谈，中国外交部：没有可提供的信息](https://dig.chouti.com/link/41283612)|
 |2024-01-19 14:15:30|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 free 命令示例](https://linux.cn/article-16570-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-19 11:56:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1251 ChatGPT 几乎没有提升必应搜索市场份额](https://linux.cn/article-16569-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-19 09:07:07|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[比老乡鸡还牛的鸡被我找到了！！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448691&idx=1&sn=a73ccee0380bc2af12fd3241af0fe780)|
