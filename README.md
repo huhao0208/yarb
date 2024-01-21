@@ -2,6 +2,62 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 10:47:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[软件开发 Git 提交是差异、快照还是历史记录？](https://linux.cn/article-16572-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-21 06:51:16|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[利用 Cloudflare Worker 搭建自定义的 Memos WebHook Service](https://www.edony.ink/customize-memos-webhook-service-with-cf-worker/)|
+|2024-01-21 12:32:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有朋友办软考中级工程师的证，被骗了，他这种情况，还能把钱要回来吗？](https://www.v2ex.com/t/1010453#reply0)|
+|2024-01-21 12:27:38|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 深圳高新园地铁站智能硬件公司 8-15k 求 2-5 年的 go/ Python /nodejs 后端两位](https://www.v2ex.com/t/1010452#reply0)|
+|2024-01-21 12:19:40|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 付邮送一些 giffgaff](https://www.v2ex.com/t/1010450#reply0)|
+|2024-01-21 12:04:48|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 周末深圳-香港 BOC、HSBC 开卡分享](https://www.v2ex.com/t/1010448#reply2)|
+|2024-01-21 12:02:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问大家现在都在使用什么热钱包？](https://www.v2ex.com/t/1010447#reply0)|
+|2024-01-21 11:53:26|[V2EX](https://www.v2ex.com/index.xml)|[ Android 有没有熟悉安卓系统代码底层开发的技术，长期合作](https://www.v2ex.com/t/1010446#reply0)|
+|2024-01-21 11:42:28|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 有没有 iOS 同样目前在找工作的？ 一起来聊聊，抱团取暖。哈哈哈](https://www.v2ex.com/t/1010445#reply1)|
+|2024-01-21 11:38:21|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 求助， rstp 拉流算上传流量吗？](https://www.v2ex.com/t/1010444#reply2)|
+|2024-01-21 11:38:18|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 如何判断字符串里有 unicode](https://www.v2ex.com/t/1010443#reply1)|
+|2024-01-21 11:37:48|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 如何只基于 Linux 内核模块，实现无公网 IP 的多个局域网之间互通](https://www.v2ex.com/t/1010442#reply8)|
+|2024-01-21 11:28:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 除了 ftp，还有其他的文件共享方案吗？](https://www.v2ex.com/t/1010441#reply0)|
+|2024-01-21 11:25:09|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 出 Alfred 5 永久 license](https://www.v2ex.com/t/1010440#reply10)|
+|2024-01-21 11:23:00|[V2EX](https://www.v2ex.com/index.xml)|[ 服务器 Ubuntu 用户们，你们是用 desktop 版本还 server 版本?](https://www.v2ex.com/t/1010439#reply4)|
+|2024-01-21 11:13:30|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 文本转语音革命：打破语言障碍 https://textspe.shop](https://www.v2ex.com/t/1010438#reply0)|
+|2024-01-21 11:05:51|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 英伟达这个视频增强有点意思啊](https://www.v2ex.com/t/1010436#reply0)|
+|2024-01-21 11:03:21|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 苹果重复支付 ChatGPT Plus 退款失败，顺便给大家避几个坑](https://www.v2ex.com/t/1010435#reply9)|
+|2024-01-21 11:02:16|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 一个周末开发一个免费的照片修复，照片增强网站，主打简单易用！ oldpicrestore.com](https://www.v2ex.com/t/1010434#reply0)|
+|2024-01-21 10:49:08|[V2EX](https://www.v2ex.com/index.xml)|[ Android 安卓上有什么类似 Mac 上 Bob 这种划词且支持 chatgpt 翻译的应用吗](https://www.v2ex.com/t/1010432#reply1)|
+|2024-01-21 10:48:23|[V2EX](https://www.v2ex.com/index.xml)|[ Linux nixos 不适合用作开发环境？](https://www.v2ex.com/t/1010431#reply1)|
+|2024-01-21 10:44:56|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 请教大家使用 macbook 的姿势](https://www.v2ex.com/t/1010430#reply5)|
+|2024-01-21 10:43:43|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 微信输入法 Mac 版占爆存储](https://www.v2ex.com/t/1010429#reply5)|
+|2024-01-21 10:41:27|[V2EX](https://www.v2ex.com/index.xml)|[ Windows window11 家庭版 22h2. 无法连接 Wi-Fi](https://www.v2ex.com/t/1010428#reply1)|
+|2024-01-21 10:28:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 访问怎么这么卡？？](https://www.v2ex.com/t/1010427#reply8)|
+|2024-01-21 10:12:16|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple TV 电源线老化](https://www.v2ex.com/t/1010426#reply5)|
+|2024-01-21 10:09:46|[V2EX](https://www.v2ex.com/index.xml)|[ Android 想找个懂安卓开发的，帮我解决不懂的问题，可以有偿，微信:trust030703](https://www.v2ex.com/t/1010425#reply1)|
+|2024-01-21 06:59:42|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 node.js express 等框架下如何查看是那个 api 没有 release connection 的？](https://www.v2ex.com/t/1010422#reply2)|
+|2024-01-21 06:58:38|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了一个免费的 GPTs 商店，后续将支持官方 GPTs 免跳转使用](https://www.v2ex.com/t/1010421#reply2)|
+|2024-01-21 06:51:53|[V2EX](https://www.v2ex.com/index.xml)|[ 站长 国内外有什么好用的官网制作工具吗](https://www.v2ex.com/t/1010420#reply0)|
+|2024-01-21 06:33:25|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求助！关于自建直播平台，用手机看自家猫](https://www.v2ex.com/t/1010419#reply4)|
+|2024-01-21 06:20:15|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify 美区 Spotify 家庭组长期！🚗](https://www.v2ex.com/t/1010418#reply0)|
+|2024-01-21 06:17:44|[V2EX](https://www.v2ex.com/index.xml)|[ Elasticsearch 请教下各位大佬，如何在固定的 index 实施 ILM?](https://www.v2ex.com/t/1010417#reply0)|
+|2024-01-21 06:12:27|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 假设回老家躺平，真的幸福吗？](https://www.v2ex.com/t/1010416#reply6)|
+|2024-01-21 06:08:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 英伟达 GPU 现货，价格合适。](https://www.v2ex.com/t/1010415#reply0)|
+|2024-01-21 05:55:54|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 #前端已死？前端不会死？作为一个普通人，我想明白了。](https://www.v2ex.com/t/1010414#reply7)|
+|2024-01-21 05:52:22|[V2EX](https://www.v2ex.com/index.xml)|[ VPS （求助）Oracle 的 arm vps 如何重置？](https://www.v2ex.com/t/1010413#reply10)|
+|2024-01-21 05:51:32|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 这种情况如何备份比较合理](https://www.v2ex.com/t/1010412#reply0)|
+|2024-01-21 05:48:00|[V2EX](https://www.v2ex.com/index.xml)|[ YouTube 现在印度区 YouTube Premium 付款还有什么办法吗？](https://www.v2ex.com/t/1010411#reply2)|
+|2024-01-21 05:24:30|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 作为自适应能力很强的用户也被这个无法关闭的功能恶心得受不了](https://www.v2ex.com/t/1010409#reply4)|
+|2024-01-21 05:00:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 具有自动翻译功能的反向代理，而向 SEO](https://www.v2ex.com/t/1010408#reply0)|
+|2024-01-21 04:57:23|[V2EX](https://www.v2ex.com/index.xml)|[ Pixel Pixel 上有什么软件可以实现“专业相机”的功能](https://www.v2ex.com/t/1010407#reply2)|
+|2024-01-21 04:47:17|[V2EX](https://www.v2ex.com/index.xml)|[ Windows Windows 的通知怎么样可以一次弹出多条？](https://www.v2ex.com/t/1010406#reply1)|
+|2024-01-21 04:43:14|[V2EX](https://www.v2ex.com/index.xml)|[ 云修电脑 开机或者唤醒前外接硬盘插着就会识别不到](https://www.v2ex.com/t/1010405#reply1)|
+|2024-01-21 04:41:11|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 求一款老路由器能用的科学插件](https://www.v2ex.com/t/1010404#reply2)|
+|2024-01-21 04:26:04|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 阿里巴巴“通义听悟”，用下面链接登录，双方都可以获得 30/50 小时免费转写时长](https://www.v2ex.com/t/1010402#reply0)|
+|2024-01-21 04:19:49|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 面试一个月，拿了几个 offer，但都不太行。。。。。](https://www.v2ex.com/t/1010401#reply31)|
+|2024-01-21 04:13:23|[V2EX](https://www.v2ex.com/index.xml)|[ 健康 一侧肝脏上有一个小的囊肿](https://www.v2ex.com/t/1010400#reply0)|
+|2024-01-21 04:10:22|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享自己做的一个外语学习工具： TalkTime 用自己的语料学外语](https://www.v2ex.com/t/1010399#reply0)|
+|2024-01-21 04:07:54|[V2EX](https://www.v2ex.com/index.xml)|[ 美酒与美食 国内曾经风靡一时的巴西烤肉，现在都消失了](https://www.v2ex.com/t/1010396#reply21)|
+|2024-01-21 03:42:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 桌面系统上有类似 Android 冰箱的管理工具吗？](https://www.v2ex.com/t/1010394#reply4)|
+|2024-01-21 03:37:51|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iphone15pro 这个 AOD，如果显示壁纸](https://www.v2ex.com/t/1010390#reply5)|
+|2024-01-21 08:28:21|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[编程语言的 AI 支持](http://www.phodal.com/blog/language-in-ide-with-ai/)|
+|2024-01-21 10:10:56|[机核](https://www.gcores.com/rss)|[下周节目预告 1.22~1.28](https://www.gcores.com/articles/176546)|
+|2024-01-21 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#281：《暗影狂奔：归来》](https://www.gcores.com/articles/176524)|
+|2024-01-21 08:34:56|[机核](https://www.gcores.com/rss)|[天天卡牌创始人刘欣宇 全身瘫痪B站百大up主](https://www.gcores.com/videos/176541)|
 |2024-01-21 07:09:47|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Leetcode 25 Reverse Nodes in k-Group 题解分析-再解分析](https://nicksxs.me/2024/01/21/Leetcode-25-Reverse-Nodes-in-k-Group-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/)|
 |2024-01-21 02:52:44|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[聊一下 Java 的日志系列三](https://nicksxs.me/2024/01/21/%E8%81%8A%E4%B8%80%E4%B8%8B-Java-%E7%9A%84%E6%97%A5%E5%BF%97%E7%B3%BB%E5%88%97%E4%B8%89/)|
 |2024-01-21 06:51:14|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No.106 Daniel Bell](https://wangyurui.com/posts/leng-jing-tong-xun-no-106-daniel-bell-2d32b370)|
