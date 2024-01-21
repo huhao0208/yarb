@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-20）
+﻿# 每日资讯（2024-01-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 00:14:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Ibus-rime vs fcitx-rime](https://www.v2ex.com/t/1010363#reply2)|
 |2024-01-20 16:55:42|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[PC 工具 - Android 图标生成器,免费开源](https://w2solo.com/topics/4375)|
 |2024-01-20 11:53:38|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1252 扎克伯格的新目标是创造人工通用智能](https://linux.cn/article-16571-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-20 12:27:09|[V2EX](https://www.v2ex.com/index.xml)|[ Python 浅谈 Python 字符串驻留技术](https://www.v2ex.com/t/1010306#reply0)|
