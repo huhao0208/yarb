@@ -2,6 +2,59 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 05:55:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[#前端已死？前端不会死？作为一个普通人，我想明白了。](https://www.v2ex.com/t/1010414#reply17)|
+|2024-01-21 15:53:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 NAS 上使用 NGINX 反向代理的一些问题](https://www.v2ex.com/t/1010494#reply1)|
+|2024-01-21 13:07:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[svn 停止支持后的平替方法有哪些？](https://www.v2ex.com/t/1010458#reply8)|
+|2024-01-21 02:36:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从 Mac 工作本转到 Window11，突然觉的竟然更丝滑了？](https://www.v2ex.com/t/1010377#reply39)|
+|2024-01-21 06:33:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助！关于自建直播平台，用手机看自家猫](https://www.v2ex.com/t/1010419#reply15)|
+|2024-01-21 15:18:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Go 语言实现一个数据库中间件项目应该采用什么框架？](https://www.v2ex.com/t/1010488#reply0)|
+|2024-01-21 15:03:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[go 开发一般公司会选用什么框架](https://www.v2ex.com/t/1010487#reply3)|
+|2024-01-21 10:49:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓上有什么类似 Mac 上 Bob 这种划词且支持 chatgpt 翻译的应用吗](https://www.v2ex.com/t/1010432#reply5)|
+|2024-01-21 10:48:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[nixos 不适合用作开发环境？](https://www.v2ex.com/t/1010431#reply6)|
+|2024-01-21 13:09:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助微信公众号文章获取思路](https://www.v2ex.com/t/1010460#reply2)|
+|2024-01-21 09:43:46|[甜欣屋](https://tcxx.info/feed)|[我会让孩子跟收废品的孩子玩吗？](https://tcxx.info/notion/930.html)|
+|2024-01-21 15:41:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【独立开发前线】Vol.002 用 “笨办法” 获取前 1000 个用户](https://w2solo.com/topics/4379)|
+|2024-01-21 03:16:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个自己撸的获取网站 favicon 工具](https://w2solo.com/topics/4376)|
+|2024-01-21 13:54:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【演唱会最疯的一年，哪个歌手最赚钱？】借票务平台摩天轮CEO刘斅的话，2023年演出市场的真实情况是“总量增长，局部火爆，部分走低”，赚到钱的还是头部歌手，对于大部分从业者，热潮过后，或许是更严酷的寒冬。](https://dig.chouti.com/link/41301199)|
+|2024-01-21 14:08:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[最近非洲杯上的美女球迷](https://dig.chouti.com/link/41301477)|
+|2024-01-21 13:01:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[宝马汽车申请专利：通过车顶投影解决后排乘客晕车问题](https://dig.chouti.com/link/41300827)|
+|2024-01-21 14:05:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大三学生“代肝”猝死事件](https://dig.chouti.com/link/41301406)|
+|2024-01-21 09:11:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[如何穿着苏格兰短裙，这就是一整张羊毛毯](https://dig.chouti.com/link/41299452)|
+|2024-01-21 13:32:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[生病后左腿短了4公分，这次手术成功就能恢复，失败我会终身坐轮椅](https://dig.chouti.com/link/41301192)|
+|2024-01-21 10:01:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌方称“俄A-50预警机被击落”，乌军创造历史的可能性有多大？](https://dig.chouti.com/link/41299545)|
+|2024-01-21 08:04:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[曾制作纪录片《迷失东京》的b站up“食贫道”这次赶赴中东，带来新作《迦 南 孤 儿》，据说制作成本60万人民币，其中安保费就占了一半（观看完整全片须付费）](https://dig.chouti.com/link/41299006)|
+|2024-01-21 10:57:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[炒到10万元一台，苹果Vision Pro到底贵在哪里？](https://dig.chouti.com/link/41300008)|
+|2024-01-21 11:11:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[激烈的冲突过后，数百名缅甸陆军士兵越境进入印度。在他们的营地被缅甸反政府武装若开军占领后，他们进入米佐拉姆邦的朗格莱地区避难。这些士兵被暂时安置在阿萨姆步枪队营地。这种情况促使米佐拉姆邦首席部长拉尔杜霍马和联邦内政部长阿米特·沙阿在西隆举行的东北理事会全体会议上进行紧急会谈。](https://dig.chouti.com/link/41300291)|
+|2024-01-21 05:01:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[印度内阁部长：将在印缅边境修建围栏，阻止缅甸人自由越境](https://dig.chouti.com/link/41297765)|
+|2024-01-21 00:01:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[斯洛伐克总理：反对乌克兰加入北约，不会再向乌提供武器](https://dig.chouti.com/link/41295846)|
+|2024-01-21 01:19:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《细胞》子刊：问世间情为何物？神经生物学家：多巴胺](https://dig.chouti.com/link/41296288)|
+|2024-01-21 02:09:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[去柬埔寨炒地，赌局还是骗局？似乎变成了一场击鼓传花的游戏](https://dig.chouti.com/link/41296513)|
+|2024-01-21 06:11:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台媒：传图瓦卢1月26日大选后会与台当局“断交”](https://dig.chouti.com/link/41298226)|
+|2024-01-21 02:10:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：太冷了，给你的爱车穿上毛衣，作者Myron Hobizal](https://dig.chouti.com/link/41296576)|
+|2024-01-21 02:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【乌军弹药不足，马克龙要法国军工企业增产】乌克兰军队近期弹药短缺。法国总统埃马纽埃尔·马克龙19日敦促法国多家军工企业加速交付、增加产量。马克龙近日视察了法国西北部瑟堡一处海军基地。他表示，军工企业需要提升交付速度、增加产量并且注重创新。](https://dig.chouti.com/link/41296556)|
+|2024-01-21 03:01:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“蘑菇头”表情包维权风波：创始人称未收到钱，发声解除与代理合作](https://dig.chouti.com/link/41296741)|
+|2024-01-21 08:26:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我想到了是东北话，但是我没想到居然是满级东北话。](https://dig.chouti.com/link/41299139)|
+|2024-01-21 05:11:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【失联两天后，NASA与“机智号”火星直升机恢复通信】据美国国家航空航天局喷气推进实验室（NASA JPL）消息，在1月18日的一次飞行任务中，“机智号”火星直升机在降落过程中与地球失去联系。但在指示“毅力号”火星车对飞行器信号进行长时间监听后，NASA团队已于当地时间20日重新建立与“机智号”的通信。](https://dig.chouti.com/link/41297860)|
+|2024-01-21 06:08:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我与白塔](https://dig.chouti.com/link/41298191)|
+|2024-01-21 05:11:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[红海AIS公告信息：64 艘船只否认与以色列的关系；19艘船只声称船上有中国船员；2艘船只声称船上有土耳其船员](https://dig.chouti.com/link/41297865)|
+|2024-01-21 05:11:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌军总司令扎卢日内被总统解职，同时被解职的还有乌军总参谋长和联合力量行动司令](https://dig.chouti.com/link/41297909)|
+|2024-01-21 04:01:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美媒曝美国会禁止五角大楼从6家中企采购电池，包括宁德时代、比亚迪](https://dig.chouti.com/link/41297245)|
+|2024-01-21 04:08:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一战封神：虎牢关之战中李世民的用兵方略](https://dig.chouti.com/link/41297404)|
+|2024-01-21 16:04:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024，普通人还有机会吗？](https://36kr.com/p/2613015380760712)|
+|2024-01-21 16:04:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[万达，再次大瘦身](https://36kr.com/p/2613775296305541)|
+|2024-01-21 16:04:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为攻势凶猛，黄仁勋来华抚客](https://36kr.com/p/2613768328960386)|
+|2024-01-21 16:04:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[11家消费公司拿到新钱；小红书合作央视春晚；“重振旗鼓型消费者”占比27%丨创投大视野](https://36kr.com/p/2611328062871688)|
+|2024-01-21 16:04:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一个A轮，估值30亿](https://36kr.com/p/2612673189730434)|
+|2024-01-21 16:04:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[鸿蒙OS“星河版”现身，原生鸿蒙生态急行军丨焦点分析](https://36kr.com/p/2611218543270018)|
+|2024-01-21 16:04:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果为什么要推出这个「反 iPhone」的功能](https://36kr.com/p/2612811771795848)|
+|2024-01-21 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[卖一辆亏10万，四年亏损超200亿，北汽蓝谷难言“翻身”](https://36kr.com/p/2611509716230016)|
+|2024-01-21 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“超头主播”舆论大战、“买手”崛起，直播电商进入“乱纪元”](https://36kr.com/p/2611671746631809)|
+|2024-01-21 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[lululemon把店开到抖音，走向低线](https://36kr.com/p/2612552822954115)|
+|2024-01-21 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果头显被华强北啃了](https://36kr.com/p/2612401455700361)|
+|2024-01-21 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[腾讯云2023年成绩单：伙伴贡献收入增长2倍，将重点进军二三线城市市场 最前线](https://36kr.com/p/2610156146259205)|
+|2024-01-21 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2500亿，今年最大并购又刷新了](https://36kr.com/p/2612509462239621)|
+|2024-01-21 14:34:34|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[重新开始思考投资](https://scottyeung.top/2024/think-invest-again/)|
+|2024-01-21 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 175 期（2024.01.22）](https://www.ftium4.com/ux-weekly-175.html)|
 |2024-01-21 10:47:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[软件开发 Git 提交是差异、快照还是历史记录？](https://linux.cn/article-16572-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-21 06:51:16|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[利用 Cloudflare Worker 搭建自定义的 Memos WebHook Service](https://www.edony.ink/customize-memos-webhook-service-with-cf-worker/)|
 |2024-01-21 12:32:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有朋友办软考中级工程师的证，被骗了，他这种情况，还能把钱要回来吗？](https://www.v2ex.com/t/1010453#reply0)|
