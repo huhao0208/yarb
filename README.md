@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 15:00:00|[カレーうどん屋](https://blog.laoliu.eu.org/atom.xml)|[日本之行-第一站-大阪](https://blog.udon.eu.org/archives/aca48136.html)|
+|2024-01-21 10:26:00|[plus studio](https://studyinglover.com/atom.xml)|[fastapi集成google auth登录](https://studyinglover.com/2024/01/21/fastapi%E9%9B%86%E6%88%90google%20auth%E7%99%BB%E5%BD%95/)|
+|2024-01-21 12:57:44|[白宦成](https://www.ixiqin.com/feed/)|[《非线性成长》书摘](https://www.ixiqin.com/2024/01/21/recommendation-language/)|
+|2024-01-21 12:42:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1253 海尔要求开发者下架开源的家庭助理插件](https://linux.cn/article-16573-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-21 15:29:28|[机核](https://www.gcores.com/rss)|[夏之禹《YOUNG FRESH CHIN2》——2010年以后最好的中文说唱专辑](https://www.gcores.com/articles/176551)|
+|2024-01-21 15:00:00|[机核](https://www.gcores.com/rss)|[银河与城Vol.1](https://www.gcores.com/radios/176483)|
+|2024-01-21 13:07:06|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[基于Git版本控制的关系型数据库Dolt](https://jasonkayzk.github.io/2024/01/21/%E5%9F%BA%E4%BA%8EGit%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93Dolt/)|
+|2024-01-21 16:21:00|[六个周](https://blog.liugezhou.online/atom.xml)|[2023 年终小结](https://blog.liugezhou.online/202401-No102/)|
 |2024-01-21 05:55:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[#前端已死？前端不会死？作为一个普通人，我想明白了。](https://www.v2ex.com/t/1010414#reply17)|
 |2024-01-21 15:53:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 NAS 上使用 NGINX 反向代理的一些问题](https://www.v2ex.com/t/1010494#reply1)|
 |2024-01-21 13:07:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[svn 停止支持后的平替方法有哪些？](https://www.v2ex.com/t/1010458#reply8)|
