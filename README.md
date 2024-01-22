@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-21）
+﻿# 每日资讯（2024-01-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-22 00:15:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【刑辩律师解读“马树山案”】这个办案节奏本身不违法，但确实“显得过快，非常少见”。应通过司法解释或其他规定，把这种因控告当地较高级别党政官员而涉嫌诬告陷害罪或诽谤罪的特殊案件，明确规定为属于刑事诉讼法第29条第4项的“与本案当事人有其他关系，可能影响公正处理案件的”情形之一，当地司法机关应予以回避。](https://dig.chouti.com/link/41304053)|
 |2024-01-21 15:00:00|[カレーうどん屋](https://blog.laoliu.eu.org/atom.xml)|[日本之行-第一站-大阪](https://blog.udon.eu.org/archives/aca48136.html)|
 |2024-01-21 10:26:00|[plus studio](https://studyinglover.com/atom.xml)|[fastapi集成google auth登录](https://studyinglover.com/2024/01/21/fastapi%E9%9B%86%E6%88%90google%20auth%E7%99%BB%E5%BD%95/)|
 |2024-01-21 12:57:44|[白宦成](https://www.ixiqin.com/feed/)|[《非线性成长》书摘](https://www.ixiqin.com/2024/01/21/recommendation-language/)|
