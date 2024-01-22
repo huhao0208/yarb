@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-22 07:15:09|[小众软件](https://www.appinn.com/feed/)|[7+ Taskbar Numberer – 为 Windows 任务栏添加数字快捷键，适合语音识别与快捷键用户](https://www.appinn.com/7-taskbar-numberer/)|
+|2024-01-22 00:51:09|[爱范儿](https://www.ifanr.com/feed)|[早报 雷军称小米汽车性能媲美百万级豪车/苹果 Vision Pro 被炒到 9 万，仍面临挑战/《王者荣耀》抖音直播已全面开放](https://www.ifanr.com/1573957?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-22 08:46:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1254 得益于人工智能驱动的狂热，标普 500 指数创历史新高](https://linux.cn/article-16576-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-22 10:36:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 开源 ChatAir：使用 Telegram 修改的 OpenAI 和 Gemini 的 Android 原生客户端](https://w2solo.com/topics/4382)|
+|2024-01-22 08:38:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【独立开发前线】Vol.003 如何找到好的独立开发创意](https://w2solo.com/topics/4381)|
+|2024-01-22 06:54:03|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Agile Query 数据分析实践](https://w2solo.com/topics/4380)|
+|2024-01-22 10:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[第三方應用程式已針對Apple Vision Pro進行最佳化](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-apps-revealed.html)|
+|2024-01-22 10:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Vision Pro完美融合AirPlay技術，打造全新多媒體體驗](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-airplay-technology-unveiled.html)|
+|2024-01-22 10:02:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果永久關閉Infinite Loop和Royal Hawaiian門市](https://www.iphonetaiwan.org/2024/01/apple-stores-closure-infinite-loop-royal-hawaiian.html)|
+|2024-01-22 09:37:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果Vision Pro預購即售罄！預訂估破18萬台](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-preorder-analysis.html)|
+|2024-01-22 09:07:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[解決願望清單困擾！iOS 17.3重新定義iTunes Store](https://www.iphonetaiwan.org/2024/01/apple-ios-17-3-itunes-store-update.html)|
+|2024-01-22 08:35:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[2024 iPad Air、iPad Pro和MacBook Air驚人功能揭曉](https://www.iphonetaiwan.org/2024/01/2024-spring-releases-ipad-air-pro-macbook-air.html)|
+|2024-01-22 07:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳iPhone 16 Pro 2TB空間+3D錄影，開啟未來手機革命](https://www.iphonetaiwan.org/2024/01/iphone-16-pro-max-2tb-3d-video.html)|
+|2024-01-22 07:04:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[2024最新12.9吋iPad Air大變身，後置鏡頭設計一覽](https://www.iphonetaiwan.org/2024/01/2024-ipad-air-redesign.html)|
 |2024-01-22 04:49:44|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【捷徑教學】如何讓 iPhone 15 Pro 動作按鈕 變得更好用？！](https://applefans.today/2024-01-iphone-15-pro-action-button-shortcut/)|
 |2024-01-22 03:59:16|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【教學】如何設定 iCloud 自訂電子郵件網域 ？](https://applefans.today/2024-how-to-use-a-custom-domain-with-icloud/)|
 |2024-01-22 06:45:54|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 曾经，Lotus Notes 几乎能满足公司的一切需求](https://linux.cn/article-16575-1.html?utm_source=rss&utm_medium=rss)|
