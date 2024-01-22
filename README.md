@@ -2,6 +2,48 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张雪峰宣布「将向郑州大学捐款 300 万元，用于大一家庭贫困新生学费」，如何看待此举？](https://www.zhihu.com/question/640574901)|
+|2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[男子买烟后自称未成年向店家索赔 1 万，律师「系勒索，或追究刑事责任」，如何从法律角度解读？](https://www.zhihu.com/question/640617249)|
+|2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[云南镇雄山体滑坡致 47 人失联，目前当地情况如何？](https://www.zhihu.com/question/640612979)|
+|2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[博主无视警告标识拍照，引导网友翻围栏，军媒称「军事重地，禁止进入，并非儿戏」，该行为涉及哪些法律问题？](https://www.zhihu.com/question/640659834)|
+|2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[阿里云都有哪些鲜为人知，但是能够极大提升效率的 AI「宝藏工具」？](https://www.zhihu.com/question/640448883)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 LPR 报价出炉，1 年期和 5 年期利率均维持不变，这意味着什么？](https://www.zhihu.com/question/640609571)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国佛罗里达州州长德桑蒂斯宣布退出 2024 总统竞选，支持特朗普竞选总统，会对美国大选产生哪些影响？](https://www.zhihu.com/question/640601273)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[苹果 Vision Pro 被抢到官网崩溃，非官方渠道溢价数万元，苹果首款头显能否成为市场宠儿？](https://www.zhihu.com/question/640558730)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[红海局势持续发酵，农产品供应链风险加剧，这会带来哪些影响？红海航运危机还将持续多久？](https://www.zhihu.com/question/640613397)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[云南昭通山体滑坡灾害，搜救出失联人员 8 人，已无生命体征，当前救援情况如何？](https://www.zhihu.com/question/640663872)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[带猫咪出门会应激，不吃不喝躲角落，有什么好的办法可以缓解吗？](https://www.zhihu.com/question/638855005)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[微信红包与转账性质区别明确，「红包被认定为赠与，无需返还」，哪些信息值得关注？](https://www.zhihu.com/question/640602495)|
+|2024-01-22 16:09:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[北约将举行数十年来最大规模军演，俄副外长称「军演标志着北约回归冷战模式」，哪些信息值得关注？](https://www.zhihu.com/question/640605703)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[预制菜国标报送稿出炉，提出「禁止添加防腐剂、必须冷链运输」等，不使用防腐剂可行吗？将带来哪些影响？](https://www.zhihu.com/question/640674945)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 微单相机购买求推荐，1.5w 的预算？](https://www.zhihu.com/question/638500622)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国「地下管道修复技术」被用到北美欧洲，透露出哪些信息？](https://www.zhihu.com/question/640656739)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[华为和东风旗下岚图汽车达成战略合作，采用 HI 智能汽车解决方案模式，大家怎么看？](https://www.zhihu.com/question/640431816)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年了求推荐性价比高的通话降噪耳机?](https://www.zhihu.com/question/637997948)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[暴雪黄色预警继续，广西、广东等地部分地区有大到暴雪，暴雪天气应注意哪些安全问题？](https://www.zhihu.com/question/640603733)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[前中超冠军深圳队官方：球队无法通过准入，正式解散，哪些信息值得关注？](https://www.zhihu.com/question/640617233)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以分享一张你家猫最可爱的照片吗?](https://www.zhihu.com/question/639060743)|
+|2024-01-22 16:09:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[求推荐一款品牌床垫？](https://www.zhihu.com/question/639720765)|
+|2024-01-22 16:09:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[过年小朋友们的聚会里，可以准备哪些礼物或玩具送给孩子们？](https://www.zhihu.com/question/638738065)|
+|2024-01-22 16:09:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待陈朗写的悼文《请君重作醉歌行》？](https://www.zhihu.com/question/640359835)|
+|2024-01-22 16:09:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024春节前，有哪些值得入手的旗舰手机？](https://www.zhihu.com/question/639640415)|
+|2024-01-22 16:09:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[下雨天做什么事情比较开心?](https://www.zhihu.com/question/634958142)|
+|2024-01-22 16:09:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 22 日沪指失守 2800 点，贵州茅台、招商银行等逆市翻红，如何看待今日行情？](https://www.zhihu.com/question/640610592)|
+|2024-01-22 16:09:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么是通勤婚姻？你能接受这种模式的婚姻吗？会存在哪些问题？](https://www.zhihu.com/question/640656527)|
+|2024-01-22 16:09:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[龙年春节快到了，有没有年货性价比较高的直播间推荐？](https://www.zhihu.com/question/640641532)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《声生不息家年华》第八期？](https://www.zhihu.com/question/640265675)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价英国街头钢琴家 Brendan Kavanagh 在直播过程中与几名中国游客的纠纷？](https://www.zhihu.com/question/640609855)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[兰州警方征集影视投资诈骗案线索，郭富城、舒淇等明星主演电影涉案，具体情况如何？](https://www.zhihu.com/question/640675559)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[机构认为， A 股有望进入交易反弹窗口期，哪些信息值得关注？](https://www.zhihu.com/question/640624286)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何设计一只能够突破音速的生物?](https://www.zhihu.com/question/640577235)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国内某 985 工科博士生，前三年一直帮老板做项目，博四上学期结束的时候才确定研究方向，纠结要不要退学？](https://www.zhihu.com/question/640110768)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[A 股承担着一个什么功能？](https://www.zhihu.com/question/633366326)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季德甲拜仁慕尼黑 0:1 不莱梅，如何评价这场比赛？](https://www.zhihu.com/question/640574502)|
+|2024-01-22 16:09:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果美国现在海外利益都不要了，就搞孤立主义，美国会损失什么？](https://www.zhihu.com/question/639805234)|
+|2024-01-22 16:09:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[消息称「女星江疏影投资爆仓」，机构紧急回应，哪些信息值得关注？](https://www.zhihu.com/question/640673901)|
+|2024-01-22 16:09:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡塔尔亚洲杯小组赛卡塔尔 VS 中国，国足迎来生死战，如何评价本场比赛？](https://www.zhihu.com/question/640724121)|
+|2024-01-22 10:47:03|[余晟以为](https://feedpress.me/wx-yurii-says)|[友情转发一份柏林的IT招聘启事](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009828&idx=1&sn=7a8c4aa743bc5a86b4ecf04c6b81d3f4)|
+|2024-01-22 10:12:31|[Mobility](http://lichuanyang.top/atom.xml)|[hexo多语言方案总结及最佳实践](http://lichuanyang.top/posts/40400/)|
 |2024-01-22 16:21:19|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 发布在 uTools 上的 任务助理 ，希望得到大佬们的试用和评测](https://www.v2ex.com/t/1010802#reply0)|
 |2024-01-22 16:08:24|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 腾讯云 EO 无法更新 SOA 记录](https://www.v2ex.com/t/1010800#reply0)|
 |2024-01-22 16:01:34|[V2EX](https://www.v2ex.com/index.xml)|[ 机器学习 使用 3090 显卡本地部署 baichuan2-13b-chat 非量化版，有人成功过没？](https://www.v2ex.com/t/1010799#reply0)|
