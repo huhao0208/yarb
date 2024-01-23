@@ -2,6 +2,53 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-23 05:50:00|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 1.21 语言规范改动](https://www.sulinehk.com/post/language-specification-changes-in-golang-1.21/)|
+|2024-01-23 14:27:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发了一个在线 SQL 学习网站](https://w2solo.com/topics/4389)|
+|2024-01-23 10:24:14|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[藏趣云书签管理 - 阅读模式，聚合搜索重磅来袭发布](https://w2solo.com/topics/4388)|
+|2024-01-23 08:32:54|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[还在用 JS？过来看看 GS](https://w2solo.com/topics/4386)|
+|2024-01-23 11:45:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Postgres 在中国还能起来么？](https://www.v2ex.com/t/1010986#reply55)|
+|2024-01-23 14:30:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows 上一些好用的工具分享](https://www.v2ex.com/t/1011017#reply10)|
+|2024-01-23 15:40:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2 个月时间写了个小项目，谈谈写 flutter 的一点感受吧](https://www.v2ex.com/t/1011033#reply0)|
+|2024-01-23 05:46:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[似乎很难找到像 Sublime 和 vscode 一样支持无感持久化的终端](https://www.v2ex.com/t/1010867#reply23)|
+|2024-01-23 08:52:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有大佬共享一下 Vue3 写的 SKU 组件后台部分代码学习学习。](https://www.v2ex.com/t/1010932#reply10)|
+|2024-01-23 14:05:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教下 pve 最新的 8.1 可用的源在哪里啊？](https://www.v2ex.com/t/1011009#reply5)|
+|2024-01-23 09:33:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[红米 note 12 turbo 刷国际版后可以使用 google pay 吗](https://www.v2ex.com/t/1010956#reply15)|
+|2024-01-23 05:03:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[滴答清单客户端用的什么框架？](https://www.v2ex.com/t/1010859#reply35)|
+|2024-01-23 12:46:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求问现在有什么靠谱的方式可以伪装成平板登陆微信吗？](https://www.v2ex.com/t/1010991#reply2)|
+|2024-01-23 14:11:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[简单的文本转语音 GUI](https://www.v2ex.com/t/1011012#reply2)|
+|2024-01-23 08:58:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有 bro 是 Java 转大数据成功的](https://www.v2ex.com/t/1010938#reply13)|
+|2024-01-23 07:29:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[前端中后台项目怎样写简历](https://www.v2ex.com/t/1010893#reply7)|
+|2024-01-23 00:52:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 旧闻 LPC 总线嗅探 TPM 通信破解 BitLocker](https://www.v2ex.com/t/1010833#reply14)|
+|2024-01-23 06:53:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[PC 端和手机端页面字段和数据格式一致的情况下，能否共用一套接口？](https://www.v2ex.com/t/1010874#reply18)|
+|2024-01-23 08:26:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何设置定时/开关机彻底删除电脑访问痕迹](https://www.v2ex.com/t/1010921#reply7)|
+|2024-01-23 04:55:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2401](https://xiaket.github.io/2024/pensieve-2401.html)|
+|2024-01-23 10:02:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个催收员的年关：一天打100多个电话，在催债和良心之间挣扎](https://dig.chouti.com/link/41321107)|
+|2024-01-23 14:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【广东老牌4S店暴雷冲击波】作为有着27年历史的老牌汽车经销商集团，广东永奥投资集团近期出现资金链断裂，旗下数十家4S店大多关闭，银行拖走了许多车，大量消费者交了钱却拿不到车，或者无法上牌。据永奥公告，由于三年疫情影响、汽车市场调整、企业风险把控不足等多重因素综合影响，其经营遭遇严重危机。](https://dig.chouti.com/link/41323377)|
+|2024-01-23 14:01:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马云、蔡崇信大幅增持股票，阿里巴巴美股大涨](https://dig.chouti.com/link/41323098)|
+|2024-01-23 09:09:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌克兰裔模特椎野·卡罗琳娜（椎野カロリーナ，Karolina）摘得第56届日本小姐桂冠~ 椎野·卡罗琳娜现年26岁，是该项比赛创办以来最年长的冠军选手。因为母亲再婚，她5岁时从乌克兰来到名古屋生活，2022年完成归化获得日本国籍。](https://dig.chouti.com/link/41320534)|
+|2024-01-23 06:47:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【没有人走过的路上，张之臻用勇气披荆斩棘】张之臻赢下了那场起亚球场的男双1/8决赛，又在隔天后1月23日的玛格丽特·考特球场通过1/4决赛的考验，再次改写历史，成为首位跻身大满贯半决赛的中国大陆男子球员。](https://dig.chouti.com/link/41318931)|
+|2024-01-23 13:09:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI创作的《千与千寻》，这诡谲感……](https://dig.chouti.com/link/41322891)|
+|2024-01-23 13:01:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【C罗因伤无法出场，利雅得胜利中国行比赛延期，将为球迷退票】C罗本人也出席了新闻发布会：我向中国球迷说对不起，尤其是深圳球迷。](https://dig.chouti.com/link/41322673)|
+|2024-01-23 07:10:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【印度超越香港成全球第四大股票市场】据统计，本周一，印度股市总市值首次超过香港股市，成为全球第四大股票市场。数据显示，截至周一收盘，印度交易所上市股票的总价值达到4.33万亿美元，而香港交易所上市股票的市值为4.29万亿美元。](https://dig.chouti.com/link/41319347)|
+|2024-01-23 12:01:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌中国籍工程师承认徒手殴打妻子致死，已从医院转入监狱，本周三将出庭受讯](https://dig.chouti.com/link/41322012)|
+|2024-01-23 12:52:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【加拿大收紧留学“闸门”】当地时间周一，加拿大政府宣布，立即对国际学生许可证实行两年上限，并表示还将停止向一些研究生发放工作许可证，以控制创纪录的新移民数量，缓和日益加剧的住房问题危机。根据该国移民部的一份声明，这一上限预计将导致2024年批准的学习许可数量约为36万份，比2023年减少35%。](https://dig.chouti.com/link/41322520)|
+|2024-01-23 05:04:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“岳飞《满江红》”伪托新考——袁纯是“岳飞《满江红》”肇始者](https://dig.chouti.com/link/41318053)|
+|2024-01-23 10:09:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台铁彩绘列车涂装，不太吉祥的样子……](https://dig.chouti.com/link/41321190)|
+|2024-01-23 07:08:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【哈工大的副教授“非升即走”？高校卷出新高度】此前，“非升即走”主要针对助理教授或讲师，升为副教授或教授后，就可享受长期聘用待遇。](https://dig.chouti.com/link/41319289)|
+|2024-01-23 07:01:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[抓住每一根救命稻草，归化球员伍小海能为国足带来改变吗](https://dig.chouti.com/link/41319051)|
+|2024-01-23 16:05:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果刚发布的新品，实在太离谱了](https://36kr.com/p/2615954438297987)|
+|2024-01-23 16:05:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[硅谷AI人才抢夺战：OpenAI开最高100万刀年包，谷歌撒大额股票激励](https://36kr.com/p/2616654973655430)|
+|2024-01-23 16:05:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[估值150亿，浙大学霸创立的“独角兽”IPO，对手是支付宝微信](https://36kr.com/p/2615839556163714)|
+|2024-01-23 16:05:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[TikTok 边缘化全托管](https://36kr.com/p/2616664768829824)|
+|2024-01-23 16:05:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发｜日本Web3安全公司「KEKKAI」完成2.3亿日元种子轮融资](https://36kr.com/p/2610897437464707)|
+|2024-01-23 16:05:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[TEMU的上限在哪里？](https://36kr.com/p/2615827896621189)|
+|2024-01-23 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[丈母娘粉又要心疼董宇辉了：无「与辉同行」人事财务权，无独立选品团队](https://36kr.com/p/2615729547712643)|
+|2024-01-23 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[国产手机，何以升杯减价？](https://36kr.com/p/2615675967363208)|
+|2024-01-23 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微信拒当鸿蒙搬运工](https://36kr.com/p/2615597192618119)|
+|2024-01-23 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[余承东何时走出“产能地狱”？](https://36kr.com/p/2615546265098631)|
+|2024-01-23 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[傅盛周鸿祎同台泯恩仇，发布单卡可部署的百亿模型 最前线](https://36kr.com/p/2615258299554176)|
+|2024-01-23 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微信更新，新功能拯救了无数打工人](https://36kr.com/p/2615877210120325)|
+|2024-01-23 04:03:46|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜微信红包并非转账，通常认定为赠与无需返还；知情人士证实东方甄选出海将与TikTok合作；起诉张雪峰博主决定撤诉](https://36kr.com/p/2616480989042821)|
 |2024-01-23 12:32:43|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 内网自建服务器提供云服务的经验探讨](https://www.v2ex.com/t/1010989#reply0)|
 |2024-01-23 12:23:12|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 微软 WWE 部门招聘 senior 前端！ base 苏州](https://www.v2ex.com/t/1010988#reply0)|
 |2024-01-23 12:21:22|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海 应用运维工程师社招 10k-20k/月](https://www.v2ex.com/t/1010987#reply0)|
