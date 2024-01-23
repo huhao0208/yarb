@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-22）
+﻿# 每日资讯（2024-01-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-23 00:20:30|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[云南发生山体滑坡：数十人被埋，500人被紧急转移](https://cn.nytimes.com/china/20240123/china-landslide-buries-dozens/?utm_source=RSS)|
 |2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张雪峰宣布「将向郑州大学捐款 300 万元，用于大一家庭贫困新生学费」，如何看待此举？](https://www.zhihu.com/question/640574901)|
 |2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[男子买烟后自称未成年向店家索赔 1 万，律师「系勒索，或追究刑事责任」，如何从法律角度解读？](https://www.zhihu.com/question/640617249)|
 |2024-01-22 16:09:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[云南镇雄山体滑坡致 47 人失联，目前当地情况如何？](https://www.zhihu.com/question/640612979)|
