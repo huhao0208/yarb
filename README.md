@@ -2,6 +2,59 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-23 12:23:29|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[工作效率提升小结](https://www.jackpu.com/gong-zuo-xiao-lu-ti-sheng-xiao-jie/)|
+|2024-01-23 08:32:42|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1255 惠普称病毒能通过墨盒传播而禁止使用第三方墨盒](https://linux.cn/article-16578-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-23 03:20:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[桌面应用 使用 GDM 设置来自定义 GNOME 中的登录屏幕](https://linux.cn/article-16577-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-23 12:50:57|[whyes 的博客](https://whyes.org/feed.xml)|[FGFR2 融合/重排的胆管癌适合跳过化疗直接靶向治疗吗？ #GI24](http://whyes.org/2024/proof-301-btc-fgfr2-infigratinib)|
+|2024-01-23 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡塔尔亚洲杯，武磊出场 171 分钟，零进球仅两射正，他的国家队生涯是否应该结束了？](https://www.zhihu.com/question/640761755)|
+|2024-01-23 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[家里现在用的油烟机日常用有一点跑烟，吸力不够，趁年前赶紧换个吸力猛的，有推荐吗？](https://www.zhihu.com/question/640653681)|
+|2024-01-23 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《甄嬛传》中浣碧为啥不惜连累果郡王府，也要把采蘋送进宫?](https://www.zhihu.com/question/631838182)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么去医院看病医生总让先查血常规？有必要吗？](https://www.zhihu.com/question/639560004)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[员工下班后回复工作消息「隐形加班」，公司被判赔 3 万元加班费创全国首例，如何从法律角度看待此事？](https://www.zhihu.com/question/640804999)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[碧桂园拟转让广州多处资产，合计拟转让价格 38.18 亿元，哪些信息值得关注？](https://www.zhihu.com/question/640782399)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[因低温雨雪冰冻天气，浙江多地宣布停课一天，当地居民需做好哪些防护？](https://www.zhihu.com/question/640820829)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大三甲正高感叹「没有爱好的人，才适合当医生」，你对此有何感触？身为医疗从业者的日常是怎样的？](https://www.zhihu.com/question/640710513)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[今年上海 GDP 增长目标为 5% 左右，去年 GDP 达 4.72 万亿元，哪些信息值得关注？](https://www.zhihu.com/question/640812833)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新疆阿克苏地区乌什县 7.1 级地震已造成 3 人遇难 5 人受伤，目前救援进展如何？](https://www.zhihu.com/question/640843125)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[云南镇雄山体滑坡灾害已致 31 人遇难，当前救援存在哪些难点？](https://www.zhihu.com/question/640781088)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新疆克孜勒苏州阿合奇县发生 4.6 级地震，震源深度 10 千米，目前当地状况如何？](https://www.zhihu.com/question/640834353)|
+|2024-01-23 23:03:25|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[人工智能图片无损放大软件Topaz AI Gigapixel 7.0.1_x64学习版 Windows+MacOS ](https://masuit.com/1576)|
+|2024-01-23 20:11:45|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享一个打字网站](https://www.v2ex.com/t/1011053#reply0)|
+|2024-01-23 20:04:43|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 英雄联盟，想说爱你不容易](https://www.v2ex.com/t/1011052#reply0)|
+|2024-01-23 19:48:47|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook MacOS 15 会不会是最后支持 x86 的系统？](https://www.v2ex.com/t/1011051#reply0)|
+|2024-01-23 18:51:02|[V2EX](https://www.v2ex.com/index.xml)|[ 音乐 Apple Music/Spotify/网易云音乐/QQ 音乐的一点体验心得](https://www.v2ex.com/t/1011050#reply2)|
+|2024-01-23 18:45:36|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 这次大量传播的 macOS 远控木马有人了解吗？之前我 M2 Max 的 Macbook 中过类似的木马，把它的 plist 从 LaunchAgents 里面删掉了，是不是就清理干净了？没关 SIP 动不到系统文件吧，怎么才能清理干净？](https://www.v2ex.com/t/1011049#reply1)|
+|2024-01-23 18:22:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 GPS 信号能伪造吗？](https://www.v2ex.com/t/1011048#reply2)|
+|2024-01-23 17:50:16|[V2EX](https://www.v2ex.com/index.xml)|[ 音乐 像 jbl bar 1000 这样的设备可以走 AirPlay2 播放杜比全景声音乐吗](https://www.v2ex.com/t/1011047#reply0)|
+|2024-01-23 17:36:05|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 时隔已久，我重构了我的通知网关 Heimdallr，可自建 Server 酱开源替代](https://www.v2ex.com/t/1011046#reply0)|
+|2024-01-23 17:29:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 现在国产电视都阉割了组件吗](https://www.v2ex.com/t/1011045#reply1)|
+|2024-01-23 16:32:09|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 贵的东西，真的就是智商税吗？](https://www.v2ex.com/t/1011043#reply9)|
+|2024-01-23 16:30:34|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 在机场订阅中拼接`&flag=clash`下载内容操作求解？](https://www.v2ex.com/t/1011042#reply3)|
+|2024-01-23 16:26:10|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 今天太尴尬了，每个人说一件最尴尬的事吧](https://www.v2ex.com/t/1011040#reply1)|
+|2024-01-23 16:23:03|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 我的第一款 App 终于上架了 - DS Music 群晖音乐播放器](https://www.v2ex.com/t/1011039#reply3)|
+|2024-01-23 16:20:50|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 在开曼群岛整一个彩礼/嫁妆信托？完美解决了所有问题](https://www.v2ex.com/t/1011038#reply6)|
+|2024-01-23 16:18:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问大家想学习 react native 必须要买 mac 吗。expo+windows 能起到代替作用吗。目前环境能选择 all in expo 吗](https://www.v2ex.com/t/1011037#reply1)|
+|2024-01-23 16:15:39|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享幻兽帕鲁/PalWorld 服务器自动重启脚本](https://www.v2ex.com/t/1011036#reply1)|
+|2024-01-23 16:08:16|[V2EX](https://www.v2ex.com/index.xml)|[ macOS Mac Option + 其他字母快捷键求助](https://www.v2ex.com/t/1011035#reply4)|
+|2024-01-23 15:56:44|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 为什么移动还在使用单播源](https://www.v2ex.com/t/1011034#reply2)|
+|2024-01-23 15:40:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 2 个月时间写了个小项目，谈谈写 flutter 的一点感受吧](https://www.v2ex.com/t/1011033#reply1)|
+|2024-01-23 15:37:41|[V2EX](https://www.v2ex.com/index.xml)|[ Surge 出 surge5 mac 版本](https://www.v2ex.com/t/1011032#reply1)|
+|2024-01-23 15:33:24|[V2EX](https://www.v2ex.com/index.xml)|[ Bitcoin 不懂就要问：比特币现货和比特币 ETF 的关联深度到底如何？用户购买 5 个比特币 ETF = 发行公司必须被强制同时购买 5 个比特币现货？](https://www.v2ex.com/t/1011031#reply0)|
+|2024-01-23 15:32:27|[V2EX](https://www.v2ex.com/index.xml)|[ Docker 关于 Dockerfile 使用了 alpine 镜像打包后的镜像依然很大的疑问](https://www.v2ex.com/t/1011030#reply1)|
+|2024-01-23 15:29:47|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 17.3 的合作编辑歌单功能在国区无法使用吗？](https://www.v2ex.com/t/1011029#reply1)|
+|2024-01-23 15:17:27|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 讨教：不常在家，在外如何做到几乎与家中同等丝滑的体验？](https://www.v2ex.com/t/1011028#reply5)|
+|2024-01-23 15:06:35|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud iCloud 使用了高级数据保护，账户出现异常导致无法访问云上任何数据，何解？](https://www.v2ex.com/t/1011027#reply2)|
+|2024-01-23 15:03:42|[V2EX](https://www.v2ex.com/index.xml)|[ Arc 收到 Arc 浏览器 Windows Bet 测试的 V 友，分享个测试资格咯](https://www.v2ex.com/t/1011026#reply0)|
+|2024-01-23 15:01:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教 v 站解码什么意思？](https://www.v2ex.com/t/1011025#reply4)|
+|2024-01-23 14:58:04|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 关于 跳槽 的契机](https://www.v2ex.com/t/1011023#reply1)|
+|2024-01-23 14:55:25|[V2EX](https://www.v2ex.com/index.xml)|[ 成都 刚到这边，想找点性价比的娱乐场所，有什么推荐](https://www.v2ex.com/t/1011022#reply0)|
+|2024-01-23 14:49:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 分享一个目前发现真正低价且支持高并发的 ChatGPT API 中转站（无广）](https://www.v2ex.com/t/1011021#reply1)|
+|2024-01-23 14:44:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 预算 1.5w，请各位推荐一个性价比较好的配置，用来跑 AIGC 的 SD，或者搞点 deepface 之类。](https://www.v2ex.com/t/1011020#reply0)|
+|2024-01-23 14:33:22|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 独立开发了一个在线 SQL 学习网站](https://www.v2ex.com/t/1011018#reply2)|
+|2024-01-23 10:55:12|[依云's Blog](https://blog.lilydjwg.me/posts.rss)|[如果你发现你的 OOM Killer 在乱杀进程](https://blog.lilydjwg.me/posts/216773.html)|
+|2024-01-23 09:33:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Watch 神奇一刻！血氧功能拯救飛機乘客](https://www.iphonetaiwan.org/2024/01/apple-watch-life-saving-story.html)|
+|2024-01-23 08:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果支付12億盧布反壟斷罰款，揭開俄羅斯法規內幕](https://www.iphonetaiwan.org/2024/01/apple-pays-12-billion-rubles-antitrust-fine-in-russia.html)|
+|2024-01-23 08:25:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Music宣布：創作「空間音訊」音樂獲得10%版稅](https://www.iphonetaiwan.org/2024/01/apple-music-space-audio-bonus.html)|
 |2024-01-23 05:50:00|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 1.21 语言规范改动](https://www.sulinehk.com/post/language-specification-changes-in-golang-1.21/)|
 |2024-01-23 14:27:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发了一个在线 SQL 学习网站](https://w2solo.com/topics/4389)|
 |2024-01-23 10:24:14|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[藏趣云书签管理 - 阅读模式，聚合搜索重磅来袭发布](https://w2solo.com/topics/4388)|
