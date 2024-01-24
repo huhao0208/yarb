@@ -1,7 +1,16 @@
-﻿# 每日资讯（2024-01-23）
+﻿# 每日资讯（2024-01-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-24 01:17:43|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Classical 这是匆匆忙忙上架忘记加图标了吗？](https://www.v2ex.com/t/1011066#reply0)|
+|2024-01-24 01:15:32|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 第 66 期 - 偷懒爱好者周刊 24/01/24](https://www.v2ex.com/t/1011065#reply0)|
+|2024-01-24 01:07:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 年味基本上停留在了小时候, 现在过年貌似都没有了乐趣 !](https://www.v2ex.com/t/1011064#reply10)|
+|2024-01-24 01:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 从美国买苹果手机的流程以及税费](https://www.v2ex.com/t/1011063#reply2)|
+|2024-01-24 01:02:08|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 盒马那么作还有人买账真是牛逼](https://www.v2ex.com/t/1011062#reply23)|
+|2024-01-24 00:57:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们都抢到票了吗，七点的时候用分流定时抢票，八点抢到了](https://www.v2ex.com/t/1011061#reply8)|
+|2024-01-24 00:56:42|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 天翼安全 社招/校招 开发/测试/UI BASE 北京/苏州/南京](https://www.v2ex.com/t/1011060#reply0)|
+|2024-01-24 00:42:15|[V2EX](https://www.v2ex.com/index.xml)|[ VPS WHMCS 财务系统，大家都用什么来自动化开 VPS](https://www.v2ex.com/t/1011059#reply2)|
+|2024-01-24 01:01:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好莱坞年度“金酸莓奖”提名：《敢死队4》《巨齿鲨2》《雷霆沙赞2》领跑最烂](https://dig.chouti.com/link/41326650)|
 |2024-01-23 12:23:29|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[工作效率提升小结](https://www.jackpu.com/gong-zuo-xiao-lu-ti-sheng-xiao-jie/)|
 |2024-01-23 08:32:42|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1255 惠普称病毒能通过墨盒传播而禁止使用第三方墨盒](https://linux.cn/article-16578-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-23 03:20:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[桌面应用 使用 GDM 设置来自定义 GNOME 中的登录屏幕](https://linux.cn/article-16577-1.html?utm_source=rss&utm_medium=rss)|
