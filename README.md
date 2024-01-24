@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-24 01:35:18|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[软件开发 人工智能教程（六）：Keras 和第一个数据集](https://linux.cn/article-16579-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-24 04:17:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[对象属性还是方法参数](https://www.v2ex.com/t/1011152#reply1)|
+|2024-01-24 01:48:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们还能访问 github 吗？](https://www.v2ex.com/t/1011078#reply36)|
+|2024-01-24 04:06:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[老哥们，帮我开开眼界，便宜服务器哪来的？](https://www.v2ex.com/t/1011148#reply3)|
+|2024-01-24 03:48:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows11 任务栏从不合并后的宽度问题](https://www.v2ex.com/t/1011142#reply1)|
+|2024-01-24 01:01:40|[爱范儿](https://www.ifanr.com/feed)|[早报 马云出手大幅增持阿里巴巴/苹果汽车发布时间或延迟到 2028 年/京东被曝重返央视春晚](https://www.ifanr.com/1574057?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-24 03:30:00|[机核](https://www.gcores.com/rss)|[《幻兽帕鲁》的爆火合情合理，但是否也要开始担心了？](https://www.gcores.com/videos/176655)|
+|2024-01-24 03:30:00|[机核](https://www.gcores.com/rss)|[日常推理丨变味的旋律](https://www.gcores.com/articles/176637)|
+|2024-01-24 03:11:00|[机核](https://www.gcores.com/rss)|[手游《死亡爱丽丝》粉丝向电影预告公开，2月23日上映](https://www.gcores.com/articles/176658)|
+|2024-01-24 03:03:36|[机核](https://www.gcores.com/rss)|[联手沙特ESL：暴雪公布《守望先锋》未来电竞计划](https://www.gcores.com/articles/176657)|
+|2024-01-24 02:25:42|[机核](https://www.gcores.com/rss)|[《斯普拉顿3》发布赛季中Ver.6.1.0更新补丁](https://www.gcores.com/articles/176653)|
+|2024-01-24 02:00:00|[机核](https://www.gcores.com/rss)|[我们需要你！2024年机核用户问卷调查](https://www.gcores.com/articles/176481)|
+|2024-01-24 01:54:07|[机核](https://www.gcores.com/rss)|[在星战世界里自力更生：给我的克隆人人偶配两块盾牌](https://www.gcores.com/articles/176646)|
+|2024-01-24 01:46:00|[机核](https://www.gcores.com/rss)|[斋藤飞鸟饰演星野爱，《我推的孩子》真人版演员阵容公开](https://www.gcores.com/articles/176651)|
+|2024-01-24 01:37:11|[机核](https://www.gcores.com/rss)|[动人剧情、再创新高:《人中之龙8》媒体评分汇总](https://www.gcores.com/articles/176652)|
+|2024-01-24 01:34:44|[机核](https://www.gcores.com/rss)|[《死亡搁浅》导演剪辑版将于1月30日在iOS及Mac OS发售](https://www.gcores.com/articles/176649)|
+|2024-01-24 01:25:00|[机核](https://www.gcores.com/rss)|[电子游戏中的单兵装备：潜龙谍影4：爱国者之枪](https://www.gcores.com/articles/176633)|
+|2024-01-24 01:19:11|[机核](https://www.gcores.com/rss)|[《幻兽帕鲁》强势登顶：Steam周销量排行榜 2024年1月第3周](https://www.gcores.com/articles/176648)|
+|2024-01-24 04:01:41|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[App+1 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)|
+|2024-01-24 03:25:18|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[Transformer的无限之路：位置编码视角下的长度外推综述](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812351&idx=1&sn=ff0fb368acfe4e16917136fbbb9b1533)|
 |2024-01-24 01:17:43|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Classical 这是匆匆忙忙上架忘记加图标了吗？](https://www.v2ex.com/t/1011066#reply0)|
 |2024-01-24 01:15:32|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 第 66 期 - 偷懒爱好者周刊 24/01/24](https://www.v2ex.com/t/1011065#reply0)|
 |2024-01-24 01:07:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 年味基本上停留在了小时候, 现在过年貌似都没有了乐趣 !](https://www.v2ex.com/t/1011064#reply10)|
