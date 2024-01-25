@@ -2,6 +2,39 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-25 15:55:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google 的 Pixel 手机有什么特别的好处？](https://www.v2ex.com/t/1011622#reply14)|
+|2024-01-25 18:43:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Electron 有办法裁剪到 30MB 以内吗？用 Electron 套壳就是为了解决客户 Win7 电脑还没装 Chrome 等的特殊环境，不可用 tauri 等对环境要求更高的方案](https://www.v2ex.com/t/1011628#reply2)|
+|2024-01-25 14:45:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么 MySQL 软件本体这么大， SQLite 能做到那么小？](https://www.v2ex.com/t/1011610#reply7)|
+|2024-01-25 10:57:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何彻底隐藏安卓的 root（有一个 app 始终不行）？](https://www.v2ex.com/t/1011565#reply26)|
+|2024-01-25 14:11:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【妈呀，年度沙雕新闻这么早就冲业绩了】1月22日，四川广安。醉酒男子摔跤出血，围观女子因晕血昏倒在地……醉酒男子一脸懵逼：这120不是来救我的吗？](https://dig.chouti.com/link/41346605)|
+|2024-01-25 14:10:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本JAXA公布了，SLIM着陆器落点“准确”，但是以“倒栽葱”的姿态落月的↓↓](https://dig.chouti.com/link/41346575)|
+|2024-01-25 03:03:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【一起离婚冷静期内的“杀妻案”】2023年7月7日，35岁的王芳“因超长期家暴”提出与丈夫赵某超离婚。十三天后，两人冷静期内首次见面，当晚陪同王芳的还有另外5人，她的妹妹，以及两个亲兄弟在内的4名男性。赵某超出现后，未发一言，握刀径直刺向王芳。王芳因心脏破裂当场死亡。](https://dig.chouti.com/link/41339463)|
+|2024-01-25 13:03:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男子涉隐瞒犯罪且用双重户口结婚，妻子起诉离婚缺“夫妻感情破裂证据”遭驳](https://dig.chouti.com/link/41345973)|
+|2024-01-25 10:13:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[评论区的刻薄让我心里暖暖的](https://dig.chouti.com/link/41344519)|
+|2024-01-25 16:05:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何挑选一辆适合深度自驾游的车？](https://www.zhihu.com/question/639217071)|
+|2024-01-25 16:05:39|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么好用又便宜的清洁洗面奶推荐？](https://www.zhihu.com/question/636157389)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[特斯拉第四财季营收 251.7 亿美元，毛利率为 17.6%，均低于预期，哪些信息值得关注？](https://www.zhihu.com/question/641110608)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家金融监管总局表示将进一步优化首付比例、贷款利率等个人住房贷款政策，哪些信息值得关注？](https://www.zhihu.com/question/641167930)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[作为一个独居且内心丰富的人，每天非必要不和他人说话，这样会影响心理健康或者身体健康吗？](https://www.zhihu.com/question/637002126)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[是什么支持你每天坚持跑步？](https://www.zhihu.com/question/640626895)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[也门胡塞武装称发射导弹击中一艘美国军舰，将继续阻止与以色列有关联的船只，释放了哪些信号？](https://www.zhihu.com/question/641126877)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[近日「多位明星参演电影涉影视投资诈骗案」引关注，老人养老钱成诈骗重灾区，如何防范影视投资诈骗？](https://www.zhihu.com/question/640977723)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州一小学取消寒假书面作业，「开学后聊聊心得就行」，教育局回应，你认为取消寒假作业是否合理？](https://www.zhihu.com/question/640928922)|
+|2024-01-25 16:05:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[东方甄选公告「净利润同比下滑 57.4％」，哪些信息值得关注？](https://www.zhihu.com/question/641110626)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《繁花》的同款「宝总泡饭」是怎么做的，有什么讲究？和我们常喝的粥有什么区别？](https://www.zhihu.com/question/638742131)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[日本「京阿尼纵火案」宣判，被告青叶真司被判死刑，哪些信息值得关注？](https://www.zhihu.com/question/641137807)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你觉得护肤产品真的有用吗？](https://www.zhihu.com/question/638703061)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[成瘾的本质是什么？](https://www.zhihu.com/question/559996334)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么龙珠中的撒旦风评很好？](https://www.zhihu.com/question/640430354)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[江西新余火灾已致 39 死，警方透露事故原因为「地下冷库施工起火」，负责人被控制，起到哪些警示作用？](https://www.zhihu.com/question/641102809)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么西餐菜的量很少？](https://www.zhihu.com/question/480765808)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[北约启动冷战后「最大规模军演」，俄方警告，释放了哪些信号？](https://www.zhihu.com/question/641115022)|
+|2024-01-25 16:05:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么数学可以作为描述物理的工具？](https://www.zhihu.com/question/640017353)|
+|2024-01-25 16:05:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在电视剧《大江大河之岁月如歌》中，你最喜欢的角色是谁，为什么?](https://www.zhihu.com/question/638962351)|
+|2024-01-25 16:05:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[长期看来，买 3500 左右价位的手机划算，还是 1500 左右的手机划算？](https://www.zhihu.com/question/636349041)|
+|2024-01-25 16:05:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小伙刹车失灵交警用警车挡下，如何看待此事？](https://www.zhihu.com/question/640261885)|
+|2024-01-25 16:05:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 老鹰 112:134 勇士，如何评价这场比赛？](https://www.zhihu.com/question/641125425)|
+|2024-01-25 16:05:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[假如让你给汽车设计一个最鸡肋的功能，你希望是什么？](https://www.zhihu.com/question/447033826)|
 |2024-01-25 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Temu即将上线的半托管，又是一个王炸？](https://36kr.com/p/2618725433612678)|
 |2024-01-25 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[董宇辉逼近小杨哥，但东方甄选跟得上吗？](https://36kr.com/p/2619550221686914)|
 |2024-01-25 14:59:55|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨中石油涨停意味着什么；特斯拉利润率被中国同行连续超过](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511900&idx=2&sn=500b267ad119f323fe5c483b61fb8695)|
