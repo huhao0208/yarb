@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-01-24）
+﻿# 每日资讯（2024-01-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-25 00:54:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[在上海做程序员这么多年，退休后我的工资是多少？](https://www.v2ex.com/t/1011358#reply9)|
+|2024-01-25 01:03:03|[爱范儿](https://www.ifanr.com/feed)|[早报 iPhone 16 Pro Max 影像升级曝光/蚂蚁集团成立 AI 创新部/《鱿鱼游戏》第二季今年开播](https://www.ifanr.com/1574088?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-24 13:48:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[MarkBox 网页收集工具 - 最近更新](https://w2solo.com/topics/4391)|
 |2024-01-24 07:04:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【独立开发前线】Vol.004 我是如何搭建独立开发前线这个网站的](https://w2solo.com/topics/4390)|
 |2024-01-24 18:49:15|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 有没有办法让 1 台电脑 1 个账户，远程多人使用同 1 账户登录操作同 1 个软件，数据互不干扰](https://www.v2ex.com/t/1011346#reply0)|
