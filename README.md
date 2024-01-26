@@ -1,7 +1,21 @@
-﻿# 每日资讯（2024-01-25）
+﻿# 每日资讯（2024-01-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-26 01:12:16|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 10 年 PHP 开发，找兼职](https://www.v2ex.com/t/1011647#reply0)|
+|2024-01-26 01:11:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 过年给爸妈买个电视](https://www.v2ex.com/t/1011646#reply0)|
+|2024-01-26 01:04:25|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 系统无法记住 AirPods 音量](https://www.v2ex.com/t/1011644#reply0)|
+|2024-01-26 01:04:16|[V2EX](https://www.v2ex.com/index.xml)|[ Android OPPO Reno 手机的一个 bug](https://www.v2ex.com/t/1011643#reply0)|
+|2024-01-26 01:02:06|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 想听听各位做了近视眼矫正手术过来人的经验](https://www.v2ex.com/t/1011642#reply3)|
+|2024-01-26 00:57:21|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么有些程序员能坐很久都不起来？](https://www.v2ex.com/t/1011641#reply7)|
+|2024-01-26 00:56:27|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 121 期）：发布个人服务的 SaaS 产品，年收入 160 万美元](https://www.v2ex.com/t/1011640#reply0)|
+|2024-01-26 00:55:21|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有什么推荐的 Java 书籍](https://www.v2ex.com/t/1011639#reply0)|
+|2024-01-26 00:43:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 每晚睡觉，容易出汗，一晚上秋衣能湿好几次怎么办？](https://www.v2ex.com/t/1011636#reply17)|
+|2024-01-26 00:39:55|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 淘汰的百兆路由器还能什么再利用的玩法吗](https://www.v2ex.com/t/1011635#reply4)|
+|2024-01-26 00:39:07|[V2EX](https://www.v2ex.com/index.xml)|[ iPad USB‑C to Apple Pencil 转换器某种程度上来说是不是只在配对用一次就行？](https://www.v2ex.com/t/1011634#reply0)|
+|2024-01-26 00:33:24|[V2EX](https://www.v2ex.com/index.xml)|[ 宠物 家里的猫得了口炎怎么弄？](https://www.v2ex.com/t/1011633#reply12)|
+|2024-01-26 00:28:24|[V2EX](https://www.v2ex.com/index.xml)|[ YouTube 如何让观看 Youtube 视频之后推荐的视频和连播的后续视频自动跳过已经看过的？](https://www.v2ex.com/t/1011632#reply0)|
+|2024-01-26 00:17:29|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 微软 Authenticator 无法在 ios 和 Android 互通](https://www.v2ex.com/t/1011631#reply8)|
 |2024-01-25 15:55:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google 的 Pixel 手机有什么特别的好处？](https://www.v2ex.com/t/1011622#reply14)|
 |2024-01-25 18:43:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Electron 有办法裁剪到 30MB 以内吗？用 Electron 套壳就是为了解决客户 Win7 电脑还没装 Chrome 等的特殊环境，不可用 tauri 等对环境要求更高的方案](https://www.v2ex.com/t/1011628#reply2)|
 |2024-01-25 14:45:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么 MySQL 软件本体这么大， SQLite 能做到那么小？](https://www.v2ex.com/t/1011610#reply7)|
