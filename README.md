@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-26 09:41:38|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1258 苹果公布第三方应用商店的详细规则](https://linux.cn/article-16586-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-26 03:15:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737#reply105)|
+|2024-01-26 02:17:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么一定要尽快用上 ChatGPT 等大语言模型?](https://www.v2ex.com/t/1011694#reply117)|
+|2024-01-26 06:39:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我帮自己项目写了个推广介绍的“软文”，大家帮忙看看](https://www.v2ex.com/t/1011803#reply8)|
+|2024-01-26 08:25:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[兄弟们，有没有年会一个奖都没中的，来聊聊](https://www.v2ex.com/t/1011843#reply63)|
+|2024-01-26 00:17:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微软 Authenticator 无法在 ios 和 Android 互通](https://www.v2ex.com/t/1011631#reply51)|
+|2024-01-26 02:19:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么 Laravel 这么优秀](https://www.v2ex.com/t/1011696#reply102)|
+|2024-01-26 11:09:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[比 ChatGPT 生成代码更快？ MoonBit AI Demo 来啦！](https://www.v2ex.com/t/1011909#reply1)|
+|2024-01-26 03:29:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想要用 ReactNative 实现一个效果，求各路大神指点一下](https://www.v2ex.com/t/1011748#reply7)|
+|2024-01-26 11:14:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 年求可以 root 的安卓手机推荐](https://www.v2ex.com/t/1011910#reply2)|
+|2024-01-26 06:54:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助各位技术大佬](https://www.v2ex.com/t/1011810#reply8)|
+|2024-01-26 09:06:55|[爱范儿](https://www.ifanr.com/feed)|[AI 大模型加持，新年不容错过的效率神器](https://www.ifanr.com/1574190?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-26 07:25:22|[爱范儿](https://www.ifanr.com/feed)|[苹果为什么推出古典乐版 Apple Music ？我和郎朗聊了聊](https://www.ifanr.com/1574169?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-26 02:50:09|[爱范儿](https://www.ifanr.com/feed)|[OpenAI 们的未来，可能得靠《哈利·波特》来「拯救」](https://www.ifanr.com/1572603?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-26 02:46:36|[爱范儿](https://www.ifanr.com/feed)|[从「不插电」耳机开始，我们离告别「续航焦虑」的未来还有多远？](https://www.ifanr.com/1574025?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-26 00:45:49|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果首夺中国智能手机市场年度第一/特斯拉人形机器人最早明年交付/OpenAI 推出新模型](https://www.ifanr.com/1574158?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-26 08:54:18|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[2024 年度最热闹赶大集，居然在上海！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449081&idx=1&sn=0e6f646ab3e17239180acb146dba55cd)|
+|2024-01-26 12:09:58|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【独立开发前线】Vol.006 独立开发者如何扩大收入](https://w2solo.com/topics/4397)|
+|2024-01-26 10:30:00|[机核](https://www.gcores.com/rss)|[旅英小众景点安利：SHEFFIELD&SANDWICH](https://www.gcores.com/videos/176815)|
+|2024-01-26 10:00:00|[机核](https://www.gcores.com/rss)|[《弹跳吧！雪糕仔！》新版本玩法预告之一](https://www.gcores.com/videos/176810)|
+|2024-01-26 09:10:03|[机核](https://www.gcores.com/rss)|[《幻兽帕鲁》开发商新作《Never Grave: The Witch and The Curse》免费Demo已发布](https://www.gcores.com/articles/176816)|
+|2024-01-26 09:00:00|[机核](https://www.gcores.com/rss)|[看朱老师如何狠狠地成为“沈阳银”，录音笔 VOL.130](https://www.gcores.com/radios/176782)|
+|2024-01-26 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图217期:关闭电脑，干点啥好](https://www.gcores.com/articles/173758)|
+|2024-01-26 07:55:01|[机核](https://www.gcores.com/rss)|[地城打怪、地城发财、地城吃饭，地城随身带！《小小史诗地城》组队报名中~](https://www.gcores.com/articles/176812)|
+|2024-01-26 06:57:07|[机核](https://www.gcores.com/rss)|[经典游戏《龙之谷》现已正式登陆Steam！](https://www.gcores.com/articles/176808)|
+|2024-01-26 06:47:45|[机核](https://www.gcores.com/rss)|[开战！《铁拳8》今日正式发售](https://www.gcores.com/articles/176800)|
+|2024-01-26 06:44:29|[机核](https://www.gcores.com/rss)|[写给想转做游戏的主播和新人——项目管理篇](https://www.gcores.com/articles/176749)|
+|2024-01-26 05:02:46|[机核](https://www.gcores.com/rss)|[熬了一年制作的独立游戏《N+1：失业青年新生活》终于上线了！](https://www.gcores.com/videos/176789)|
+|2024-01-26 04:36:51|[机核](https://www.gcores.com/rss)|[深地系列PLAYSTATION5 主机盖 1月26日起在中国大陆市场发售](https://www.gcores.com/articles/176786)|
+|2024-01-26 04:30:46|[机核](https://www.gcores.com/rss)|[流水线启动！自动化生产新作《异形工厂2》试玩版现已推出](https://www.gcores.com/articles/176787)|
+|2024-01-26 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[图赏｜WD My Passport&#x2122; Ultra 便携式存储硬盘龙年特别版](https://www.photoworld.com.cn/post/176082)|
+|2024-01-26 04:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[Galaxy AI 重塑智能手机体验！三星 Galaxy S24 系列正式登陆中国](https://www.photoworld.com.cn/post/176056)|
 |2024-01-26 04:55:47|[Hi, I Am I](https://5ime.cn/atom.xml)|[春秋云镜 Hospital Writeup](https://5ime.cn/yunjing-hospital.html)|
 |2024-01-26 04:57:18|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开源个小工具, 主要解决 nextjs 在接口调用上几个痛点:](https://w2solo.com/topics/4396)|
 |2024-01-26 02:21:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[网站上线一周，日流量不过十](https://w2solo.com/topics/4395)|
