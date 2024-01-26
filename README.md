@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-26 02:37:24|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[【译】Apache Pulsar 2023 年度回顾](http://crossoverjie.top/2024/01/26/ob/translate-pulsar-2023-year-in-review/)|
+|2024-01-26 04:01:46|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/85988)|
+|2024-01-26 12:28:52|[爱范儿](https://www.ifanr.com/feed)|[App Store 变天！苹果史上首次开放第三方下载意味着什么？](https://www.ifanr.com/1574230?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-26 02:18:29|[子来园](https://wanghuibin0.github.io/index.xml)|[利用ssh reverse tunnel从远程向本机复制文本](https://simplecoding.fun/posts/2024/01/copy-remote-text-to-local/)|
+|2024-01-26 15:11:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[黑客劫持 WPS Office 更新安装恶意程序](https://www.v2ex.com/t/1011945#reply1)|
+|2024-01-26 00:17:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微软 Authenticator 无法在 ios 和 Android 互通](https://www.v2ex.com/t/1011631#reply54)|
+|2024-01-26 02:19:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么 Laravel 这么优秀](https://www.v2ex.com/t/1011696#reply113)|
+|2024-01-26 02:17:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么一定要尽快用上 ChatGPT 等大语言模型?](https://www.v2ex.com/t/1011694#reply132)|
+|2024-01-26 15:57:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[调查下，有多少人用 panic + defer + recover 的？](https://www.v2ex.com/t/1011952#reply0)|
+|2024-01-26 11:14:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 年求可以 root 的安卓手机推荐](https://www.v2ex.com/t/1011910#reply5)|
+|2024-01-26 14:50:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有大佬帮我解答一个关于比赛分组的算法问题？](https://www.v2ex.com/t/1011943#reply1)|
+|2024-01-26 14:20:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[小孩在 Chromebook 上初学 C++，有什么在线 IDE 推荐？](https://www.v2ex.com/t/1011936#reply6)|
+|2024-01-26 03:04:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google 账号有没有必要改掉+86 的预留号码](https://www.v2ex.com/t/1011729#reply13)|
+|2024-01-26 13:27:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 开源 coze-discord-proxy 代理为 api 免费使用 GPT4-128k](https://www.v2ex.com/t/1011930#reply6)|
+|2024-01-26 06:39:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我帮自己项目写了个推广介绍的“软文”，大家帮忙看看](https://www.v2ex.com/t/1011803#reply11)|
+|2024-01-26 03:29:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想要用 ReactNative 实现一个效果，求各路大神指点一下](https://www.v2ex.com/t/1011748#reply8)|
+|2024-01-26 11:09:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[比 ChatGPT 生成代码更快？ MoonBit AI Demo 来啦！](https://www.v2ex.com/t/1011909#reply2)|
+|2024-01-26 03:15:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737#reply107)|
+|2024-01-26 13:18:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想找一个处理大数据的朋友](https://www.v2ex.com/t/1011928#reply0)|
+|2024-01-26 12:49:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[谷歌地图『我的地图』功能遭广告污染](https://www.v2ex.com/t/1011923#reply0)|
+|2024-01-26 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：机核文章推荐与导读（1.13-1.26）](https://www.gcores.com/articles/176814)|
+|2024-01-26 15:00:00|[机核](https://www.gcores.com/rss)|[你吃过最奇怪的美食是？核市奇谭Vol.65](https://www.gcores.com/radios/176486)|
+|2024-01-26 16:07:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[焦点分析 特斯拉：艰难2023，煎熬2024](https://36kr.com/p/2619712343349378)|
+|2024-01-26 16:07:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[GPT-4「变懒」bug被修复，价格暴降80%，OpenAI连更5款新模型，性能狂飙](https://36kr.com/p/2621222066034820)|
+|2024-01-26 16:07:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[收割年轻人“新项目”，把小卡片卖到上万元](https://36kr.com/p/2620182753663360)|
+|2024-01-26 16:07:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[许家印的“爷叔”， 来A股抄底了](https://36kr.com/p/2620070686169477)|
+|2024-01-26 16:07:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[16年来首次，苹果历史性让步：开放第三方下载，全面革新App Store，开发生态巨震](https://36kr.com/p/2620887713865859)|
+|2024-01-26 16:07:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为复制问界踩坑，智界S7的交付之困 焦点分析](https://36kr.com/p/2619520633690498)|
+|2024-01-26 13:25:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨字节、Shein 游说美国；苹果回击欧盟](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511985&idx=4&sn=0b6ad5805b74c0f2e70ea2adcd38ced5)|
+|2024-01-26 13:25:33|[晚点LatePost](https://feedpress.me/wx-postlate)|[华为智界 S7 交付难题：奇瑞代工日产量仅数十台](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511985&idx=2&sn=e338478417402bd2ce2a08e016755487)|
+|2024-01-26 13:25:33|[晚点LatePost](https://feedpress.me/wx-postlate)|[特斯拉毛利率创近 4 年新低](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511985&idx=3&sn=383caa6c1ff7824a23682bbbe2a3c576)|
+|2024-01-26 13:25:32|[晚点LatePost](https://feedpress.me/wx-postlate)|[巨量引擎发布自动化技术品牌：规模化地提升营销效率，解放人](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511985&idx=1&sn=c50fa1ce4bd490b84194d3a1e8631be1)|
 |2024-01-26 09:41:38|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1258 苹果公布第三方应用商店的详细规则](https://linux.cn/article-16586-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-26 03:15:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737#reply105)|
 |2024-01-26 02:17:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么一定要尽快用上 ChatGPT 等大语言模型?](https://www.v2ex.com/t/1011694#reply117)|
