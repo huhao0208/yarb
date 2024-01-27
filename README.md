@@ -1,7 +1,12 @@
-﻿# 每日资讯（2024-01-26）
+﻿# 每日资讯（2024-01-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-27 01:11:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 IDEA 社区版的不支持 spring framework，具体是怎么不支持啊？@Autowired 的字段不会有左侧箭头定位到 Bean 吗？有什么插件可以代替这一功能吗？](https://www.v2ex.com/t/1011964#reply0)|
+|2024-01-27 00:59:27|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 上的小助手](https://www.v2ex.com/t/1011963#reply0)|
+|2024-01-27 00:14:31|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 xdm,求推荐机场](https://www.v2ex.com/t/1011962#reply9)|
+|2024-01-27 00:13:16|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 欧服幻兽帕鲁找一起玩的](https://www.v2ex.com/t/1011961#reply3)|
+|2024-01-27 00:11:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 周末来分享一下最近一次看没有快进的电影吧](https://www.v2ex.com/t/1011960#reply15)|
 |2024-01-26 03:01:57|[知乎每日精选](https://www.zhihu.com/rss)|[全国高铁网车次密度示意图 2024年1月](http://zhuanlan.zhihu.com/p/679679135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-26 02:56:11|[知乎每日精选](https://www.zhihu.com/rss)|[北京为何称为中国文化中心？](http://www.zhihu.com/question/59444812/answer/3196768901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-26 02:51:24|[知乎每日精选](https://www.zhihu.com/rss)|[「Legend of Cretaceous丨白垩传○1」末世对决（上）：进击的暴龙](http://zhuanlan.zhihu.com/p/60973952?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
