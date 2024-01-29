@@ -1,7 +1,21 @@
-﻿# 每日资讯（2024-01-28）
+﻿# 每日资讯（2024-01-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-29 00:30:33|[爱范儿](https://www.ifanr.com/feed)|[iOS 18 或成苹果史上最大软件更新/12306 新举措应对恶意抢票/OpenAI 联合创始人称 AGI 将超越人类能力](https://www.ifanr.com/1574444?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-29 01:07:46|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享一个收集优秀 admin 管理框架的 github 项目，欢迎推荐和 star 点赞](https://www.v2ex.com/t/1012304#reply2)|
+|2024-01-29 01:07:31|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 电报收不到+86 的登录验证码了](https://www.v2ex.com/t/1012303#reply0)|
+|2024-01-29 01:03:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有偿求一个玄学测算的后端源码~](https://www.v2ex.com/t/1012302#reply2)|
+|2024-01-29 01:00:11|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 苹果作出重大让步， 允许欧盟地区用户通过第三方下载 APP](https://www.v2ex.com/t/1012301#reply0)|
+|2024-01-29 00:54:30|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 简约与宁静的网站，工作或休息片刻可以体验一下](https://www.v2ex.com/t/1012300#reply0)|
+|2024-01-29 00:50:43|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 支持 openai、moonshot 的资讯阅读插件，永久免费，有没有 v 友来提提建议？](https://www.v2ex.com/t/1012298#reply0)|
+|2024-01-29 00:38:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 需要出差住一段时间酒店，问个网络问题](https://www.v2ex.com/t/1012295#reply5)|
+|2024-01-29 00:31:18|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 看到一篇保护隐私的文章，让我很无语](https://www.v2ex.com/t/1012294#reply7)|
+|2024-01-29 00:31:11|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 孤独的裁判员：高效地人工评估 LLM fine-tuning 效果](https://www.v2ex.com/t/1012293#reply0)|
+|2024-01-29 00:29:17|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 再次探究部分地区“白名单”状况](https://www.v2ex.com/t/1012291#reply5)|
+|2024-01-29 00:20:47|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 请教下老司机，春节回家过年，回程、返程哪一天高速上相对没那么堵？](https://www.v2ex.com/t/1012290#reply18)|
+|2024-01-29 00:02:02|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 心盒现象：高度依赖人工的信息推荐系统，借助多现象组合描述实现，也许能让你变强](https://www.v2ex.com/t/1012289#reply4)|
+|2024-01-29 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第163期 - 买了麻将](https://weekly.tw93.fun/posts/163-%E4%B9%B0%E4%BA%86%E9%BA%BB%E5%B0%86/)|
 |2024-01-28 11:55:03|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2024-01-28 如何从 Maven 迁移到 Gradle](https://blog.cmyr.ltd/archives/3d1e83f3.html)|
 |2024-01-28 08:21:41|[鸟窝](https://colobu.com/atom.xml)|[从慢速到SIMG: 一个Go优化的故事](https://colobu.com/2024/01/28/slow-to-simd/)|
 |2024-01-28 11:52:06|[maxOS](https://maxoxo.me/rss/)|[Issue #9 - 有关产品创新](https://maxoxo.me/issue-9-about-innovation/)|
