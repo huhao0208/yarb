@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-29 01:35:00|[Hi, I Am I](https://5ime.cn/atom.xml)|[RealWorld 2024 Writeup](https://5ime.cn/realworld-2024.html)|
+|2024-01-29 09:44:01|[爱范儿](https://www.ifanr.com/feed)|[号称中文评测超越 GPT-4，百川智能发布超千亿参数大模型 Baichuan 3](https://www.ifanr.com/1574506?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-29 04:12:43|[爱范儿](https://www.ifanr.com/feed)|[范伟主演的苹果新春大片怎么拍的？我们和导演挖出了这些幕后细节](https://www.ifanr.com/1574450?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-29 14:00:28|[唐巧的博客](http://blog.devtang.com/atom.xml)|[上下同欲的几种情况](https://blog.devtang.com/2024/01/29/target-mapping-situations/)|
+|2024-01-29 10:32:45|[SHRIK3](https://shrik3.com/index.xml)|[How much Page Tables / PTEs are needed for xyz amount of memory?](https://shrik3.com/post/paging/)|
+|2024-01-29 19:38:23|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 亚马逊 aws 的 ipv4 ipv6 价格](https://www.v2ex.com/t/1012619#reply0)|
+|2024-01-29 18:48:14|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 家宽如何获取对端 bras 信息呢](https://www.v2ex.com/t/1012618#reply0)|
+|2024-01-29 18:26:17|[V2EX](https://www.v2ex.com/index.xml)|[ Surge Surge for Mac 屏蔽 Youtube 广告？](https://www.v2ex.com/t/1012617#reply1)|
+|2024-01-29 17:48:45|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 快速解决 macbook pro 连接 Rode wireless go 无线外置麦克风问题](https://www.v2ex.com/t/1012615#reply0)|
+|2024-01-29 17:48:39|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 已知和另一个人有一个共同 QQ 好友，如何在不互相暴露好友列表的情况下找出这个共同好友？](https://www.v2ex.com/t/1012614#reply2)|
+|2024-01-29 17:20:57|[V2EX](https://www.v2ex.com/index.xml)|[ Google Gboard 在苹果上的九键怎么打出问号？求问](https://www.v2ex.com/t/1012613#reply1)|
+|2024-01-29 17:04:36|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 MySQL 和 SQLite 可以对其执行 SQL 添加一个约束吗？就是删改的 SQL 语句必须要带上 where，如果没有就不执行](https://www.v2ex.com/t/1012612#reply1)|
+|2024-01-29 16:47:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 合同即将到期, BOSS 已明确不会续签](https://www.v2ex.com/t/1012611#reply4)|
 |2024-01-29 16:06:03|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 语雀/Notion/飞书/FlowUs + Hexo/VitePress/Halo/WordPress 快速搭建博客/文档站点](https://www.v2ex.com/t/1012610#reply0)|
 |2024-01-29 16:00:07|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 32 失业了，什么都会一点，什么也都不会](https://www.v2ex.com/t/1012609#reply0)|
 |2024-01-29 15:30:11|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 Windows 怎么安全不留痕地拷贝文件、删除文件](https://www.v2ex.com/t/1012608#reply7)|
