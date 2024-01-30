@@ -2,6 +2,71 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-30 14:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩剧《大长今》将拍续集，53岁李英爱回归荧屏](https://dig.chouti.com/link/41397021)|
+|2024-01-30 03:13:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美军基地遇无人机袭击细节披露：可能把敌方无人机误认为己方】据ABC报道，两名未获授权置评、要求匿名的知情官员证实，美方人员很可能误把敌方无人机当成了己方执行侦察任务后返回的无人机。另据美联社称，事发时恰好有一架美军无人机返回基地，美方人员很可能把敌方无人机和己方无人机混淆，因此防空系统未能及时拦截。](https://dig.chouti.com/link/41390681)|
+|2024-01-30 15:12:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[缅甸警方向中国公安机关移交白所成等果敢电诈头目](https://dig.chouti.com/link/41397892)|
+|2024-01-30 06:09:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1976年，全女性摇滚乐队The Runaways在加州海滩上拍摄宣传照](https://dig.chouti.com/link/41392547)|
+|2024-01-30 13:10:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴基斯坦前总理伊姆兰·汗被判10年监禁 涉嫌泄露机密](https://dig.chouti.com/link/41396727)|
+|2024-01-30 16:07:10|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 微林的流量优化服务下线了，有没有可以替代的解决方案？](https://www.v2ex.com/t/1012926#reply0)|
+|2024-01-30 16:01:27|[V2EX](https://www.v2ex.com/index.xml)|[ Windows DLL 不是只读文件吗？玩个游戏能把硬盘上的游戏文件玩坏了](https://www.v2ex.com/t/1012925#reply2)|
+|2024-01-30 15:58:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Mac 装双系统后进不去 Mac 了，有什么办法保存数据吗？](https://www.v2ex.com/t/1012924#reply2)|
+|2024-01-30 15:53:10|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 写了个标点符号使用方式的文档（还没写完）](https://www.v2ex.com/t/1012923#reply0)|
+|2024-01-30 15:49:41|[V2EX](https://www.v2ex.com/index.xml)|[ macOS macos 14.4 idleassetsd 这个进程占用内存一直在涨](https://www.v2ex.com/t/1012922#reply0)|
+|2024-01-30 15:47:44|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 谷歌翻译大更新！支持文档，网站，图片。](https://www.v2ex.com/t/1012921#reply0)|
+|2024-01-30 15:43:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Java 9 引入的这个模块，它对于 spring boot web 开发是不是没啥影响？](https://www.v2ex.com/t/1012919#reply0)|
+|2024-01-30 15:13:53|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 基于微信平台的卖货一定做不起来，包括短视频、直播等等，开放平台的定位简直拖后腿，增加企业的负担](https://www.v2ex.com/t/1012917#reply0)|
+|2024-01-30 15:02:21|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 来聊聊我这半年四五线小城市的运营商电信的工作内容和未来的想法](https://www.v2ex.com/t/1012913#reply0)|
+|2024-01-30 14:56:38|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 路由器有办法统计流量吗](https://www.v2ex.com/t/1012911#reply5)|
+|2024-01-30 14:56:13|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Vision Pro 已解禁，各博主总结：失望](https://www.v2ex.com/t/1012910#reply6)|
+|2024-01-30 14:55:50|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了三个红包封面，分享给大家啦](https://www.v2ex.com/t/1012909#reply6)|
+|2024-01-30 14:48:40|[V2EX](https://www.v2ex.com/index.xml)|[ Windows "已禁用输入法", 到是什么原因导致的?](https://www.v2ex.com/t/1012908#reply1)|
+|2024-01-30 14:32:48|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 关于 Apple 设备加密各个部件的不成熟猜想](https://www.v2ex.com/t/1012906#reply3)|
+|2024-01-30 14:29:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 无线键盘是不是也可以改成有线的，难度大吗](https://www.v2ex.com/t/1012905#reply1)|
+|2024-01-30 14:24:21|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 记录自己失业后的生活](https://www.v2ex.com/t/1012904#reply5)|
+|2024-01-30 14:13:42|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 房屋托管给第三方遭遇违约，现在该怎么办。。。](https://www.v2ex.com/t/1012903#reply5)|
+|2024-01-30 14:13:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Windows11 为什么打开 Chrome 默认总是弹出必应中国的标签页](https://www.v2ex.com/t/1012902#reply2)|
+|2024-01-30 14:12:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 接受自建中继，远程控制手机用哪套好啊？要把手机放在办公地点，远程钉钉打卡](https://www.v2ex.com/t/1012901#reply3)|
+|2024-01-30 13:48:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 管理多个 GPU 有什么好的开源方案鸭，求推荐](https://www.v2ex.com/t/1012900#reply0)|
+|2024-01-30 13:41:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 寻远程全栈工程师职位，前端或者后端开发也可以](https://www.v2ex.com/t/1012898#reply2)|
+|2024-01-30 13:34:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 牙齿经常有问题怎么办?](https://www.v2ex.com/t/1012897#reply5)|
+|2024-01-30 13:30:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 似乎即使没有备案， https 的子域名也是能正常访问的](https://www.v2ex.com/t/1012896#reply0)|
+|2024-01-30 13:28:44|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 记住你的旅行，通过手机照片生成你的旅行经历页面](https://www.v2ex.com/t/1012895#reply0)|
+|2024-01-30 13:23:01|[V2EX](https://www.v2ex.com/index.xml)|[ Chrome chrome 更新了以后--disable-features=CopyLinkToText 失效了](https://www.v2ex.com/t/1012894#reply0)|
+|2024-01-30 13:20:45|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 自建 RA 服务， Windows IPv6 不时出现“无 Internet 访问权限”， 默认路由条目丢失的情况](https://www.v2ex.com/t/1012893#reply0)|
+|2024-01-30 13:06:20|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有做全栈开发的，我需要设计个或者仿站，需要有技术的](https://www.v2ex.com/t/1012890#reply0)|
+|2024-01-30 13:00:46|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 假冒蚂蚁集福诈骗？](https://www.v2ex.com/t/1012889#reply5)|
+|2024-01-30 12:51:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 ios 授予剪贴板权限后是只能获取当前剪贴板内容还是全部的内容呢](https://www.v2ex.com/t/1012887#reply0)|
+|2024-01-30 12:45:58|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 「上海全职」Web+AI 创业公司招聘海外 AI 产品运营](https://www.v2ex.com/t/1012886#reply0)|
+|2024-01-30 12:36:22|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 群晖 DLNA 的一个奇怪问题有人遇到过么?](https://www.v2ex.com/t/1012885#reply1)|
+|2024-01-30 12:33:23|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 坐标杭州，求 tp6+swoole 框架很熟悉 有很强理解的](https://www.v2ex.com/t/1012884#reply0)|
+|2024-01-30 12:31:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 专门用来打游戏的电脑用什么操作系统最好？](https://www.v2ex.com/t/1012883#reply10)|
+|2024-01-30 12:24:53|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 为什么 Apple 要取消签名 ipsw 文件](https://www.v2ex.com/t/1012880#reply12)|
+|2024-01-30 12:18:11|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 微信「面对面建群」的功能设计及其技术实现](https://www.v2ex.com/t/1012879#reply2)|
+|2024-01-30 12:13:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 不懂就问，如何将图片转 excel 表格框架](https://www.v2ex.com/t/1012877#reply3)|
+|2024-01-30 12:56:03|[小众软件](https://www.appinn.com/feed/)|[就近共享（Nearby Sharing）- 在 Android 与 Windows 之间传输文件](https://www.appinn.com/nearby-sharing/)|
+|2024-01-30 16:07:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在商场，如何把车卖给来吃饭的中年人？](https://36kr.com/p/2626591343984896)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家 AR独角兽「XREAL」获6000万美元战略融资，预计2025年实现年200万台产能](https://36kr.com/p/2589817237928835)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果今年曝出来的瓜，真的有点大](https://36kr.com/p/2626271479823493)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[刚刚，投资人找我买A货了](https://36kr.com/p/2626572119231748)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克宣布人类首次植入脑机接口芯片，用意念操作手机只是开始](https://36kr.com/p/2626504421458178)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[淘宝京东该戒掉“工厂直供”PTSD了](https://36kr.com/p/2625823113444481)|
+|2024-01-30 11:19:49|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1262 网络上最古老的软件存档库之一即将关闭](https://linux.cn/article-16597-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-30 07:47:31|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[系统运维 如何在 RHEL 上通过绑定配置 VLAN 标记](https://linux.cn/article-16596-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-30 06:59:36|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Linux Matrix 消息应用 Fractal 6 发布](https://linux.cn/article-16595-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-30 08:01:51|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[离职做菜一个月后，老板把我买菜钱报销了](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449228&idx=1&sn=48908c6527e80e08c29e9537e6614b4a)|
+|2024-01-30 15:53:00|[机核](https://www.gcores.com/rss)|[文学与游戏的融合：视觉小说的叙事研究（下）](https://www.gcores.com/articles/176996)|
+|2024-01-30 15:00:00|[机核](https://www.gcores.com/rss)|[读书：地火 过去的人真笨，过去的人真难](https://www.gcores.com/radios/176818)|
+|2024-01-30 14:46:37|[机核](https://www.gcores.com/rss)|[整装换新、值得重温：《女神异闻录3 Reload》媒体评分汇总](https://www.gcores.com/articles/176999)|
+|2024-01-30 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第十一章 艾斯潘多回忆](https://www.gcores.com/radios/176796)|
+|2024-01-30 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第十章 奥特拉玛的新闻](https://www.gcores.com/radios/176795)|
+|2024-01-30 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第九章 帝皇的荣誉](https://www.gcores.com/radios/176794)|
+|2024-01-30 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第八章 在亚克斯的休憩](https://www.gcores.com/radios/176793)|
+|2024-01-30 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第七章 灰盾的最后飞行](https://www.gcores.com/radios/176792)|
+|2024-01-30 13:52:19|[机核](https://www.gcores.com/rss)|[《Fate/stay night》高清复刻版映象解禁，预计2024年内发售](https://www.gcores.com/articles/176993)|
+|2024-01-30 12:53:48|[机核](https://www.gcores.com/rss)|[夜间飞行](https://www.gcores.com/articles/176980)|
+|2024-01-30 12:30:00|[机核](https://www.gcores.com/rss)|[《死亡搁浅 导演剪辑版》现已登陆 iPhone 15、iPad 和 Mac](https://www.gcores.com/articles/176983)|
+|2024-01-30 12:16:19|[机核](https://www.gcores.com/rss)|[2023Emo之夜！年度EMO类音乐杂谈推荐](https://www.gcores.com/videos/176984)|
+|2024-01-30 05:23:42|[知乎每日精选](https://www.zhihu.com/rss)|[为什么深圳地铁的线路规划不像北京一样设计成棋盘布局？](http://www.zhihu.com/question/63842971/answer/565524025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-30 10:03:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯央行行长：人民币在俄出口结算中的份额两年来增长85倍](https://dig.chouti.com/link/41395019)|
 |2024-01-30 10:10:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“弗罗多”演员伊利亚·伍德透露：《指环王》有一个特别丑的兽人，长相设计的灵感来源是好莱坞臭名昭著的性侵犯哈维·韦恩斯坦。因为导演彼得·杰克逊非常厌恶他，在设计该兽人造型的过程中甚至表示“Fuck him”。虽然伊利亚·伍德没有说出具体是哪一个兽人，不过外粉凭借长相推测是P2或者P3](https://dig.chouti.com/link/41395133)|
 |2024-01-30 06:08:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[月曜中国留学生专访…泡泡浴对外国人提价6成我是没想到！](https://dig.chouti.com/link/41392501)|
