@@ -2,6 +2,55 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-30 02:25:00|[子来园](https://wanghuibin0.github.io/index.xml)|[读《沟通的艺术》](https://simplecoding.fun/posts/2024/01/reading-art-of-communication/)|
+|2024-01-30 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 9 部作品](https://sspai.com/post/86118)|
+|2024-01-30 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)|
+|2024-01-30 00:40:26|[爱范儿](https://www.ifanr.com/feed)|[马化腾年会演讲曝光，回应 64 亿海淀拿地/微软 Edge 浏览器疑屏蔽百度搜索结果/抖音联合周星驰推出系列短剧](https://www.ifanr.com/1574550?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-30 00:35:25|[爱范儿](https://www.ifanr.com/feed)|[蔚来今天的史诗级更新，不过是李斌 3 年前挖的「坑」](https://www.ifanr.com/1574528?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-30 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些适合过年期间窝在家里看的影视剧？](https://www.zhihu.com/question/638064933)|
+|2024-01-30 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国务院国资委表示，全面推开上市公司市值管理考核，将带来哪些影响？](https://www.zhihu.com/question/641819040)|
+|2024-01-30 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[百川智能发布超千亿大模型 Baichuan 3，技术能力如何？](https://www.zhihu.com/question/641806600)|
+|2024-01-30 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国得州副州长称将继续在美墨边境修建刀片刺网等屏障，如果执法部门干预，将会与其对抗，透露哪些信息？](https://www.zhihu.com/question/641941520)|
+|2024-01-30 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[丰田章男再发布贬低电动汽车言论，马斯克一声叹息，该高管此举有何目的？](https://www.zhihu.com/question/641297409)|
+|2024-01-30 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[伊朗回应拜登「美军约旦遇袭案与伊朗无关」，将对局势产生哪些影响？](https://www.zhihu.com/question/641827968)|
+|2024-01-30 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[夫妻结婚 6 年连续 4 年各回各家过年引热议，教授称「夫妻分居型春节没什么不好 」，如何看待此现象？](https://www.zhihu.com/question/641771840)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有人说快乐教育不如苦难教育，因为苦难教育至少还能吃到苦，如何反驳？](https://www.zhihu.com/question/641509243)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么歌是你听 800 遍的都不腻的？](https://www.zhihu.com/question/636121343)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[是什么原因让胖东来独一家，而别的公司学不来？](https://www.zhihu.com/question/633102328)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[亚洲杯 1/8 决赛约旦绝杀伊拉克，如何看待伊拉克球员艾门胡赛因挑衅庆祝动作被罚下？](https://www.zhihu.com/question/641881240)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你都学过哪些糊口的手艺?](https://www.zhihu.com/question/626092091)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[报告显示，月薪一万元以下的人旅游更爱说走就走，不做计划，如何看待这一现象？为什么出现这种情况？](https://www.zhihu.com/question/641818742)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[公务员岗位写明「不提供宿舍」值得报考吗?](https://www.zhihu.com/question/626346758)|
+|2024-01-30 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我国女性 HPV 感染率「双峰」分别为 17-24 、 40-44 岁， HPV 真有那么容易感染吗？](https://www.zhihu.com/question/641776005)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价（G）-IDLE 的新歌《super lady》？](https://www.zhihu.com/question/641826586)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网红宝妈哺乳期因感冒五天未就医去世，具体情况如何？如何从医学角度解读？](https://www.zhihu.com/question/641840338)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[暴雪开发了四年多的未命名生存游戏《奥德赛》也已经宣布取消，这背后有何原因？](https://www.zhihu.com/question/641473054)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[普京正式登记为俄罗斯下届总统候选人，哪些信息值得关注？](https://www.zhihu.com/question/641825112)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[唯物主义和唯心主义不能共存吗?](https://www.zhihu.com/question/605154509)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果只允许出现 10 个 6A 级景区，你会选择哪十个景区呢？](https://www.zhihu.com/question/276628410)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《原神》新发布的千织角色立绘？](https://www.zhihu.com/question/641867385)|
+|2024-01-30 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 G I-DLE 正规二辑《2》主打新歌《super lady》？](https://www.zhihu.com/question/641826679)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[让女儿考上研究生前禁止谈恋爱，专心学习不对吗？](https://www.zhihu.com/question/639907106)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价原神 4.4 版本上半卡池安排及四星陪跑？](https://www.zhihu.com/question/641789769)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待华硕无畏作为首款酷睿 Ultra 9 处理器的 RTX 轻薄本？](https://www.zhihu.com/question/641866371)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么现在年轻人宁愿自己工资低点也要过得舒服，不那么累?](https://www.zhihu.com/question/636907409)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[主板不带 WiFi，显卡遮住了 pcie 接口，不方便接路由器上的网口，如何联网?](https://www.zhihu.com/question/639816768)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在职场中，我们究竟应该将有限精力侧重于增强自己的长板，还是努力弥补短板？](https://www.zhihu.com/question/641399989)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么现在手机厂商开始注重屏幕护眼功能了？](https://www.zhihu.com/question/633389153)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[打游戏真的是一件很浪费时间的事情吗?](https://www.zhihu.com/question/641827784)|
+|2024-01-30 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[OLED 显示屏的类 DC 调光是什么？它和高频 PWM 比各有什么优劣？](https://www.zhihu.com/question/612899355)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[马克龙最新对华表态，他提到「法国一定能够直接倾听中国的声音，并被中国倾听」，释放了哪些信号？](https://www.zhihu.com/question/641824628)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[消息称特朗普或对所有中国商品征税 60%，如何看待其可能性？](https://www.zhihu.com/question/641811527)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[围棋下得厉害，能证明这个人心有谋算吗？](https://www.zhihu.com/question/640045405)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《少女前线 2：追放》2024 年 1 月 29 日发布的「制作组致信」？](https://www.zhihu.com/question/641852178)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年，值得学生党入手的旗舰机有哪些？有哪些算得上真香旗舰？](https://www.zhihu.com/question/641808230)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你对英雄联盟的遗憾有哪些？](https://www.zhihu.com/question/622153903)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「刚拍的 CT 换家医院就不认」，医院重复检查赚收益，医检互认为何难以实施？](https://www.zhihu.com/question/641830309)|
+|2024-01-30 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「集五福」已经第九个年头了，为什么大家依旧喜欢集五福？](https://www.zhihu.com/question/641829438)|
+|2024-01-30 01:59:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【人工智能将超越人类？“脑机接口之父”：资本炒作，AI无法真正地进化】脑机接口无法帮助人类实现《黑客帝国》中意识上传的场景，人类的记忆是以模拟方式而非数字方式存储的。侵入式脑机接口的初衷是为了科研，对患者并不是最优选择。植入物应仅限于非常严重的病例中或少数全身完全瘫痪的患者。](https://dig.chouti.com/link/41389565)|
+|2024-01-30 02:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[鸽子不时闯入地铁站，首尔贴老鹰照片“恐吓”](https://dig.chouti.com/link/41389715)|
+|2024-01-30 02:42:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【家人连续申诉八年，“智障男子抢劫案”启动再审】目前，李奎星身患重疾，被诊断为胰腺恶性肿瘤、继发性肺恶性肿瘤和淋巴结继发性恶性肿瘤，正在接受化疗。广东高院宣布启动再审后，李奎星告诉记者：“我最大的愿望就是能尽早为弟弟洗清冤屈，还他一个清白。”](https://dig.chouti.com/link/41390168)|
+|2024-01-30 03:00:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【寻。路。A。股。】90后基金经理王贵重搜集了自己所有的银行卡，最后凑了500元钱投入到自己的沪港深基金。他曾经是13岁考入北京大学的“天才儿童”，如今在嘉实基金担任大科技总监，前不久因为一封公开信走红，“我真的觉得当下的位置能挣钱了。”但A股市场并不买账，当日上证指数反而下跌2.09%，创下2020年5月以来新低。](https://dig.chouti.com/link/41390177)|
 |2024-01-30 00:53:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克：首位人类已接受Neuralink脑机芯片植入手术，目前恢复良好](https://dig.chouti.com/link/41389017)|
 |2024-01-30 01:12:54|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt OpenWrt 里的如何抓 wan 的 dhcp 报文？](https://www.v2ex.com/t/1012639#reply0)|
 |2024-01-30 01:10:02|[V2EX](https://www.v2ex.com/index.xml)|[ git 哎呀，无语死了，第一次进派出所。](https://www.v2ex.com/t/1012638#reply8)|
