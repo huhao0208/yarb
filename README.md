@@ -1,7 +1,21 @@
-﻿# 每日资讯（2024-01-29）
+﻿# 每日资讯（2024-01-30）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-30 00:53:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克：首位人类已接受Neuralink脑机芯片植入手术，目前恢复良好](https://dig.chouti.com/link/41389017)|
+|2024-01-30 01:12:54|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt OpenWrt 里的如何抓 wan 的 dhcp 报文？](https://www.v2ex.com/t/1012639#reply0)|
+|2024-01-30 01:10:02|[V2EX](https://www.v2ex.com/index.xml)|[ git 哎呀，无语死了，第一次进派出所。](https://www.v2ex.com/t/1012638#reply8)|
+|2024-01-30 01:08:46|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 QX 求教](https://www.v2ex.com/t/1012637#reply0)|
+|2024-01-30 01:04:10|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 求问个火柴人风格的游戏名称](https://www.v2ex.com/t/1012635#reply3)|
+|2024-01-30 01:02:44|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 英语学习技巧： 9389 个雅思托福词汇聚类背单词（完成 50%，还需志愿者）](https://www.v2ex.com/t/1012634#reply0)|
+|2024-01-30 00:59:31|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 空调灰尘味很大,怎么解决](https://www.v2ex.com/t/1012633#reply2)|
+|2024-01-30 00:41:15|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 请教 Mac 上浏览器打开上次浏览的页面全部都失效，怎么修复？](https://www.v2ex.com/t/1012630#reply0)|
+|2024-01-30 00:38:34|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Solo 开发者周刊（第 2 期）：一站式解决各类办公绘图问题](https://www.v2ex.com/t/1012629#reply0)|
+|2024-01-30 00:29:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 现在大数据应该考什么证书呢？](https://www.v2ex.com/t/1012627#reply0)|
+|2024-01-30 00:29:02|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 视频去水印--限时免费体验](https://www.v2ex.com/t/1012626#reply1)|
+|2024-01-30 00:10:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 ai 训练（非大模型）现在可以用 cpu 跑吗？](https://www.v2ex.com/t/1012625#reply7)|
+|2024-01-30 00:08:32|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Solo 开发者周刊（第 1 期）：开源产品的探索之路](https://www.v2ex.com/t/1012624#reply0)|
+|2024-01-30 00:02:26|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 17.3 已修复控制中心的音量控件回弹的问题](https://www.v2ex.com/t/1012623#reply10)|
 |2024-01-29 01:35:00|[Hi, I Am I](https://5ime.cn/atom.xml)|[RealWorld 2024 Writeup](https://5ime.cn/realworld-2024.html)|
 |2024-01-29 09:44:01|[爱范儿](https://www.ifanr.com/feed)|[号称中文评测超越 GPT-4，百川智能发布超千亿参数大模型 Baichuan 3](https://www.ifanr.com/1574506?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-29 04:12:43|[爱范儿](https://www.ifanr.com/feed)|[范伟主演的苹果新春大片怎么拍的？我们和导演挖出了这些幕后细节](https://www.ifanr.com/1574450?utm_source=rss&utm_medium=rss&utm_campaign=)|
