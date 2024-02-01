@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-01 17:22:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[1u 服务器怎么外挂硬盘做 nas 存储？](https://www.v2ex.com/t/1013550#reply2)|
+|2024-02-01 10:41:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[cs 学生，请问目前 chatgpt 4.0、codipilot 等 AI 助手/工具的水平到底是什么程度？码农这个行业还有未来么？](https://www.v2ex.com/t/1013479#reply62)|
+|2024-02-01 07:23:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位被信创折磨的程序员们，你们有用 GaussDB 的吗](https://www.v2ex.com/t/1013406#reply30)|
+|2024-02-01 13:10:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[群晖相册管理 photos mobile 的逻辑是？](https://www.v2ex.com/t/1013510#reply8)|
+|2024-02-01 07:25:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux 中国要停更了](https://www.v2ex.com/t/1013409#reply37)|
+|2024-02-01 05:38:21|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了 4 个站，域名成本还没回来](https://w2solo.com/topics/4407)|
+|2024-02-01 12:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[专业评委，百万激励，投出你的人生照片——OPPO 2024 超影像大赛全球投稿开启](https://www.photoworld.com.cn/post/176005)|
+|2024-02-01 08:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[助力创摄者，视觉表达新可能：尼康 Z 8 挑战今日开启！](https://www.photoworld.com.cn/post/176099)|
 |2024-02-01 14:32:07|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨京沪养老保险缴费基数五年涨 70%；Vision Pro 有多好？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512345&idx=4&sn=eea421769fb5dcad3adbf3469bc81831)|
 |2024-02-01 14:32:07|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨长城汽车筹备自建直营店，首批数量或达百家](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512345&idx=3&sn=f346ba2d2efae686710b0541c33c4a71)|
 |2024-02-01 14:32:07|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点播客「AI 大爆炸」丨光年之外联创再出发，与袁进辉聊 AI Infra 到底做什么](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512345&idx=2&sn=1ba60efbc59f0800a0655b08d0158eeb)|
