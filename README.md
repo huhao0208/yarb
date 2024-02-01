@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-01 03:56:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一群急诊大夫把这件事坚持了12年](https://dig.chouti.com/link/41413081)|
+|2024-02-01 09:33:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称阿里考虑出售银泰，“新零售”战略会被放弃？](https://dig.chouti.com/link/41416337)|
+|2024-02-01 10:02:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“断亲”，有时是强作前卫的失意](https://dig.chouti.com/link/41416512)|
+|2024-02-01 03:12:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国首次氮气处决耗时22分钟，官员：本以为几秒就能致人昏迷】实施氮气处决时，史密斯被绑在床上，通过面罩吸入纯氮气。整个过程耗时22分钟，有几分钟，他还保持清醒，至少2分钟，他在床上摇晃扭动，试图用力挣脱束缚。随后几分钟，他剧烈呼吸…亚拉巴马州官员曾预测，氮气会在几秒钟内导致死刑犯昏迷，几分钟内致其死亡](https://dig.chouti.com/link/41412957)|
+|2024-02-01 10:10:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被禁言了吧！](https://dig.chouti.com/link/41416794)|
+|2024-02-01 07:01:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克：正和擎天柱一起散步](https://dig.chouti.com/link/41414723)|
+|2024-02-01 08:11:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“让警察给我打电话！”压力来到山东交警这边了……2月1日济南，鲁A K66M7](https://dig.chouti.com/link/41415680)|
+|2024-02-01 09:57:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一小时帮刘德华卖掉60万张电影票，董宇辉拯救了春节档？](https://dig.chouti.com/link/41416407)|
+|2024-02-01 08:08:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“股神”退圈，爱上存款】云南白药近期表示，2023年第三季度退出全部二级市场证券投资，2024年也计划不再开展二级市场证券投资业务。“聚焦主业，谨慎投资。”就这样结束了四年的“炒股”生涯。曾经，“炒股”给云南白药贡献了近半的净利润，但随着资本市场持续震荡下行，“炒股”带来的亏损和声誉压力也愈发明显。](https://dig.chouti.com/link/41415623)|
+|2024-02-01 08:36:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“掼蛋”该不该进校园？】这并非一个“是”与“否”的选择题，自带游戏属性已经让“掼蛋”利弊参半。](https://dig.chouti.com/link/41415837)|
+|2024-02-01 03:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1950年，美国美腿大赛](https://dig.chouti.com/link/41412902)|
+|2024-02-01 08:36:14|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[杭州出发一小时半，去碳水王国吃早餐。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449380&idx=1&sn=00bc5c26837eb2c3b7277c070178b15c)|
+|2024-02-01 08:06:00|[子来园](https://wanghuibin0.github.io/index.xml)|[笔记-LLVM IR中的undef和poison](https://simplecoding.fun/posts/2024/02/llvm-undef-poison/)|
+|2024-02-01 10:23:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Scala 在选择 编程语言的吉祥物，恳请大家给 中国龙投一票](https://www.v2ex.com/t/1013476#reply14)|
+|2024-02-01 12:27:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 Figma 如何绘制一个等腰梯形](https://www.v2ex.com/t/1013502#reply0)|
+|2024-02-01 11:38:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[给家人换手机，请教红米 K70 相比红米 K60 的升级是否值得目前四五百的价格差？](https://www.v2ex.com/t/1013492#reply2)|
+|2024-02-01 07:25:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux 中国要停更了](https://www.v2ex.com/t/1013409#reply28)|
+|2024-02-01 10:41:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[cs 学生，请问目前 chatgpt 4.0、codipilot 等 AI 助手/工具的水平到底是什么程度？码农这个行业还有未来么？](https://www.v2ex.com/t/1013479#reply29)|
+|2024-02-01 06:56:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Arc、Chrome、Edge 浏览器你选择哪个？](https://www.v2ex.com/t/1013401#reply40)|
+|2024-02-01 04:32:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有哪位大佬了解 web3password 这个密码管理器么？](https://www.v2ex.com/t/1013351#reply10)|
+|2024-02-01 07:00:14|[爱范儿](https://www.ifanr.com/feed)|[大模型「瘦身」进手机，面壁智能发布性能小钢炮 MiniCPM](https://www.ifanr.com/1574805?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-01 04:37:42|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 “Linux 中国” 开源社区，停止运营](https://linux.cn/article-16602-1.html?utm_source=rss&utm_medium=rss)|
 |2024-02-01 07:29:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何用 Apple Music 與親朋好友 互動 分享音樂？！](https://applefans.today/2024-01-how-to-use-apple-music-with-friend/)|
 |2024-02-01 07:48:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[格力2亿年终奖风波，员工：多发了商城积分，只能买公司高价滞销品](https://dig.chouti.com/link/41415274)|
