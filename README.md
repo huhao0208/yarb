@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-02 00:23:44|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)|
+|2024-02-02 04:01:50|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[为何大批移民选择“走线”赴美自首：他们相信自己能留下](https://cn.nytimes.com/usa/20240202/us-immigration-asylum-border/?utm_source=RSS)|
+|2024-02-02 01:45:36|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[韩国第一夫人收赠迪奥手袋丑闻引发政坛震荡](https://cn.nytimes.com/asia-pacific/20240202/south-korea-first-lady-dior/?utm_source=RSS)|
+|2024-02-02 04:10:32|[机核](https://www.gcores.com/rss)|[《全网公敌：新世界》免费试玩即将上线！](https://www.gcores.com/articles/177199)|
+|2024-02-02 03:26:56|[机核](https://www.gcores.com/rss)|[《GTAOL》更新：龙年礼物、全新社区系列及更多内容](https://www.gcores.com/articles/177194)|
+|2024-02-02 02:30:00|[机核](https://www.gcores.com/rss)|[【抽奖】国产之光续作《失落城堡2》将于今日推出首次试玩](https://www.gcores.com/articles/177185)|
+|2024-02-02 02:21:06|[机核](https://www.gcores.com/rss)|[90秒就能了解《龙之信条2》！卡普空发布《龙之信条2》故事篇预告](https://www.gcores.com/articles/177188)|
+|2024-02-02 02:11:45|[机核](https://www.gcores.com/rss)|[《人中之龙8》全球销量突破100万份](https://www.gcores.com/articles/177187)|
+|2024-02-02 02:00:00|[机核](https://www.gcores.com/rss)|[《迷宫饭》中的怪物考（六）：炎龙 Red Dragon](https://www.gcores.com/articles/175997)|
+|2024-02-02 01:52:39|[机核](https://www.gcores.com/rss)|[多人联机开放世界生存游戏《小小世界》将于2月15日结束抢先体验](https://www.gcores.com/articles/177186)|
+|2024-02-02 01:50:50|[机核](https://www.gcores.com/rss)|[《吸血鬼王朝》公布首段深度视频，深入探讨故事剧情](https://www.gcores.com/articles/177184)|
+|2024-02-02 01:41:14|[机核](https://www.gcores.com/rss)|[《瑞奇与叮当 时空跳转》《星之卡比 新星同盟 》等32款游戏过审：2024年2月份进口网络游戏审批信息公布](https://www.gcores.com/articles/177183)|
+|2024-02-02 04:01:38|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/86166)|
+|2024-02-02 04:01:38|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你](https://sspai.com/post/86007)|
+|2024-02-02 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[刚刚，开年最大IPO敲钟了](https://36kr.com/p/2630115443409156)|
+|2024-02-02 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2020，威马的“万历十五年”](https://36kr.com/p/2629431423156486)|
+|2024-02-02 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[最惨打工人，活在《幻兽帕鲁》里](https://36kr.com/p/2629662976917763)|
+|2024-02-02 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[她用十年打造全球最大设计独角兽，要和 Adobe 掰手腕](https://36kr.com/p/2629868531728643)|
+|2024-02-02 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜12306回应厦门部分列车增设“遛娃车厢”；多家快递公司辟谣网传春节停运时间；iPhone 15 Pro满意度下降](https://36kr.com/p/2630632968175874)|
+|2024-02-02 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大厂员工再无巨额年终奖](https://36kr.com/p/2629717666167940)|
+|2024-02-02 02:42:00|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔原创@AAAI 2024 大模型时代，什么是比代码更好的数值推理中间表示？——方程](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812529&idx=1&sn=22e2815188fc750cf1bccdf2c96fc113)|
 |2024-02-02 01:07:03|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[用 AI 制作的表情包，获得「表情年度优秀艺术家」](https://w2solo.com/topics/4409)|
 |2024-02-02 00:53:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 122 期）：一个文字生成视频在线 SaaS 工具，年收入 7.5 万美元](https://w2solo.com/topics/4408)|
 |2024-02-01 17:22:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[1u 服务器怎么外挂硬盘做 nas 存储？](https://www.v2ex.com/t/1013550#reply2)|
