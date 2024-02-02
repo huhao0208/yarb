@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-02-01）
+﻿# 每日资讯（2024-02-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-02 01:07:03|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[用 AI 制作的表情包，获得「表情年度优秀艺术家」](https://w2solo.com/topics/4409)|
+|2024-02-02 00:53:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 122 期）：一个文字生成视频在线 SaaS 工具，年收入 7.5 万美元](https://w2solo.com/topics/4408)|
 |2024-02-01 17:22:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[1u 服务器怎么外挂硬盘做 nas 存储？](https://www.v2ex.com/t/1013550#reply2)|
 |2024-02-01 10:41:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[cs 学生，请问目前 chatgpt 4.0、codipilot 等 AI 助手/工具的水平到底是什么程度？码农这个行业还有未来么？](https://www.v2ex.com/t/1013479#reply62)|
 |2024-02-01 07:23:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位被信创折磨的程序员们，你们有用 GaussDB 的吗](https://www.v2ex.com/t/1013406#reply30)|
