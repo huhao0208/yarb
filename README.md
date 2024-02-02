@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-02 11:08:40|[Dennis](https://www.domon.cn/rss/)|[2024年1月阅读书摘](https://www.domon.cn/2024-1yue-yue-du-shu-zhai/)|
+|2024-02-02 06:39:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么会认为 2w 的活儿 给的钱太少了？？](https://www.v2ex.com/t/1013672#reply197)|
+|2024-02-02 03:24:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[交付过信创产品，或者被信创蹂躏过的兄弟们，让我解脱吧](https://www.v2ex.com/t/1013618#reply53)|
+|2024-02-02 07:15:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不想上班是我的问题吗？如何调节自己工作时的心理状态？](https://www.v2ex.com/t/1013684#reply10)|
+|2024-02-02 09:47:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我理解了 为什么大家觉得 2w 的活儿太少了](https://www.v2ex.com/t/1013721#reply19)|
+|2024-02-02 03:26:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[.net 求捞](https://www.v2ex.com/t/1013619#reply28)|
+|2024-02-02 11:55:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么代码库的.gitignore 里明明把某个文件忽略掉了，但是拉取的时候依然会把该文件拉下来？](https://www.v2ex.com/t/1013746#reply5)|
 |2024-02-02 03:26:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[.net 求捞](https://www.v2ex.com/t/1013619#reply11)|
 |2024-02-02 06:39:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么会认为 2w 的活儿 给的钱太少了？？](https://www.v2ex.com/t/1013672#reply94)|
 |2024-02-02 03:24:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[交付过信创产品，或者被信创蹂躏过的兄弟们，让我解脱吧](https://www.v2ex.com/t/1013618#reply43)|
