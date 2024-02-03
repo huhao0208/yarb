@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-02）
+﻿# 每日资讯（2024-02-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-03 08:05:48|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[容器下在 Triton Server 中使用 TensorRT-LLM 进行推理](https://www.chenshaowen.com/blog/using-tensorrt-llm-backend-in-triton-server-under-container.html)|
 |2024-02-02 08:29:39|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[物流停发倒计时！都几号了还不买？？？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449427&idx=1&sn=f199d9e1f69c5fadc9c9f1a7b8fb9be5)|
 |2024-02-02 08:28:14|[u3blog](https://u3blog.xyz/feed.php)|[ChatGPT是怎么帮我写ios代码的](https://u3blog.xyz/?id=705)|
 |2024-02-02 07:56:36|[鸟窝](https://colobu.com/atom.xml)|[Go语言中的Pinner.Pin](https://colobu.com/2024/02/02/Pinner-Pin/)|
