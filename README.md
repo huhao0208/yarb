@@ -2,6 +2,56 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-03 18:50:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教各位前辈，博客/周刊如何做推广和增长？](https://www.v2ex.com/t/1013959#reply0)|
+|2024-02-03 18:09:28|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 鉴于 openai 封号，大家能否推荐一个国外电话卡，接收短信保号的就行](https://www.v2ex.com/t/1013958#reply4)|
+|2024-02-03 17:57:43|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 最近碰到个问题，国内能正常访问 http 服务，非大陆地区访问 http 服务全部失败。](https://www.v2ex.com/t/1013957#reply0)|
+|2024-02-03 17:44:32|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 自己写了个关于 POE 的 Python 脚本，第一天用就被检测](https://www.v2ex.com/t/1013956#reply1)|
+|2024-02-03 17:02:48|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 Apple 开源了一个新的配置文件格式 pkl](https://www.v2ex.com/t/1013954#reply4)|
+|2024-02-03 16:59:49|[V2EX](https://www.v2ex.com/index.xml)|[ NGINX nginx 可以通过二级目录进行用户验证吗](https://www.v2ex.com/t/1013953#reply5)|
+|2024-02-03 16:32:35|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 现在有哪些地区开始给家宽/pon 商宽换 50G PON 板卡了么？](https://www.v2ex.com/t/1013952#reply1)|
+|2024-02-03 16:22:30|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 程序使用 ORM 框架是不是基本就可以解决 SQL 注入了？](https://www.v2ex.com/t/1013951#reply2)|
+|2024-02-03 16:11:29|[V2EX](https://www.v2ex.com/index.xml)|[ 服务器 那位有物理服务器租用的资源，长租](https://www.v2ex.com/t/1013950#reply2)|
+|2024-02-03 04:28:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 38 期（摘要）+ 赠书 5 本](https://w2solo.com/topics/4411)|
+|2024-02-03 16:06:00|[机核](https://www.gcores.com/rss)|[独立游戏人的老婆《贪婪大地》 一个人开发的游戏](https://www.gcores.com/videos/177270)|
+|2024-02-03 15:16:49|[机核](https://www.gcores.com/rss)|[为什么我设计的场景总是非常死板？](https://www.gcores.com/videos/177268)|
+|2024-02-03 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[警方通报协警铐走实习律师「对两名辅警予以辞退」，如何从法律角度解读？](https://www.zhihu.com/question/642669158)|
+|2024-02-03 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你在生活中见过哪些「强者从不抱怨环境」的例子？](https://www.zhihu.com/question/642430193)|
+|2024-02-03 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在职场中「降维打击」是一种什么体验？](https://www.zhihu.com/question/640820795)|
+|2024-02-03 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你能分享一张你最喜欢的照片吗？](https://www.zhihu.com/question/617492839)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[库克回应 Vision Pro 中国发布时间，可能会是何时？](https://www.zhihu.com/question/642656420)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[日本锻造真剑用的玉钢，和现代钢的差别在哪？](https://www.zhihu.com/question/42172948)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[宁波体校发文称「杨倩教练虞利华讨要奖金」等发布的消息与事实不符，哪些信息值得关注？](https://www.zhihu.com/question/642568010)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一些年轻人过年回家被安排相亲，「多方比较」「为爱打分」能让我们找到更好的伴侣吗？](https://www.zhihu.com/question/642706642)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[Meta 业绩大增，回购 500 亿美元并首次发股息，市值一夜大增近 2000 亿美元，哪些信息值得关注？](https://www.zhihu.com/question/642655577)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么你知道的冷知识吗？](https://www.zhihu.com/question/548923680)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国气象局雨雪冰冻应急提升至二级，意味着什么？应做好哪些应对措施？](https://www.zhihu.com/question/642609143)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[受低温雨雪冰冻天气影响，武铁部分列车晚点停运，哪些信息值得关注？](https://www.zhihu.com/question/642644279)|
+|2024-02-03 16:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[Vision Pro 将会带来哪些改变？如何看待「十年内数字内容将重塑物理空间」这一观点？](https://www.zhihu.com/question/642673152)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人间清醒是什么？](https://www.zhihu.com/question/622178751)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[欧洲农民抗议升级，超千辆拖拉机包围欧盟总部，欧洲农民抗议不断，背后原因为何？](https://www.zhihu.com/question/642525675)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你是如何遇见你命中注定的猫的？](https://www.zhihu.com/question/642120289)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价刘德华做客董宇辉直播间与辉同行?](https://www.zhihu.com/question/642215005)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[春节在家无聊可以干什么？](https://www.zhihu.com/question/642672690)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《繁花》中金美林的那种情况，卢美琳应该怎么操作才是正确的？](https://www.zhihu.com/question/639715364)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[千合资本北京办公室上个月已清退、落锁，前「公募一哥」王亚伟失联多日，千合资本发公告回应，具体情况如何？](https://www.zhihu.com/question/642705055)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有基金公司已将直播纳入基金经理考核体系中，考核中占比会超过 10 % ，将带来哪些影响？](https://www.zhihu.com/question/642527659)|
+|2024-02-03 16:03:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[坦白的讲，出国旅行后你最大的感悟是什么？](https://www.zhihu.com/question/642212918)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 勇士 121:101 灰熊，如何评价这场比赛？](https://www.zhihu.com/question/642652695)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些数学书籍是经典之作？](https://www.zhihu.com/question/641419735)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[Apple Vision Pro 首批评测内容解禁，有哪些新的细节值得关注？](https://www.zhihu.com/question/642122812)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[郑爽仍有 3856 万赔付款未履行，已被绝密者出品方申请限消，如何从法律角度解读？](https://www.zhihu.com/question/642639416)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么马拉多纳在 86 年世界杯对英格兰的第二个进球被评为世界杯最佳进球？](https://www.zhihu.com/question/642442907)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《一人之下》漫画 693（653）话？](https://www.zhihu.com/question/637086114)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么感觉现在的手机流量没有以前「耐用」，是哪些因素造成的？有什么好的解决方法吗？](https://www.zhihu.com/question/642673718)|
+|2024-02-03 16:03:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[考考大家有没有保持学习新的地理知识，有哪些大家所知不多的冷门土特产？](https://www.zhihu.com/question/642619355)|
+|2024-02-03 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[金庸小说里全真教内功为玄门正宗，其优势作用究竟有多大？](https://www.zhihu.com/question/334108912)|
+|2024-02-03 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[现在 SSD 都可以用堆叠技术了，为什么 CPU 不能多堆几层呢，这样性能不就提升了吗？](https://www.zhihu.com/question/46707784)|
+|2024-02-03 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么古代修长城而不是挖壕沟？](https://www.zhihu.com/question/640761745)|
+|2024-02-03 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「14 亿人里挑不出 11 个踢好足球的」，如何客观评价这句话？](https://www.zhihu.com/question/642528287)|
+|2024-02-03 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么 Jackeylove 在选手圈子里能这么受欢迎啊？](https://www.zhihu.com/question/640695537)|
+|2024-02-03 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美媒曝「台精密制造设备流向俄国防工业」，台当局紧急回应，哪些信息值得关注？](https://www.zhihu.com/question/642672915)|
+|2024-02-03 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[和朋友合伙开公司都有什么弊端？](https://www.zhihu.com/question/580371166)|
+|2024-02-03 04:30:34|[小众软件](https://www.appinn.com/feed/)|[PinWin – Win 11 可用，置顶任何窗口](https://www.appinn.com/pinwin-for-win/)|
 |2024-02-03 12:20:10|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[​春节不打烊，这些都还能买。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449464&idx=1&sn=1e63d85009499c6eb13793e6fb144672)|
 |2024-02-03 15:02:15|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[reflection 反射编程与 go 序列化原理](https://www.edony.ink/reflection-programming-and-golang-marshal/)|
 |2024-02-03 16:11:29|[V2EX](https://www.v2ex.com/index.xml)|[ 服务器 那位有物理服务器租用的资源，长租](https://www.v2ex.com/t/1013950#reply0)|
