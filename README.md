@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-02-03）
+﻿# 每日资讯（2024-02-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-04 00:02:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国“夺回边境”车队抵达得州 预计至少70万人参加美墨边境抗议活动](https://dig.chouti.com/link/41440026)|
+|2024-02-04 00:09:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[天篷大饭店！2月1日，河南驻马店，婚宴遇上大雪，宾客们在猪圈里吃席。因为外面风很大，棚子搭不了，主人家以前开猪场的，现在不养了，猪圈刚好空着……](https://dig.chouti.com/link/41440107)|
+|2024-02-04 00:55:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[有没有想过从这角度来看老年人拾废品](https://dig.chouti.com/link/41440234)|
 |2024-02-03 18:50:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教各位前辈，博客/周刊如何做推广和增长？](https://www.v2ex.com/t/1013959#reply0)|
 |2024-02-03 18:09:28|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 鉴于 openai 封号，大家能否推荐一个国外电话卡，接收短信保号的就行](https://www.v2ex.com/t/1013958#reply4)|
 |2024-02-03 17:57:43|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 最近碰到个问题，国内能正常访问 http 服务，非大陆地区访问 http 服务全部失败。](https://www.v2ex.com/t/1013957#reply0)|
