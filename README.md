@@ -2,6 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-05 15:30:00|[频率](https://pinlyu.com/atom.xml)|[拔牙小记](https://pinlyu.com/posts/83/)|
+|2024-02-05 07:03:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[对话“华强北Vision Pro”老板：低价不丢人，计划今年出货50万台](https://dig.chouti.com/link/41453594)|
+|2024-02-05 07:03:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比OpenAI官方提示词指南更全，这26条黄金准则让LLM性能飙升50%以上](https://dig.chouti.com/link/41453652)|
+|2024-02-05 07:10:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[来自飞鱼的攻击](https://dig.chouti.com/link/41453722)|
+|2024-02-05 08:30:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【谁能上春晚】一代人有一代人的春晚。当初蹲守白云黑土的人，现在连看到沈腾马丽都觉得弥足珍贵。当初蹲守三小只的人，如今已在为十个勤天呐喊。群众永远嫌弃春晚的排兵布将，却永远口嫌体正直地讨论围观。无他，唯习惯尔。](https://dig.chouti.com/link/41454417)|
+|2024-02-05 09:12:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【北爱尔兰领导人：将就与爱尔兰统一举行公投】英国北爱尔兰领导人米歇尔·奥尼尔在4日播出的采访中说，北爱尔兰已经开始了“机遇十年”，其间将就与爱尔兰的统一举行投票。奥尼尔是民族主义政党新芬党副主席，3日当选北爱尔兰首席部长。](https://dig.chouti.com/link/41454938)|
+|2024-02-05 09:12:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“每小时18欧元”，巴黎全民公投过半赞成提高SUV停车费](https://dig.chouti.com/link/41454995)|
+|2024-02-05 10:02:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[搜索引擎Yandex荷兰母公司宣布以4750亿卢布出售俄罗斯资产，现金款项将以离岸人民币支付](https://dig.chouti.com/link/41455261)|
+|2024-02-05 10:02:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香港最大AI诈骗案：Deepfake换脸「英国CFO」，直接骗走公司2亿港币](https://dig.chouti.com/link/41455347)|
+|2024-02-05 10:33:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[夹缝中的英伟达中国](https://dig.chouti.com/link/41455674)|
+|2024-02-05 10:33:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[去了一次闽南，才知道烧香拼的是网速](https://dig.chouti.com/link/41455736)|
+|2024-02-05 11:02:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从月球尘埃到月球土壤：人类首次在月壤中种植食物](https://dig.chouti.com/link/41455954)|
+|2024-02-05 12:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日媒：被评为“日本小姐”的乌克兰裔模特承认当“小三”，放弃桂冠](https://dig.chouti.com/link/41456318)|
+|2024-02-05 11:02:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[CNN刊登以军“左翼分子”文章：为自己不支持的政府而战，痛心加沙平民的死亡](https://dig.chouti.com/link/41455966)|
+|2024-02-05 11:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【香港车手黄桂华涉毒被捕后死亡】 香港媒体曝光著名车手黄桂华涉上亿毒品案，驾车逃跑被捕后昏迷死亡。 黄国华从事赛车运动超过20年，多年来活跃于CTCC（中国房车锦标赛）、TCR等国内知名赛事。](https://dig.chouti.com/link/41456137)|
+|2024-02-05 09:05:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国“钢琴魔女”斩获格莱美】此前，王羽佳就曾四次被提名，今年终于成功抱回金喇叭，成为该奖项设立以来第一位获此殊荣的中国钢琴家。](https://dig.chouti.com/link/41454871)|
+|2024-02-05 10:03:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[招商银行原党委书记、行长田惠宇一审被判处死缓](https://dig.chouti.com/link/41455361)|
+|2024-02-05 10:11:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[走线润美报道2/5/2024……马斯克在X上发了一段《60分钟》节目报道中国走线情况的节目视频。记者问他们在哪学到走线攻略穿过边境栅栏进入加州的，走线者纷纷回答：“抖音！抖音！”](https://dig.chouti.com/link/41455588)|
+|2024-02-05 04:52:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1元1包的奥特曼卡牌，一年卖了40亿元——你相信光吗？那是金钱的闪闪发光](https://dig.chouti.com/link/41452323)|
+|2024-02-05 09:02:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《人到中年》作者谌容去世，享年88岁，系梁左、梁天和梁欢母亲](https://dig.chouti.com/link/41454533)|
+|2024-02-05 05:08:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[你就说吃坏身体算不算工伤吧](https://dig.chouti.com/link/41452645)|
+|2024-02-05 06:02:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国博士小哥打败女友的AI男友，7页论文让LLM降智，训出「负分男友」成功挽回](https://dig.chouti.com/link/41452897)|
+|2024-02-05 06:03:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2023年中国汽车进口量创十余年来新低](https://dig.chouti.com/link/41453105)|
+|2024-02-05 06:02:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[长沙爱之心养老公寓“爆雷”案清退公告：应退5.5亿，本次退赔2492万](https://dig.chouti.com/link/41453015)|
+|2024-02-05 06:09:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[宫崎骏动画电影《哈尔的移动城堡》中国内地定档4月30日上映](https://dig.chouti.com/link/41453188)|
+|2024-02-05 06:33:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[斗鱼、虎牙将合并？斗鱼回应：不属实，有业务合作但没合并计划](https://dig.chouti.com/link/41453300)|
 |2024-02-05 06:17:22|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[为 log 实现的无锁 Ringbuffer](https://blog.codingnow.com/2024/02/log_ringbuffer.html)|
 |2024-02-05 12:49:46|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[国内引进的第一部国外科幻片，《西部世界》电影版，50年前的惊人想象力！](https://www.ximalaya.com/sound/704616377)|
 |2024-02-05 12:54:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[龍年龍行！ 2024 STUDIO A 春節 重磅加碼](https://applefans.today/2024-02-studio-a-cny-campaign/)|
