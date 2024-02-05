@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-05 07:47:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[沒有零風險的路](http://mercurychong.blogspot.com/2024/02/blog-post.html)|
+|2024-02-05 09:02:00|[子来园](https://wanghuibin0.github.io/index.xml)|[LLVM目标无关代码生成器（上）（译）](https://simplecoding.fun/posts/2024/02/llvm-code-generator-0/)|
 |2024-02-05 06:09:08|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[认识独立开发这件事儿](https://w2solo.com/topics/4413)|
 |2024-02-05 02:18:09|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[请问产品的官网一般用什么做比较快](https://w2solo.com/topics/4412)|
 |2024-02-05 00:15:42|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[ASTER - 不用安装虚拟机，电脑分身主机共享 PC拖机软件一拖二，硬件资源零浪费](https://masuit.com/2048)|
