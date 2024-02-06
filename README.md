@@ -1,7 +1,15 @@
-﻿# 每日资讯（2024-02-05）
+﻿# 每日资讯（2024-02-06）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-06 01:13:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 问一下大家，栈内的帖子会自动转换节点吗？](https://www.v2ex.com/t/1014548#reply0)|
+|2024-02-06 01:04:49|[V2EX](https://www.v2ex.com/index.xml)|[ Electron electron 和 Java swing 开发出的软件 哪个体验好](https://www.v2ex.com/t/1014546#reply3)|
+|2024-02-06 01:03:45|[V2EX](https://www.v2ex.com/index.xml)|[ Windows QQ 游戏弹出广告怎么禁掉啊](https://www.v2ex.com/t/1014545#reply3)|
+|2024-02-06 00:48:29|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求推荐 Android 去广告插件](https://www.v2ex.com/t/1014543#reply4)|
+|2024-02-06 00:19:36|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 分享几个便宜好用的付费中转站](https://www.v2ex.com/t/1014542#reply2)|
+|2024-02-06 00:02:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[26岁的向阳来自湖南，初中毕业后南下打工已11年，至今还在流水线上。抱着一个朴素的上进念头，也为了跳出流水线，寻得更好的出路，她在打工之余报了面点、母婴、养老护理等技能培训班；考了大专，又参加自考本科，2023年6月，她写开题报告、访谈、调研，开始写一篇本科毕业论文。](https://dig.chouti.com/link/41460440)|
+|2024-02-06 00:08:35|[余晟以为](https://feedpress.me/wx-yurii-says)|[“为保证心理健康，请大家不要长时间工作”，趣谈德国公司文化](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009845&idx=1&sn=779158c1e9e49002504df81fd3a1d3a0)|
+|2024-02-06 00:47:43|[爱范儿](https://www.ifanr.com/feed)|[早报｜马斯克被曝与特斯拉董事一起吸毒/李想回应巨额年终奖/消息称华为正研发三折叠屏手机](https://www.ifanr.com/1575050?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-05 15:30:00|[频率](https://pinlyu.com/atom.xml)|[拔牙小记](https://pinlyu.com/posts/83/)|
 |2024-02-05 07:03:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[对话“华强北Vision Pro”老板：低价不丢人，计划今年出货50万台](https://dig.chouti.com/link/41453594)|
 |2024-02-05 07:03:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比OpenAI官方提示词指南更全，这26条黄金准则让LLM性能飙升50%以上](https://dig.chouti.com/link/41453652)|
@@ -56,6 +64,7 @@
 |2024-02-05 04:01:36|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[水獭派对 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)|
 |2024-02-05 04:01:36|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[当《原神》不再启动：聊聊我的二次元游戏观察与思考](https://sspai.com/post/85830)|
 |2024-02-05 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)|
+|2024-02-06 00:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[使用 TensorRT 加速模型推理](https://www.chenshaowen.com/blog/speeding-up-model-inference-with-tensorrt.html)|
 |2024-02-05 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/5](https://weekly.pychina.org/pyrecap/pyrw-2405.html)|
 |2024-02-05 00:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[恒大垮台之前，债券持有人和中资银行进行了博弈](https://cn.wsj.com/articles/%E6%81%92%E5%A4%A7%E5%80%BA%E5%88%B8%E6%8C%81%E6%9C%89%E4%BA%BA%E5%92%8C%E4%B8%AD%E8%B5%84%E9%93%B6%E8%A1%8C%E5%8D%9A%E5%BC%88%E7%BB%93%E6%9E%9C%E5%AF%BC%E8%87%B4%E6%81%92%E5%A4%A7%E6%B8%85%E7%AE%97-75a9fbea)|
 |2024-02-05 01:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[特朗普威胁对中国商品征收逾60%关税](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E5%BE%81%E6%94%B6%E9%80%BE60-%E5%85%B3%E7%A8%8E-89558b7b)|
