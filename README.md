@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-02-06）
+﻿# 每日资讯（2024-02-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-07 00:29:13|[爱范儿](https://www.ifanr.com/feed)|[早报｜Vision Pro 或最晚于 5 月在中国区发售/华为豪掷 770 亿分红/​周鸿祎否认 360 将直播带货](https://www.ifanr.com/1575118?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-07 00:12:22|[机核](https://www.gcores.com/rss)|[试玩Demo今日推出：《最终幻想7 重生》专场State of Play消息汇总](https://www.gcores.com/articles/177420)|
 |2024-02-06 16:08:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[梅西在板凳席坐了90分钟，以后谁还会再相信“球王赛”？](https://36kr.com/p/2636427866668161)|
 |2024-02-06 16:08:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[第42年春晚，这些商业顶流重回C位](https://36kr.com/p/2635576704565505)|
 |2024-02-06 16:08:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微信偷偷更新，这新春限定功能全面上线](https://36kr.com/p/2635701754662407)|
