@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-08 23:51:14|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[新春主题高清壁纸分享——女神陪你过大年 235Vol/26250P ](https://masuit.com/1444)|
+|2024-02-08 16:54:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果加入！美國商務部人工智慧安全研究所聯盟](https://www.iphonetaiwan.org/2024/02/apple-joins-aisic-ai-security-alliance.html)|
+|2024-02-08 16:39:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Music 超級盃廣告：由提姆·庫克、亞瑟小子主演](https://www.iphonetaiwan.org/2024/02/apple-music-super-bowl-usher.html)|
+|2024-02-08 16:21:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.4 新功能讓你告別視訊時尷尬：手勢反應自主掌控](https://www.iphonetaiwan.org/2024/02/ios-17-4-video-calling-enhancements.html)|
+|2024-02-08 16:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[西班牙反壟斷案：蘋果和亞馬遜提出上訴挑戰](https://www.iphonetaiwan.org/2024/02/apple-amazon-spain-antitrust-appeal.html)|
+|2024-02-08 15:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果前CEO：Vision Pro 和 iPhone 一樣是革命性產品](https://www.iphonetaiwan.org/2024/02/apple-vision-pro-revolutionary-tech.html)|
+|2024-02-08 15:25:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[馬斯克：試用 Apple Vision Pro 後並沒有讓我震驚](https://www.iphonetaiwan.org/2024/02/elon-musk-apple-vision-pro-review.html)|
+|2024-02-08 08:35:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果霸氣併購 32 家 AI 新創公司，人工智慧領域震撼進軍](https://www.iphonetaiwan.org/2024/02/apple-ai-expansion-32-acquisitions.html)|
+|2024-02-08 08:17:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果和谷歌合謀打壓搜尋市場？法官駁回集體訴訟](https://www.iphonetaiwan.org/2024/02/tech-giants-conspiracy-court-verdict.html)|
+|2024-02-08 07:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果執行長庫克和主管薪酬太高？法官不認同](https://www.iphonetaiwan.org/2024/02/apple-executive-compensation-dispute.html)|
 |2024-02-08 06:13:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享下我怎么用 Cloudflare Worker 一个文件为我的出海产品支持购买力平价能力的](https://w2solo.com/topics/4417)|
 |2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[过年吃什么馅儿的饺子最养生？](https://www.zhihu.com/question/643371548)|
 |2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[应届生刚毕业究竟选择国企还是私企？](https://www.zhihu.com/question/406803023)|
