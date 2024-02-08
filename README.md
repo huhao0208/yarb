@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-02-07）
+﻿# 每日资讯（2024-02-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-08 00:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[A股连跌之际，中国免去证监会主席易会满职务](https://cn.wsj.com/articles/a%E8%82%A1%E8%BF%9E%E8%B7%8C%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E5%85%8D%E5%8E%BB%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%81%8C%E5%8A%A1-28f1adda)|
+|2024-02-08 00:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[Shein将在西雅图地区开设办事处，力图与亚马逊抗衡](https://cn.wsj.com/articles/shein%E5%B0%86%E5%9C%A8%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%9C%B0%E5%8C%BA%E5%BC%80%E8%AE%BE%E5%8A%9E%E4%BA%8B%E5%A4%84-%E5%8A%9B%E5%9B%BE%E4%B8%8E%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8A%97%E8%A1%A1-81f8c480)|
 |2024-02-07 10:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国宣布调整证监会主要领导，易会满被免职，吴清接任](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%B0%83%E6%95%B4%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E8%A6%81%E9%A2%86%E5%AF%BC-%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%8D%E8%81%8C-%E5%90%B4%E6%B8%85%E6%8E%A5%E4%BB%BB-64fabcf7)|
 |2024-02-07 17:26:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 NFT 的价值（虚拟货币）有什么办法推高？](https://www.v2ex.com/t/1014965#reply2)|
 |2024-02-07 17:03:51|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请各位推荐一下，用于翻译的大模型](https://www.v2ex.com/t/1014964#reply3)|
