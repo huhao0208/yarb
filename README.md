@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-08 04:09:23|[KAIX.IN](https://kaix.in/feed/)|[指引、警示、标语](https://kaix.in/2024/0208-warning/)|
+|2024-02-08 09:21:31|[竹林里有冰的博客](https://zhul.in/rss.xml)|[crontab 中简单的@语法糖](https://zhul.in/2024/02/08/extra-usage-for-crontab/)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国参议院投票否决边境管控和对外军事援助的 1180 亿美元法案，哪些信息值得关注？](https://www.zhihu.com/question/643540804)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家统计局发布「1 月 CPI 环比上涨 0.3%，同比下降 0.8%」，如何解读？](https://www.zhihu.com/question/643535846)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国空袭伊拉克首都，杀死袭击约旦美军基地的指挥官，目前当地局势如何？](https://www.zhihu.com/question/643531441)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[专家称相比 2008 年，今年的冻雨天气是瞬时「速冻」，为何会出现这样的极端天气？如何做好后续防范？](https://www.zhihu.com/question/643266306)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 LPL 春季赛 WBG VS TES，如何评价这场比赛？](https://www.zhihu.com/question/643460051)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[周围的人太优秀了，感觉跟谁都是向上社交，导致不敢社交了，该如何自我救赎？](https://www.zhihu.com/question/640186516)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大数据杀熟疑云，「三台手机同时买票差价三倍」，如何看待此事？是否真的是杀熟？](https://www.zhihu.com/question/643366218)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[程序员从幼稚到成熟的标志是什么？](https://www.zhihu.com/question/642449547)|
+|2024-02-08 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么国内程序员不喜欢写单元测试？](https://www.zhihu.com/question/642449457)|
+|2024-02-08 04:01:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[飞猪平台订机票不同用户差价近千块，苹果手机价格最贵，平台回应仍未解除质疑，到底是杀熟还是价格出错？](https://www.zhihu.com/question/643413659)|
+|2024-02-08 04:01:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价（G）I-DLE 主打曲《Super Lady》？](https://www.zhihu.com/question/641855729)|
+|2024-02-08 04:01:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡塔尔亚洲杯半决赛卡塔尔 3:2 淘汰伊朗，如何评价这场比赛？](https://www.zhihu.com/question/643498534)|
+|2024-02-08 07:02:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[媒体人：中国足协已暂停与阿根廷足协合作，官网删除梅西相关新闻，阿根廷队3月份来华成疑](https://dig.chouti.com/link/41484418)|
+|2024-02-08 09:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[空军某场站的场务兵，开上卡丁车了~](https://dig.chouti.com/link/41485600)|
+|2024-02-08 09:09:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“我笑得不够真诚吗？”](https://dig.chouti.com/link/41485624)|
+|2024-02-08 10:01:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴基斯坦前总理大选前夕被判监禁：罪有应得亦或是政治阴谋？](https://dig.chouti.com/link/41485814)|
+|2024-02-08 09:33:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[风暴中的纽约社区银行：被穆迪降至垃圾级，更换新董事会主席](https://dig.chouti.com/link/41485728)|
+|2024-02-08 09:02:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国裁判团队首次执法亚洲杯决赛】亚洲杯决赛将在北京时间2月10号23点举行，对阵双方为约旦和东道主卡塔尔。亚洲杯决赛裁判安排：主裁判：马宁（中国）助理裁判：周飞（中国）、张铖（中国）var裁判：傅明（中国）](https://dig.chouti.com/link/41485423)|
+|2024-02-08 08:10:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[辽宁足协：教小球员踢人的教练吴高俊被停赛一年，所在俱乐部取消比赛资格三个月](https://dig.chouti.com/link/41485164)|
+|2024-02-08 04:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网约车司机想要慢下来】惠州司机王平说，在平台出行分的刺激下，他曾为了“上分”跑得非常勤快，但很难在多变的平台规则中跑到满分。行业饱和预警之下，他发现多个平台在调整规则，他希望等来一个更规范、公平的竞业环境。经历了不断“提速”的几年，王平现在只想“慢下来”，无论心态还是车速。](https://dig.chouti.com/link/41483453)|
+|2024-02-08 05:02:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[海南公安厅回应“来岛‘候鸟’人员偷盗瓜果蔬菜”：严厉打击](https://dig.chouti.com/link/41483659)|
+|2024-02-08 05:02:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【19年老员工炮轰谷歌“背叛员工”， 硅谷陷最寒冷裁员潮】随着对AI这个「吞金兽」的投资，以及反过来对员工的替代，裁员让谷歌从硅谷工程师的创新堡垒、舒适的温床，变成一个阴霾密布的寒冷之地。员工士气低落，对高管抱怨连连，有人炮轰：谷歌所有的领导人都无聊且呆滞。可怕的是，这次裁员潮，将缓慢「凌迟」一整年。](https://dig.chouti.com/link/41483547)|
+|2024-02-08 06:09:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据足球报官方微博：体育总局副局长、党组成员张家胜将担任中国足协党委书记](https://dig.chouti.com/link/41484214)|
+|2024-02-08 05:10:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[歼15伙伴加油](https://dig.chouti.com/link/41483752)|
+|2024-02-08 05:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【股市亏钱的人，转头开始在西双版纳买房收租】尽管近两年楼市低迷，但西双版纳却“逆市增长”。2023年1-10月，西双版纳商品房销售面积增长了50.9%，销售额增长近70%，销售面积、销售额增速均位居云南省首位。其中，有80%都是来自西双版纳州外的异地购房。](https://dig.chouti.com/link/41483886)|
 |2024-02-08 08:10:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 高铁无座票，车次在有二等座的情况下如何变成有座票（12306 购票，已改签一次）](https://www.v2ex.com/t/1015056#reply1)|
 |2024-02-08 07:45:01|[V2EX](https://www.v2ex.com/index.xml)|[ Android 遇到很诡异的事情](https://www.v2ex.com/t/1015054#reply8)|
 |2024-02-08 07:42:51|[V2EX](https://www.v2ex.com/index.xml)|[ JavaScript 请各位大佬赐教，这样的代码该如何优化？](https://www.v2ex.com/t/1015053#reply4)|
