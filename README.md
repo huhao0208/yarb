@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-12 01:32:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[重新用回现金后，年轻人终于攒下钱了？](https://dig.chouti.com/link/41512910)|
+|2024-02-12 03:01:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Vision Pro 头显何时达到“理想形态”？苹果内部人士称需要四代产品](https://dig.chouti.com/link/41513331)|
+|2024-02-12 00:02:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【巴西奥运男足无缘巴黎奥运会，近20年来首次】当地时间2月11日，在刚刚巴黎奥运会足球南美区预选赛中，由马斯切拉诺执教的阿根廷U23男足以1-0小胜巴西U23男足，拿到了巴黎奥运会的入场券。而巴西U23男足惨遭淘汰，近20年来首次无缘奥运会。](https://dig.chouti.com/link/41512352)|
+|2024-02-12 02:09:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[星舰第三次飞行测试全箭近照](https://dig.chouti.com/link/41513190)|
+|2024-02-12 01:02:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国男队在世锦赛4x100米自由泳接力夺冠，潘展乐打破男子100米自由泳世界纪录】去年杭州亚运会100自，潘展乐以46.97的成绩打破亚洲记录，和世界纪录仅差0.11秒。接受采访时潘展乐说：“没打破世界纪录就不配叫飞鱼。”](https://dig.chouti.com/link/41512721)|
 |2024-02-11 14:00:00|[Jason](https://atjason.com/atom.xml)|[0211 - 过年休息](https://atjason.com/daily/2024-02-11.html)|
 |2024-02-11 11:39:05|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Java 线程池系列-第一篇](https://nicksxs.me/2024/02/11/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E7%AC%AC%E4%B8%80%E7%AF%87/)|
 |2024-02-11 14:52:00|[est の 输入输出](https://blog.est.im/rss)|[Deal with the world](https://blog.est.im/2024/stderr-03)|
