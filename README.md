@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-13 18:27:01|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)|
+|2024-02-13 09:18:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[推荐一下自己写的脚本工具，方便开发人员本地调试项目。一款生成自签名 SAN CA 域名（TLS v3）。用于快速生成开发和测试证书、内部平台授权和私有 DevOps 平台构建。](https://w2solo.com/topics/4419)|
+|2024-02-13 15:00:00|[机核](https://www.gcores.com/rss)|[通过赛博朋克了解一段二十世纪音乐史](https://www.gcores.com/radios/177230)|
+|2024-02-13 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第二十二章 神学（全书完）](https://www.gcores.com/radios/176809)|
+|2024-02-13 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第二十一章 艾斯潘多第三都市](https://www.gcores.com/radios/176807)|
+|2024-02-13 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第二十章 赫拉议会](https://www.gcores.com/radios/176806)|
+|2024-02-13 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第十九章 真菌深渊](https://www.gcores.com/radios/176805)|
+|2024-02-13 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第十八章 阿迪厄姆](https://www.gcores.com/radios/176804)|
+|2024-02-13 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国》第十七章 伊利里亚的死亡](https://www.gcores.com/radios/176803)|
+|2024-02-13 12:00:00|[机核](https://www.gcores.com/rss)|[客制化键盘丨近期值得一看的套件与键帽 老树发新芽](https://www.gcores.com/videos/177605)|
+|2024-02-13 11:16:37|[机核](https://www.gcores.com/rss)|[做弈仙牌口碑很好 却被迫卖房](https://www.gcores.com/videos/177607)|
+|2024-02-13 08:59:41|[机核](https://www.gcores.com/rss)|[2024年2月第一周手办模型情报总汇](https://www.gcores.com/articles/177178)|
+|2024-02-13 07:36:07|[机核](https://www.gcores.com/rss)|[一个游戏文化写手的12--1月都读了什么书？月度读书报告大推荐](https://www.gcores.com/articles/177604)|
+|2024-02-13 02:03:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我在精神病院当护士：没疯，很精神】90后小郁是江苏一家三甲精神病院的护士，工作十多年了。 抛开医护的身份，小郁也是一名观察者。社会每天都在沿着自己的轨道高速运转，并不断抛下那些脱轨的人。她和同事们所能做的便是“对痛苦有所回应”。“](https://dig.chouti.com/link/41520185)|
+|2024-02-13 02:11:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：维京猫武士，作者Omer Biber](https://dig.chouti.com/link/41520315)|
+|2024-02-13 02:33:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[重温历史上20款创新经典车型](https://dig.chouti.com/link/41520388)|
+|2024-02-13 02:37:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【日航浩劫，379人全部生还的背后】2024年1月2日下午，日本航空JAL516次航班在东京羽田机场降落时遭遇撞机事故，随后，飞机失控，机翼和发动机同时燃起大火，在事故发生后的18分钟内，包括机组成员在内的379人全部安全撤离。随后，JAL516上发生的一切被称为「教科书般的救援行动」、「羽田奇迹」。](https://dig.chouti.com/link/41520390)|
+|2024-02-13 04:14:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第96届奥斯卡提名者大合影](https://dig.chouti.com/link/41521199)|
+|2024-02-13 11:14:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[天下足球删除梅西镜头……昨天最新一期《天下足球》中，片头梅西捧起大力神杯的镜头，已被替换成德国队长拉姆捧杯的镜头。](https://dig.chouti.com/link/41523585)|
+|2024-02-13 03:10:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广东揭阳，一名小女孩在路边练习舞狮，等红灯的舞狮队敲锣助威](https://dig.chouti.com/link/41520683)|
+|2024-02-13 08:11:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[tumblr帖子翻译： “可疑的软件下载网站就像是欧洲民间传说里的妖精和精灵——它随时都想要骗你，但如果你拆穿了它的把戏，它还真的会帮你做到它宣称会做的事情。” 附带一些其他的妖精相关图，大多数来自tumblr](https://dig.chouti.com/link/41522466)|
+|2024-02-13 08:33:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[奥特曼：AI风险让我彻夜难眠，应成立一家国际机构来监管](https://dig.chouti.com/link/41522529)|
+|2024-02-13 10:11:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[春节前夕，东部战区海军某导弹快艇大队立功受奖官兵代表看望参加“八六”海战的老英雄——麦贤得、彭德才。随后，一行人来到广州长洲岛，一艘退役的海军舰艇静卧江面，艇身“611”舷号和“英雄艇”三个黑色大字格外醒目。离别之际，两位老英雄带领大家向“老战友”庄严敬礼。](https://dig.chouti.com/link/41523207)|
+|2024-02-13 10:11:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伪装者 Photo:Harman Singh Heer](https://dig.chouti.com/link/41523265)|
+|2024-02-13 03:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【老祖宗也玩模拟人生，比掼蛋更适配职场】明清时期，人们玩的“桌游”是和“飞行棋”大同小异的“升官图”。家长鼓励孩子玩升官图，因为“升官”从娃娃抓起——走上仕途、升官发财，才是人生“正道”。升官图虽然已成古董，但“模拟人生”游戏的内核一以贯之：在一个高度优胜劣汰的社会里，读书人如何自洽于跌宕的命运。](https://dig.chouti.com/link/41520807)|
 |2024-02-13 12:57:38|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[年会不能停1080p高清下载](https://masuit.com/1570)|
 |2024-02-13 03:50:48|[沉舟侧畔 Blog](https://springwood.me/feed/)|[日本的医保](https://springwood.me/jp-health-insurance/)|
 |2024-02-13 05:04:09|[小众软件](https://www.appinn.com/feed/)|[微软电脑管家 上架 微软商店，为全球用户提供服务｜适合新手用户](https://www.appinn.com/on-the-microsoft-store/)|
