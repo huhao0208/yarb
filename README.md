@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-13）
+﻿# 每日资讯（2024-02-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-14 01:00:00|[机核](https://www.gcores.com/rss)|[《热辣滚烫》：烂泥](https://www.gcores.com/articles/177611)|
 |2024-02-13 18:27:01|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)|
 |2024-02-13 09:18:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[推荐一下自己写的脚本工具，方便开发人员本地调试项目。一款生成自签名 SAN CA 域名（TLS v3）。用于快速生成开发和测试证书、内部平台授权和私有 DevOps 平台构建。](https://w2solo.com/topics/4419)|
 |2024-02-13 15:00:00|[机核](https://www.gcores.com/rss)|[通过赛博朋克了解一段二十世纪音乐史](https://www.gcores.com/radios/177230)|
