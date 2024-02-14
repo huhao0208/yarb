@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-14 08:26:04|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[週報 2024-02-11](https://blog.rxliuli.com/p/a467b7c4780c4d7ca0f54341bff770d7/)|
+|2024-02-14 10:39:47|[余晟以为](https://feedpress.me/wx-yurii-says)|[龙年快乐，朋友们](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009855&idx=1&sn=55ead16ddcd417e8fc6d79943c08ec6b)|
+|2024-02-14 05:25:18|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 913 Div. 3 ](https://blog.mauve.icu/2024/02/14/acm/codeforces/CodeforcesRound913(Div.%203)/)|
 |2024-02-14 06:17:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[改善视力的替代疗法](https://blog.xulihang.me/alternative-medicine-for-improving-eyesight/)|
 |2024-02-14 02:15:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #52：龙年大吉](https://w2solo.com/topics/4420)|
 |2024-02-14 07:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[馬克·祖克柏：Quest 3 比 Apple Vision Pro 更好](https://www.iphonetaiwan.org/2024/02/meta-quest-3-vs-apple-vision-pro-showdown.html)|
