@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-16 02:23:21|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[在 markdown 中使用中文符号](https://blog.rxliuli.com/p/2029b35ae4094a48a3073f998f10af9c/)|
+|2024-02-16 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[怎么评价《咒术回战》251 话?](https://www.zhihu.com/question/644437671)|
+|2024-02-16 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[OpenAI 的视频模型 Sora，支持 60s 超长长度、单视频多角度镜头等功能，能否颠覆影视创作？](https://www.zhihu.com/question/644488128)|
+|2024-02-16 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡尔森称「普京愿意在乌克兰问题上妥协，只有美国不愿意」，如何解读？](https://www.zhihu.com/question/644192040)|
+|2024-02-16 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[亚洲杯后国足世界排名降至第 88 位，亚洲排名第 13 位，如何看待国足排名下跌？](https://www.zhihu.com/question/644516712)|
+|2024-02-16 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[OpenAI 发布文生视频模型 Sora，将对 AI 视频行业、传统的影视公司等造成哪些影响？](https://www.zhihu.com/question/644478896)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024春节档，游戏也卷起来了](https://36kr.com/p/2650505023131138)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI空降视频生成模型：一口气生成60s，风格画质尺寸灵活定制 最前线](https://36kr.com/p/2650547758039300)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[从比亚迪到百万豪车，新能源正在「入侵」小县城](https://36kr.com/p/2649857591840005)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://36kr.com/p/2649283365503236)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[赵安吉不幸离世背后，美国华人第一家的时代传奇与悲怆](https://36kr.com/p/2649759296798981)|
+|2024-02-16 16:04:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[11名学生决定举报导师：做一件「蠢」但正确的事](https://36kr.com/p/2638222576008322)|
+|2024-02-16 04:02:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[体验14天后，果粉们开始大批退货Vision Pro！小扎拉踩视频疯转](https://36kr.com/p/2649286622739585)|
+|2024-02-16 04:02:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[效果炸裂！OpenAI首个视频生成模型发布，1分钟流畅高清，网友：整个行业RIP](https://36kr.com/p/2650455497425153)|
+|2024-02-16 04:02:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大厂狂撒上亿，争夺00后春节新社交](https://36kr.com/p/2647920963255432)|
+|2024-02-16 12:23:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[人的意识，预测器和 sora](https://blog.est.im/2024/stdin-03)|
+|2024-02-16 15:32:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[PWA 是什麼？蘋果停用歐盟 iPhone 網路應用程式功能](https://www.iphonetaiwan.org/2024/02/apple-eu-iphone-pwa-discontinuation.html)|
+|2024-02-16 09:08:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[無法再降級 iOS 17.3！在 iOS 17.3.1 推出後已停止簽署](https://www.iphonetaiwan.org/2024/02/apple-ios-17-3-1-update-features-security.html)|
 |2024-02-16 17:55:00|[plus studio](https://studyinglover.com/atom.xml)|[Sora技术报告 视频生成模型作为世界模拟器 笔记](https://studyinglover.com/2024/02/16/Sora%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A%20%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%BD%9C%E4%B8%BA%E4%B8%96%E7%95%8C%E6%A8%A1%E6%8B%9F%E5%99%A8%20%E7%AC%94%E8%AE%B0/)|
 |2024-02-16 07:11:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【特朗普就封口费一案出席最终听证会：我这不是犯罪，你看看外面的暴力，拜登在干预选举】据美媒报道，美国前总统特朗普于2月15日进入了美国纽约市曼哈顿下城法院，就“封口费”一案进行审判前的最后一场听证会。特朗普对所有指控均表示无罪，并否认所有不当行为。](https://dig.chouti.com/link/41544332)|
 |2024-02-16 11:44:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【年过三十，拖家带口去“港漂”】过去的一年，香港与内地全面通关，港府首次取消了“优才计划”的年度配额限制，2023年1月1日起实行，为期两年，内地与香港的联系重新紧密起来；从未想过自己会去香港的筱爽，也在这一年解锁了新手妈妈、博士生等多个身份，体验着一段全新的旅程。](https://dig.chouti.com/link/41545843)|
