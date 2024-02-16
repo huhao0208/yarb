@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-16 07:34:58|[小众软件](https://www.appinn.com/feed/)|[OpenAI Sora – 文字转视频模型：输入描述性文字，获得，生成长达一分钟的视频](https://www.appinn.com/openai-sora-introducing/)|
+|2024-02-16 04:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[春节回家几天，为什么家人相处越来越别扭？——阶层流动，从来不止是教育、收入的变化，也有道德情感的裂隙](https://dig.chouti.com/link/41543123)|
+|2024-02-16 12:11:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[星系团Abell 1689，位于室女座，距离地球23亿光年，是已知尺度最大和质量最大的星系团之一。作为一个强大的引力透镜，它扭曲了位于后方其他星系的影像。图一是Reddit用户后期处理的图片；图二是把韦布拍摄的图片叠在了当年哈勃望远镜发现A1689-zD1公布的图片上；图三是星系A1689-zD1的细节；图片来源：NASA](https://dig.chouti.com/link/41546145)|
+|2024-02-16 15:13:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《红毯先生》宣布退出春节档，将会重新选择档期回归与观众见面](https://dig.chouti.com/link/41547306)|
+|2024-02-16 05:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[北京大学人工智能专业博士@北大AI鱼博士 解读Sora：技术原理以及训练细节](https://dig.chouti.com/link/41543377)|
+|2024-02-16 05:10:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1938年，阿道夫·希特勒和费迪南德·保时捷在大众汽车工厂奠基的仪式上看着一辆甲壳虫汽车](https://dig.chouti.com/link/41543520)|
+|2024-02-16 05:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【春节第五天，我又偷跑出门开钟点房了】我只是想要出门静静，独自待待，度过一段无需对任何人解释“我在做什么”“我为什么要这样待着”“我要这样待到什么时候”的时间。近两年，我养成了每次回家都开钟点房的习惯。十多年前干柴烈火的年纪，我对钟点房里的草草了事嗤之以鼻。三十岁后，钟点房却成了我的避风港。](https://dig.chouti.com/link/41543604)|
+|2024-02-16 04:12:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[舰炮：127和76的区别](https://dig.chouti.com/link/41543164)|
+|2024-02-16 09:37:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[龙年春节中日医院救治一例罕见断耳患者](https://dig.chouti.com/link/41545078)|
+|2024-02-16 04:02:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[英伟达“网红研究员”：如果现实世界由代码编写，“创造者”程序大小可能不超过111Gb](https://dig.chouti.com/link/41542998)|
+|2024-02-16 06:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离异家庭春节记：去哪过年的道德困境](https://dig.chouti.com/link/41544015)|
+|2024-02-16 05:48:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[肝了一个集备忘，密码管理，图片，视频，文件管理于一体的加密存储 APP，欢迎来试用](https://w2solo.com/topics/4421)|
+|2024-02-16 17:13:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 將引入強大的 Spotlight AI 搜尋技能](https://www.iphonetaiwan.org/2024/02/ios-18-spotlight-ai-search.html)|
+|2024-02-16 16:56:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[OLED MacBook 何時發布？傳三星加入顯示器供應鏈](https://www.iphonetaiwan.org/2024/02/samsung-apple-oled-macbook.html)|
+|2024-02-16 16:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果準備推出 Xcode AI 工具，助開發者打造應用程式](https://www.iphonetaiwan.org/2024/02/apple-xcode-ai-tool-ios-18.html)|
 |2024-02-16 02:23:21|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[在 markdown 中使用中文符号](https://blog.rxliuli.com/p/2029b35ae4094a48a3073f998f10af9c/)|
 |2024-02-16 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[怎么评价《咒术回战》251 话?](https://www.zhihu.com/question/644437671)|
 |2024-02-16 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[OpenAI 的视频模型 Sora，支持 60s 超长长度、单视频多角度镜头等功能，能否颠覆影视创作？](https://www.zhihu.com/question/644488128)|
