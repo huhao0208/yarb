@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-16 00:15:47|[SHRIK3](https://shrik3.com/index.xml)|[ELF: symbol table, linker script and assembly sugar](https://shrik3.com/post/symboltable/)|
+|2024-02-16 01:18:18|[机核](https://www.gcores.com/rss)|[如何在《博德之门3》里实现拍照自由？甚至切换第一第三人称游玩？](https://www.gcores.com/articles/177658)|
 |2024-02-15 09:35:14|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 914 Div. 2 ](https://blog.mauve.icu/2024/02/15/acm/codeforces/CodeforcesRound914(Div.%202)/)|
 |2024-02-15 05:33:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[侃爷晒与adidas CEO合影，或将与adidas重启合作](https://dig.chouti.com/link/41536387)|
 |2024-02-15 06:10:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[挺聪明的，知道逆风拉~ 要是顺风拉，那得一裤兜子](https://dig.chouti.com/link/41536698)|
