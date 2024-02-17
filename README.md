@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-17 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“海南离岛机票过万元，我后悔没去东南亚”](https://36kr.com/p/2649581787167875)|
+|2024-02-17 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[香港“财神爷”去年赚了2127亿](https://36kr.com/p/2647743637766403)|
+|2024-02-17 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[​巴菲特，跑了](https://36kr.com/p/2649670459277570)|
+|2024-02-17 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一年500亿，春节“顶流”加特林，被小县城卖疯了](https://36kr.com/p/2651194956561540)|
+|2024-02-17 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年五大科技与创业趋势：从AI退热到IPO挑战](https://36kr.com/p/2597372212624004)|
+|2024-02-17 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[推倒万亿参数大模型内存墙，万字长文：从第一性原理看神经网络量化](https://36kr.com/p/2647879442612486)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[很少发朋友圈的是不是都是工作很忙的人？](https://www.zhihu.com/question/636694477)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[苹果停止签署 iOS 17.3，已升级用户无法降级，有哪些原因？将带来哪些影响？](https://www.zhihu.com/question/644483444)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[能看看这个春节，你记录下的「珍贵瞬间」吗？2024 年的春节，你家发生了哪些故事？](https://www.zhihu.com/question/641995464)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[亚洲杯止步 4 强 + 内讧，韩国队主教练克林斯曼下课，如何评价他的执教水平？](https://www.zhihu.com/question/644505241)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一位月收入只有三千元的父亲，如果具备了富人思维，他大概率会教育出一个什么素质的孩子？](https://www.zhihu.com/question/640800565)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么制作组会把废案放在游戏文件里?](https://www.zhihu.com/question/644355705)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有个亲妹妹是什么感觉?](https://www.zhihu.com/question/293914303)|
+|2024-02-17 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[薛之谦发长文怒赞《飞驰人生 2》，却因多次屏摄被指侵犯电影版权，看电影拍照发朋友圈有法律风险吗？](https://www.zhihu.com/question/644474591)|
+|2024-02-17 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[返程高峰已到，买不到返程车票不能按时上班，算旷工吗？](https://www.zhihu.com/question/644499714)|
+|2024-02-17 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张朝阳谈到的「大脑可塑性原理」是否可信?](https://www.zhihu.com/question/642884844)|
+|2024-02-17 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[白宫称阿夫迪夫卡有落入俄罗斯控制的危险，该地目前战况如何？从军事角度看该地有哪些战略意义？](https://www.zhihu.com/question/644498117)|
+|2024-02-17 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果有一天，有个人跑来跟你讲：「你只是我的克隆体。」那你会萌生什么想法?](https://www.zhihu.com/question/639677829)|
+|2024-02-17 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你认为国内最适合穷游的城市是哪儿？](https://www.zhihu.com/question/642212911)|
+|2024-02-17 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[做好新年计划，你可以先从制定年度预算开始](https://sspai.com/post/86327)|
+|2024-02-17 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统](https://sspai.com/post/86274)|
 |2024-02-16 07:34:58|[小众软件](https://www.appinn.com/feed/)|[OpenAI Sora – 文字转视频模型：输入描述性文字，获得，生成长达一分钟的视频](https://www.appinn.com/openai-sora-introducing/)|
 |2024-02-16 04:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[春节回家几天，为什么家人相处越来越别扭？——阶层流动，从来不止是教育、收入的变化，也有道德情感的裂隙](https://dig.chouti.com/link/41543123)|
 |2024-02-16 12:11:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[星系团Abell 1689，位于室女座，距离地球23亿光年，是已知尺度最大和质量最大的星系团之一。作为一个强大的引力透镜，它扭曲了位于后方其他星系的影像。图一是Reddit用户后期处理的图片；图二是把韦布拍摄的图片叠在了当年哈勃望远镜发现A1689-zD1公布的图片上；图三是星系A1689-zD1的细节；图片来源：NASA](https://dig.chouti.com/link/41546145)|
