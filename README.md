@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-17 09:58:40|[甜欣屋](https://tcxx.info/feed)|[请教英伟达小哥哥，解读 Sora 真正的技术突破](https://tcxx.info/diary/978.html)|
+|2024-02-17 04:12:28|[爱范儿](https://www.ifanr.com/feed)|[赛博断案，更适合 00 后体质的电子榨菜](https://www.ifanr.com/1575425?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-17 06:54:21|[空城记](https://shinekid.com/feed/)|[彩虹的微笑](https://shinekid.com/2024/02/rainbow-smile/)|
 |2024-02-17 04:00:00|[机核](https://www.gcores.com/rss)|[召唤褪色者！「吉考斯工业 x 艾尔登法环」联名系列 part 2 重磅来袭](https://www.gcores.com/articles/177628)|
 |2024-02-17 02:00:00|[机核](https://www.gcores.com/rss)|[译介丨EVO冠军访谈：AngryBird赢得《街霸6》冠军的真正原因](https://www.gcores.com/videos/177662)|
