@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-19 09:31:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[提升 Apple TV 安全性！NordVPN app 一次滿足網路安全、隱私、使用者體驗](https://applefans.today/2024-02-how-to-use-nordvpn-on-appletv/)|
+|2024-02-19 09:27:19|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[讓 iPhone「提醒事項」 成為你時間管理的好幫手](https://applefans.today/2024-02-iphone-reminders-good-features/)|
+|2024-02-19 02:34:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[LINE 社群 未來不再支援「備份聊天記錄」功能](https://applefans.today/2024-02-line-backup-feature-will-say-goodbye/)|
+|2024-02-19 13:47:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨Temu 在 “超级碗” 投的 1.5 亿元换来了什么；关于 Sora，已知的和未知的](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512739&idx=2&sn=0eb99cc7eeb1b4fa60d50deb8126ac0c)|
+|2024-02-19 13:47:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[两笔 10 亿美元大模型融资，互联网大厂又开始抢项目了](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512739&idx=1&sn=d0409068caa26b03dd9e1fba4294bb1f)|
+|2024-02-19 09:22:32|[知乎每日精选](https://www.zhihu.com/rss)|[当教室突然安静·二——衰减与“静默波”](http://zhuanlan.zhihu.com/p/681377984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-02-19 12:14:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #53：周记一周年](https://w2solo.com/topics/4425)|
 |2024-02-19 12:10:11|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[求助：关于 google play 封闭式测试](https://w2solo.com/topics/4424)|
 |2024-02-19 07:56:27|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[产品更新，然部落工具坊，一个开源的工具站](https://w2solo.com/topics/4423)|
