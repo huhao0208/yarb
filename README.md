@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-21）
+﻿# 每日资讯（2024-02-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-22 00:44:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為原廠而生的防護！MAGEASY COVERBUDDY iPad Pro 磁吸保護殼](https://applefans.today/2024-01-ipad-pro-case-coverbuddy-unboxing/)|
 |2024-02-21 13:35:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 尾声：Linux 中国开源文章数据集](https://linux.cn/article-16603-1.html?utm_source=rss&utm_medium=rss)|
 |2024-02-21 15:38:35|[机核](https://www.gcores.com/rss)|[终焉之莉莉丝团队新作《ENDER MAGNOLIA: Bloom in the mist》公布](https://www.gcores.com/articles/177893)|
 |2024-02-21 15:29:50|[机核](https://www.gcores.com/rss)|[《隐迹渐现》与《禁闭求生》即将登陆NS！任天堂第三方直面会内容汇总](https://www.gcores.com/articles/177890)|
