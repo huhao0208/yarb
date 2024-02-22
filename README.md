@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-22 02:02:17|[华山感染](https://feedpress.me/wx-hsinfect)|[世界脑炎日丨研究进展 + 科普干货，速来Get→](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247501028&idx=1&sn=46a79bd0e0dce8a2a7780b22b340cb85)|
+|2024-02-22 02:03:32|[机核](https://www.gcores.com/rss)|[《圣兽之王》PS5/PS4/Xbox Series X S版demo今晚上架](https://www.gcores.com/articles/177908)|
+|2024-02-22 02:00:00|[机核](https://www.gcores.com/rss)|[【福利】「Solarain Toys」原创1/7手办「阿尔维纳 修女ver.」预售开启](https://www.gcores.com/articles/177838)|
+|2024-02-22 01:43:49|[机核](https://www.gcores.com/rss)|[《旁观者：列车长》正式公布，现已推出Steam商城页](https://www.gcores.com/articles/177906)|
+|2024-02-22 01:25:34|[机核](https://www.gcores.com/rss)|[《盗贼之海》、《禁闭求生》及《隐迹渐现》即将登录其他主机平台](https://www.gcores.com/articles/177904)|
+|2024-02-22 01:07:00|[机核](https://www.gcores.com/rss)|[《完美音浪 HI-FI RUSH》将于3月19日登录PLAYSTATION 5](https://www.gcores.com/articles/177903)|
 |2024-02-22 00:44:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為原廠而生的防護！MAGEASY COVERBUDDY iPad Pro 磁吸保護殼](https://applefans.today/2024-01-ipad-pro-case-coverbuddy-unboxing/)|
 |2024-02-21 13:35:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 尾声：Linux 中国开源文章数据集](https://linux.cn/article-16603-1.html?utm_source=rss&utm_medium=rss)|
 |2024-02-21 15:38:35|[机核](https://www.gcores.com/rss)|[终焉之莉莉丝团队新作《ENDER MAGNOLIA: Bloom in the mist》公布](https://www.gcores.com/articles/177893)|
