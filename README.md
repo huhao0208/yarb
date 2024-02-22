@@ -2,6 +2,34 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-22 02:06:14|[Jing blog](https://jingine.com/feed/)|[HelloGWU 客户端他乡 下载方法](https://jingine.com/9667)|
+|2024-02-22 04:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[索尼 F2.8 大光圈标准变焦 G 镜头 FE 24-50mm F2.8 G 发布](https://www.photoworld.com.cn/post/176117)|
+|2024-02-22 07:09:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大英帝国战争博物馆收藏着一只猪头。这只猪一战期间作为肉猪生活在德国海军轻巡洋舰德累斯顿号上，该舰在一次任务中被英国皇家海军重巡洋舰格拉斯号击沉。沉没之际，这头猪奋力跳入冰冷的大西洋游向英舰，英军被它的求生欲感动将它救起，并给他起名“阿尔弗雷德.冯.提尔皮兹海军上将”（德国海军之父），以纪念这场战役。](https://dig.chouti.com/link/41602742)|
+|2024-02-22 09:09:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[反咬一口……台海巡署称是大陆渔船蛇行“甩尾”撞到海巡艇，导致翻覆](https://dig.chouti.com/link/41604054)|
+|2024-02-22 10:09:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【民政部通报2.2亿元彩票大奖情况：2.2亿元彩票大奖触发限赔，每注奖金降为4475元】此次2.2亿多元大奖，每注奖金1万元，因触发限赔，每注奖金降为4475元。按照《中国福利彩票“快乐8”游戏规则》第三十三条“单注中奖金额在一万元（不含）以上的中奖者须依法缴纳个人所得税”的规定，中奖者无须缴纳个人所得税。](https://dig.chouti.com/link/41604643)|
+|2024-02-22 07:17:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[@李文博_v：上帝眼中的雪后小雁塔​ //@几苇渡：大唐芯片](https://dig.chouti.com/link/41602833)|
+|2024-02-22 10:32:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【谷歌：将暂停Gemini的人物图像生成】此前有网友曝出Gemini“绘制不出白人”，谷歌回应称正在改善此类问题。](https://dig.chouti.com/link/41604796)|
+|2024-02-22 10:01:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【种族主义还是矫枉过正？ AI模型Gemini被曝“绘制不出白人”】Gemini系统的高级主管杰克·克劳茨克回应称，“Gemini的AI生成图像确实能够生成各种各样的人物形象。这通常是一件好事，因为全世界的人都在使用它。但它没有达到预期效果，我们正尽快努力改善此类问题”。](https://dig.chouti.com/link/41604389)|
+|2024-02-22 10:10:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴西球星阿尔维斯强奸罪成立，被判刑4年6个月，外加刑满释放后监管5年，并赔偿受害人15万欧](https://dig.chouti.com/link/41604705)|
+|2024-02-22 09:01:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[浙大邵逸夫医院：娃哈哈创始人宗庆后在ICU救治，目前情况平稳](https://dig.chouti.com/link/41603686)|
+|2024-02-22 03:00:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【龙年，他们在等待一个生育高峰期】这是一群等待龙年生育率提升的人，他们之中：有人是母婴行业从业者，在生育率接年下降的大背景下，等待着龙年生育“小阳春”；有人是幼儿园园长，将龙年当做是职场生涯的“风向标”；除此之外，工厂老板、产科医生，也在关注着龙年的生育情况。](https://dig.chouti.com/link/41599673)|
+|2024-02-22 09:09:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不同金属在激光烧蚀下的光泽](https://dig.chouti.com/link/41604112)|
+|2024-02-22 03:10:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[外国人考雅思是什么感觉](https://dig.chouti.com/link/41600210)|
+|2024-02-22 05:02:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【Reddit与谷歌达成人工智能内容授权协议，每年价值6000万美元】此前有报道称Reddit与“大型AI公司”达成数据授权协议，知情人士透露，该AI公司即谷歌。](https://dig.chouti.com/link/41601362)|
+|2024-02-22 06:11:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本网友表示，原来还有好多我不知道的单词……](https://dig.chouti.com/link/41602107)|
+|2024-02-22 02:01:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【川普式移民政策？拜登考虑关闭美墨边境】消息人士称，为限制非法越境的移民在美国南部边境寻求庇护，白宫正考虑采取的行动似乎是前段时间被共和党人否决的边境法案中一些最强硬措施的延伸，也是拜登在大选日之前表明其在边境安全问题上积极态度的努力。拜登曾表示：“如果该法案成为法律，那我们已经有资格关闭边境。”](https://dig.chouti.com/link/41599132)|
+|2024-02-22 02:11:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：机械战姬，作者Jay Woodson](https://dig.chouti.com/link/41599456)|
+|2024-02-22 04:10:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[央视网《法律讲堂 生活版 》节目2月18日一则案例：外甥正月初二去理发，当晚舅舅遇车祸去世，舅妈控告他“故意杀人，赔100万”。法院表示：车祸与理发无关，驳回舅妈诉讼请求。](https://dig.chouti.com/link/41600892)|
+|2024-02-22 06:01:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[李一舟AI课程小程序因违规被暂停服务，个人视频号被禁止关注](https://dig.chouti.com/link/41601695)|
+|2024-02-22 05:26:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【洪森赴泰国探望他信：以兄弟相称，共尝泰式炒河粉】柬埔寨前首相洪森21日探望了日前获假释的泰国前总理他信。由于年龄和健康原因，他信于2月18日获假释。现年74岁的他信一直戴着颈托，手臂打着绷带，坐在轮椅上。一位见过他的不具名高级官员说，他信“病得很重”。](https://dig.chouti.com/link/41601582)|
+|2024-02-22 06:15:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[蕉太狼](https://dig.chouti.com/link/41602185)|
+|2024-02-22 04:32:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【媒体：字节跳动停止运营旗下家装服务住好家；字节：正常业务方向调整】界面新闻报道，住好家未签单客户不再签单，已签单但未实际执行的客户正在沟通退款。住好家客服确认，接到业务调整通知，无法进行新的签单。对此，抖音家装相关负责人：住好家没有停止运营，只是业务方向调整，将转为探索家装业务服务保障的模式。](https://dig.chouti.com/link/41601058)|
+|2024-02-22 02:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Reddit据悉拟为7.5万名最具影响力的大用户预留部分IPO股票](https://dig.chouti.com/link/41599292)|
+|2024-02-22 03:10:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[边斗争，边备战，边建设——在全军海拔最高的驻兵点5592观察哨，执勤官兵不再住坑道，哨位上建起多座板房，生活环境明显改善，战士们也换上了新枪](https://dig.chouti.com/link/41600131)|
+|2024-02-22 04:32:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[#起源、用法和趣闻：关于井号的补充史#](https://dig.chouti.com/link/41601063)|
+|2024-02-22 03:09:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【场外OTC商的暴富故事】2023年5月，比特币铭文热潮高峰，按当时比特币的价格计算，OTC商们每天的手续费收入就有近一万美元，相当于国内大部分普通白领半年的工资收入，通过「黑箱子」手段甚至能「吃到」成交金额50%的利润。本文展示了真实的场外交易存在的内幕与操盘手法。](https://dig.chouti.com/link/41600091)|
+|2024-02-22 03:10:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[狗和鸡连到一起了](https://dig.chouti.com/link/41600209)|
+|2024-02-22 14:00:00|[plus studio](https://studyinglover.com/atom.xml)|[colab运行google最新开源模型Gemma](https://studyinglover.com/2024/02/22/colab%E8%BF%90%E8%A1%8Cgoogle%E6%9C%80%E6%96%B0%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8BGemma/)|
 |2024-02-22 01:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国将投入巨资更换港口的中国制造起重机](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%8A%95%E5%85%A5%E5%B7%A8%E8%B5%84%E6%9B%B4%E6%8D%A2%E6%B8%AF%E5%8F%A3%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%B5%B7%E9%87%8D%E6%9C%BA-9d82433f)|
 |2024-02-22 06:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国通缩苦了谁？香港零售商首当其冲](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%9A%E7%BC%A9%E8%8B%A6%E4%BA%86%E8%B0%81-%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%E5%95%86%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2-0b2b3013)|
 |2024-02-22 01:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台海紧张局势升温，此前中国渔民遭台驱离时死亡](https://cn.wsj.com/articles/%E5%8F%B0%E6%B5%B7%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E6%B8%A9-%E6%AD%A4%E5%89%8D%E4%B8%AD%E5%9B%BD%E6%B8%94%E6%B0%91%E9%81%AD%E5%8F%B0%E9%A9%B1%E7%A6%BB%E6%97%B6%E6%AD%BB%E4%BA%A1-d81d1e1e)|
