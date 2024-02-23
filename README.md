@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-23 10:15:00|[idealclover](https://idealclover.top/feed)|[2021-2023年终总结：跃入人海，潮起潮落](https://idealclover.top/archives/637/)|
+|2024-02-23 12:52:00|[oldj's blog](https://oldj.net/feed)|[不要做“微操”型管理者](https://oldj.net/article/2024/02/23/do-not-micromanage/)|
 |2024-02-23 08:57:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple TV+ 心靈雞湯類型影集 -《誠實診療室》](https://applefans.today/2024-02-apple-tv-plus-shrinking/)|
 |2024-02-23 04:22:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.4 的 iMessage 將使用「後量子加密協議」](https://applefans.today/2024-02-imessage-quantum-security-ios-17-4/)|
 |2024-02-23 10:19:27|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[请教下 lemon squeezy 现在还开放国内注册商户吗?](https://w2solo.com/topics/4434)|
