@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-22）
+﻿# 每日资讯（2024-02-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-23 01:00:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 123 期）：一个邮件模板编辑工具月收入 40 万美金](https://w2solo.com/topics/4432)|
 |2024-02-22 09:31:07|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[一开工就打折，是不是有点过分了？？？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449674&idx=1&sn=657d0333dd13b8564fe2d3c6c6281e96)|
 |2024-02-22 16:04:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价一人之下 659 话之中左若童的做法？](https://www.zhihu.com/question/643692964)|
 |2024-02-22 16:04:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[谷歌正式推出开源大语言模型 Gemma，声称超越 Meta Llama-2 竞品，将带来哪些影响？](https://www.zhihu.com/question/645303968)|
