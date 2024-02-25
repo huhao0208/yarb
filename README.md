@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-25 10:09:47|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[如何借助生成 AI 提供 HarmonyOS 开发体验？试试 AutoDev 新功能](http://www.phodal.com/blog/autodev-aigc-for-harmonyos/)|
+|2024-02-25 08:30:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Apptisan #003｜Mindr：一位有着近 10 年 iOS 开发经验的全职爸爸如何高效管理时间？](https://w2solo.com/topics/4438)|
+|2024-02-25 11:35:00|[六个周](https://blog.liugezhou.online/atom.xml)|[每周小结 *105 :牛马生活开始](https://blog.liugezhou.online/202406-No105/)|
 |2024-02-25 08:00:00|[机核](https://www.gcores.com/rss)|[有枪、有故事、有丧尸：发布两周年之后，《消逝的光芒2》仿佛全新登场](https://www.gcores.com/articles/177997)|
 |2024-02-25 06:38:38|[机核](https://www.gcores.com/rss)|[2024.1-2手账合集](https://www.gcores.com/articles/178027)|
 |2024-02-25 06:00:00|[机核](https://www.gcores.com/rss)|[UE5中复刻怪物猎人狩猎笛](https://www.gcores.com/videos/178020)|
