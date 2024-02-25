@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-25 04:00:27|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393)|
 |2024-02-24 19:27:14|[机核](https://www.gcores.com/rss)|[《艾尔登法环》发售2周年纪念](https://www.gcores.com/articles/178023)|
 |2024-02-24 15:51:55|[机核](https://www.gcores.com/rss)|[《匹诺曹的谎言》其二·核心循环及其拓展应用](https://www.gcores.com/articles/177944)|
 |2024-02-24 15:08:58|[机核](https://www.gcores.com/rss)|[【周更译作E06】爽就完事：《侠盗猎车手》的法外之路](https://www.gcores.com/articles/177892)|
