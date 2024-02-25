@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-02-24）
+﻿# 每日资讯（2024-02-25）
 
 |时间|来源|标题|
 |---|---|---|
@@ -26,6 +26,7 @@
 |2024-02-24 12:42:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 39 期（摘要）](https://w2solo.com/topics/4437)|
 |2024-02-24 08:13:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[目前做的产品上线的有 4 个了，但是还是不知道有什么变现的渠道。](https://w2solo.com/topics/4436)|
 |2024-02-24 21:58:03|[程序员的喵](https://catcoding.me/atom.xml)|[中外程序员差异](http://catcoding.me/p/diff/)|
+|2024-02-25 06:00:00|[烧饼博客](https://u.sb/rss.xml)|[Debian 12 使用 Docker 安装 Shlink 自建短网址](https://u.sb/docker-shlink/)|
 |2024-02-24 11:11:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：机械异形，作者Jason Leite](https://dig.chouti.com/link/41624774)|
 |2024-02-24 13:13:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[安妮·海瑟薇在米兰时装周after party上热舞麦当娜 经典神曲Hung Up~ 网友纷纷羡慕：希望我41岁的时候也可以这么松弛和自若~（Cr - hyunjin.twi）](https://dig.chouti.com/link/41625602)|
 |2024-02-24 12:10:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[意大利艺术家Albeniz Rodriguez画笔下的宠物：](https://dig.chouti.com/link/41625113)|
