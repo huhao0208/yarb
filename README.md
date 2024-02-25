@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-25 14:37:19|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《荒野》：一拳超人马东锡暴打所有，鳄鱼躺下，恶霸躺下，丧尸躺下！](https://www.ximalaya.com/sound/708816508)|
+|2024-02-25 07:12:17|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 917 Div. 2 ](https://blog.mauve.icu/2024/02/25/acm/codeforces/CodeforcesRound917/)|
 |2024-02-25 05:01:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我，花三万买苹果Vision Pro，头和眼球快撑不住](https://dig.chouti.com/link/41630307)|
 |2024-02-25 05:13:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[信息图示大神Tony Bela正在绘制直觉机器公司的IM-1登月任务回顾，这是他根据公司CEO披露的信息绘制的NOVA-C着陆器登月场景——由于水平速度过大，着陆器落地后侧翻倾倒，所幸着陆器上的载荷好像大都还能工作……](https://dig.chouti.com/link/41630461)|
 |2024-02-25 02:08:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一时间竟分不清楚到底这是大叔，还是狗子](https://dig.chouti.com/link/41629156)|
