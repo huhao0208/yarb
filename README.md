@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-26 02:28:59|[观人看世界](https://feedpress.me/wx-iwatch1024)|[见闻周刊（第54期）：解不解放思想与俄乌两周年](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489468&idx=1&sn=8f7b5e6c77652563a33f222beac94635)|
+|2024-02-26 04:00:43|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[#起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471)|
 |2024-02-26 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[二十多年来我使用的计算机操作系统](https://leimao.github.io/essay/%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)|
 |2024-02-25 14:37:19|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《荒野》：一拳超人马东锡暴打所有，鳄鱼躺下，恶霸躺下，丧尸躺下！](https://www.ximalaya.com/sound/708816508)|
 |2024-02-25 07:12:17|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 917 Div. 2 ](https://blog.mauve.icu/2024/02/25/acm/codeforces/CodeforcesRound917/)|
