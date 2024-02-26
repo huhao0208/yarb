@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-26 09:51:16|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[要不是青团和春笋来了，谁周一想上班啊？？？还是外面买不到！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449773&idx=1&sn=341315f868ee4c50f8da6cb969806605)|
+|2024-02-26 14:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[SpaceX首次通过星链从太空向社交平台X上发帖](https://dig.chouti.com/link/41644090)|
+|2024-02-26 15:32:15|[SHRIK3](https://shrik3.com/index.xml)|[STOP INCLUDING NERD FONT AS DEPENDENCY](https://shrik3.com/post/stop_nerd_font/)|
 |2024-02-26 10:09:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌AI模型和《纽约时报》各自的“政治正确”—— “谷歌的AI模型不会生成白人的图片。” 《纽约时报》：我不在乎。 “谷歌AI怎么能把美国国父画成非洲人和亚洲人呢？” 《纽约时报》：那又怎样？ （压低嗓门）“这也意味着，纳粹分子同样会被画成有色人种…” 《纽约时报》 ：不得了了，突发新闻！](https://dig.chouti.com/link/41642204)|
 |2024-02-26 14:10:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[英超官方：埃弗顿罚分由10分降至6分，现积25分排英超第15](https://dig.chouti.com/link/41644163)|
 |2024-02-26 13:11:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[斯坦福大学李宏斌等在最近发表于美国国家经济研究局（NBER）的一篇论文，利用1999年到2003年全国高考考生数据，考察高考引进听力考试对城乡学生升学的影响：当英语听力测试被引进高考后，城乡录取差距被拉大了30%，五年时间导致5.4万名农村学生无法升入大学，另有1.1万名本可以进入精英大学的农村学生丧失这一机会。](https://dig.chouti.com/link/41643751)|
