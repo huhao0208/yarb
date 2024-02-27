@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-27 07:54:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[从文艺青年食堂到人民的酒楼，二十年。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449876&idx=1&sn=bf1c51a0140f67b80e86e7c0d84ae2cb)|
 |2024-02-27 13:01:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌展示Genie模型：一张草图就能生成一个2D游戏](https://dig.chouti.com/link/41653995)|
 |2024-02-27 14:15:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高合汽车回应“偷图纸”：均为原创，工程师手稿和专利都在](https://dig.chouti.com/link/41654694)|
 |2024-02-27 09:03:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【全球首辆可伸缩汽车或于今夏上市】这款纯电动汽车由总部设在以色列的City Transformers公司研发，预计今年7月上市。车最大宽度约137厘米，调整后可缩至97.5厘米。在这两种宽度下，汽车均可正常行驶，速度略有不同：最大宽度下最高时速为88公里，最小宽度下为38.6公里。售价约为1.74万美元（约合12.5万元人民币）。](https://dig.chouti.com/link/41651865)|
