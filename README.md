@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-28 14:35:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[每年耗费数百万套，住酒店拒绝一次性用品有多难？](https://dig.chouti.com/link/41665358)|
+|2024-02-28 23:02:38|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[专业级图像处理工具——Serif Affinity Photo 2.4学习版](https://masuit.com/1814)|
+|2024-02-28 23:02:01|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[强大的矢量图工具——Serif Affinity Designer 2.4学习版](https://masuit.com/1815)|
+|2024-02-28 14:02:39|[机核](https://www.gcores.com/rss)|[革命者的胃](https://www.gcores.com/articles/178190)|
+|2024-02-28 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.38丨八王之谜](https://www.gcores.com/radios/178187)|
+|2024-02-28 12:30:35|[机核](https://www.gcores.com/rss)|[啊？《最终幻想7 重生》的日版游戏光盘顺序印反了](https://www.gcores.com/articles/178189)|
+|2024-02-28 11:25:02|[机核](https://www.gcores.com/rss)|[复古迷你小主机能玩啥？AYANEO Retro Mini PC AM02 开箱](https://www.gcores.com/videos/178188)|
+|2024-02-28 10:32:56|[机核](https://www.gcores.com/rss)|[《潜水员戴夫》将于5月在日本推出NS实体版](https://www.gcores.com/articles/178184)|
+|2024-02-28 10:30:00|[机核](https://www.gcores.com/rss)|[DND龙枪跑团第四集：葬礼闹剧](https://www.gcores.com/videos/178041)|
+|2024-02-28 10:24:53|[机核](https://www.gcores.com/rss)|[JOYTOY《荷鲁斯大叛乱》新品公布：荷子军团铁骑终结者参战](https://www.gcores.com/articles/178180)|
+|2024-02-28 10:21:58|[机核](https://www.gcores.com/rss)|[一次冒险一生难忘《兄弟：双子传说》重制版经典重现](https://www.gcores.com/articles/178181)|
+|2024-02-28 10:21:53|[机核](https://www.gcores.com/rss)|[Fami通新作评分：《最终幻想7 重生》38分；《圣兽之王》36分](https://www.gcores.com/articles/178179)|
+|2024-02-28 10:00:00|[机核](https://www.gcores.com/rss)|[《最终幻想7 重生》体验，机浪 Vol.39](https://www.gcores.com/radios/178174)|
+|2024-02-28 09:42:24|[机核](https://www.gcores.com/rss)|[《圣兽之王》公布“指挥官入门手册 ~战斗心得篇~”宣传片](https://www.gcores.com/articles/178176)|
+|2024-02-28 09:08:30|[机核](https://www.gcores.com/rss)|[三月新游推荐：《龙信2》《浪人崛起》选择困难，究极缝合不知道内容如何](https://www.gcores.com/articles/178177)|
+|2024-02-28 09:00:00|[机核](https://www.gcores.com/rss)|[推荐一点读起来没什么压力的漫画，录音笔 VOL.148](https://www.gcores.com/radios/178173)|
+|2024-02-28 08:51:50|[机核](https://www.gcores.com/rss)|[类魂游戏《恩诺提利亚：终曲》宣布延期](https://www.gcores.com/articles/178175)|
+|2024-02-28 08:29:08|[机核](https://www.gcores.com/rss)|[Tokyo Marui推出《莉可丽丝》“千束之枪”气枪模型](https://www.gcores.com/articles/178172)|
+|2024-02-28 11:33:15|[Conge](https://conge.github.io/feed.xml)|[新爸五年计划 - 349 元宵](https://conge.livingwithfcs.org/2024/02/28/NewDaddy-lantern-fest/)|
+|2024-02-28 00:11:30|[HelloGitHub 月刊](http://hellogithub.com/rss)|[HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95)|
 |2024-02-28 14:08:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【小县城化债有多难？以Q县为例算算账】中央和省级试图通过发放“专项债券”促进县政府经营县城，县政府干部则指望通过经营县城应对债务风险，于是形成“欠债—经营—还债”的经营逻辑。](https://dig.chouti.com/link/41665192)|
 |2024-02-28 14:36:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[遭遇“网暴”的女主播们选择维权](https://dig.chouti.com/link/41665359)|
 |2024-02-28 04:01:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【加沙人如何度过一天】BBC记者用一天时间，通过WhatsApp联络在加沙各地的人们，记录他们的日常生活：他们在市场上搜寻食物果腹、为流离失所的人分发物资、在人满为患的医院里工作、努力养活吃不到母乳的婴儿。加沙的网络断断续续。有一段时间，记者的联系人音讯全无，WhatsApp信息一直处于未读状态，电话直接转到语音信箱](https://dig.chouti.com/link/41659177)|
