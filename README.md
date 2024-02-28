@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-28 01:01:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【未生效便被废，新西兰取消“世代禁烟令”】新西兰政府27日正式废除“世代禁烟令”，此时距离该禁令正式生效仅剩4个月。新西兰上届政府2022年12月通过“世代禁烟令”，禁止2009年1月1日及之后出生的人购买烟草，违者将被处以最高15万新西兰元（1新西兰元约合4.4元人民币）的罚款。禁令原计划于2024年7月生效。](https://dig.chouti.com/link/41657139)|
+|2024-02-28 02:08:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[后卫式大打小！文班亚马胯下背运拜佛军训李凯尔，撤步后仰三分飚中](https://dig.chouti.com/link/41658018)|
+|2024-02-28 02:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当互联网大厂开始“降本增笑”】在那些最惨烈、最荒唐、最极致的降本故事里，我们都能看到自己的身影。](https://dig.chouti.com/link/41658113)|
+|2024-02-28 02:54:27|[知乎每日精选](https://www.zhihu.com/rss)|[2024十大高性价比设计专业图形移动工作站笔记本排行榜及避坑指南，轻松省下1W+！（内含专业图形显卡天梯）](http://zhuanlan.zhihu.com/p/265515477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-02-27 07:54:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[从文艺青年食堂到人民的酒楼，二十年。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449876&idx=1&sn=bf1c51a0140f67b80e86e7c0d84ae2cb)|
 |2024-02-27 13:01:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌展示Genie模型：一张草图就能生成一个2D游戏](https://dig.chouti.com/link/41653995)|
 |2024-02-27 14:15:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高合汽车回应“偷图纸”：均为原创，工程师手稿和专利都在](https://dig.chouti.com/link/41654694)|
