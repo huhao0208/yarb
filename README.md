@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-02-28）
+﻿# 每日资讯（2024-02-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-29 00:53:55|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[“围城”内的主播｜工劳小报 #36](https://feed.laborinfozh.com/issue36/)|
+|2024-02-29 00:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国限制向中国等对手国出售美国人的个人数据](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%99%90%E5%88%B6%E5%90%91%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%AF%B9%E6%89%8B%E5%9B%BD%E5%87%BA%E5%94%AE%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE-bffcda1e)|
 |2024-02-28 14:35:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[每年耗费数百万套，住酒店拒绝一次性用品有多难？](https://dig.chouti.com/link/41665358)|
 |2024-02-28 23:02:38|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[专业级图像处理工具——Serif Affinity Photo 2.4学习版](https://masuit.com/1814)|
 |2024-02-28 23:02:01|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[强大的矢量图工具——Serif Affinity Designer 2.4学习版](https://masuit.com/1815)|
