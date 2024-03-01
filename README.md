@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-01 13:09:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2024 年 3 月 1 日](https://www.changhai.org/articles/miscellaneous/blog/202403.php#latest)|
+|2024-03-01 05:57:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[1900年居然不是闰年？](https://blog.est.im/2024/stdout-04)|
+|2024-03-01 15:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】徜徉于氛围恐惧之中：《噩梦初醒》展示新游戏玩法](https://www.gcores.com/articles/178344)|
+|2024-03-01 15:00:00|[机核](https://www.gcores.com/rss)|[独自升级，有点无敌 天天ACG 3.1](https://www.gcores.com/radios/177983)|
+|2024-03-01 14:00:00|[机核](https://www.gcores.com/rss)|[为了成为极限战士，战团长卡尔加究竟要付出怎样的代价！【小风】《战锤40K漫画》](https://www.gcores.com/videos/178336)|
+|2024-03-01 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[年度征文｜新手家庭财务初探](https://sspai.com/post/86627)|
+|2024-03-01 04:01:49|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/86685)|
+|2024-03-01 10:11:45|[余晟以为](https://feedpress.me/wx-yurii-says)|[多年后，我和朋友讨论了当年“粗暴对待学生”的老师](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009870&idx=1&sn=0a8fdac8775cbd647614f5e36f3443ba)|
 |2024-03-01 11:00:00|[机核](https://www.gcores.com/rss)|[事了拂衣去——围绕短篇小说《边邑》杂谈侠文化、边塞文化与妖文化（上）](https://www.gcores.com/articles/178026)|
 |2024-03-01 10:27:00|[机核](https://www.gcores.com/rss)|[水冷笔记本来了，拯救者Y9000K 2024正式推出](https://www.gcores.com/articles/178347)|
 |2024-03-01 10:19:51|[机核](https://www.gcores.com/rss)|[《远征：泥泞奔驰游戏》现已提前解锁,国区售价169元起](https://www.gcores.com/articles/178346)|
