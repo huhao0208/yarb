@@ -2,6 +2,56 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-02 06:27:13|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《杂种》：世道艰难麦叔亲自种土豆，卑鄙二代持强凌弱，一部荡气回肠的开荒者之歌！](https://www.ximalaya.com/sound/710407865)|
+|2024-03-02 06:11:27|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[一个失去番号的王牌部队《空军第五大队》，我以我血荐轩辕！](https://www.ximalaya.com/sound/710405806)|
+|2024-03-02 17:54:44|[乔克叔叔的床边故事](https://lifeodyssey.github.io/atom.xml)|[新的春天](https://lifeodyssey.github.io/posts/6ef15720.html)|
+|2024-03-02 15:37:34|[夜庭記](https://musenxi.com/feed)|[菲林日记贰](https://musenxi.com/archives/1269.html)|
+|2024-03-02 16:19:19|[机核](https://www.gcores.com/rss)|[原创漫画丨《不会魔法的阿莱缇娅》6-10](https://www.gcores.com/articles/178383)|
+|2024-03-02 15:00:00|[机核](https://www.gcores.com/rss)|[暗黑4为啥无聊，我们今天好像聊明白了一点 GadioNews03.02](https://www.gcores.com/radios/177984)|
+|2024-03-02 14:57:52|[机核](https://www.gcores.com/rss)|[用耳朵听电影！——一百张影视作品OST计划](https://www.gcores.com/articles/178375)|
+|2024-03-02 14:57:46|[机核](https://www.gcores.com/rss)|[《周处除三害》：三毒、命运与自行车](https://www.gcores.com/articles/178378)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第二十章 琼恩](https://www.gcores.com/radios/178334)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十九章 凯特琳](https://www.gcores.com/radios/178333)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十八章 布兰](https://www.gcores.com/radios/178327)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十七章 艾德](https://www.gcores.com/radios/178326)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十六章 珊莎](https://www.gcores.com/radios/178325)|
+|2024-03-02 13:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】徜徉于氛围恐惧之中：《噩梦初醒》展示新游戏玩法](https://www.gcores.com/articles/178365)|
+|2024-03-02 11:00:00|[机核](https://www.gcores.com/rss)|[CCBC 13 赛后总结（上）](https://www.gcores.com/articles/178360)|
+|2024-03-02 11:00:00|[机核](https://www.gcores.com/rss)|[事了拂衣去——围绕短篇小说《边邑》杂谈侠文化、边塞文化与妖文化（下）](https://www.gcores.com/articles/178037)|
+|2024-03-02 10:43:27|[机核](https://www.gcores.com/rss)|[Godot入门到弃坑：脚踏实地，腾空而起](https://www.gcores.com/articles/178363)|
+|2024-03-02 10:21:46|[机核](https://www.gcores.com/rss)|[绘画记录丨声效模因防御科-RIDER STRICK！READY！！！](https://www.gcores.com/videos/178366)|
+|2024-03-02 10:18:07|[机核](https://www.gcores.com/rss)|[《最后生还者Part2》游戏摄影集](https://www.gcores.com/articles/178364)|
+|2024-03-02 10:01:45|[机核](https://www.gcores.com/rss)|[聊聊《绝地潜兵2》的体验：友军"PVP"的欢笑](https://www.gcores.com/articles/178369)|
+|2024-03-02 09:24:46|[机核](https://www.gcores.com/rss)|[《恶意不息》公布最新实机演示，将于4月18日以抢先体验形式发售](https://www.gcores.com/articles/178367)|
+|2024-03-02 09:13:00|[机核](https://www.gcores.com/rss)|[【抽奖】二战回合制战略《绝密：法国‘44年》现已开启预购，将于3月6日发售](https://www.gcores.com/articles/178342)|
+|2024-03-02 06:44:46|[机核](https://www.gcores.com/rss)|[译介丨Arslan Ash的生活与时代](https://www.gcores.com/videos/178359)|
+|2024-03-02 05:14:00|[机核](https://www.gcores.com/rss)|[CDPR没能实现的赛博朋克世界——《ChromeBook1》芯片篇](https://www.gcores.com/articles/178357)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有什么电影后劲很大？](https://www.zhihu.com/question/640181483)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[文笔挑战 「佛前一跪三千里，______ 」，下一句怎么接？](https://www.zhihu.com/question/642192961)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[LRASM 能否被舰载直升机在低空近距离拦截？](https://www.zhihu.com/question/646611665)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[作为女性，你有过什么自我意识觉醒的经历?](https://www.zhihu.com/question/638897941)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2 月财新中国制造业 PMI 微升至 50.9 ，连续四个月扩张，如何解读这一数据？](https://www.zhihu.com/question/646566144)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 勇士 120:105 猛龙，如何评价这场比赛？](https://www.zhihu.com/question/646709816)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[辞掉一份在家人和朋友眼中还不错的工作，去做自己想做的事情，是种怎样的体验？](https://www.zhihu.com/question/645960573)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[多方对「快递新规」态度不一，有快递员称打电话花费大量时间，业内呼吁付费提高派件积极性，如何看待此事？](https://www.zhihu.com/question/646613375)|
+|2024-03-02 16:03:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么美的「蒸汽洗」油烟机忽然火了？比起其他品牌什么优势？](https://www.zhihu.com/question/646714736)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你经历过特别机缘巧合的事情吗？](https://www.zhihu.com/question/399124721)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待海贼王 1109 话，连五老星都亲自出手了？](https://www.zhihu.com/question/646437748)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[说「古腾堡发明了活字印刷，因为中国的活字印刷没有投入实践」是否合理？](https://www.zhihu.com/question/49332263)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[印度去年第四季度 GDP 同比增长 8.4 %，靠的是怎样的增长模式？印度的消费、投资和就业有何变化？](https://www.zhihu.com/question/646604243)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新手小白第一次去健身房，如何避免尴尬？](https://www.zhihu.com/question/646108259)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[德国总理朔尔茨透露英国军人帮助乌克兰发射风暴之影导弹，此前他称不会向乌提供金牛座导弹，如何看待此事？](https://www.zhihu.com/question/646763620)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[韩国医生拒绝复工要求，警方展开查抄行动，韩国担忧「3 月医疗大乱」，此次风波将产生哪些影响？](https://www.zhihu.com/question/646714159)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么光刻车队的钢材会被判定违规？](https://www.zhihu.com/question/644755403)|
+|2024-03-02 16:03:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[写小说人物的情绪没写出来，没有代入感，感觉在为了剧情而写，一直浮在表面怎么办？](https://www.zhihu.com/question/640223935)|
+|2024-03-02 16:03:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[说说「句句不提想念，句句皆是想念」的诗词吧?](https://www.zhihu.com/question/646587793)|
+|2024-03-02 16:03:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国警方称福茂集团董事长赵安吉之死系非「典型事故」，连人带车从池塘中被发现，正进行刑事调查，如何解读？](https://www.zhihu.com/question/646713814)|
+|2024-03-02 14:18:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 40 期（摘要）](https://w2solo.com/topics/4454)|
+|2024-03-02 17:15:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果發布60頁白皮書：揭露 iOS 開放第三方應用商城風險](https://www.iphonetaiwan.org/2024/03/ios-17-4-release-eu-privacy-enhancements.html)|
+|2024-03-02 16:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果政策轉彎！保留歐洲 iPhone 的 PWA 網路應用功能](https://www.iphonetaiwan.org/2024/03/apple-europe-pwa-update-reversal.html)|
+|2024-03-02 15:02:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[OLED iPad Pro 設計圖曝光？近年最大更新！機身絢麗纖薄](https://www.iphonetaiwan.org/2024/03/2024-ipad-pro-oled-design.html)|
+|2024-03-02 14:32:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[為何 iPhone 在歐洲重新崛起？77% 高階份額獨步全球](https://www.iphonetaiwan.org/2024/03/apple-reclaims-european-mobile.html)|
+|2024-03-02 10:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Card 儲蓄帳戶新政策：餘額上限調至100萬美元](https://www.iphonetaiwan.org/2024/03/goldman-sachs-apple-card-upgrade-1m-limit.html)|
 |2024-03-02 12:30:00|[カレーうどん屋](https://blog.laoliu.eu.org/atom.xml)|[23 年对我影响最大的硬件与软件](https://blog.udon.eu.org/archives/a7050149.html)|
 |2024-03-02 14:42:21|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[新品上市，49寸5k双2k新品32:9曲面显示器，5120*1440@100Hz电竞显示器](https://masuit.com/2272)|
 |2024-03-02 09:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[蔡英文办公室卫兵中枪身亡，检方相验结果出炉：死因系举枪自杀](https://dig.chouti.com/link/41693632)|
