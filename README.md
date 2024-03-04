@@ -2,6 +2,40 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-04 05:28:22|[KAIX.IN](https://kaix.in/feed/)|[什么也不会](https://kaix.in/2024/0304-know-nothing/)|
+|2024-03-04 14:03:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[苹果正式发布配备M3芯片的Macbook Air，3月8日正式发售](https://dig.chouti.com/link/41713772)|
+|2024-03-04 06:40:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[钻进蜂巢后，他看到入侵者被活活“煮熟”](https://dig.chouti.com/link/41709519)|
+|2024-03-04 15:17:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一些经典的“时机+视角”摄影作品（摄影师： Leonardo Sens、Mo Aoun、Chingelmarie、DCLanger、rusticbones、Masteezus、Valerio Minato、Stefano Zanarello、Elliot McGucken、Wilma Hurskainen、Jill Maguire、Luke MacGregor、David Burdeny、Pete Souza、Anthimos Ntagkas、Miss Jaded、IRapandStuff、Fernando Braga ](https://dig.chouti.com/link/41714303)|
+|2024-03-04 13:02:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么LV敢一年涨价三次？](https://dig.chouti.com/link/41713288)|
+|2024-03-04 12:01:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【凯莉·米洛在英颁奖礼被要求“用鞋喝酒”】全英音乐奖颁奖典礼上，坐在凯莉·米洛身旁的坎普问她，“澳大利亚有项传统叫‘shoey’，可以跟我一起做一次吗？”“shoey”即用鞋喝酒。凯莉看上去并不情愿，但还是按照坎普的要求做了。坎普随后便往米洛脱下来的高跟鞋里倒酒，并与凯莉“干杯”。](https://dig.chouti.com/link/41712613)|
+|2024-03-04 02:02:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国得州史上最大野火：一度逼停核武工厂运营](https://dig.chouti.com/link/41706717)|
+|2024-03-04 07:33:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克与奥特曼、OpenAI的「爱恨纠缠史」](https://dig.chouti.com/link/41710181)|
+|2024-03-04 08:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【边线拉锯战】给大伙看看今早博塔弗戈队员是怎么拖延比赛时间的～](https://dig.chouti.com/link/41710683)|
+|2024-03-04 08:33:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[保卫2500点：韩国股市十年不涨之谜](https://dig.chouti.com/link/41710816)|
+|2024-03-04 02:01:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第一批用上“减肥神药”的人，现在都怎么样了？](https://dig.chouti.com/link/41706446)|
+|2024-03-04 08:51:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[搭子式婚姻：结婚两年，和老公不熟](https://dig.chouti.com/link/41710824)|
+|2024-03-04 04:02:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI高管称马斯克起诉是后悔退出，奥特曼：怀念以前的他](https://dig.chouti.com/link/41708010)|
+|2024-03-04 04:03:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Sam Altman被曝身价超过140亿，但并未在OpenAI持股](https://dig.chouti.com/link/41708128)|
+|2024-03-04 11:10:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[执法记录仪画面：事件发生在2023年12月23日，警方接报称纽约布朗克斯区一公寓内，一名男子出现暴力行为。警方赶到现场后一名脸上有割伤的女子从公寓内跑出来。警方随即进入公寓内，发现一名男子紧紧箍住其母亲的脖子，向警察大喊“朝我开枪啊”。随后现场警员开枪击中男子头部，该男子被送往医院最终不治身亡。](https://dig.chouti.com/link/41712401)|
+|2024-03-04 04:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国在悄悄的实施QE？](https://dig.chouti.com/link/41708367)|
+|2024-03-04 05:10:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离大谱！智利联赛这记乌龙，有望竞争年度最奇葩乌龙……](https://dig.chouti.com/link/41708702)|
+|2024-03-04 08:01:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国科研井首次突破一万米】3月4日14点48分，新疆塔克拉玛干沙漠腹地，中国石油塔里木油田深地塔科1井，经过279天努力，钻探深度终于突破一万米，目前正在继续向目标深度11100米挺进。这也是迄今为止，我国第一口垂直深度超过一万米的井。不仅再次刷新了亚洲最深井纪录，也创造了当今世界上钻探一万米深井用时最短纪录。](https://dig.chouti.com/link/41710368)|
+|2024-03-04 08:10:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《沙丘2》影迷前往电影院be like：](https://dig.chouti.com/link/41710669)|
+|2024-03-04 10:02:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【暴利多销？TikTok在美国复刻抖音的路】TikTok美区平台模式商品建议毛利润为85%，从而让商家有费用空间做内容营销。](https://dig.chouti.com/link/41711771)|
+|2024-03-04 11:02:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【顶级Beta，做不了男主？】Beta原本是ABO世界中普通的背景板，但在观众眼中，他们正在从npc变成理想人夫，逐渐显眼。可能是观众实在看腻了霸总娇妻，已经生出反叛意识。而Beta作为第三性无疑是对传统性缘关系的最大反叛。然而，Beta型演员虽然路人缘不错，却几乎还没有当过影视剧主角。好命的Beta，上桌之后，如何上位？](https://dig.chouti.com/link/41712195)|
+|2024-03-04 11:01:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国际足联：支持脑震荡换人正式纳入比赛规则，2024年7月1日生效](https://dig.chouti.com/link/41712153)|
+|2024-03-04 11:10:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[点50大口径的狙击枪子弹打防弹玻璃的效果：大部分防弹玻璃遇到这个子弹直接GG了，这家的玻璃相当可以](https://dig.chouti.com/link/41712403)|
+|2024-03-04 11:36:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[京东：3月19日起普及全场最高满59包邮](https://dig.chouti.com/link/41712530)|
+|2024-03-04 03:00:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[穿女式内衣的古怪上校：加拿大连环猥亵强奸谋杀案](https://dig.chouti.com/link/41707099)|
+|2024-03-04 03:02:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在短视频平台，未成年人正在组团劝中老年人“重开”](https://dig.chouti.com/link/41707384)|
+|2024-03-04 16:06:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[俞永福让位80后少壮派](https://36kr.com/p/2674501969688322)|
+|2024-03-04 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[优衣库联名 Hello Kitty ，还没发售就被骂上热搜？](https://36kr.com/p/2674382289204743)|
+|2024-03-04 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[新晋顶流战袍，被小红书女孩疯抢](https://36kr.com/p/2674730262132482)|
+|2024-03-04 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一单1万元，“复活”亲人已成产业链](https://36kr.com/p/2674497827092224)|
+|2024-03-04 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果春季发布会来了：iPad时隔一年更新，或有AI隐藏大招？](https://36kr.com/p/2673939305549062)|
+|2024-03-04 15:16:01|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨中国市场帮助日本相机复苏；欧盟首次对苹果开出 18 亿欧元反垄断罚单](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513226&idx=2&sn=537a0fd599d53bee0379a77939483fab)|
+|2024-03-04 15:16:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[蜜雪冰城的咖啡品牌没做起来，因为“下沉市场”消失了](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513226&idx=1&sn=ef6a058b24584081889c0ada1de1134c)|
+|2024-03-04 13:27:13|[Xiaobin's Notes](https://lxb.wiki/atom.xml)|[重定向广告](https://lxb.wiki/cb9b2c66/)|
 |2024-03-04 08:41:34|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[釋放 Mac 空間！照片圖庫遷移到外接硬碟](https://applefans.today/2024-transfer-photos-from-iphone-to-external-hard-drive/)|
 |2024-03-04 04:26:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[買家注意！搭載 OLED iPad Pro 價格 可能會變很貴？！](https://applefans.today/2024-03-ipad-pro-price-increase-rumor/)|
 |2024-03-04 11:32:35|[机核](https://www.gcores.com/rss)|[辉耀能量宝可梦艺术卡套礼盒好物来袭](https://www.gcores.com/articles/178452)|
