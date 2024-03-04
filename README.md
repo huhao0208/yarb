@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-03）
+﻿# 每日资讯（2024-03-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-04 00:01:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西班牙网红在印度旅游遭多人强暴，西外交部发文：女性在印旅行应格外小心](https://dig.chouti.com/link/41705425)|
 |2024-03-03 13:10:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[今日热门推文：“我刚开始看《权力的游戏》，艾德·史塔克（肖恩·宾 饰）看上去是个好人，迫不及待想看他在整个八季里面的表现了！”](https://dig.chouti.com/link/41702999)|
 |2024-03-03 14:11:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Hunter Schafer！WOW！](https://dig.chouti.com/link/41703378)|
 |2024-03-03 14:11:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌军为了弥补炮弹不足，用无人机挂载MON50定向反步兵地雷然后在俄军士兵上空引爆](https://dig.chouti.com/link/41703405)|
@@ -29,6 +30,7 @@
 |2024-03-03 13:09:00|[六个周](https://blog.liugezhou.online/atom.xml)|[小白开公司全流程](https://blog.liugezhou.online/read005-%E5%B0%8F%E7%99%BD%E5%BC%80%E5%85%AC%E5%8F%B8%E5%85%A8%E6%B5%81%E7%A8%8B/)|
 |2024-03-03 12:54:00|[六个周](https://blog.liugezhou.online/atom.xml)|[每周小结 *106 :为什么我就完不成目标呢](https://blog.liugezhou.online/202409-106/)|
 |2024-03-03 14:00:00|[Jason](https://atjason.com/atom.xml)|[0303 - 财富自由七步骤](https://atjason.com/daily/2024-03-03.html)|
+|2024-03-04 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/)|
 |2024-03-03 13:11:08|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[Nuxt3 无法初始化项目解决](https://scottyeung.top/2024/nuxt-cannot-init/)|
 |2024-03-03 21:10:10|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Notepad3（6.24.302）中文版，可替换系统自带的记事本](https://masuit.com/1460)|
 |2024-03-03 08:09:35|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Good Bye 2023](https://blog.mauve.icu/2024/03/03/acm/codeforces/GoodBye2023/)|
