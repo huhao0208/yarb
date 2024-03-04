@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-04 08:10:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一直不明白同事的桌上为什么总有个月饼，直到有一天……](https://dig.chouti.com/link/41710678)|
+|2024-03-04 04:10:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据台《中时新闻网》报道，陆方要求台海巡艇上4名队员前往报告事发经过，并当面向家属致歉，遭到台方拒绝](https://dig.chouti.com/link/41708166)|
+|2024-03-04 05:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【妮基·黑利，要跟特朗普死磕到底】一个理性、精明的现实主义女政治家，为什么要赌上原本很有希望的政治前途，为一场胜算渺茫的选战死磕，并且不惜与老上级特朗普翻脸？她是在堂吉诃德大战“风车巨人“，还是从水晶球里看到未来的某种神启——是特朗普流星撞地球般的自毁，是为四年后的排练，抑或还有其他呢？](https://dig.chouti.com/link/41708879)|
+|2024-03-04 05:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[黑利首胜：赢得华盛顿哥伦比亚特区的共和党党内初选](https://dig.chouti.com/link/41708614)|
+|2024-03-04 05:10:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第60届金马奖还有这一幕：“尊者”陈以文现场拿道具调教阮经天，让他热爱电影、为他开悟](https://dig.chouti.com/link/41708737)|
+|2024-03-04 06:01:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[游客在野生动物园抱孩子下车小便，一头狼从后面悄悄靠近，后车紧急鸣笛](https://dig.chouti.com/link/41708938)|
+|2024-03-04 03:10:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阮经天谈论自己在字母圈里的角色……很懂啊你！](https://dig.chouti.com/link/41707539)|
+|2024-03-04 05:33:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[过去一年半平均“每天购入100个比特币”，神秘“比特币鲸鱼”买了超过30亿美元](https://dig.chouti.com/link/41708838)|
+|2024-03-04 03:10:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[双向冒犯……单口喜剧演员Nataly Aukar回怼场下观众的呛声](https://dig.chouti.com/link/41707546)|
+|2024-03-04 03:32:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日区App Store或步欧盟27国后尘将被拆分](https://dig.chouti.com/link/41707638)|
+|2024-03-04 03:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[肉，食物王国中的“没落贵族”](https://dig.chouti.com/link/41707701)|
+|2024-03-04 04:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[他曾为“中国结”命名，《汉声》创办人黄永松辞世](https://dig.chouti.com/link/41707981)|
+|2024-03-04 04:11:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[治疗前后惊人的对比——小姐姐头上的隆起是tissue expander组织扩张器，因为她头顶有一个大疤，通过注射生理盐水等办法把两边的皮肤撑大，最后通过手术去除头顶的疤痕](https://dig.chouti.com/link/41708198)|
+|2024-03-04 02:02:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[造一艘邮轮超55亿元回本难，上海为什么还要一艘艘造下去？](https://dig.chouti.com/link/41706709)|
+|2024-03-04 02:08:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【加沙冲突或在24至48小时内达成停火协议，双方：就等对方同意了】当地时间3月2日，一名哈马斯高级官员透露，新一轮加沙停火协议可能会在未来“24小时至48小时内”得到保障，但前提是以方需接受哈马斯提出的要求。稍早时候，有美官员称，以方已“基本同意”停火协议框架，现在要看哈马斯是否同意。](https://dig.chouti.com/link/41706799)|
+|2024-03-04 03:02:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[叮咚买菜首次实现年度盈利](https://dig.chouti.com/link/41707406)|
+|2024-03-04 03:09:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[电影《红毯先生》重新定档，3月15日上映](https://dig.chouti.com/link/41707452)|
+|2024-03-04 03:10:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【台媒：蔡英文办公室自杀卫兵无感情问题，疑似因勤务量过大】知情人士透露，古姓卫兵“没有感情问题，也不可能欠钱”，但其服役的“宪兵211营”住的房间、薪水不比其他单位更大或更多，但勤务量比其他单位更繁杂，除了每天三班制的正哨勤务，下哨后还需转往待命班，扣除备哨、上下哨时间，休息时间极为有限。](https://dig.chouti.com/link/41707495)|
+|2024-03-04 03:10:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[论BBC记者的自我修养……](https://dig.chouti.com/link/41707514)|
+|2024-03-04 03:46:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国政府：7000名离岗医生将进入吊销医师执照程序，处分不可逆](https://dig.chouti.com/link/41707714)|
+|2024-03-04 07:40:00|[LiesAuer's Blog](https://www.liesauer.net/blog/feed/)|[危险的币圈 - 揭秘一场虚拟货币空投骗局（002）](https://www.liesauer.net/blog/post/882.html)|
+|2024-03-04 01:52:39|[JieJiSS' Blog](https://blog.jiejiss.com/atom.xml)|[为 SQLAlchemy Model 添加 type hint 和 type check](https://blog.jiejiss.com/%E4%B8%BA-SQLAlchemy-Model-%E6%B7%BB%E5%8A%A0-type-hint-%E5%92%8C-type-check/)|
 |2024-03-04 04:11:37|[机核](https://www.gcores.com/rss)|[滨口直树：《最终幻想7 重生》性能模式画质改进补丁正在制作](https://www.gcores.com/articles/178429)|
 |2024-03-04 03:44:00|[机核](https://www.gcores.com/rss)|[激发国产游戏创新创造活力：第四届中国游戏创新大赛火热征集中](https://www.gcores.com/articles/178428)|
 |2024-03-04 02:56:00|[机核](https://www.gcores.com/rss)|[专为玩家定制，PlayStation PULSE Elite与PULSE Explore开箱体验](https://www.gcores.com/articles/178311)|
@@ -61,43 +83,4 @@
 |2024-03-04 02:38:28|[Tinyfool的个人网站](https://codechina.org/feed/)|[对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史](https://codechina.org/2024/03/jialing-jianfei/)|
 |2024-03-04 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/9](https://weekly.pychina.org/pyrecap/pyrw-2409.html)|
 |2024-03-04 00:01:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西班牙网红在印度旅游遭多人强暴，西外交部发文：女性在印旅行应格外小心](https://dig.chouti.com/link/41705425)|
-|2024-03-03 13:10:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[今日热门推文：“我刚开始看《权力的游戏》，艾德·史塔克（肖恩·宾 饰）看上去是个好人，迫不及待想看他在整个八季里面的表现了！”](https://dig.chouti.com/link/41702999)|
-|2024-03-03 14:11:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Hunter Schafer！WOW！](https://dig.chouti.com/link/41703378)|
-|2024-03-03 14:11:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌军为了弥补炮弹不足，用无人机挂载MON50定向反步兵地雷然后在俄军士兵上空引爆](https://dig.chouti.com/link/41703405)|
-|2024-03-03 14:45:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【法国缺乏生产炮弹用的火药，欧盟官员：来自中国的一种棉花偶然停运】对于缺乏火药的原因，欧盟内部市场专员蒂埃里·布雷顿表示，制造火药需要一种特定的棉花，而这种棉花主要来自中国。但几个月前，来自中国的棉花运输就“偶然间停止了”。他表示，目前北欧国家找到了替代中国棉花的办法，但需要时间。](https://dig.chouti.com/link/41703484)|
-|2024-03-03 02:09:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[农村户外livehouse！实名想去！](https://dig.chouti.com/link/41698668)|
-|2024-03-03 02:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【2011快女：是选秀，也是“嬛球影城”】2011年的快乐女声，好的几乎没学到，杂七杂八的破事是一个也没漏：05年的炒cp学会了，06年的抱团学会了，09年的绿茶文学也学会了。那一年的宿舍生活是24小时直播制，所以连刷牙洗脸吃饭下厨房都能看到。理论上，能住在一起生活，应该会越住越亲近。那在非理论的领域呢？](https://dig.chouti.com/link/41698749)|
-|2024-03-03 03:10:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾售卖的焦糖奶茶冰淇淋，有点难以下口啊](https://dig.chouti.com/link/41699056)|
-|2024-03-03 00:01:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[距离地球63光年，白矮星首次被发现“吞噬”行星后固定残骸形成“金属疤痕”](https://dig.chouti.com/link/41697808)|
-|2024-03-03 04:08:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯第15独立近卫旅精锐突击群的一次突击被乌军第47独立机械化旅击败。运送步兵的俄军步战车在返程时被击毁，卸下的俄军步兵缺乏火力支援，被乌军一辆M2步战车横扫。这一切从开始到结束都在乌军无人机的观察之下发生。](https://dig.chouti.com/link/41699572)|
-|2024-03-03 04:09:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本夫妻“偽中国語”对话之「剪子️丢了」图9是之前麻婆豆腐事件](https://dig.chouti.com/link/41699627)|
-|2024-03-03 04:32:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[About Time Coffee遭遇滑铁卢？戴威版“真还传”又烂尾](https://dig.chouti.com/link/41699735)|
-|2024-03-03 05:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台媒：台“海委会”“2.14恶性撞船事件”报告只字不提“碰撞”](https://dig.chouti.com/link/41699941)|
-|2024-03-03 05:01:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称英伟达要再进军游戏掌机市场：打造专属图形IP，不排除和英特尔合作](https://dig.chouti.com/link/41699836)|
-|2024-03-03 05:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[印媒曝印度曾拦截从中国赴巴基斯坦船只，借口是载有敏感货物，印网友质疑](https://dig.chouti.com/link/41699931)|
-|2024-03-03 05:03:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[顺网线爬进小红书，老外吃尽了苦头](https://dig.chouti.com/link/41699971)|
-|2024-03-03 05:13:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[外国网友吐槽：为什么你学不好英语？因为它本身就是一坨屎！（twi:メイちょはアルフォー党でした）](https://dig.chouti.com/link/41700074)|
-|2024-03-03 07:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[官方与民间的博弈：从地方法规看屡禁不止的清代福州游神](https://dig.chouti.com/link/41700657)|
-|2024-03-03 09:01:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[传红杉中国创始人沈南鹏已获新加坡永久居留权，此前高瓴张磊已拿到新加坡公民身份](https://dig.chouti.com/link/41701296)|
-|2024-03-03 07:11:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[昨天Kanye West的黑帮老丈人发话要找侃爷谈谈后，今天侃爷妻子Bianca的着装终于稍微回归“正常”一点了（图三、四）](https://dig.chouti.com/link/41700738)|
-|2024-03-03 02:02:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深扒Sora：一场投资过亿的视频暴力美学](https://dig.chouti.com/link/41698599)|
-|2024-03-03 06:12:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[舞蹈艺术家Jenny Tufts，太丝滑了吧！](https://dig.chouti.com/link/41700330)|
-|2024-03-03 04:06:13|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No.108 马克·波斯特（Mark Poster）](https://wangyurui.com/posts/leng-jing-ee7ee5ac)|
-|2024-03-03 04:05:02|[太隐](https://wangyurui.com/feed.xml)|[人间诗囚](https://wangyurui.com/posts/gu-du-de-shi-qiu-9b846e43)|
-|2024-03-03 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 179 期（2024.03.04）](https://www.ftium4.com/ux-weekly-179.html)|
-|2024-03-03 13:09:00|[六个周](https://blog.liugezhou.online/atom.xml)|[小白开公司全流程](https://blog.liugezhou.online/read005-%E5%B0%8F%E7%99%BD%E5%BC%80%E5%85%AC%E5%8F%B8%E5%85%A8%E6%B5%81%E7%A8%8B/)|
-|2024-03-03 12:54:00|[六个周](https://blog.liugezhou.online/atom.xml)|[每周小结 *106 :为什么我就完不成目标呢](https://blog.liugezhou.online/202409-106/)|
-|2024-03-03 14:00:00|[Jason](https://atjason.com/atom.xml)|[0303 - 财富自由七步骤](https://atjason.com/daily/2024-03-03.html)|
 |2024-03-04 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/)|
-|2024-03-03 13:11:08|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[Nuxt3 无法初始化项目解决](https://scottyeung.top/2024/nuxt-cannot-init/)|
-|2024-03-03 21:10:10|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Notepad3（6.24.302）中文版，可替换系统自带的记事本](https://masuit.com/1460)|
-|2024-03-03 08:09:35|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Good Bye 2023](https://blog.mauve.icu/2024/03/03/acm/codeforces/GoodBye2023/)|
-|2024-03-03 04:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国算力产业五个真问题】其一，算力资源为何更分散了？其二，公有云渗透慢给中国新算力周期布局带来哪些掣肘？其三，AI算力所服务的大模型产业红利何时到来？其四，算力领域的国产替代会到哪一步，对算力新周期布局有何影响？其五，中国算力产业政策会往何处走？](https://dig.chouti.com/link/41699729)|
-|2024-03-03 06:12:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[40秒剧透《周处除三害》在礼堂的陈桂林](https://dig.chouti.com/link/41700335)|
-|2024-03-03 03:01:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国私企月球着陆器“奥德修斯”号传回告别照片](https://dig.chouti.com/link/41698939)|
-|2024-03-03 05:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【国产美妆老板找到新致富路？】韩束给咪蒙团队花了不到4500万，撬动了40亿的流量，和33亿元销售额。](https://dig.chouti.com/link/41700131)|
-|2024-03-03 03:01:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广汽三菱更名为湖南智享汽车，日资正式退出](https://dig.chouti.com/link/41698846)|
-|2024-03-03 01:50:11|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 918 Div. 4 ](https://blog.mauve.icu/2024/03/03/acm/codeforces/CodeforcesRound918/)|
-|2024-03-03 08:05:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Vision Pro 退貨率低於1%：年中更多國家開賣](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-low-returns-global.html)|
-|2024-03-03 07:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 AI 人工智慧震撼來襲：伺服器巨頭積極爭取合作](https://www.iphonetaiwan.org/2024/03/blog-post_03.html)|
-|2024-03-03 06:21:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Car 投入百億美金開發：泰坦尼克號災難](https://www.iphonetaiwan.org/2024/03/blog-post.html)|
