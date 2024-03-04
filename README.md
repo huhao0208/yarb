@@ -2,6 +2,64 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-04 04:11:37|[机核](https://www.gcores.com/rss)|[滨口直树：《最终幻想7 重生》性能模式画质改进补丁正在制作](https://www.gcores.com/articles/178429)|
+|2024-03-04 03:44:00|[机核](https://www.gcores.com/rss)|[激发国产游戏创新创造活力：第四届中国游戏创新大赛火热征集中](https://www.gcores.com/articles/178428)|
+|2024-03-04 02:56:00|[机核](https://www.gcores.com/rss)|[专为玩家定制，PlayStation PULSE Elite与PULSE Explore开箱体验](https://www.gcores.com/articles/178311)|
+|2024-03-04 02:00:00|[机核](https://www.gcores.com/rss)|[译介丨街霸的格斗流派：JP和巴顿术](https://www.gcores.com/videos/178406)|
+|2024-03-04 01:44:50|[机核](https://www.gcores.com/rss)|[迎接10周年庆典：《上古卷轴OL》免费赠送“奥辛纽姆”DLC等好礼](https://www.gcores.com/articles/178422)|
+|2024-03-04 01:32:34|[机核](https://www.gcores.com/rss)|[Yuzu模拟器团队回应任天堂诉讼，现已聘请律师积极应诉](https://www.gcores.com/articles/178420)|
+|2024-03-04 01:17:28|[机核](https://www.gcores.com/rss)|[《龙珠：超宇宙2》将于5月24日推出次世代版，现有玩家可获免费升级](https://www.gcores.com/articles/178419)|
+|2024-03-04 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[有人说了大实话，在AI手机的蓝图里没有App的位置](https://36kr.com/p/2672594625492736)|
+|2024-03-04 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[钟睒睒回应与宗庆后往事](https://36kr.com/p/2674409921378057)|
+|2024-03-04 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年度大戏！马斯克首曝秘密邮件怒斥Altman背叛，OpenAI回应称他就是后悔了](https://36kr.com/p/2672573980227073)|
+|2024-03-04 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[打对折也卖不动的耐克，到底怎么了？｜焦点分析](https://36kr.com/p/2664896616605443)|
+|2024-03-04 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[香港，月薪10万+招实习生](https://36kr.com/p/2673257341597193)|
+|2024-03-04 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[汽车经销商的生死劫](https://36kr.com/p/2672588944717313)|
+|2024-03-04 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜​董明珠建议将个税起征点提高至1万元；钟睒睒回应“捧娃哈哈踩农夫山泉”；马来西亚交通部部长称尽快恢复搜索MH370航班](https://36kr.com/p/2674513207604736)|
+|2024-03-04 04:01:54|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[新玩意 173｜少数派的编辑们最近买了啥？](https://sspai.com/post/86780)|
+|2024-03-04 04:01:54|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[我的 2023 年度效率工具](https://sspai.com/post/85490)|
+|2024-03-04 04:02:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国产半导体产业链加强，在制作、设备、材料、 EDA 工具等多环节渐获突破，将对我国相关产业带来哪些影响？](https://www.zhihu.com/question/646722228)|
+|2024-03-04 04:02:08|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有快灭绝，最后被人类救活的植物？](https://www.zhihu.com/question/646267393)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网文大家说的套路是什么？](https://www.zhihu.com/question/646721273)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家觉得孙悟空的原型是《山海经》里的「无支祁」，还是印度的「哈奴曼」？](https://www.zhihu.com/question/509574784)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[企业老板拖欠工资怎么办？如何追讨？](https://www.zhihu.com/question/646756980)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有一种花，看着平平无奇，经过简单烹饪后却惊人好吃？](https://www.zhihu.com/question/645394126)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[每天上班都想着提前退休，你有这想法吗？如何调整自己呢？](https://www.zhihu.com/question/646207488)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电影《周处除三害》中的阮经天饰演的陈桂林究竟是好人还是坏人？](https://www.zhihu.com/question/646470568)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《红楼梦》原著中，为什么王熙凤经常和黛玉互动而漠视宝钗？](https://www.zhihu.com/question/499765041)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[尚未踏入社会，但内心排斥、想要逃离社会环境，如何做才能获得身体与内心的「自由」？](https://www.zhihu.com/question/645994800)|
+|2024-03-04 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「水果之王」榴莲一周每斤降 10 元，车厘子、山竹等网红水果普遍降价，哪些信息值得关注？](https://www.zhihu.com/question/646859584)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[45 年历史的《中美科技合作协定》到期，《自然》杂志称「终止协定将是危险的愚蠢之举」，如何看待此事？](https://www.zhihu.com/question/646841318)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全国人大代表李东生：建议取消基层医疗门诊报销起付线，如何看待此建议？将会带来哪些积极意义？](https://www.zhihu.com/question/646946565)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[委员提案「审慎推行预制菜」，建议尽快出台预制菜的全国统一标准，如何看待此建议？](https://www.zhihu.com/question/646959375)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小鹏 G6 全系车型限时优惠 2 万元，广汽埃安新品售价不到 10 万，哪些信息值得关注？](https://www.zhihu.com/question/646880463)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全国政协委员邵驰建议推进职业本科建设，破解「年轻人不愿进工厂」现象，如何看待这一建议？](https://www.zhihu.com/question/646862220)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 LPL 春季赛 WBG 0:2 FPX，如何评价这场比赛？](https://www.zhihu.com/question/646868723)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《逆向坍塌: 面包房行动》3 月 22 日发售，首发价格标准版 80.36 元，豪华版 178.76 元？](https://www.zhihu.com/question/646601528)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[英伟达 CEO 黄仁勋称 5 年内人工智能或可通过人类测试，如何看待这一论断？这意味着什么？](https://www.zhihu.com/question/646787413)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价原神混池?](https://www.zhihu.com/question/646658829)|
+|2024-03-04 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些让你瞬间顿悟的句子，欢迎分享一下吗？](https://www.zhihu.com/question/646890072)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我想读柏拉图的《理想国》这本书，谁能大致跟我讲讲这本书主要说了什么和精髓在哪吗?](https://www.zhihu.com/question/527406551)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国首次向加沙空投食品和援助物资，释放了什么信号？意义为何？](https://www.zhihu.com/question/646865960)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[评论一下电视剧《猎冰》怎么样？](https://www.zhihu.com/question/645951191)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[三国有哪些不被大众所熟知的冷知识？](https://www.zhihu.com/question/407155493)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[数据显示《蛋仔派对》日活突破四千万，如何看待 00 后玩家「撑起」网易千亿营收？](https://www.zhihu.com/question/646817648)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《周处除三害》中陈桂林的手枪为什么总是卡壳？](https://www.zhihu.com/question/646340476)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家怎么看待爱豆恋爱呢？](https://www.zhihu.com/question/492006215)|
+|2024-03-04 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果英雄联盟卡牌大师的 W 技能改成稳定黄牌，卡牌大师会更强吗？](https://www.zhihu.com/question/645291273)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[理想 MEGA 能卖爆吗？为什么？](https://www.zhihu.com/question/646443999)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 Hang 赛后采访说「从我上场之后感觉队伍状态越来越好了，我们要做最好的队伍！」？](https://www.zhihu.com/question/646843432)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[9 年倒闭 7 万家 KTV，如何看待此事？年轻人为何抛弃 KTV？你还会去 KTV 唱歌吗？](https://www.zhihu.com/question/646580709)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你能分得清「慷慨」和「软弱」的区别吗？](https://www.zhihu.com/question/646352520)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 勇士 88:140 凯尔特人，如何评价这场比赛？](https://www.zhihu.com/question/646931776)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[导师不看文献，只读公众号上介绍新研究的文章，这是正常的吗？](https://www.zhihu.com/question/646280209)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何快速地编出一个有趣的故事？](https://www.zhihu.com/question/58755062)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全国人大代表庹庆明建议 2 至 3 岁幼儿可入公立幼儿园，如何看待该建议？](https://www.zhihu.com/question/646875631)|
+|2024-03-04 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[火腿疑似吃出老鼠尾巴，山东龙大美食回应「经鉴定不属于动物尾巴」，哪些信息值得关注？如何保障食品安全？](https://www.zhihu.com/question/646943138)|
+|2024-03-04 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么《周处除三害》中灵修院的女主唱能够坦然赴死？](https://www.zhihu.com/question/646870849)|
+|2024-03-04 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[经营贷的风险都有些什么？](https://www.zhihu.com/question/638564063)|
+|2024-03-04 02:38:28|[Tinyfool的个人网站](https://codechina.org/feed/)|[对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史](https://codechina.org/2024/03/jialing-jianfei/)|
+|2024-03-04 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/9](https://weekly.pychina.org/pyrecap/pyrw-2409.html)|
 |2024-03-04 00:01:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西班牙网红在印度旅游遭多人强暴，西外交部发文：女性在印旅行应格外小心](https://dig.chouti.com/link/41705425)|
 |2024-03-03 13:10:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[今日热门推文：“我刚开始看《权力的游戏》，艾德·史塔克（肖恩·宾 饰）看上去是个好人，迫不及待想看他在整个八季里面的表现了！”](https://dig.chouti.com/link/41702999)|
 |2024-03-03 14:11:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Hunter Schafer！WOW！](https://dig.chouti.com/link/41703378)|
