@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-03-04）
+﻿# 每日资讯（2024-03-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-05 01:00:00|[机核](https://www.gcores.com/rss)|[从寓教于乐到探索热爱](https://www.gcores.com/articles/178466)|
+|2024-03-05 01:00:00|[机核](https://www.gcores.com/rss)|[《消逝的光芒2》送福利：“复古风潮皮肤捆绑包”限时免费领](https://www.gcores.com/articles/178454)|
 |2024-03-04 13:39:53|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[超级爆燃特工大片《帕坦》，全年票房第二，印度战狼天下无敌！](https://www.ximalaya.com/sound/711103092)|
 |2024-03-04 14:32:35|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[Hugo 英语内容出现在中文页面](https://scottyeung.top/2024/hugo-en-content-exist-in-zh/)|
 |2024-03-04 05:28:22|[KAIX.IN](https://kaix.in/feed/)|[什么也不会](https://kaix.in/2024/0304-know-nothing/)|
