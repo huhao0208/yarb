@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-06 12:30:00|[机核](https://www.gcores.com/rss)|[零创游戏官方账号正式入驻机核！](https://www.gcores.com/articles/178557)|
+|2024-03-06 12:28:23|[机核](https://www.gcores.com/rss)|[【抽奖】Digital Sun即时战略塔防游戏《灾厄堡垒》将于7月16日发售](https://www.gcores.com/articles/178559)|
+|2024-03-06 10:30:00|[机核](https://www.gcores.com/rss)|[程序员的刻板印象](https://www.gcores.com/videos/178524)|
+|2024-03-06 10:00:00|[机核](https://www.gcores.com/rss)|[《圣兽之王》试玩版前期高属性武器王剑科尔尼克斯入手教程](https://www.gcores.com/videos/178549)|
+|2024-03-06 10:00:00|[机核](https://www.gcores.com/rss)|[真不涩也针不错！怎么会有往系统里塞指令编程的游戏啊？《圣兽之王》发售前瞻](https://www.gcores.com/videos/178528)|
+|2024-03-06 09:48:22|[机核](https://www.gcores.com/rss)|[重构人生之魅力：从《模拟人生4》说开去](https://www.gcores.com/articles/178553)|
+|2024-03-06 09:34:43|[机核](https://www.gcores.com/rss)|[当“雪碧雷碧”事件发生在游戏圈，受伤的玩家该如何应对](https://www.gcores.com/articles/178555)|
+|2024-03-06 09:00:00|[机核](https://www.gcores.com/rss)|[我们如何用吐槽毁掉《周处除三害》，录音笔 VOL.153](https://www.gcores.com/radios/178545)|
+|2024-03-06 08:38:34|[机核](https://www.gcores.com/rss)|[NASA入局TRPG，新款游戏讲了什么？](https://www.gcores.com/articles/178550)|
+|2024-03-06 08:00:35|[机核](https://www.gcores.com/rss)|[“印度之星”计划首批五个游戏公布](https://www.gcores.com/articles/178546)|
+|2024-03-06 07:18:14|[机核](https://www.gcores.com/rss)|[微软“砍刀部”出手，终止对WSA（安卓子系统）的支持](https://www.gcores.com/articles/178539)|
+|2024-03-06 07:00:00|[机核](https://www.gcores.com/rss)|[译介丨Kakeru（翔）的卡普空杯LCQ之旅](https://www.gcores.com/videos/178534)|
+|2024-03-06 09:54:07|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[早春最浓甜的枇杷就在云南，不接受反驳！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450229&idx=1&sn=9e83d20b01800c5e87cfaadef535f209)|
+|2024-03-06 20:56:27|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[远程桌面管理器——Remote Desktop Manager Enterprise RDM 2024.1.12多语言学习版 Windows+MacOS ](https://masuit.com/59)|
+|2024-03-06 12:31:47|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[哔哩哔哩哲♂学好声音离线缓存分享](https://masuit.com/p75)|
+|2024-03-06 07:06:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[控制人生](http://mercurychong.blogspot.com/2024/03/blog-post.html)|
+|2024-03-06 11:36:22|[Mobility](http://lichuanyang.top/atom.xml)|[Vaadin框架教程：Java工程师的前端开发秘籍](http://lichuanyang.top/posts/43947/)|
+|2024-03-06 09:17:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[M3 MacBook Air 性能測試出爐：極致性能的輕薄筆電](https://www.iphonetaiwan.org/2024/03/m3-macbook-air-performance-unveiled.html)|
+|2024-03-06 08:47:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[14吋M3 MacBook Pro：將透過更新增加多顯示器支援](https://www.iphonetaiwan.org/2024/03/apple-m3-macbook-pro-multi-screen.html)|
 |2024-03-06 06:01:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国计划2030年前后实施火星采样返回】航天科技集团五院研制人员孙泽洲表示，火星采样返回存在两大困难：一是在火星表面获取样品，然后起飞上升；二是在轨道上完成两个目标之间的交会和样品的转移。在系统设计上，对探测器智能化要求相当苛刻，不过目前我国已经具备技术基础。](https://dig.chouti.com/link/41730133)|
 |2024-03-06 06:33:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2月韩国船企承接订单量超过中国，排名全球第一](https://dig.chouti.com/link/41730647)|
 |2024-03-06 06:03:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【韩国医协前会长接受警方调查】这是警方首次对政府控告的5名医协主要人士进行调查。警方已就该5人采取禁止出境措施，并要求其在6至7日接受警方调查。](https://dig.chouti.com/link/41730412)|
