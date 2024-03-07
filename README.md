@@ -1,12 +1,14 @@
-﻿# 每日资讯（2024-03-06）
+﻿# 每日资讯（2024-03-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-07 00:03:24|[余晟以为](https://feedpress.me/wx-yurii-says)|[家有两个男孩是什么感受？](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009878&idx=1&sn=8fab29b018bd7ef9576c82cd0e4c0463)|
 |2024-03-06 08:24:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[百度代码提示工具，类似 Github Copilot ,安装可兑换京东 E 卡](https://w2solo.com/topics/4462)|
 |2024-03-06 06:31:43|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[幕译 -- 离线字幕生成与翻译](https://w2solo.com/topics/4461)|
 |2024-03-06 13:16:01|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[Questions and Confusions for Mac Beginners](https://blog.rxliuli.com/p/d817223f91cc4b6f8dcadf7d273aab73/)|
 |2024-03-06 13:06:52|[晚点LatePost](https://feedpress.me/wx-postlate)|[蔚来亏损 211 亿，希望用新品牌拯救现金流；用 OpenAI 的方式超过 OpenAI](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513284&idx=2&sn=ffac62653579736c6a8f81489d457aab)|
 |2024-03-06 13:06:51|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨两位物流供应链高管加盟 TikTok、Shein；小鹏汽车要求经销商储备库存](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513284&idx=1&sn=595d971f676fb11bd55ef143c9728104)|
+|2024-03-07 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 2024 年春季学期社团联合招新（百团大战）](https://tuna.moe/event/2024/recruitment-spring/)|
 |2024-03-06 16:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人们有哪些对汽车安全的错误认识？](https://www.zhihu.com/question/604400699)|
 |2024-03-06 09:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国设定高增长目标，启用老办法应对危机](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B0%862024%E5%B9%B4gdp%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%B8%BA5-%E5%B7%A6%E5%8F%B3-%E4%B8%8E2023%E5%B9%B4%E6%8C%81%E5%B9%B3-4bc12be3)|
 |2024-03-06 03:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国总理退入习近平的阴影深处](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%80%BB%E7%90%86%E9%80%80%E5%85%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%98%B4%E5%BD%B1%E6%B7%B1%E5%A4%84-4048fb3f)|
@@ -37,6 +39,7 @@
 |2024-03-06 15:27:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[歐盟重罰蘋果18.4億後！Spotify 不再為iPhone提供內購](https://www.iphonetaiwan.org/2024/03/spotify-response-eu-fine.html)|
 |2024-03-06 15:04:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[聽不清？學新語言？Apple Podcast 逐字稿滿足你的需求](https://www.iphonetaiwan.org/2024/03/apple-podcast-transcription.html)|
 |2024-03-06 14:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.4 歐盟獨享側載功能：離開就失去？真有那麼神奇](https://www.iphonetaiwan.org/2024/03/apple-ios-17-4-side-load-eu-exclusive.html)|
+|2024-03-07 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[死期将至](https://leimao.github.io/essay/%E6%AD%BB%E6%9C%9F%E5%B0%86%E8%87%B3-Deaths-Game/)|
 |2024-03-06 12:30:00|[机核](https://www.gcores.com/rss)|[零创游戏官方账号正式入驻机核！](https://www.gcores.com/articles/178557)|
 |2024-03-06 12:28:23|[机核](https://www.gcores.com/rss)|[【抽奖】Digital Sun即时战略塔防游戏《灾厄堡垒》将于7月16日发售](https://www.gcores.com/articles/178559)|
 |2024-03-06 10:30:00|[机核](https://www.gcores.com/rss)|[程序员的刻板印象](https://www.gcores.com/videos/178524)|
