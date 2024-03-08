@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-03-07）
+﻿# 每日资讯（2024-03-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 00:20:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从唱空到做空无缝衔接，民粹又来围剿民营经济了？](https://dig.chouti.com/link/41748434)|
+|2024-03-08 00:24:48|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)|
+|2024-03-08 01:11:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 125 期）：个人 Notion 如何每月收入 3 万美元](https://w2solo.com/topics/4464)|
 |2024-03-07 11:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[从地方到中央：中国新举债模式意味着什么？](https://cn.wsj.com/articles/%E4%BB%8E%E5%9C%B0%E6%96%B9%E5%88%B0%E4%B8%AD%E5%A4%AE-%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%BE%E5%80%BA%E6%A8%A1%E5%BC%8F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88-404e493a)|
 |2024-03-07 11:51:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国大力推进科技行业“消A”行动](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%8A%9B%E6%8E%A8%E8%BF%9B%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A-%E6%B6%88a-%E8%A1%8C%E5%8A%A8-853e668c)|
 |2024-03-07 10:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国外长王毅抨击美国身为超级大国的自信何在](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E6%8A%A8%E5%87%BB%E7%BE%8E%E5%9B%BD%E8%BA%AB%E4%B8%BA%E8%B6%85%E7%BA%A7%E5%A4%A7%E5%9B%BD%E7%9A%84%E8%87%AA%E4%BF%A1%E4%BD%95%E5%9C%A8-586d2dc1)|
