@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 07:00:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【生殖器战争：被忽视的阴道】一直以来，动物学家对雄性动物的生殖器研究更多，雌性动物的生殖器被认为是处于被动的通道，甚至无人去仔细研究雌性动物的生殖器结构。但事实证明，她们演化出了极其复杂的结构，在交配中也并非只是被动接受，而是能够决定交配的结果。](https://dig.chouti.com/link/41752202)|
+|2024-03-08 12:09:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第一次知道，原来《龙珠》在手语里的动作就是「龟派气功」](https://dig.chouti.com/link/41755482)|
+|2024-03-08 11:01:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香港楼市“撤辣”十日，中介重新做起年入百万的梦](https://dig.chouti.com/link/41754662)|
+|2024-03-08 14:09:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据People，42岁的娜塔莉·波特曼于8个月前悄悄向46岁的老公Benjamin Millepied提起离婚申请，如今已于上个月在法国完成离婚手续。去年5月Benjamin Millepied被媒体曝光有婚外情，俩人低调分居，并开始走离婚程序。](https://dig.chouti.com/link/41756470)|
+|2024-03-08 12:55:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一位传奇科学家的双面人生：患癌，丧夫，丧子，得诺奖](https://dig.chouti.com/link/41755633)|
+|2024-03-08 07:11:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[reddit热门讨论：如果你能通过心灵感应对地球上80亿人讲话，你会说什么？](https://dig.chouti.com/link/41752633)|
+|2024-03-08 14:09:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“求个名字，不带黑字”](https://dig.chouti.com/link/41756423)|
+|2024-03-08 01:03:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[送外卖的女人们](https://dig.chouti.com/link/41748752)|
+|2024-03-08 06:04:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【曾为特朗普放弃娘家姓，共和党女党魁为何突然辞职？】美国共和党全国委员会主席罗娜·麦克丹尼尔宣布，将于3月8日辞职。在此之前，她担任共和党党魁已七年之久。罗娜与特朗普早前是非常好的政治伙伴，但现在特朗普对于共和党党魁这一职位，已有新的人选。罗娜的辞职不是凭空出现，两者的分裂其实早有暗示。](https://dig.chouti.com/link/41751975)|
+|2024-03-08 10:10:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[B-1B、B-52、鹰狮尺寸对比](https://dig.chouti.com/link/41754530)|
+|2024-03-08 06:03:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[港媒：香港证监会前主席唐家成将任为港交所主席，接替即将离任的史美伦](https://dig.chouti.com/link/41751959)|
+|2024-03-08 11:09:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ *╹▽╹* ](https://dig.chouti.com/link/41754996)|
+|2024-03-08 12:01:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[程衍樑+郑诗亮：聊聊《周处除三害》背后的台湾黑道往事](https://dig.chouti.com/link/41755241)|
+|2024-03-08 09:12:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[德国，一名环保抗议者背靠一颗大树，阻挡当地政府的伐木车砍树，但最终伐木工没有理睬，直接开动机器将大树砍掉。](https://dig.chouti.com/link/41753908)|
+|2024-03-08 01:01:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[31岁女博士在网上养「棉花娃娃」：群体多为不婚不育女性，95后占七成](https://dig.chouti.com/link/41748580)|
+|2024-03-08 07:11:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[推特网友发现一台被悬挂得超级高的电视机后，开始思考能不能用它来看《午夜凶铃》……然后引发了一波关于贞子的集体创作](https://dig.chouti.com/link/41752603)|
+|2024-03-08 11:09:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[岛国网友表示，自己画了1年的手指，现在已经画得很6了，请大家鉴定一下。](https://dig.chouti.com/link/41754976)|
+|2024-03-08 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[4个可能使你改变巨大的微习惯](https://36kr.com/p/2679545982877824)|
+|2024-03-08 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[503%，华为问界太猛了](https://36kr.com/p/2679457196455426)|
+|2024-03-08 16:05:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微软英伟达力挺，OpenAI强敌出手：训练计算量仅40%、性能直逼GPT-4](https://36kr.com/p/2680374016490498)|
+|2024-03-08 16:05:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[带摄像头的 AirPods，苹果会怎么做出来？](https://36kr.com/p/2680397038877696)|
+|2024-03-08 14:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[歐盟 iPhone 用戶將可輕鬆轉 Android，Safari 隨心刪](https://www.iphonetaiwan.org/2024/03/blog-post_08.html)|
+|2024-03-08 06:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】Android 轉 iPhone！安卓跳槽蘋果輕鬆搞定](https://www.iphonetaiwan.org/2024/03/android-move-to-iphone.html)|
 |2024-03-08 15:15:52|[O3noBLOG](https://feeds.feedburner.com/othree)|[鳥山明過世](https://blog.othree.net/log/2024/03/08/akira-toriyama/)|
 |2024-03-08 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「过度在乎」是一种常见的心理现象吗？对在意的事情过度解读，对微小变化草木皆兵，这种心态如何调整?](https://www.zhihu.com/question/647289720)|
 |2024-03-08 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[英伟达股价首次突破 900 美元关口，市值达 2.32 万亿美元逼近苹果，哪些信息值得关注？](https://www.zhihu.com/question/647555861)|
