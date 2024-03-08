@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 03:11:54|[机核](https://www.gcores.com/rss)|[漫画家鸟山明因病去世，享年68岁](https://www.gcores.com/articles/178623)|
+|2024-03-08 01:59:50|[机核](https://www.gcores.com/rss)|[Tank！《守望先锋2》与《星际牛仔》联动预告公开](https://www.gcores.com/articles/178618)|
+|2024-03-08 01:57:27|[机核](https://www.gcores.com/rss)|[新的“神”之传说：卡普空新作《祇 女神之路》详情公开](https://www.gcores.com/articles/178619)|
+|2024-03-08 01:43:28|[机核](https://www.gcores.com/rss)|[“这已经算是《圣兽之王3》了！”《圣兽之王》Fami通访谈要点汇总](https://www.gcores.com/articles/178599)|
+|2024-03-08 00:08:41|[机核](https://www.gcores.com/rss)|[来捏人吧！《龙之信条2》捏人软件今天上线，Capcom Highlights首日直播汇总](https://www.gcores.com/articles/178613)|
+|2024-03-08 04:06:08|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[macOS Sonoma 14.4 更新 全新表情符號、修改錯誤、安全性升級](https://applefans.today/macos-sonoma-14-4/)|
+|2024-03-08 02:34:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[watchOS 10.4 更新 修復螢幕被鬼觸控的問題](https://applefans.today/watchos-10-4/)|
+|2024-03-08 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/86890)|
+|2024-03-08 04:00:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在唐代，一个女性会怎样被夸？](https://dig.chouti.com/link/41750355)|
+|2024-03-08 00:08:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[东西方持棍棒的女神形象：印度教巴加拉女神 vs 索科索圣母](https://dig.chouti.com/link/41748311)|
 |2024-03-08 00:20:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从唱空到做空无缝衔接，民粹又来围剿民营经济了？](https://dig.chouti.com/link/41748434)|
 |2024-03-08 00:24:48|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)|
 |2024-03-08 01:11:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 125 期）：个人 Notion 如何每月收入 3 万美元](https://w2solo.com/topics/4464)|
