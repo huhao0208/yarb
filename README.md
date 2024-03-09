@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-08）
+﻿# 每日资讯（2024-03-09）
 
 |时间|来源|标题|
 |---|---|---|
@@ -26,6 +26,7 @@
 |2024-03-08 14:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[歐盟 iPhone 用戶將可輕鬆轉 Android，Safari 隨心刪](https://www.iphonetaiwan.org/2024/03/blog-post_08.html)|
 |2024-03-08 06:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】Android 轉 iPhone！安卓跳槽蘋果輕鬆搞定](https://www.iphonetaiwan.org/2024/03/android-move-to-iphone.html)|
 |2024-03-08 15:15:52|[O3noBLOG](https://feeds.feedburner.com/othree)|[鳥山明過世](https://blog.othree.net/log/2024/03/08/akira-toriyama/)|
+|2024-03-09 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[鸟山明和我的童年](https://leimao.github.io/essay/%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%92%8C%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/)|
 |2024-03-08 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「过度在乎」是一种常见的心理现象吗？对在意的事情过度解读，对微小变化草木皆兵，这种心态如何调整?](https://www.zhihu.com/question/647289720)|
 |2024-03-08 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[英伟达股价首次突破 900 美元关口，市值达 2.32 万亿美元逼近苹果，哪些信息值得关注？](https://www.zhihu.com/question/647555861)|
 |2024-03-08 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[对于体重超标的人经常因为一些话引起「情绪敏感」，有哪些「不伤身」的减重方法吗？](https://www.zhihu.com/question/647539946)|
