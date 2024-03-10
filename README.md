@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-10 09:47:38|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[新加坡游记](https://www.edony.ink/sightseeing-of-singapore/)|
+|2024-03-10 10:35:33|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[如何构建全流程辅助的 AI4EE 能力：从 Team AI 到企业级 AI 辅助研发的思考？](http://www.phodal.com/blog/ai4ee-from-team-ai-to-enterprise-platform-engineering/)|
+|2024-03-10 04:01:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电影《沙丘 2》怎么样，符合你的预期吗？](https://www.zhihu.com/question/647447394)|
 |2024-03-10 03:49:55|[鸟窝](https://colobu.com/atom.xml)|[slog 终极指南](https://colobu.com/2024/03/10/slog-the-ultimate-guide/)|
 |2024-03-10 07:42:32|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔原创@COLING2024 LM-Combiner：通过模型改写实现更精准的语法纠错](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812684&idx=1&sn=2ea01bd51a0328c471688ee8979e6720)|
 |2024-03-10 02:31:31|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Hello 2024](https://blog.mauve.icu/2024/03/10/acm/codeforces/Hello2024/)|
