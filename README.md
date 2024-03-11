@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-11 04:09:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何用 Mac 更改 iTunes/Finder 備份 iPhone 檔案的位置？](https://applefans.today/2024-how-to-change-iphone-backup-location-on-mac/)|
+|2024-03-11 01:59:57|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[基本款 M3 MacBook Air 擁有比上一代更快的 SSD 讀寫速度](https://applefans.today/2024-03-m3-macbook-air-256gb-ssd-faster/)|
+|2024-03-11 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/10](https://weekly.pychina.org/pyrecap/pyrw-2410.html)|
 |2024-03-10 16:30:00|[カレーうどん屋](https://blog.laoliu.eu.org/atom.xml)|[日本之行-第二站-奈良](https://blog.udon.eu.org/archives/adc5a61e.html)|
 |2024-03-10 14:00:00|[Jason](https://atjason.com/atom.xml)|[0310 - 以退为进](https://atjason.com/daily/2024-03-10.html)|
 |2024-03-10 16:03:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人社部：今年高校毕业生将达到 1179 万人，将强化促进青年就业政策举措，如何解读？将带来哪些影响？](https://www.zhihu.com/question/647742966)|
