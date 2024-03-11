@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-10）
+﻿# 每日资讯（2024-03-11）
 
 |时间|来源|标题|
 |---|---|---|
@@ -14,6 +14,7 @@
 |2024-03-10 13:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果對 OLED iPad Pro 信心十足！首批生產 850 萬部](https://www.iphonetaiwan.org/2024/03/apple-oled-ipad-pro-2024.html)|
 |2024-03-10 07:32:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Adob​​e Firefly 生成式 AI 模型：iPhone/iPad 上也能用](https://www.iphonetaiwan.org/2024/03/blog-post_10.html)|
 |2024-03-10 06:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[上海第八家 Apple Store「靜安」即將開幕：獨家壁紙下載](https://www.iphonetaiwan.org/2024/03/apple-jingan-store-shanghai.html)|
+|2024-03-11 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第167期 - 碧空雪涛](https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/)|
 |2024-03-10 16:04:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[医疗健康行业周报 中博瑞康完成近亿元B轮融资；诺善科技完成千万元天使轮融资](https://36kr.com/p/2682165257142407)|
 |2024-03-10 16:04:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[疯狂的金价，疯狂的人](https://36kr.com/p/2683467487330433)|
 |2024-03-10 16:04:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[用童话训练AI模型：微小语言模型进入成熟期](https://36kr.com/p/2614404831238278)|
