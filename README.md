@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-12 11:43:48|[碗丸食事](https://feedpress.me/wx-foodfile-111010)|[川中岛 来自长野县最古老酒造与第一位女杜氏的高分清酒~](http://mp.weixin.qq.com/s?__biz=MzU3MjcxOTk5NQ%3D%3D&mid=2247489138&idx=1&sn=911a887009403e23d656bafffddcdc0d)|
+|2024-03-12 07:01:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[农村断缴医保调查：村干部称今年是医保参保人数降幅最大一年](https://dig.chouti.com/link/41788985)|
+|2024-03-12 10:08:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人体彩绘猫头鹰](https://dig.chouti.com/link/41791338)|
+|2024-03-12 06:09:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Google发表了一篇论文，介绍了一种新型的模型窃取攻击方法，并表示他们已经成功攻破ChatGPT……成本低至150元，调用API即可得手](https://dig.chouti.com/link/41788655)|
+|2024-03-12 07:10:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“你内个韩国的朋友怎么不说话了？” 哈哈哈小姐姐太slay了](https://dig.chouti.com/link/41789297)|
+|2024-03-12 04:09:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被鳄鱼咬烂屁股的水牛，内脏流出……](https://dig.chouti.com/link/41787621)|
+|2024-03-12 05:24:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么说香蕉是水果界的“唢呐”？](https://dig.chouti.com/link/41788275)|
+|2024-03-12 09:08:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【杭州余杭通报：“点读机女孩”患脑瘤并接受治疗相关视频系去年拍摄】经核实，相关视频为2023年9月拍摄，2024年2月开始剪辑制作，被MCN机构配以近期发生的文字描述发布到网络。](https://dig.chouti.com/link/41790623)|
+|2024-03-12 09:02:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[李宁被曝考虑私有化，已接洽高瓴等，盘中一度大涨20%](https://dig.chouti.com/link/41790469)|
+|2024-03-12 03:13:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：生物化的星球大战载具，作者Chris Sherman](https://dig.chouti.com/link/41787035)|
+|2024-03-12 08:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中年自救，我去菲律宾学英语重启人生](https://dig.chouti.com/link/41790056)|
+|2024-03-12 08:39:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“结婚16年3娃非亲生案”结案：双方离婚，女方支付赔偿款，净身出户](https://dig.chouti.com/link/41790112)|
+|2024-03-12 07:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当一位女性成为船长】詹春珮是一名女船长，管理着一艘排水量6450吨的轮船和30多名船员。她是中国首位公务船女船长。22岁上了“海巡01”，到现在已有10年，没遇到过海盗却抓了不少违法船只。她经历过冒着黑烟冲卡的船，也有走私船径直撞来。这些都不足为惧。](https://dig.chouti.com/link/41789360)|
+|2024-03-12 04:01:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国疾控中心原主任高福出任浙江大学大健康学院院长](https://dig.chouti.com/link/41787268)|
+|2024-03-12 04:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[免费领养品种猫，我成了最大的冤种](https://dig.chouti.com/link/41787726)|
+|2024-03-12 06:01:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马媒：22岁马来西亚华裔女子赴杭州“奔现”见网友，失联多日下落不明](https://dig.chouti.com/link/41788443)|
+|2024-03-12 01:11:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【沃尔沃宣布与电池管理软件公司Breathe合作，将充电时间缩短30%】沃尔沃表示，Breathe的软件可以在保持相同能量密度和续航里程的情况下，将电池电量从10%到80%的充电时间减少30%。Breathe的软件使用算法根据电池的健康状况来管理充电过程，同时避免可能损害电池性能和寿命的锂电镀风险。](https://dig.chouti.com/link/41785558)|
+|2024-03-12 09:21:37|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这才是富二代该开的饭馆啊，王思聪出来挨打！（不是](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450406&idx=1&sn=97233638d70eedef1ecd06a5e46fc8ad)|
 |2024-03-12 08:01:33|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 测试替代](https://www.sulinehk.com/post/golang-test-doubles/)|
 |2024-03-12 03:37:46|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 1.22 语言规范改动](https://www.sulinehk.com/post/language-specification-changes-in-golang-1.22/)|
 |2024-03-12 04:54:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[不用等未來 Apple Vision Pro 現在已經有無限想像](https://applefans.today/2024-03-apple-vision-pro-next/)|
