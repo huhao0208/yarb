@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-12 15:37:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【小宝影视】初来乍到，请多指教](https://w2solo.com/topics/4474)|
+|2024-03-12 08:30:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[Harmony 鸿蒙应用开发之展示 PDF 文件](https://www.imaegoo.com/2024/harmony-pdf-viewer/)|
+|2024-03-12 05:02:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《2023年国际军售趋势》报告：美国武器出口大增稳居第一，法国首超俄罗斯升至第二，印度是世界最大武器进口国](https://dig.chouti.com/link/41788038)|
+|2024-03-12 06:09:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在海床上飞行的飞鲂鮄](https://dig.chouti.com/link/41788688)|
+|2024-03-12 05:10:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI法庭文件反击马斯克：其指控建立在“不连贯的”事实前提之上，或借机接触专有技术窃密](https://dig.chouti.com/link/41788221)|
+|2024-03-12 06:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在泰国卡通寺庙，领略了佛法和二次元的大杂烩](https://dig.chouti.com/link/41788760)|
+|2024-03-12 10:08:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“小K“”克里斯汀·斯图尔特《滚石》杂志3月刊颇具争议的封面和内页拍摄幕后花絮。这套确实很大胆，出位。也是配合新片宣传，她那个A24新片是讲健身房前台爱上健身教练的故事。](https://dig.chouti.com/link/41791335)|
+|2024-03-12 13:09:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国正研制4米级、5米级可重复使用火箭，计划分别于2025年和2026年首飞](https://dig.chouti.com/link/41792758)|
+|2024-03-12 13:24:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【上海一男子供养女友和她老公一家多年，被骗240万还愿意谅解希望公安撤案】王先生通过网游认识了张某，近10年间为其花费240余万元，并因此欠下200多万债务。但实际上，张某早已结婚生子，甚至会带上已经十多岁的儿子，谎称是自己的“表弟”，和王先生约会。](https://dig.chouti.com/link/41792876)|
+|2024-03-12 11:01:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“董事长已经不信任我们了”，长城汽车一场内部反腐引发汹涌离职潮](https://dig.chouti.com/link/41791519)|
+|2024-03-12 11:01:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被曝考虑私有化，李宁：不知悉股价异动原因，没有需要披露的内幕信息](https://dig.chouti.com/link/41791575)|
+|2024-03-12 14:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何將 Mac 與 Apple Vision Pro 搭配使用](https://www.iphonetaiwan.org/2024/03/connect-mac-apple-vision-pro.html)|
+|2024-03-12 06:51:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Skype Channels：探索知識的未來，結合新聞、科技、娛樂](https://www.iphonetaiwan.org/2024/03/skype-channels.html)|
+|2024-03-12 06:31:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[AirPods Pro 將不只是耳機，更是 FDA 認證的助聽器](https://www.iphonetaiwan.org/2024/03/ios-18-airpods-pro-assist-listening.html)|
+|2024-03-12 00:14:45|[余晟以为](https://feedpress.me/wx-yurii-says)|[新成就解锁：乐团演奏](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009900&idx=1&sn=bee0386fc8b35e5121ec63bdc25040e9)|
 |2024-03-12 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Interaction to Next Paint is officially a Core Web Vital 🚀](https://web.dev/blog/inp-cwv-launch?hl=en)|
 |2024-03-12 14:39:24|[鸟窝](https://colobu.com/atom.xml)|[Go 中的高速数据包处理:从 net.Dial 到 AF_XDP](https://colobu.com/2024/03/12/high-speed-packet-transmission-in-go-from-net-dial-to-af-xdp/)|
 |2024-03-12 12:33:28|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：怎么中文也属于字母？](https://www.kingname.info/2024/03/12/alphanumeric/)|
