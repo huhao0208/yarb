@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-13 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[首飞 23 年来首摔，印度国产战机「光辉」在演习中坠毁，哪些信息值得关注？](https://www.zhihu.com/question/648322237)|
+|2024-03-13 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[深圳推出全国首个共享充电宝行业自律公约，充电免费时长统一为 5 分钟，哪些信息值得关注？](https://www.zhihu.com/question/648230517)|
+|2024-03-13 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国创业者，不敢追 Sora](https://36kr.com/p/2686060405141121)|
+|2024-03-13 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[阿里游戏，换血突围](https://36kr.com/p/2686494746291589)|
+|2024-03-13 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜官方通报“点读机女孩”手术视频为库存；雷军称对新能源车价格战已做好充分准备；百雀羚、欧莱雅等过度包装被点名](https://36kr.com/p/2687243018317448)|
+|2024-03-13 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[谷歌承认“窃取”OpenAI模型关键信息：成本低至150元，调用API即可得手](https://36kr.com/p/2686229924081027)|
+|2024-03-13 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李想同学，欢迎来到电车地狱](https://36kr.com/p/2686491177315713)|
+|2024-03-13 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Vision Pro 不需要「杀手级应用」](https://36kr.com/p/2686468846677376)|
+|2024-03-13 04:01:44|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038)|
+|2024-03-13 04:01:44|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[年度征文 手机长焦现在发展成什么样了？](https://sspai.com/post/86906)|
 |2024-03-12 15:37:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【小宝影视】初来乍到，请多指教](https://w2solo.com/topics/4474)|
 |2024-03-12 08:30:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[Harmony 鸿蒙应用开发之展示 PDF 文件](https://www.imaegoo.com/2024/harmony-pdf-viewer/)|
 |2024-03-12 05:02:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《2023年国际军售趋势》报告：美国武器出口大增稳居第一，法国首超俄罗斯升至第二，印度是世界最大武器进口国](https://dig.chouti.com/link/41788038)|
