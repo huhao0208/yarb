@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-14 05:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美众议院通过禁止TikTok在美运营或强制其出售的法案](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%A6%81%E6%AD%A2tiktok%E5%9C%A8%E7%BE%8E%E8%BF%90%E8%90%A5%E6%88%96%E5%BC%BA%E5%88%B6%E5%87%BA%E5%94%AE%E7%9A%84%E6%8F%90%E6%A1%88-7cd87aa7)|
+|2024-03-14 12:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台积电工厂双城境遇大不同：美国项目延期开工，日本项目如期投产](https://cn.wsj.com/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B7%A5%E5%8E%82%E5%8F%8C%E5%9F%8E%E5%A2%83%E9%81%87%E5%A4%A7%E4%B8%8D%E5%90%8C-%E7%BE%8E%E5%9B%BD%E9%A1%B9%E7%9B%AE%E5%BB%B6%E6%9C%9F%E5%BC%80%E5%B7%A5-%E6%97%A5%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%A6%82%E6%9C%9F%E6%8A%95%E4%BA%A7-dd4f2b46)|
+|2024-03-14 07:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中美悄然延长《美中科技合作协定》有何意味？](https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E6%82%84%E7%84%B6%E5%BB%B6%E9%95%BF-%E7%BE%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%8D%8F%E5%AE%9A-%E6%9C%89%E4%BD%95%E6%84%8F%E5%91%B3-f3e96a50)|
+|2024-03-14 06:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国交易滑坡殃及国际律所](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E6%98%93%E6%BB%91%E5%9D%A1%E6%AE%83%E5%8F%8A%E5%9B%BD%E9%99%85%E5%BE%8B%E6%89%80-dcca317a)|
+|2024-03-14 04:28:22|[KAIX.IN](https://kaix.in/feed/)|[好久没做](https://kaix.in/2024/0314-ltns/)|
+|2024-03-14 08:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[反短视频奴役之战：他们决心拯救大脑](https://dig.chouti.com/link/41811179)|
+|2024-03-14 04:10:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国知名生物技术组织BIO剔除药明康德会员资格：支持《生物安全法》】BIO称目前正在采取措施，在组织成员资格方面与药明康德分开，并表示将支持《生物安全法案》，并将随着该立法的进展与国会合作。药明康德曾是BIO长期会员，今日在医药股大涨情况下，药明系港股跌幅均在9%左右。](https://dig.chouti.com/link/41808831)|
+|2024-03-14 09:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[专访小柯丨我们的流行音乐变俗了吗？](https://dig.chouti.com/link/41811864)|
+|2024-03-14 11:01:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI首席技术官：Sora将于年内正式向公众推出](https://dig.chouti.com/link/41812647)|
+|2024-03-14 14:36:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【波兰要召回50名驻外大使，发生了什么？】自2023年12月正式上台以来，亲欧派的总理图斯克就与总统杜达所在的保守派进行了一场权斗。波兰现任驻外使团均是前任政府任命，“召回他们不是报复前任政府”，总理图斯克说。“未经总统批准，不得任命或罢免大使。”杜达已经作出回应。](https://dig.chouti.com/link/41814578)|
+|2024-03-14 14:01:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Space X“星舰”第三次试飞发射升空，马斯克：达到环绕速度，祝贺团队](https://dig.chouti.com/link/41814167)|
+|2024-03-14 11:11:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当猫会用裸绞，它无敌了](https://dig.chouti.com/link/41813025)|
+|2024-03-14 13:02:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【路透社：特朗普曾让CIA成立特工小组，试图渗透中国社交媒体带节奏】三名美国前官员告诉路透社，特朗普担任总统期间，CIA组建了一个特工小组，利用虚假的网络身份散布关于中国政府的负面信息，同时向海外新闻机构传递诋毁性内容。这项工作始于2019年，此前未被曝光。报道称，美国官员拒绝提供这些行动的具体细节。](https://dig.chouti.com/link/41813833)|
+|2024-03-14 05:13:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[防线上的龙牙（乌克兰，哈尔科夫方向）](https://dig.chouti.com/link/41809536)|
+|2024-03-14 13:03:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国前财长姆努钦：正在组建投资人团体，尝试收购TikTok](https://dig.chouti.com/link/41813850)|
+|2024-03-14 11:11:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[澳大利亚富翁Clive Palmer宣布将还原建造“泰坦尼克号”，他表示，这个计划其实早就有了，只是之前遇到了许多难题而无法实现，现在他的个人资产已经足够，而且还会找世界上最好的巨轮设计师，来打造一搜与原版泰坦尼克号的造型一模一样但是更坚固的“泰坦尼克2号”，计划明年开始动工，2027年6月首航。](https://dig.chouti.com/link/41813044)|
+|2024-03-14 10:02:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄媒称也门胡塞武装试射“高超音速导弹”，速度可达8马赫](https://dig.chouti.com/link/41812146)|
+|2024-03-14 11:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[字节游戏回归孵化状态：华巍负责游戏部门，严授转岗财务部](https://dig.chouti.com/link/41812967)|
+|2024-03-14 11:11:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ._. •_• ❛ㅇ❛ ](https://dig.chouti.com/link/41813037)|
+|2024-03-14 12:03:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【官方澄清燕郊爆燃事故和炸鸡店无关】14日下午，三河市应急管理局局长表示，“现在具体是哪家门店出现的问题引发的爆燃也难以确认，它这个门店呢，是连着4家，炸鸡店是旁边的一家，这4家门店的招牌已经在爆炸过程当中炸没了，所以说炸鸡店的招牌还在，当时就以炸鸡店为坐标，才这么公布的，与炸鸡店无关。”](https://dig.chouti.com/link/41813411)|
+|2024-03-14 02:12:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在阿拉斯加费尔班克斯的公园里、雕刻家使用电锯制作的电锯人冰雕](https://dig.chouti.com/link/41807667)|
+|2024-03-14 07:10:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本知名华人补习机构创始人被捕，涉洗钱欺诈金额达50亿日元](https://dig.chouti.com/link/41810444)|
+|2024-03-14 04:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【夜店“Omakase局”，终点永远是大表弟】夜店像一个巨型旋转寿司店，捏着一样寿司的主厨，是医美。](https://dig.chouti.com/link/41808989)|
+|2024-03-14 06:01:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[30多年来首次年度亏损，阿迪达斯去年转亏，但在华营收逆势增长](https://dig.chouti.com/link/41809620)|
+|2024-03-14 12:10:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ૢ˃ꌂ˂ૢ ](https://dig.chouti.com/link/41813503)|
+|2024-03-14 11:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【25岁规培女医生之死】2月23日20点47分，25岁的规培医生曹丽萍走进湖南省人民医院医生值班休息室，大约3小时后，她提交了最后一份出院病历，走进休息室内的卫生间，反锁，刎颈。23点59分，提前在QQ空间写好并设置定时的遗书发出：“真的好累，想回去休息了…世上本就没有公平，怪我自己是不合格的牛马，熬不下去了。”](https://dig.chouti.com/link/41813108)|
+|2024-03-14 11:11:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[武警穿越机操作手，申请出战！](https://dig.chouti.com/link/41813027)|
+|2024-03-14 08:15:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[跟拉拉朋友聊聊：你们真的介意“二本的吻痕”吗？](https://dig.chouti.com/link/41811158)|
+|2024-03-14 04:10:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国堪萨斯州共和党活动，“拜登模型”惨遭殴打……视频疯传，该州共和党高层被要求辞职](https://dig.chouti.com/link/41808878)|
+|2024-03-14 06:10:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[最zhong幻想](https://dig.chouti.com/link/41809892)|
+|2024-03-14 16:21:42|[机核](https://www.gcores.com/rss)|[《百英雄传》公布全新预告，将于4月23日正式发售](https://www.gcores.com/articles/178936)|
+|2024-03-14 15:00:00|[机核](https://www.gcores.com/rss)|[《最终幻想7 重生》了吗？游戏茶话会Vol.64](https://www.gcores.com/radios/178675)|
+|2024-03-14 13:07:34|[机核](https://www.gcores.com/rss)|[英伟达发布《黑神话：悟空》全景光线追踪+DLSS 3.5 预告片](https://www.gcores.com/articles/178930)|
+|2024-03-14 12:19:03|[机核](https://www.gcores.com/rss)|[劲“鸽”热舞：魔性摇头鸽音律对战《沙雕鸽鸽大逃杀》将于4月4日推出新游戏模式](https://www.gcores.com/articles/178929)|
+|2024-03-14 12:10:18|[机核](https://www.gcores.com/rss)|[苏珊·桑塔格《论摄影》读书笔记](https://www.gcores.com/articles/178928)|
 |2024-03-14 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 阿里巴巴达摩院全球数学竞赛启动，首次向 AI 开放并邀全球大模型参赛，AI 做题会超越人类吗？](https://www.zhihu.com/question/648499984)|
 |2024-03-14 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[王毅将访问新西兰、澳大利亚并举行第七轮中澳外交与战略对话，哪些信息值得关注？](https://www.zhihu.com/question/648540345)|
 |2024-03-14 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[商务部回应美国针对 TikTok 法案，「美方应停止无理打压别国企业」，释放了哪些信号？](https://www.zhihu.com/question/648540640)|
