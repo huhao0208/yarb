@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-14 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 阿里巴巴达摩院全球数学竞赛启动，首次向 AI 开放并邀全球大模型参赛，AI 做题会超越人类吗？](https://www.zhihu.com/question/648499984)|
+|2024-03-14 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[王毅将访问新西兰、澳大利亚并举行第七轮中澳外交与战略对话，哪些信息值得关注？](https://www.zhihu.com/question/648540345)|
+|2024-03-14 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[商务部回应美国针对 TikTok 法案，「美方应停止无理打压别国企业」，释放了哪些信号？](https://www.zhihu.com/question/648540640)|
+|2024-03-14 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你能用徒手画出一个多么极致的圆？](https://www.zhihu.com/question/648374618)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[5K 预算，求大家推荐性价比高的装机清单，是选酷睿还是锐龙处理器更好?](https://www.zhihu.com/question/646084654)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[复试之前联系导师是「规定动作」吗？不联系有什么影响？](https://www.zhihu.com/question/648224305)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大模型百舸争流，国产全自研大模型如何才能突出重围？](https://www.zhihu.com/question/648491301)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[公司想让我先教会新人然后把我「踢掉」，我该怎么办?](https://www.zhihu.com/question/648153782)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有人说云南是「春如四季」，你觉得云南的春天是怎样的？](https://www.zhihu.com/question/648235531)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[假如遇到「小时候的自己」，你会对 TA 说什么？](https://www.zhihu.com/question/648282190)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[AI 如何辅助编程？](https://www.zhihu.com/question/646628593)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 湖人 107:120 国王，如何评价这场比赛？](https://www.zhihu.com/question/648486337)|
+|2024-03-14 16:03:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[代孕黑市称优质卵子可售 100 万，为何代孕一直屡禁不止？取卵对身体造成的伤害有多大？](https://www.zhihu.com/question/648536617)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果让你在 0-100 这些数字中选一个你最最喜欢的数，你会选哪个？](https://www.zhihu.com/question/648359903)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[同价位，看电影比较多，选 miniLED 还是 OLED？](https://www.zhihu.com/question/638765923)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些机场是让你印象很深刻？](https://www.zhihu.com/question/648235606)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些比较好一点的可供个人使用的 AI 写作工具？](https://www.zhihu.com/question/293625523)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[刚开始跑步发现速度很慢怎么办？](https://www.zhihu.com/question/648004046)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[每天饮食注意哪些方面，可以在不知不觉中减肥？](https://www.zhihu.com/question/647590659)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 勇士 99:109 独行侠，如何评价这场比赛？](https://www.zhihu.com/question/648484798)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[5000 以内的安卓手机中，有哪些品牌或者型号是比较值得推荐的呢？](https://www.zhihu.com/question/647289074)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一个人的自驾游，在安全方面要注意些什么？](https://www.zhihu.com/question/646673717)|
+|2024-03-14 16:03:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[若你是三一门人，知道逆生真相应该如何面对。是承认，还是放弃，还是继续做梦，又或者重开一条三一之路？](https://www.zhihu.com/question/647997538)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上市公司的市值是不是虚的，假如市值 500 亿的公司想全部卖掉变现金，是不是最终到手现金一半的市值都不到?](https://www.zhihu.com/question/648313173)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[甘肃麻辣烫引发热议，天水能否继淄博、哈尔滨之后成为旅行首选？](https://www.zhihu.com/question/648323678)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[海信新品 E5N Pro，有哪些配置上的亮点？是今年的 MiniLED 电视口碑之选吗？](https://www.zhihu.com/question/648496803)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[TVB 版《倚天屠龙记》为什么找 55 岁的刘松仁扮演张翠山，找 45 岁的米雪扮演殷素素？](https://www.zhihu.com/question/516024159)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么一些人会认为自己是这么想的别人也是这么想的?](https://www.zhihu.com/question/647964195)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么雪母会同意八幡的提亲呢 纯动画党 ？](https://www.zhihu.com/question/422910818)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你还记得在学生时代有哪些朗朗上口的数学口诀？](https://www.zhihu.com/question/648408059)|
+|2024-03-14 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「辞职潮」未休：韩保健福祉部称过去一天有 511 名医科大学学生提出休学申请，事态还将持续多久？](https://www.zhihu.com/question/648325247)|
+|2024-03-14 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[阿拉伯人为何很少有工程师和科学家?](https://www.zhihu.com/question/647663489)|
+|2024-03-14 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[河北省委称「要自觉接受舆论监督，支持和保障媒体记者正当采访」，如何看待这一表态？](https://www.zhihu.com/question/648567742)|
+|2024-03-14 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[作为原著党，如何评价电影《沙丘 2》？](https://www.zhihu.com/question/647597274)|
+|2024-03-14 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[好导师有哪些特质？](https://www.zhihu.com/question/648224203)|
+|2024-03-14 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[火车硬卧可以让你有多崩溃？](https://www.zhihu.com/question/291849780)|
+|2024-03-14 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[打坐时，呼吸与意念应该做到怎样才达到效果？](https://www.zhihu.com/question/429242542)|
+|2024-03-14 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[李佳琦董宇辉等 17 名主播被点名，产品质量和价格误导问题突出，网红直播间购买商品遇质量问题如何维权？](https://www.zhihu.com/question/648523542)|
+|2024-03-14 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[CEO 周受资回应众议院通过 TikTok 剥离法案「令人失望」，如何看待此次事件？公司或将如何应对？](https://www.zhihu.com/question/648519020)|
+|2024-03-14 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 Meta 最新的推荐算法论文：统一的生成式推荐第一次打败了分层架构的深度推荐系统？](https://www.zhihu.com/question/646766849)|
+|2024-03-14 06:04:47|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.3.13](https://www.justzht.com/2024-3-13/)|
+|2024-03-14 14:40:26|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Python精选300题](https://xugaoxiang.com/2024/03/14/python-quiz-300/)|
+|2024-03-14 14:37:52|[迷途小书童的Note](https://xugaoxiang.com/feed)|[ubuntu 22.04安装Docker](https://xugaoxiang.com/2024/03/14/ubuntu-install-docker/)|
+|2024-03-14 12:33:09|[华山感染](https://feedpress.me/wx-hsinfect)|[华山感染团队发表综述：亚临床结核病的研究现状与未来展望](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502046&idx=3&sn=87b6a348464691b75ff3c6f8b789e72d)|
+|2024-03-14 12:33:09|[华山感染](https://feedpress.me/wx-hsinfect)|[全国爱肝日 专家云集！华山医院感染科携手肝胆中心，科普讲座明起上线→](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502046&idx=2&sn=28bab6b07049103e629eddf4be3723a7)|
+|2024-03-14 12:33:08|[华山感染](https://feedpress.me/wx-hsinfect)|[《柳叶刀-感染病》：终止结核流行，张文宏魏晓林教授呼吁关注亚临床结核病隐藏威胁](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502046&idx=1&sn=017a59173dfb3f48facace360f0b260a)|
+|2024-03-14 11:02:54|[Tinyfool的个人网站](https://codechina.org/feed/)|[欧盟应Spotify的主张罚款苹果20亿美金，这是欧盟的沦丧、苹果的扭曲还是Spotify的无理取闹呢？](https://codechina.org/2024/03/apple-eu-spotify/)|
+|2024-03-14 04:15:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[AI 手機是什麼？是全新智慧應用？還是舊功能重新包裝](https://www.iphonetaiwan.org/2024/03/ai-smart-phone.html)|
 |2024-03-14 09:36:16|[机核](https://www.gcores.com/rss)|[动画《摇曳露营Δ》第三季公开正式PV，确认于4月4日开播](https://www.gcores.com/articles/178924)|
 |2024-03-14 09:00:00|[机核](https://www.gcores.com/rss)|[啊？（二），录音笔 VOL.159](https://www.gcores.com/radios/178908)|
 |2024-03-14 09:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第1回——无上意志](https://www.gcores.com/articles/178797)|
