@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-03-13）
+﻿# 每日资讯（2024-03-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-14 00:50:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac 使用者必學！9 種關閉 Mac 應用程式的方式](https://applefans.today/2024-03-how-to-quit-app-on-mac/)|
+|2024-03-14 00:46:25|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[被“竞业协议”折磨的拼多多前员工｜工劳小报 #37](https://feed.laborinfozh.com/issue37/)|
 |2024-03-13 08:58:34|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[嗦粉灵魂两种，推荐 by 柳州](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450468&idx=1&sn=08f234dfd0e4f9d3fcb67828fbe20813)|
 |2024-03-13 15:20:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】了解 Apple Vision Pro 上的個性化設定](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-settings-guide.html)|
 |2024-03-13 15:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何為 Apple Vision Pro 設定蔡司光學鏡片](https://www.iphonetaiwan.org/2024/03/install-zeiss-optical-inserts-apple-vision-pro.html)|
