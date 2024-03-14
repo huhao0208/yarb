@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-14 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Sora 团队罕见专访：短期内不会向公众开放，目前还不是一个产品](https://36kr.com/p/2687679612169605)|
+|2024-03-14 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[浙江夫妇造出一个IPO](https://36kr.com/p/2687679219199623)|
+|2024-03-14 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球首个AI程序员来了，超越GPT-4震撼硅谷，但取代码农为之尚早](https://36kr.com/p/2687943738453377)|
+|2024-03-14 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[习惯性答应对方、不好意思拒绝，还总是为他人考虑太多，我该怎么缓解这类心理？](https://www.zhihu.com/question/647966566)|
+|2024-03-14 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你是否认同「只有自己可以救自己」？如何反驳这一观点？](https://www.zhihu.com/question/641330196)|
+|2024-03-14 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[莫言说作家不会因为 AI 出现而失业，「作家独具个性的形象思维 AI 永远无法替代」，如何看待此事？](https://www.zhihu.com/question/648364248)|
+|2024-03-14 04:01:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我发现「职场淡人」才是最适合职场的新人设，你身边有这样的同事吗？](https://www.zhihu.com/question/648034206)|
 |2024-03-14 00:50:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac 使用者必學！9 種關閉 Mac 應用程式的方式](https://applefans.today/2024-03-how-to-quit-app-on-mac/)|
 |2024-03-14 00:46:25|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[被“竞业协议”折磨的拼多多前员工｜工劳小报 #37](https://feed.laborinfozh.com/issue37/)|
 |2024-03-13 08:58:34|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[嗦粉灵魂两种，推荐 by 柳州](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450468&idx=1&sn=08f234dfd0e4f9d3fcb67828fbe20813)|
