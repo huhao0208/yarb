@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-03-14）
+﻿# 每日资讯（2024-03-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-15 00:13:02|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)|
+|2024-03-15 01:04:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 126 期）：治愈恐慌的 App 月入 8.3 万美元](https://w2solo.com/topics/4477)|
+|2024-03-15 00:32:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【谷歌DeepMind发布通用AI智能体SIMI】SIMI（Scalable Instructable Multiworld Agent，顾名思义可扩展、可指导、多世界）](https://dig.chouti.com/link/41817387)|
 |2024-03-14 05:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美众议院通过禁止TikTok在美运营或强制其出售的法案](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%A6%81%E6%AD%A2tiktok%E5%9C%A8%E7%BE%8E%E8%BF%90%E8%90%A5%E6%88%96%E5%BC%BA%E5%88%B6%E5%87%BA%E5%94%AE%E7%9A%84%E6%8F%90%E6%A1%88-7cd87aa7)|
 |2024-03-14 12:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台积电工厂双城境遇大不同：美国项目延期开工，日本项目如期投产](https://cn.wsj.com/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B7%A5%E5%8E%82%E5%8F%8C%E5%9F%8E%E5%A2%83%E9%81%87%E5%A4%A7%E4%B8%8D%E5%90%8C-%E7%BE%8E%E5%9B%BD%E9%A1%B9%E7%9B%AE%E5%BB%B6%E6%9C%9F%E5%BC%80%E5%B7%A5-%E6%97%A5%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%A6%82%E6%9C%9F%E6%8A%95%E4%BA%A7-dd4f2b46)|
 |2024-03-14 07:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中美悄然延长《美中科技合作协定》有何意味？](https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E6%82%84%E7%84%B6%E5%BB%B6%E9%95%BF-%E7%BE%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%8D%8F%E5%AE%9A-%E6%9C%89%E4%BD%95%E6%84%8F%E5%91%B3-f3e96a50)|
