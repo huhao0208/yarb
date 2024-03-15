@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-15 15:00:00|[机核](https://www.gcores.com/rss)|[找到兴趣，也不容易 天天ACG 3.15](https://www.gcores.com/radios/178677)|
+|2024-03-15 12:57:41|[机核](https://www.gcores.com/rss)|[罗马权力奏鸣曲：永恒光影下王权的更迭与传承（上）](https://www.gcores.com/articles/178848)|
+|2024-03-15 16:06:35|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[支付宝突然官宣，这种小程序就该被处理](https://36kr.com/p/2689494317781636)|
+|2024-03-15 16:06:35|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[震撼，小米汽车工厂卫星图，停车场全是SU7，三年前还是光地](https://36kr.com/p/2690300704173444)|
+|2024-03-15 16:06:35|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[上千家电企业挤爆13个展馆，36氪带你速览AWE](https://36kr.com/p/2689397215309189)|
+|2024-03-15 16:06:35|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[周受资的危急时刻](https://36kr.com/p/2690078369656454)|
+|2024-03-15 16:06:35|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[安踏靠他打响出海第一枪｜焦点分析](https://36kr.com/p/2687855171726722)|
+|2024-03-15 16:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[折疊螢幕手機真的實用？還是為了折疊而折疊賣更貴](https://www.iphonetaiwan.org/2024/03/why-foldable-phone.html)|
+|2024-03-15 15:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18：可能會讓你將 Google 地圖設為 iPhone 預設導航](https://www.iphonetaiwan.org/2024/03/ios-18-google-maps-iphone-navigation.html)|
+|2024-03-15 15:20:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Proton 加密郵件桌面應用：現已推出蘋果 Mac 版下載](https://www.iphonetaiwan.org/2024/03/proton-encrypted-mail-desktop-app.html)|
+|2024-03-15 09:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Google Chrome 強化Mac和iOS即時URL保護：提升網路安全](https://www.iphonetaiwan.org/2024/03/google-chrome-enhanced-security.html)|
 |2024-03-15 09:14:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[reddit 和 quora 问答推广两三天后的总结](https://w2solo.com/topics/4478)|
 |2024-03-15 22:54:38|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Adobe Acrobat PRO DC 24.1 x64 学习版](https://masuit.com/2252)|
 |2024-03-15 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[央行进行 3870 亿元 1 年期 MLF 操作，中标利率为 2.50%，与此前一致，释放了什么信号？](https://www.zhihu.com/question/648647607)|
