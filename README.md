@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-16 09:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[半月形文化带：理解中国民族及历史脉络的一把钥匙——童恩正“半月形文化带”的学术意义与价值](https://dig.chouti.com/link/41832243)|
+|2024-03-16 10:02:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上门按摩猫腻调查：健康证能花钱买，有技师称可提供过夜项目](https://dig.chouti.com/link/41832479)|
+|2024-03-16 10:08:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网友曝光某单词书联想记忆法低俗令人不适，出版公司：下架】between（在…之间）联想记忆方法为“将笔夹在双臀之间”，care（关心）为“因为关心才K（打）儿子”，December（十二月）为“这个‘大三八’在12月这么冷的天还穿迷你裙”，butter（黄油）为“扒她的面罩，用奶油抹她”，anger（生气）为“阉割让他很生气”…](https://dig.chouti.com/link/41832568)|
+|2024-03-16 14:10:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[变换角度就会“眨眼睛”的动态裙子，走在路上的吸睛率100%……](https://dig.chouti.com/link/41834342)|
+|2024-03-16 12:01:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[如何避免反乌托邦思维](https://dig.chouti.com/link/41833191)|
+|2024-03-16 08:12:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息人士透露：哈马斯与胡塞武装高级官员“罕见”会面](https://dig.chouti.com/link/41831832)|
+|2024-03-16 23:52:40|[CatCoding](https://catcoding.me/atom.xml)|[我喜欢的 shell 工具](http://catcoding.me/p/handy-sh-tools/)|
+|2024-03-16 03:02:53|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[Netflix最新奇幻巨制《少女斗恶龙》：权利的游戏原班人马，少女版驯龙高手！](https://www.ximalaya.com/sound/714701690)|
+|2024-03-16 02:11:34|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《阿黛拉的非凡冒险》：外国摸金校尉勇闯金字塔，复活1亿年前神秘生物！](https://www.ximalaya.com/sound/714689998)|
 |2024-03-16 16:00:00|[Anthony Fu](https://antfu.me/feed.xml)|[Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)|
 |2024-03-16 09:28:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[使用 astro 搭建 seo 友好型博客](https://w2solo.com/topics/4481)|
 |2024-03-16 08:01:28|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[用了一个月，终于找到点写 AI Agent 的思路](https://www.chenshaowen.com/blog/provide-a-way-to-develop-ai-agent.html)|
