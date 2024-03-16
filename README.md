@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-16 16:00:00|[Anthony Fu](https://antfu.me/feed.xml)|[Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)|
+|2024-03-16 09:28:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[使用 astro 搭建 seo 友好型博客](https://w2solo.com/topics/4481)|
 |2024-03-16 08:01:28|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[用了一个月，终于找到点写 AI Agent 的思路](https://www.chenshaowen.com/blog/provide-a-way-to-develop-ai-agent.html)|
 |2024-03-16 02:56:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》YouTube 下載 MP3 2024](https://applefans.today/2024-03-shortcuts-youtube-downloader/)|
 |2024-03-16 08:08:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 42 期（摘要）+ 赠书《流畅的 Python》6 本](https://w2solo.com/topics/4480)|
