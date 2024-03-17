@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-17 15:00:00|[机核](https://www.gcores.com/rss)|[春天到了，种点蒜吧，机组闲聊Vol.29](https://www.gcores.com/radios/178979)|
 |2024-03-17 12:00:00|[机核](https://www.gcores.com/rss)|[拍「游戏的人」系列宣传片是怎样一种快乐的体验？](https://www.gcores.com/videos/178985)|
 |2024-03-17 10:25:13|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#294：《神界：原罪》](https://www.gcores.com/articles/179039)|
 |2024-03-17 07:39:54|[机核](https://www.gcores.com/rss)|[《绝区零》删档计费“喧响测试”现已开启资格招募](https://www.gcores.com/articles/179037)|
