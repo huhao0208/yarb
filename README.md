@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-16）
+﻿# 每日资讯（2024-03-17）
 
 |时间|来源|标题|
 |---|---|---|
@@ -16,6 +16,7 @@
 |2024-03-16 23:52:40|[CatCoding](https://catcoding.me/atom.xml)|[我喜欢的 shell 工具](http://catcoding.me/p/handy-sh-tools/)|
 |2024-03-16 03:02:53|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[Netflix最新奇幻巨制《少女斗恶龙》：权利的游戏原班人马，少女版驯龙高手！](https://www.ximalaya.com/sound/714701690)|
 |2024-03-16 02:11:34|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《阿黛拉的非凡冒险》：外国摸金校尉勇闯金字塔，复活1亿年前神秘生物！](https://www.ximalaya.com/sound/714689998)|
+|2024-03-17 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 沙龙：Towards Modern Distro](https://tuna.moe/event/2024/towards-modern-distro/)|
 |2024-03-16 16:00:00|[Anthony Fu](https://antfu.me/feed.xml)|[Mental Health in Open Source](https://antfu.me/posts/mental-health-oss)|
 |2024-03-16 09:28:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[使用 astro 搭建 seo 友好型博客](https://w2solo.com/topics/4481)|
 |2024-03-16 08:01:28|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[用了一个月，终于找到点写 AI Agent 的思路](https://www.chenshaowen.com/blog/provide-a-way-to-develop-ai-agent.html)|
