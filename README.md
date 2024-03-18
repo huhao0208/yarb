@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-18 11:32:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最壮丽的世界线 自序 ](https://www.changhai.org/articles/books/EssayCollection5_Preface.php)|
+|2024-03-18 16:28:13|[CatCoding](https://catcoding.me/atom.xml)|[从明天起，做一个 Rust 程序员](http://catcoding.me/p/rust-bootcamp/)|
+|2024-03-18 13:32:11|[鸟窝](https://colobu.com/atom.xml)|[更强大的Go执行跟踪能力](https://colobu.com/2024/03/18/execution-traces-2024/)|
+|2024-03-18 10:52:22|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔原创@COLING2024 面向编程的自然语言处理综述](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812722&idx=1&sn=fd22dd611570ee847faf846006e76047)|
+|2024-03-18 09:21:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 照片不想要呈現「位置資訊」的三種方式](https://applefans.today/2024-03-how-to-remove-iphone-photo-location-data/)|
+|2024-03-18 07:25:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》YouTube 影音下載 2024](https://applefans.today/2024-03-shortcuts-youtube-video-downloader/)|
 |2024-03-18 05:56:29|[](http://blog.fivest.one/feed)|[薛定谔的春天](https://blog.fivest.one/archives/6673)|
 |2024-03-18 16:07:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年，文娱“搞钱”六大方向](https://36kr.com/p/2694350026419843)|
 |2024-03-18 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家丨盒马CEO 侯毅将退休，CFO 严筱磊兼任CEO](https://36kr.com/p/2694694684585350)|
