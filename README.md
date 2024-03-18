@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-17）
+﻿# 每日资讯（2024-03-18）
 
 |时间|来源|标题|
 |---|---|---|
@@ -44,6 +44,8 @@
 |2024-03-17 03:09:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“伟大的向导者”](https://dig.chouti.com/link/41837760)|
 |2024-03-17 03:09:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[咋保守了……侃爷Kanye West和妻子Bianca乘坐私人飞机抵达洛杉矶，后面几张是Bianca与妈妈外出购物](https://dig.chouti.com/link/41837795)|
 |2024-03-17 03:35:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[澳洲羊放量，羊肉价格暴跌，我们终于可以“撸串自由”了？](https://dig.chouti.com/link/41837881)|
+|2024-03-18 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Volatile Type Qualifier In C/C++](https://leimao.github.io/blog/C-CPP-Volatile-Type-Qualifier/)|
+|2024-03-18 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[电子斗蛐蛐](https://leimao.github.io/essay/%E7%94%B5%E5%AD%90%E6%96%97%E8%9B%90%E8%9B%90/)|
 |2024-03-17 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[1400亿，欧洲今年最大的美妆IPO，要来了](https://36kr.com/p/2691686272609669)|
 |2024-03-17 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果300亿参数大模型首亮相，还买了家AI公司｜焦点分析](https://36kr.com/p/2691937970793865)|
 |2024-03-17 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在315，看那些为健身付过的智商税](https://36kr.com/p/2690947180293504)|
