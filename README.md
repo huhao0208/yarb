@@ -2,6 +2,47 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-19 10:55:24|[机核](https://www.gcores.com/rss)|[玩家为什么热爱战斗系统？战斗系统的统一理论尝试](https://www.gcores.com/articles/179139)|
+|2024-03-19 10:30:00|[机核](https://www.gcores.com/rss)|[DND龙枪跑团第八集：大结局（后篇）后日谈](https://www.gcores.com/videos/179087)|
+|2024-03-19 10:01:14|[机核](https://www.gcores.com/rss)|[想用《银河竞骰》做桌游推新？只需打通这任督二脉](https://www.gcores.com/articles/179136)|
+|2024-03-19 09:31:43|[机核](https://www.gcores.com/rss)|[SEIKO《怪物猎人》联名腕表，现已开定](https://www.gcores.com/articles/179135)|
+|2024-03-19 09:30:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第2回——神人](https://www.gcores.com/articles/179114)|
+|2024-03-19 09:00:00|[机核](https://www.gcores.com/rss)|[录节目之前聊两句，录音笔 VOL.162](https://www.gcores.com/radios/179131)|
+|2024-03-19 08:12:59|[机核](https://www.gcores.com/rss)|[《超级密特罗德》发售30周年纪念，奠定系列基础的杰作](https://www.gcores.com/articles/179129)|
+|2024-03-19 07:34:27|[机核](https://www.gcores.com/rss)|[《月球叛军2：烙印之人》正式预告公布](https://www.gcores.com/articles/179128)|
+|2024-03-19 07:23:26|[机核](https://www.gcores.com/rss)|[《崩坏：星穹铁道》新动画短片：「永劫轮舞」](https://www.gcores.com/articles/179127)|
+|2024-03-19 07:18:55|[机核](https://www.gcores.com/rss)|[卡牌肉鸽游戏《小丑牌》发售首月销量突破100万套](https://www.gcores.com/articles/179120)|
+|2024-03-19 07:07:51|[机核](https://www.gcores.com/rss)|[回到小新爸爸的老家！《蜡笔小新：煤炭镇的小白》中文版将于5月2日发售](https://www.gcores.com/articles/179123)|
+|2024-03-19 06:45:37|[机核](https://www.gcores.com/rss)|[音浪！太强！PS5《完美音浪 HI-FI RUSH》评测](https://www.gcores.com/articles/179113)|
+|2024-03-19 06:35:41|[机核](https://www.gcores.com/rss)|[心仪的女主角呼唤的不是我？！海豹社为送错邀请函特典一事致歉](https://www.gcores.com/articles/179124)|
+|2024-03-19 06:21:34|[机核](https://www.gcores.com/rss)|[独立解谜游戏《囚偶：重逢》制作完成，Steam商店页开放](https://www.gcores.com/articles/179117)|
+|2024-03-19 06:14:04|[机核](https://www.gcores.com/rss)|[新垣结衣参与配音，山田尚子新作动画电影《你的颜色》PV公开](https://www.gcores.com/articles/179119)|
+|2024-03-19 05:47:03|[机核](https://www.gcores.com/rss)|[时隔12年系列再启动：《跳跃大搜查线》新作电影秋季上映](https://www.gcores.com/articles/179111)|
+|2024-03-19 05:45:37|[机核](https://www.gcores.com/rss)|[《沙漠大冒险》现已推出试玩Demo，将于4月25日发售](https://www.gcores.com/articles/179112)|
+|2024-03-19 05:38:16|[机核](https://www.gcores.com/rss)|[《匹诺曹的谎言》玩家人数已突破700万](https://www.gcores.com/articles/179115)|
+|2024-03-19 04:12:00|[机核](https://www.gcores.com/rss)|[Blender练习｜Jane Doe Vol.3-骨骼·解剖·表情·资产](https://www.gcores.com/articles/179044)|
+|2024-03-19 03:51:48|[机核](https://www.gcores.com/rss)|[11.赛博朋克的赤红时代——《赛博朋克RED》规则书角色能力](https://www.gcores.com/articles/179102)|
+|2024-03-19 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨三只羊就梅菜扣肉事件致歉；证监会拟对恒大罚款41.75亿元；苹果Apple ID将改名](https://36kr.com/p/2695740568219265)|
+|2024-03-19 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[山姆发布长期降价清单；阿迪达斯预计今年大中华区营收大增；必胜客宣布进入39元时代丨品牌日报](https://36kr.com/p/2694434184359297)|
+|2024-03-19 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[英伟达卷疯了！最强芯片炸裂AI界，老黄还拿出机器人大模型](https://36kr.com/p/2695491347606919)|
+|2024-03-19 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小红书单条笔记涨粉1.4万，做「1688探厂博主」是门好生意？](https://36kr.com/p/2694703804771712)|
+|2024-03-19 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[雷军马云夸赞的商超，走向线上](https://36kr.com/p/2694550012046723)|
+|2024-03-19 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[宗馥莉有很多，方洪波只有一个](https://36kr.com/p/2694861083897223)|
+|2024-03-19 04:32:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[你涂我的鸦，我就拿你的鸭当logo！](https://dig.chouti.com/link/41857915)|
+|2024-03-19 05:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男子打羽毛球被流浪猫绊倒致伤残，投喂者判赔24万元：构成饲养关系](https://dig.chouti.com/link/41858196)|
+|2024-03-19 06:09:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【互联网人租房记：有人打怪升级，有人还在维权】一名曾在香港留学的打工人表示，他在香港读本科时租了3年的房，那里寸土寸金，住过没有窗户的客厅，也住过房间里蟑螂会飞的唐楼，甚至还有一次偶然在凶宅网站上查到自己住的房子。因而对租房预期并不高，能在北京拥有一块8平米的独立空间，已经心满意足。](https://dig.chouti.com/link/41858788)|
+|2024-03-19 08:12:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比特币延续跌势，灰度基金单日创纪录“失血”逾6亿美元](https://dig.chouti.com/link/41860008)|
+|2024-03-19 11:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香港特区立法会全票通过《维护国家安全条例》（香港基本法第23条），3月23日正式刊宪生效](https://dig.chouti.com/link/41861765)|
+|2024-03-19 08:13:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[雄鹿头顶挂着——死去对手的头颅](https://dig.chouti.com/link/41860097)|
+|2024-03-19 10:09:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大S起诉汪小菲案今日开庭，汪小菲说自己为家庭总共花了3.6亿元，离婚后一年支付的家用就有4993万……但大S用他信用卡绑定奢侈品网站，不断刷卡买高价奢侈品……甚至在离婚前四个月，大S还刷他的卡买礼物寄到韩国，花了1200多万……](https://dig.chouti.com/link/41861270)|
+|2024-03-19 08:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[作物的故事丨苜蓿随天马](https://dig.chouti.com/link/41860111)|
+|2024-03-19 07:11:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[防不胜防！三名俄军士兵庆祝刚刚躲过了一场自杀无人机的袭击，但他们没注意到乌军侦察无人机还在附近空中监视，该无人机很快将位置传递给后方无人机操作员，派遣了一架FPV 自杀式无人机进行追杀](https://dig.chouti.com/link/41859379)|
+|2024-03-19 08:07:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[实探邯郸初中生遇害案现场，校长、班主任：4人经常一起玩，未发现霸凌现象](https://dig.chouti.com/link/41859983)|
+|2024-03-19 07:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因一首诗被骂成成语：“司空见惯”里的司空到底是谁？](https://dig.chouti.com/link/41859490)|
+|2024-03-19 06:09:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人是3d的，头发是2d的](https://dig.chouti.com/link/41858784)|
+|2024-03-19 06:09:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【白宫：哈马斯三号人物被以色列杀死】美国总统国家安全事务助理杰克·沙利文在介绍美国总统拜登和以色列总理内塔尼亚胡的通话内容时说：“哈马斯三号人物马尔万·伊萨上周在以色列的一次行动中身亡。”伊萨是伊兹丁·卡桑旅领导人穆罕默德·戴夫的副手。](https://dig.chouti.com/link/41858789)|
+|2024-03-19 05:08:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“嗨，社会主义，我又来啦！”](https://dig.chouti.com/link/41858304)|
+|2024-03-19 05:01:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[奥巴马突然一身黑色着装现身唐宁街，网友猜测：与美国大选或英国王室传闻有关？](https://dig.chouti.com/link/41858115)|
 |2024-03-19 08:16:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发中各种事情汇总集合](https://w2solo.com/topics/4487)|
 |2024-03-19 06:07:11|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[大家好 资深 gopher 报到](https://w2solo.com/topics/4486)|
 |2024-03-19 04:17:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞蘋果正與 Google 洽談 Gemini 人工智慧引擎的合作](https://applefans.today/2024-03-apple-google-integrate-geminis-into-the-iphone/)|
