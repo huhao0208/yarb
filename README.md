@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-19 15:00:00|[机核](https://www.gcores.com/rss)|[三部电影 Vol.12 “沙丘”传奇：科幻圣典与它的影改之路](https://www.gcores.com/radios/178980)|
+|2024-03-19 13:59:47|[机核](https://www.gcores.com/rss)|[《暗黑破坏神4》：XGP三月下旬新增游戏阵容揭晓](https://www.gcores.com/articles/179147)|
+|2024-03-19 13:21:18|[机核](https://www.gcores.com/rss)|[重制版稳步开发中！Konami公开《合金装备》特别节目](https://www.gcores.com/articles/179144)|
+|2024-03-19 10:30:30|[太隐](https://wangyurui.com/feed.xml)|[静之道](https://wangyurui.com/posts/jing-zhi-dao-142f09d9)|
+|2024-03-19 16:06:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[把淀粉肠干“塌房”的鸡骨泥，可能你已经吃一辈子了](https://36kr.com/p/2695711293828485)|
+|2024-03-19 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[奥特曼专访自曝全新GPT-5细节：性能跃升超想象，算力足可达AGI](https://36kr.com/p/2695758594551427)|
+|2024-03-19 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么旅行社开始害怕年轻人？](https://36kr.com/p/2695746424843655)|
+|2024-03-19 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[黄仁勋甩出最强AI核弹，GPU新架构性能暴涨30倍，首发人形机器人大模型，联手苹果闯MR](https://36kr.com/p/2695881332436615)|
+|2024-03-19 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米接下来要发布的新机，一个比一个炸裂](https://36kr.com/p/2695177495981705)|
+|2024-03-19 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[连地产中介都去学AI了](https://36kr.com/p/2695173864476545)|
+|2024-03-19 12:47:53|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #57：人生苦短，钱包苦浅](https://w2solo.com/topics/4489)|
+|2024-03-19 08:38:09|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我开发的全端全栈框架终于开源咯！](https://w2solo.com/topics/4488)|
 |2024-03-19 10:55:24|[机核](https://www.gcores.com/rss)|[玩家为什么热爱战斗系统？战斗系统的统一理论尝试](https://www.gcores.com/articles/179139)|
 |2024-03-19 10:30:00|[机核](https://www.gcores.com/rss)|[DND龙枪跑团第八集：大结局（后篇）后日谈](https://www.gcores.com/videos/179087)|
 |2024-03-19 10:01:14|[机核](https://www.gcores.com/rss)|[想用《银河竞骰》做桌游推新？只需打通这任督二脉](https://www.gcores.com/articles/179136)|
