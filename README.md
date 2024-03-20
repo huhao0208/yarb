@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-20 08:28:02|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[南中国春天最甜的东西，赛过盒马叮咚](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450690&idx=1&sn=c561396a294a7105d2399519aa060fc7)|
+|2024-03-20 12:37:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[冷眼對財務自由的定義](http://mercurychong.blogspot.com/2024/03/blog-post_20.html)|
+|2024-03-20 15:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果使用 BRS 技術縮小 iPhone 16 螢幕邊框：視覺震撼](https://www.iphonetaiwan.org/2024/03/iphone-16-brs-technology.html)|
+|2024-03-20 14:51:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果新專利：陽光下 iPhone 無懼反光，螢幕抵擋90%強光](https://www.iphonetaiwan.org/2024/03/apple-screen-patent-adaptive-light.html)|
+|2024-03-20 09:52:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 AI 制勝策略：本地小模型與大語言模型管理](https://www.iphonetaiwan.org/2024/03/apple-ai-development-strategy.html)|
+|2024-03-20 09:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple 靜安零售店盛大開幕！探索最新科技與文化融合](https://www.iphonetaiwan.org/2024/03/apple-jingan-retail-store.html)|
+|2024-03-20 03:33:48|[知乎每日精选](https://www.zhihu.com/rss)|[技术神秘化的去魅：Sora关键技术逆向工程图解](http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-03-20 16:05:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体爆肯辛顿宫正筹划凯特王妃「复出」绝密计划，已获威廉凯特认可，释放出什么信号？](https://www.zhihu.com/question/649326114)|
 |2024-03-20 16:05:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[天都一号、二号通导技术试验星成功发射，有哪些信息值得关注？](https://www.zhihu.com/question/649374295)|
 |2024-03-20 16:05:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[当了「新手班主任」之后，感觉自己一直在「精神内耗」怎么办?](https://www.zhihu.com/question/649003737)|
