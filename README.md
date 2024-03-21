@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-21 10:14:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Zach King 与知名“梦境短视频”创作者 Savanah Moss 合拍——梦中梦中梦中梦中梦…同时做到了“精彩刺激”，“杂乱无章”，“不知所谓”](https://dig.chouti.com/link/41882700)|
+|2024-03-21 05:01:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[潮州3名男孩被沙体掩埋身亡疑云](https://dig.chouti.com/link/41879329)|
+|2024-03-21 10:15:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[How dare you！](https://dig.chouti.com/link/41882728)|
+|2024-03-21 10:15:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[狼（左）、鲸（中）和人类（右）乳汁营养成分的对比。哺乳动物会根据其后代繁殖的营养需求来生产乳汁。图中黄色部分代表脂肪，蓝色代表蛋白质，粉红色代表糖类，白色代表水分。](https://dig.chouti.com/link/41882767)|
+|2024-03-21 03:48:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国未成年杀人后是怎么判的？](https://dig.chouti.com/link/41878578)|
+|2024-03-21 03:10:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[结局引起舒适：美国加州某高中，一位白人留级生霸凌亚裔一年级新生，说人家“走路撞到她”然后扇耳光追着打。这事传出来不久，同校一位高大的黑人女生跑去揍了霸凌者一顿“你就敢欺负比你个子小的人是不？”](https://dig.chouti.com/link/41878380)|
+|2024-03-21 04:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“小胖威利”不可承受之重](https://dig.chouti.com/link/41879206)|
+|2024-03-21 05:08:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【那个曾经随时可能失明的少年，刚刚获得数学界最高荣誉】挪威科学与文学院20日宣布，将2024年度阿贝尔奖授予72岁的法国数学家Michel Talagrand，以表彰他在概率论和泛函分析方面的开创性贡献，以及在数学物理和统计学方面的杰出应用。Talagrand于1977年获得巴黎第六大学数学博士学位。2019年，曾获得邵逸夫数学科学奖。](https://dig.chouti.com/link/41879621)|
+|2024-03-21 01:02:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全国首例：家暴男违反人身安全保护令，被判8个月](https://dig.chouti.com/link/41876943)|
+|2024-03-21 04:39:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[普通人就别想当什么自媒体博主了](https://dig.chouti.com/link/41879255)|
+|2024-03-21 04:11:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【男子怕到境外受欺负，带《孙子兵法》偷渡，被广西警方抓获】经询问，罗某等3名偷渡者均是外省人，无正当职业，在网上看到“高薪招聘信息”，听信“每月收入能有1至2万”，辗转来到东兴市准备偷渡。据罗某交代，他刷短视频看到《孙子兵法》的内容比较实用，又担心境外很乱，怕受欺负，便想买回来学习一下，以备不时之需。](https://dig.chouti.com/link/41879079)|
+|2024-03-21 05:04:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第一批学贾玲减肥的人，已经胖了20斤](https://dig.chouti.com/link/41879620)|
+|2024-03-21 04:11:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[设想了一下，如果我被这样拍，好羞耻⁄ ⁄ ⁄•⁄ω⁄•⁄ ⁄ ⁄](https://dig.chouti.com/link/41879132)|
+|2024-03-21 03:09:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【俄罗斯一男子因传播涉军谣言被开除国籍】2023年7月，俄罗斯人亚历山大·索姆里亚科夫因蓄意散布关于俄军的虚假信息被判刑6年并开除国籍。索姆里亚科夫在庭审中称其清楚所发布的信息是假的。但他想“让这一信息受到公众的审判”，并吸引流量。2023年10月，《俄罗斯联邦国籍法》生效，其中包含取消国籍制度。](https://dig.chouti.com/link/41878287)|
+|2024-03-21 03:33:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[私募巨头Apollo出价110亿美元收购派拉蒙影业，后者市值目前约77亿美元](https://dig.chouti.com/link/41878484)|
+|2024-03-21 06:08:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我养了400多种动物，还是最喜欢养螃蟹，因为它们不仅好吃，还特别好玩](https://dig.chouti.com/link/41880148)|
+|2024-03-21 06:11:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据英国《每日邮报》和德国《图片报》报道，F1“空气动力学之王”阿德里安-纽维可能即将离开红牛车队，他的下一站极有可能是法拉利车队。纽维的设计帮助红牛车队近些年统治F1车坛。他过去曾表达过在结束职业生涯之前与汉密尔顿和法拉利合作的愿望。汉密尔顿已经决定2025年加盟法拉利。](https://dig.chouti.com/link/41880225)|
+|2024-03-21 06:52:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我养了结节17年，这要是人类小孩，都快能参加高考了](https://dig.chouti.com/link/41880355)|
+|2024-03-21 06:11:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[贾玲吴彦祖合照（P1看起来真有些吓人……](https://dig.chouti.com/link/41880234)|
+|2024-03-21 05:48:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[看看学生有多野，阶梯教室狂打碟——05后骚起来，每个老逼都惊了](https://dig.chouti.com/link/41879820)|
+|2024-03-21 06:02:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【越南国家副主席武氏映春出任国家代主席，是其第二次出任国家代主席】2024年3月21日越南国会常务委员会发布通知，宣布由国家副主席武氏映春出任国家代主席，接替辞职的主席武文赏。此前在2023年1月18日，原国家主席阮春福宣布引咎辞职后，武氏映春出任国家代主席，直至当年3月2日国会选举产生新的国家主席武文赏。](https://dig.chouti.com/link/41879969)|
+|2024-03-21 19:58:47|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[WiseCare 365 6.6.6专业学习版](https://masuit.com/36)|
+|2024-03-21 12:30:48|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[PDF Expert 3 限时直降 269 元！老用户升级再减百元](https://masuit.com/p365)|
+|2024-03-21 08:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[還是要靠蘋果！Vision Pro 推動 AR/VR 頭顯市場成長](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-ar-vr-market.html)|
+|2024-03-21 07:23:57|[知乎每日精选](https://www.zhihu.com/rss)|[最多可以找到几阶的汉字正交拉丁方阵？](http://www.zhihu.com/question/649069727/answer/3434869485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-03-21 02:12:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[來自中國爆料者的 2024 iPad Pro 更新變化](https://applefans.today/2024-03-m3-ipad-pro-thinner-bezels-gain-matte-option-rumors/)|
 |2024-03-21 08:00:00|[机核](https://www.gcores.com/rss)|[【福利】《地平线 西之绝境™》国行版现已发售](https://www.gcores.com/articles/179254)|
 |2024-03-21 07:16:37|[机核](https://www.gcores.com/rss)|[《博德之门3》荣获年度最佳游戏：游戏开发者选择奖GDCA以及独立游戏节IGF获奖名单公布](https://www.gcores.com/articles/179248)|
