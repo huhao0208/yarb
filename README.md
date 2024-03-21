@@ -1,9 +1,11 @@
-﻿# 每日资讯（2024-03-20）
+﻿# 每日资讯（2024-03-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-21 00:03:45|[余晟以为](https://feedpress.me/wx-yurii-says)|[在德国，感受俄乌战争（再续）](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009908&idx=1&sn=5fdc99c655ae39a4809730112525b11f)|
 |2024-03-20 08:28:02|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[南中国春天最甜的东西，赛过盒马叮咚](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450690&idx=1&sn=c561396a294a7105d2399519aa060fc7)|
 |2024-03-20 12:37:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[冷眼對財務自由的定義](http://mercurychong.blogspot.com/2024/03/blog-post_20.html)|
+|2024-03-21 05:26:59|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[零跑 C10 增程智驾版提车作业](https://mok.moe/p/leapmotor-c10)|
 |2024-03-20 15:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果使用 BRS 技術縮小 iPhone 16 螢幕邊框：視覺震撼](https://www.iphonetaiwan.org/2024/03/iphone-16-brs-technology.html)|
 |2024-03-20 14:51:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果新專利：陽光下 iPhone 無懼反光，螢幕抵擋90%強光](https://www.iphonetaiwan.org/2024/03/apple-screen-patent-adaptive-light.html)|
 |2024-03-20 09:52:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 AI 制勝策略：本地小模型與大語言模型管理](https://www.iphonetaiwan.org/2024/03/apple-ai-development-strategy.html)|
