@@ -2,6 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-22 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：机核文章推荐与导读（3.9-3.22）](https://www.gcores.com/articles/179307)|
+|2024-03-22 15:00:00|[机核](https://www.gcores.com/rss)|[你有哪些一直没看的经典作品？核市奇谭Vol.68](https://www.gcores.com/radios/178982)|
+|2024-03-22 12:17:49|[机核](https://www.gcores.com/rss)|[浅谈《Balatro》小丑牌的游戏设计与rogue元素](https://www.gcores.com/articles/179323)|
+|2024-03-22 12:17:49|[机核](https://www.gcores.com/rss)|[【周更译作E10】爽就完事：《侠盗猎车手》的法外之路](https://www.gcores.com/articles/179020)|
+|2024-03-22 11:47:14|[机核](https://www.gcores.com/rss)|[卡普空发布公告，将与近日发布《龙之信条2》性能修复补丁](https://www.gcores.com/articles/179330)|
+|2024-03-22 11:30:40|[机核](https://www.gcores.com/rss)|[此前盗取价值500万日元“青眼白龙”卡牌的2名嫌疑人，在今日被捕](https://www.gcores.com/articles/179324)|
+|2024-03-22 10:30:00|[机核](https://www.gcores.com/rss)|[怀旧电影漫谈《异形》](https://www.gcores.com/videos/179238)|
+|2024-03-22 10:26:42|[机核](https://www.gcores.com/rss)|[《龙之信条2》发售了，机浪 VOL.41](https://www.gcores.com/radios/179314)|
+|2024-03-22 10:25:53|[机核](https://www.gcores.com/rss)|[Steam版《伊苏X -北境历险-》暂时下架：云豹承诺可全额退款](https://www.gcores.com/articles/179320)|
+|2024-03-22 10:15:38|[机核](https://www.gcores.com/rss)|[Kelly-087登场：《彩虹六号：围攻》现已实装最新《光环》联动](https://www.gcores.com/articles/179319)|
+|2024-03-22 10:11:05|[机核](https://www.gcores.com/rss)|[《波斯王子：失落王冠》“勇士征途”内容更新现已推出](https://www.gcores.com/articles/179317)|
+|2024-03-22 10:00:00|[机核](https://www.gcores.com/rss)|[《龙之信条2》有奖征集活动上线啦](https://www.gcores.com/articles/179312)|
+|2024-03-22 10:00:00|[机核](https://www.gcores.com/rss)|[21年前能在手机上玩3A游戏，你信吗？——N-Gage发展史](https://www.gcores.com/videos/179310)|
+|2024-03-22 09:30:00|[机核](https://www.gcores.com/rss)|[《圣兽之王》桌游开箱&玩法说明](https://www.gcores.com/videos/179306)|
+|2024-03-22 09:30:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第3回——命定之死](https://www.gcores.com/articles/179240)|
+|2024-03-22 09:00:00|[机核](https://www.gcores.com/rss)|[锐评网飞《三体》与消费文化糊糊，录音笔 VOL.165](https://www.gcores.com/radios/179308)|
+|2024-03-22 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图225期:长路漫漫，早点吃饭](https://www.gcores.com/articles/175889)|
+|2024-03-22 16:05:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[黄仁勋回应英伟达凭啥值两万亿美元，称「我们重新发明了计算机，对 AI 行业贡献无人能及」，如何解读？](https://www.zhihu.com/question/649506477)|
+|2024-03-22 16:05:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[Sora 能从视频里总结出万有引力公式吗？](https://www.zhihu.com/question/649615808)|
+|2024-03-22 16:05:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年度全国十大考古新发现揭晓，哪些信息值得关注？](https://www.zhihu.com/question/649615991)|
+|2024-03-22 16:05:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[智能汽车依然如火如荼，但「缺芯」已经成为了过去时。短短 3 年时间，到底发生了什么？](https://www.zhihu.com/question/649601150)|
+|2024-03-22 16:05:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[考研复试中被导师问最近读了什么书，实际没读，该怎么回答？](https://www.zhihu.com/question/648224300)|
+|2024-03-22 16:05:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美医院完成全球首例活体人类移植猪肾脏手术，此前全球首例猪心脏移植人类存活 60 天，哪些信息值得关注？](https://www.zhihu.com/question/649653779)|
+|2024-03-22 16:05:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[AI 「复活」公众人物成产业链：收徒、收代理、卖教程，法律角度如何解读？ AI 技术运用需要注意哪些？](https://www.zhihu.com/question/649608694)|
+|2024-03-22 11:06:00|[晴雀堂](https://hehysh.github.io/atom.xml)|[记东方绿舟的一周](https://blog.nbplus.eu.org/posts/18578.html)|
+|2024-03-22 09:42:25|[Dennis](https://www.domon.cn/rss/)|[几天前的春天](https://www.domon.cn/ji-tian-qian-de-chun-tian/)|
 |2024-03-22 02:08:01|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[【译】实现一个简单的内存分配器](https://jasonkayzk.github.io/2024/03/22/%E3%80%90%E8%AF%91%E3%80%91%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8/)|
 |2024-03-22 02:30:37|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[重构 ltask 的任务调度器](https://blog.codingnow.com/2024/03/ltask_schedule.html)|
 |2024-03-22 04:32:21|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【評測影片】MONITORMATE Thunderbolt Dock TD1](https://applefans.today/2024-03-monitormate-thunderbolt-dock-td1/)|
