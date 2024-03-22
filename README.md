@@ -1,9 +1,12 @@
-﻿# 每日资讯（2024-03-21）
+﻿# 每日资讯（2024-03-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-22 00:11:26|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)|
 |2024-03-21 09:20:40|[Dennis](https://www.domon.cn/rss/)|[两周前的春天](https://www.domon.cn/liang-zhou-qian-de-chun-tian/)|
 |2024-03-21 15:32:54|[白宦成](https://www.ixiqin.com/feed/)|[从 LAMP 到 Docker based PaaS 工具](https://www.ixiqin.com/2024/03/21/from-lamp-to-docker-based-paas-tools/)|
+|2024-03-22 05:30:10|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[聊聊零跑 C10 智驾版的智驾体验](https://mok.moe/p/re6m)|
+|2024-03-22 00:00:00|[疯投圈](https://crazy.capital/feed)|[93. 出海电商大杀四方](https://crazy.capital/93)|
 |2024-03-21 12:22:25|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[春天上什么班？出来耍出来耍！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450738&idx=1&sn=72e9dec361e5ce838db81dde289db772)|
 |2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[10分钟速成专家，「Kimi智能助手」正式支持200万上下文，对话窗口提升10倍 最前线](https://36kr.com/p/2697691500836993)|
 |2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[什么是县城的“公务员经济”？](https://36kr.com/p/2698773657499526)|
