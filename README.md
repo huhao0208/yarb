@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-22 01:02:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 127 期）：失败了三次，25 岁开发月入 5 万美元的 Shopify 插件](https://w2solo.com/topics/4495)|
+|2024-03-22 04:13:02|[机核](https://www.gcores.com/rss)|[手工制作叙事游戏《哈罗德·哈利巴》将于4月 16日发售](https://www.gcores.com/articles/179296)|
+|2024-03-22 04:00:00|[机核](https://www.gcores.com/rss)|[读书分享丨近期关注的三个小主题~](https://www.gcores.com/videos/179239)|
+|2024-03-22 03:29:04|[机核](https://www.gcores.com/rss)|[真·挖坟！《流放之路》S25“死寂亡城”即将上线《流放2》游侠演示公开](https://www.gcores.com/articles/179287)|
+|2024-03-22 02:03:52|[机核](https://www.gcores.com/rss)|[三上真司成立新工作室KAMUY](https://www.gcores.com/articles/179289)|
+|2024-03-22 02:00:00|[机核](https://www.gcores.com/rss)|[一次暖融融的冒险：机核发行完全免费游戏《奇愈地下城》上线Steam](https://www.gcores.com/articles/179181)|
+|2024-03-22 02:00:00|[机核](https://www.gcores.com/rss)|[于日常之间窥探异常：《七日世界》开发者分享超自然开放世界设计 GDC 2024](https://www.gcores.com/articles/178814)|
+|2024-03-22 01:53:55|[机核](https://www.gcores.com/rss)|[拉瑞安工作室不会制作《博德之门3》DLC或《博德之门4》](https://www.gcores.com/articles/179288)|
+|2024-03-22 01:41:04|[机核](https://www.gcores.com/rss)|[认贼作父不可取：Steam出现最新家庭共享诈骗手段](https://www.gcores.com/articles/179286)|
+|2024-03-22 01:16:45|[机核](https://www.gcores.com/rss)|[生存恐怖游戏《INDUSTRIA 2》正式公开，将于近期宣布发售日期](https://www.gcores.com/articles/179285)|
 |2024-03-22 00:11:26|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)|
 |2024-03-21 09:20:40|[Dennis](https://www.domon.cn/rss/)|[两周前的春天](https://www.domon.cn/liang-zhou-qian-de-chun-tian/)|
 |2024-03-21 15:32:54|[白宦成](https://www.ixiqin.com/feed/)|[从 LAMP 到 Docker based PaaS 工具](https://www.ixiqin.com/2024/03/21/from-lamp-to-docker-based-paas-tools/)|
