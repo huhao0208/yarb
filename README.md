@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-23 09:49:35|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[传奇黑帮电影《无法无天》：根据真实人物改编，汤姆·哈迪化身不死战神！](https://www.ximalaya.com/sound/716872688)|
+|2024-03-23 07:05:03|[251 的魔法实验室](https://blog.251.sh/feed/)|[我的 5.5 代 homelab](https://blog.251.sh/my-5-gen-homelab)|
+|2024-03-23 13:28:25|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨美团开始止损优选；极兔中国盈亏平衡；美国可能正重新定义反垄断](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514062&idx=3&sn=5733d1777db47261379d6890e6bc4e00)|
+|2024-03-23 13:28:25|[晚点LatePost](https://feedpress.me/wx-postlate)|[从反思开始，理想调整节奏迎接纯电之战](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514062&idx=2&sn=a05861337a499e0c787164406fefbfa6)|
+|2024-03-23 13:28:23|[晚点LatePost](https://feedpress.me/wx-postlate)|[下一个玻尿酸？一个重组胶原蛋白巨头公司的未雨绸缪](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514062&idx=1&sn=6c7c167654f4109ee6eb52fee11f7aa6)|
+|2024-03-23 14:24:38|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[在 IDE 中构建 AutoDev AI 编程开发智能体框架与语言？](http://www.phodal.com/blog/autodev-in-ide/)|
+|2024-03-23 15:26:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[三體問題是什麼？對我們的意義和生活中的應用](https://www.iphonetaiwan.org/2024/03/3-body-problem.html)|
 |2024-03-23 15:00:00|[机核](https://www.gcores.com/rss)|[浪人遇上龙，还有地下城 GadioNews03.23](https://www.gcores.com/radios/178983)|
 |2024-03-23 12:26:17|[华山感染](https://feedpress.me/wx-hsinfect)|[世界防治结核病日 如何打赢“无核”之战？张文宏：有效治愈是关键](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502218&idx=1&sn=9602e0568647a6978ae22be142634dbe)|
 |2024-03-23 12:18:29|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 921 Div. 2 ](https://blog.mauve.icu/2024/03/23/acm/codeforces/CodeforcesRound921/)|
