@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-23 06:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[openSUSE 正式搭载 Plasma 6](/%E6%9B%B4%E6%96%B0%E9%80%9A%E5%91%8A/2024/03/23/plasma.html)|
+|2024-03-23 04:01:40|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用](https://sspai.com/post/85961)|
 |2024-03-23 06:16:56|[physixfan](https://www.physixfan.com/feed/)|[人为什么会感觉时间越过越快 以及如何“延长生命”](https://www.physixfan.com/renweishenmehuiganjueshijianyueguoyuekuai-yijiruheyanzhangshengming/)|
 |2024-03-23 04:40:05|[机核](https://www.gcores.com/rss)|[沙盒生存游戏《泰拉科技世界》EA版正式发售](https://www.gcores.com/articles/179340)|
 |2024-03-23 01:10:49|[机核](https://www.gcores.com/rss)|[《最终幻想16》第2个DLC“海之恸哭”将于4月18日发售。今日发布预告片及新召唤兽技能演示](https://www.gcores.com/articles/179335)|
