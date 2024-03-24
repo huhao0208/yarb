@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-24 11:10:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[自杀是一种自卫](https://dig.chouti.com/link/41910677)|
+|2024-03-24 12:11:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[梵蒂冈城瑞士卫队的军械库，中世纪与现代武器的混合体。除了刀剑和板甲之外，还能看到SIG MKPO冲锋枪、Hispano-Suiza MP43/44、SIG SG550、MP40、Gewehr 98等枪械。](https://dig.chouti.com/link/41911087)|
+|2024-03-24 13:09:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伊拉克军队的训练方式](https://dig.chouti.com/link/41911432)|
+|2024-03-24 14:01:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【华裔女博士被美国警察射杀案和解，其子获赔82.5万美元】据此前报道，2022年3月3日，法庭警察上门递交“房屋驱逐令”，李燕（欠物业费，患精神分裂症）拿菜刀开门接过通知，但拒绝听从警察命令“把刀放下”，对峙近2分钟后，她将通知扔出门。警察向屋内发射布袋弹，李燕持刀冲出刺伤一警察。其他警察开枪，李燕当场死亡。](https://dig.chouti.com/link/41911566)|
+|2024-03-24 12:11:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在小酒馆里，隔壁桌有一对大概是还没开始交往的情侣，男「很抱歉之前喝醉了给你打电话」……女「我很开心你喝醉的时候能想起我」……↑这发言也太涩涩了……](https://dig.chouti.com/link/41911096)|
+|2024-03-24 06:09:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[U-2飞行员在长航时飞行中进食的牙膏食物](https://dig.chouti.com/link/41908843)|
 |2024-03-24 06:36:37|[DGideas' Blog](https://dgideas.net/feed/)|[2024 亚航东盟无限飞折腾记](https://dgideas.net/2024/2024-airasia-unlimited-aesan-pass-adventure/)|
 |2024-03-24 09:10:48|[鸟窝](https://colobu.com/atom.xml)|[goroutine调度器揭秘 2](https://colobu.com/2024/03/24/goroutine-scheduler-2/)|
 |2024-03-24 05:00:49|[华山感染](https://feedpress.me/wx-hsinfect)|[全球每年发病1000万+，结核离我们并不远！](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502322&idx=2&sn=1a260e608f73c86847e18526a8118f00)|
