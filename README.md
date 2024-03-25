@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-24）
+﻿# 每日资讯（2024-03-25）
 
 |时间|来源|标题|
 |---|---|---|
@@ -58,6 +58,7 @@
 |2024-03-24 03:13:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[o ⊙﹏⊙ o](https://dig.chouti.com/link/41907640)|
 |2024-03-24 10:21:04|[机核](https://www.gcores.com/rss)|[《最终幻想14》国际服7.0版本“黄金的遗产”7月2日正式上线](https://www.gcores.com/articles/179368)|
 |2024-03-24 12:04:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[俄罗斯方块诞生 40 年，为什么我们堆砌方块的热情永无止境？丨晚点周末](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514066&idx=1&sn=3c5a9c73daf3559367975e8b7c45f99e)|
+|2024-03-25 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Quantization Unit Test](https://leimao.github.io/blog/Quantization-Unit-Test/)|
 |2024-03-24 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年邯郸少年杀人案： 勿以恶小而为之](https://leimao.github.io/essay/2024%E5%B9%B4%E9%82%AF%E9%83%B8%E5%B0%91%E5%B9%B4%E6%9D%80%E4%BA%BA%E6%A1%88/)|
 |2024-03-24 06:00:03|[机核](https://www.gcores.com/rss)|[下周节目预告 3.25~3.31](https://www.gcores.com/articles/179363)|
 |2024-03-24 06:00:00|[机核](https://www.gcores.com/rss)|[与汉斯·季默一起拆解《沙丘》的音乐秘密](https://www.gcores.com/videos/179364)|
