@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-25 06:07:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2403](https://xiaket.github.io/2024/pensieve-2403.html)|
+|2024-03-25 15:19:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨中国芯片大淘金；招行大客户们存了 10 万亿；​“达芬奇” 帮助滴滴扭亏](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514133&idx=3&sn=8fe7ab912c8f6c405a75682c1548b247)|
+|2024-03-25 15:19:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[曾毓群公布宁德时代新方向：分享技术，推动开放式创新](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514133&idx=2&sn=09ea4c6aba4e9df01f1b61877d13cd57)|
+|2024-03-25 15:18:59|[晚点LatePost](https://feedpress.me/wx-postlate)|[复盘飞书七年：最不抖音的产品，获得了最多时间](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514133&idx=1&sn=6b384d169e66ce75ed016cfca6212098)|
+|2024-03-25 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/12](https://weekly.pychina.org/pyrecap/pyrw-2412.html)|
 |2024-03-25 12:50:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google Map 加入語音報路名！它播報方式跟 Apple Map 有何不同呢？](https://applefans.today/2024-03-google-map-new-feature/)|
 |2024-03-25 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[驰骋雪原｜三赴冰雪运动之约](https://www.photoworld.com.cn/post/176257)|
 |2024-03-25 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[山在那里，每一天都不一样——携富士 GFX 探索风光摄影新境界](https://www.photoworld.com.cn/post/176274)|
