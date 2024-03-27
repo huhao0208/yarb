@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-27 08:36:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何避免在 iPhone 照片中出現不愉快的回憶？](https://applefans.today/2024-how-to-turn-off-iphone-photos-memories-featured/)|
+|2024-03-27 06:37:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[行動新戰力！三星 Galaxy Tab S6 Lite 2024 為智慧生活加分](https://applefans.today/2024-03-samsung-galaxy-tab-s6-lite/)|
+|2024-03-27 08:05:09|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[带年轻人去星巴克喝了杯油，然后就。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450975&idx=1&sn=500a3aa7460c8b79a5551c2006ba7601)|
+|2024-03-27 10:09:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[时隔34年，日元兑美元跌至泡沫经济末期（1990年7月）以来低位](https://dig.chouti.com/link/41941876)|
+|2024-03-27 11:03:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[北京取消商品房离婚限购：“离异3年内不得京内购房”文件被废止](https://dig.chouti.com/link/41942408)|
+|2024-03-27 09:12:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不如就给她一次吧！](https://dig.chouti.com/link/41941267)|
+|2024-03-27 10:09:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[泰国议会通过同性婚姻平等法案，预计2024年底生效，亚洲此前仅有尼泊尔和中国的台湾地区实现同性婚姻合法化](https://dig.chouti.com/link/41941932)|
+|2024-03-27 05:12:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌鸦，并不只是黑色](https://dig.chouti.com/link/41938636)|
+|2024-03-27 08:00:48|[中文信息学报](https://feedpress.me/wx-jcip1986)|[《中文信息学报》新刊概览∣ 2024年第1期（38卷第1期）](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485632&idx=1&sn=20497b30be209e1bb93f415cf2b298d5)|
+|2024-03-27 08:00:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[京东云轻量云主机避雷](https://www.imaegoo.com/2024/jdcloud-bench/)|
 |2024-03-27 07:51:25|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[uBrand：让 AI 帮你低成本打造专业品牌](https://w2solo.com/topics/4508)|
 |2024-03-27 07:12:28|[机核](https://www.gcores.com/rss)|[三星推出“Galaxy Buds 系列”《宝可梦》精灵球主题耳机盒](https://www.gcores.com/articles/179483)|
 |2024-03-27 06:48:57|[机核](https://www.gcores.com/rss)|[Steam走出了危险的一步？](https://www.gcores.com/articles/179480)|
