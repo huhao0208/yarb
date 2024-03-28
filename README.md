@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-28 00:09:14|[HelloGitHub 月刊](http://hellogithub.com/rss)|[HelloGitHub 第 96 期](https://hellogithub.com/periodical/volume/96)|
+|2024-03-28 11:04:59|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[东海人民三月吃鲳鱼的福气，算是被我想着了！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451059&idx=1&sn=0bc56220c6a9c6e2f1812effb877f87b)|
+|2024-03-28 14:00:13|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨TikTok 在美国打了两百多万美元电视广告；农夫山泉净利润首次超百亿元；行为经济学奠基人丹尼尔·卡尼曼去世](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514347&idx=2&sn=12b7a7cb0e7e61dbfe6aca8a35e4cc73)|
+|2024-03-28 14:00:12|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨宁德时代与通用汽车洽谈技术授权合作，计划在北美合作建厂](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514347&idx=1&sn=e00fdc8bbf1beec66d1f0e01f7c64a23)|
+|2024-03-28 08:11:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【格鲁吉亚男足首进大赛决赛圈】2024欧洲杯预选赛附加赛C组决赛，格鲁吉亚主场点球战胜希腊，历史上第一次进入欧洲杯正赛，这也是格鲁吉亚第一次杀进大赛决赛圈。](https://dig.chouti.com/link/41951897)|
+|2024-03-28 09:00:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“功夫熊猫”没人看了？这个IP，显而易见的老化了](https://dig.chouti.com/link/41952083)|
+|2024-03-28 14:01:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[北周武帝宇文邕生前面貌复原，或因长期服用丹药英年早逝](https://dig.chouti.com/link/41954954)|
+|2024-03-28 14:12:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[行车记录仪拍下中企车队3月26日在巴基斯坦遭恐袭画面](https://dig.chouti.com/link/41955279)|
+|2024-03-28 09:13:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[遭到枪击的机器狗，出警时连中3枪（来自马萨诸塞州警方）……3月6日，警察遭到枪击后，派出机器狗进入屋内，寻找嫌疑人。嫌疑人手持步枪，两次打翻机器狗，随后又开了3枪，使其通讯失灵。最后警方施放催泪瓦斯，将嫌疑人逮捕。事后警方向机器狗致谢，称其避免流血事件发生。](https://dig.chouti.com/link/41952654)|
+|2024-03-28 10:24:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[山西客车隧道车祸致14死：低价老年“村客团”背后的隐秘风险](https://dig.chouti.com/link/41953397)|
+|2024-03-28 11:03:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[优于人类专家，GPT-4 准确注释单细胞类型，成本低且稳健](https://dig.chouti.com/link/41953796)|
+|2024-03-28 11:22:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[传谢尔盖·布林亲自打电话并承诺加薪，劝一名谷歌员工不要跳槽到OpenAI](https://dig.chouti.com/link/41953918)|
+|2024-03-28 12:11:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这个视角太好了！我宣布发明玻璃桌子的应该提名诺贝尔和平奖](https://dig.chouti.com/link/41954280)|
+|2024-03-28 13:02:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【气候变化影响地球自转，首个负闰秒推迟出现】《自然》27日刊载的一篇论文认为，由于地球南北两极冰川加速融化，地球自转速率受到影响，历史上首个负闰秒将推迟约三年、于2029年左右出现，计算机等需要精准对时的领域将因此受到影响。](https://dig.chouti.com/link/41954555)|
+|2024-03-28 07:11:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因为选课人少没排上课，北师大副教授发传单免费网上教学《社会科学概论》](https://dig.chouti.com/link/41951124)|
+|2024-03-28 12:11:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[港独分子李宇轩转做污点证人：英国政客曾找黎智英宣传反华组织，对抗香港国安法](https://dig.chouti.com/link/41954266)|
+|2024-03-28 13:12:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[作家马识途去世，享年110岁，其创作小说《夜谭十记》被改编为电影《让子弹飞》](https://dig.chouti.com/link/41954787)|
+|2024-03-28 13:01:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【李铁一审当庭认罪悔罪，择期宣判】根据央视新闻公布的信息，李铁2017-2021年收受他人给予的人民币共7764万元，李铁及华夏、卓尔俱乐部给予他人2975万元。](https://dig.chouti.com/link/41954429)|
+|2024-03-28 13:03:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[小米汽车SU7售价21.59万元起，Pro版24.59万，Max版29.99万，家用充电桩售价3999元起](https://dig.chouti.com/link/41954710)|
+|2024-03-28 12:12:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[车还没开始卖，手机配件已经开始卖了……不愧是手机厂造车](https://dig.chouti.com/link/41954323)|
+|2024-03-28 05:33:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中央汇金大手笔买入ETF被证实】随着多只宽基ETF近期披露2023年年报，中央汇金大手笔买入ETF被证实。以华夏沪深300ETF为例，从基金前十名持有人看，截至2023年底，中央汇金持有份额为28.93亿份。2023年6月底，中央汇金持有17.91亿份。这意味着，中央汇金在2023年下半年增持华夏沪深300ETF超10亿份。](https://dig.chouti.com/link/41950061)|
+|2024-03-28 05:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国财长耶伦：我要当面“警告”中国，你们东西太便宜，搞得美国企业破产](https://dig.chouti.com/link/41949745)|
+|2024-03-28 11:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网易《蛋仔派对》地图创作者起诉腾讯游戏抄袭，腾讯：已全量下架](https://dig.chouti.com/link/41953672)|
+|2024-03-28 03:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[他们留在了那片山——雾龙山](https://dig.chouti.com/link/41948887)|
+|2024-03-28 08:10:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[88岁的潘老太把儿媳与孙女告上法庭，要求2人公开道歉及50万元精神赔偿。潘老太说，儿媳孙女在未告知自己的情况下，把自己儿子海葬，且未告知自己海葬确切地点。且在自己不知情的情况下，儿媳孙女捐献了儿子的眼角膜。法院经过审理，因为儿媳孙女未把海葬地点告诉老人，判决2人向老人支付1.5万元精神赔偿，双方都未上诉。](https://dig.chouti.com/link/41951816)|
+|2024-03-28 02:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谁动了我的黄金？](https://dig.chouti.com/link/41948022)|
+|2024-03-28 10:33:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[FTX创始人班克曼-弗里德面临判决，美国检方寻求判处其至高50年监禁](https://dig.chouti.com/link/41953414)|
+|2024-03-28 09:44:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【为“卖淫女”看病，被判协助组织卖淫：一桩旧案引发的争议 】陆涛觉得作为医生给病人看病，不需要过问病人身份，而且自己是个开“黑诊所”的，这些女性也未曾向其求助。法院认为，陆涛明知老板不让“卖淫女”出去看病是方便控制，仍然听从安排，多次上门为“卖淫女”看病、打针，客观上为组织卖淫活动起到辅助的作用。](https://dig.chouti.com/link/41952801)|
+|2024-03-28 09:13:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“它把你猫粮吃完了”](https://dig.chouti.com/link/41952670)|
 |2024-03-28 10:50:00|[太隐](https://wangyurui.com/feed.xml)|[假如变成了虫子](https://wangyurui.com/posts/jia-ru-bian-cheng-liao-chong-zi-1ff1bbcf)|
 |2024-03-28 15:00:00|[机核](https://www.gcores.com/rss)|[不建议购买《龙之信条2》，游戏茶话会Vol.65](https://www.gcores.com/radios/179327)|
 |2024-03-28 13:12:35|[机核](https://www.gcores.com/rss)|[21.59万起：小米汽车正式公布定价](https://www.gcores.com/articles/179543)|
