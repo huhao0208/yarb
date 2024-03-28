@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-28 10:50:00|[太隐](https://wangyurui.com/feed.xml)|[假如变成了虫子](https://wangyurui.com/posts/jia-ru-bian-cheng-liao-chong-zi-1ff1bbcf)|
+|2024-03-28 15:00:00|[机核](https://www.gcores.com/rss)|[不建议购买《龙之信条2》，游戏茶话会Vol.65](https://www.gcores.com/radios/179327)|
+|2024-03-28 13:12:35|[机核](https://www.gcores.com/rss)|[21.59万起：小米汽车正式公布定价](https://www.gcores.com/articles/179543)|
+|2024-03-28 02:01:14|[O3noBLOG](https://feeds.feedburner.com/othree)|[やまに（yamani）旅館](https://blog.othree.net/log/2024/03/28/yamani/)|
+|2024-03-28 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[海底捞开放加盟的原因，藏在财报里](https://36kr.com/p/2707840666384259)|
+|2024-03-28 16:06:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI长文本之战：Kimi快跑，大厂围剿 焦点分析](https://36kr.com/p/2707564507346821)|
+|2024-03-28 16:06:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车，就是不能卖 20 万以下，为什么？](https://36kr.com/p/2708506949695365)|
+|2024-03-28 16:06:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家｜芯擎科技完成数亿元B轮融资，年内芯片出货量达百万片](https://36kr.com/p/2707427246585735)|
+|2024-03-28 16:06:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球最强开源模型一夜易主，1320亿参数推理飙升2倍](https://36kr.com/p/2708770531653763)|
 |2024-03-28 08:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[多款微单&#x2122; 相机迎来固件升级，索尼持续助力影像创作](https://www.photoworld.com.cn/post/176428)|
 |2024-03-28 00:42:58|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[白色巨塔底层的规培生｜工劳小报 #38](https://feeds.laborinfozh.com/issue38/)|
 |2024-03-28 07:25:16|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[10 個讓 iPhone 用起來更有效率的技巧](https://applefans.today/2024-03-iphone-tips/)|
