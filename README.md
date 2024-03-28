@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-28 08:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[多款微单&#x2122; 相机迎来固件升级，索尼持续助力影像创作](https://www.photoworld.com.cn/post/176428)|
+|2024-03-28 00:42:58|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[白色巨塔底层的规培生｜工劳小报 #38](https://feeds.laborinfozh.com/issue38/)|
 |2024-03-28 07:25:16|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[10 個讓 iPhone 用起來更有效率的技巧](https://applefans.today/2024-03-iphone-tips/)|
 |2024-03-28 05:27:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我为“杀夫”女性辩护](https://dig.chouti.com/link/41950036)|
 |2024-03-28 06:12:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《匆匆那年》作者九夜茴发文：现在的剧本创作涉及到女性角色，编剧们都变得无比小心翼翼](https://dig.chouti.com/link/41950562)|
