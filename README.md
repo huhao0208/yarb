@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-29 16:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果智慧戒指：能辨識你彈指間的動作，改變手勢體驗](https://www.iphonetaiwan.org/2024/03/apple-smart-ring-gesture-recognition.html)|
+|2024-03-29 15:58:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[俄勒岡州簽署新維修法！禁止 iPhone 等產品「零件配對」](https://www.iphonetaiwan.org/2024/03/repair-law-banning-parts-pairing.html)|
+|2024-03-29 15:39:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Vision Pro：180 度 8K 3D 帶您身臨其境觀賞足球賽](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-immersive-football.html)|
+|2024-03-29 15:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Watch 地形圖功能：將在 iOS 18 擴展到 iPhone](https://www.iphonetaiwan.org/2024/03/apple-maps-ios-18-updates.html)|
 |2024-03-29 14:41:48|[晚点LatePost](https://feedpress.me/wx-postlate)|[​成为第二还不够，13 张图看懂地平线的 IPO](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514426&idx=4&sn=f5695f83209c28d3cc9913b5c05fb5f1)|
 |2024-03-29 14:41:48|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家｜元戎成为长城第二供应商，靠激进的端到端投入](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514426&idx=3&sn=b00c7ce96c4ada0ba9ade18c29b09e32)|
 |2024-03-29 14:41:48|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨万科第二次不分红；华为收入增速创三年新高；40 亿美元撞桥赔偿算谁的？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514426&idx=2&sn=2946af538935196a2e79146b01af8834)|
