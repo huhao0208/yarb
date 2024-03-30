@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-30 02:07:57|[CSS-Tricks](https://css-tricks.com/feed/)|[The Power of :has in CSS](https://css-tricks.com/the-power-of-has-in-css/)|
 |2024-03-29 16:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果智慧戒指：能辨識你彈指間的動作，改變手勢體驗](https://www.iphonetaiwan.org/2024/03/apple-smart-ring-gesture-recognition.html)|
 |2024-03-29 15:58:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[俄勒岡州簽署新維修法！禁止 iPhone 等產品「零件配對」](https://www.iphonetaiwan.org/2024/03/repair-law-banning-parts-pairing.html)|
 |2024-03-29 15:39:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Vision Pro：180 度 8K 3D 帶您身臨其境觀賞足球賽](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-immersive-football.html)|
