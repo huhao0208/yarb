@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-30 07:10:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[效力中超沧州的24岁外援奥斯卡表态愿意归化加盟国足](https://dig.chouti.com/link/41971840)|
+|2024-03-30 09:01:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[部分小学生沉迷“烟卡”：按香烟价格给卡分级，会从垃圾桶中翻找烟盒](https://dig.chouti.com/link/41972519)|
+|2024-03-30 07:02:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[泽连斯基首次松口：即使不恢复至1991年边界，也可能与俄和谈](https://dig.chouti.com/link/41971754)|
+|2024-03-30 13:35:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【高校内开车撞人致3死16伤：撞向同学的大专学生】事发后，张凯翔的母亲曾对邻居提到，儿子撞人是因为挂了好几科，不能毕业。网上流传的一张聊天截图显示，在名为“23年实习管理群”的微信群里，疑似为张凯翔的人询问老师，“那我重修下学期吧？反正我今年不毕业，我想不开了，我就随机挑选幸运观众，遇到我也算你倒霉。”](https://dig.chouti.com/link/41974258)|
+|2024-03-30 11:11:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“反转小动画科普动物冷知识” 系列新作品——壁虎，蜥蜴等一些两栖动物和爬行动物，会吃掉自己蜕掉的皮。这样不仅可以补充营养，也能降低被捕食者发现的概率（naturalhabitatshorts）](https://dig.chouti.com/link/41973472)|
+|2024-03-30 09:03:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴菲特与基金经理的十年赌约](https://dig.chouti.com/link/41972615)|
+|2024-03-30 11:02:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【以军回应“杀害两名巴勒斯坦人并用推土机掩埋尸体”视频】以色列国防军称，相关视频经过剪辑，画面分别为两起不同的事件。第一起事件发生在加沙地带南部。在嫌疑人对警告射击没有反应后，以军向他的方向开枪，他被击中并受轻伤。第二起事件发生在加沙地带北部，两名嫌疑人“以可疑的方式”接近以军后被击毙并掩埋。](https://dig.chouti.com/link/41973279)|
+|2024-03-30 12:11:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[点到为止~ 陆基模拟触舰复飞](https://dig.chouti.com/link/41973725)|
+|2024-03-30 15:00:00|[机核](https://www.gcores.com/rss)|[相比起视频，我更怀念文字通关的时代 GadioNews03.30](https://www.gcores.com/radios/179329)|
+|2024-03-30 12:30:00|[机核](https://www.gcores.com/rss)|[【创作者角度探究】鸟山明为什么能画出龙珠？](https://www.gcores.com/videos/179603)|
+|2024-03-30 14:20:25|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个学习双拼输入法的 MVP](https://w2solo.com/topics/4517)|
+|2024-03-30 06:04:05|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[月访问量 36 万的网站如何寻找关键词？](https://w2solo.com/topics/4516)|
+|2024-03-30 14:33:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Mar.17 - Mar.23](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240323/)|
+|2024-03-30 14:27:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Mar.10 - Mar.16](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240316/)|
 |2024-03-30 10:00:00|[机核](https://www.gcores.com/rss)|[改变气候，轮回转世！《哥斯拉大战金刚2》的泰坦们有何特殊能力？](https://www.gcores.com/videos/179625)|
 |2024-03-30 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何从心理学的角度，看待孩子的「厌学情绪」？作为家长，如何正确引导？](https://www.zhihu.com/question/650707994)|
 |2024-03-30 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[饭前运动好？还是饭后运动好？](https://www.zhihu.com/question/650740621)|
