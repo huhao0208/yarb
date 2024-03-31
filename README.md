@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-31 02:21:00|[方永、南天紫云](https://www.vinoca.org/atom.xml)|[OpenWrt上SmartDNS的一个有效配置](https://www.vinoca.org/openwrtshang-smartdnsde-yi-ge-you-xiao-pei-zhi/)|
+|2024-03-31 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车爆了](https://36kr.com/p/2709541473941378)|
+|2024-03-31 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微盟找到了AI时代的新玩法](https://36kr.com/p/2710648488891016)|
+|2024-03-31 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大裁员的飞书，还能继续飞吗？](https://36kr.com/p/2706415213049731)|
+|2024-03-31 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[下个十年，苹果会落寞吗？](https://36kr.com/p/2706375295039622)|
+|2024-03-31 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车上市42小时：订单暴涨，同行紧张，小米奔忙保供](https://36kr.com/p/2710828399655044)|
 |2024-03-30 16:04:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[对你来说，周末的工作聚餐或者团建是一种「放松」还是「加班」？为什么？](https://www.zhihu.com/question/650760403)|
 |2024-03-30 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《崩坏：星穹铁道》2.1 新剧情中，三月七为什么没有吃流萤的醋呢？](https://www.zhihu.com/question/650493745)|
 |2024-03-30 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[山东威海一男童去世身上多处伤痕：生父称与孩子生母及其男友有关，警方已介入，哪些信息值得关注？](https://www.zhihu.com/question/650755725)|
