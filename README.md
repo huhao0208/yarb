@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-01 03:27:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 何時會正式支援 RCS 通訊標準呢？](https://applefans.today/2024-04-iphone-imessage-support-rcs-later/)|
+|2024-04-01 09:47:03|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[既然快放假了，搞点清仓来助助兴啊！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451157&idx=1&sn=7b00e7c4755371532708b46120d9b604)|
+|2024-04-01 07:58:28|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.4.1](https://www.justzht.com/2024/)|
+|2024-04-01 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[被知名韩国游戏公司收购，九城这栋高楼彻底坍塌](https://36kr.com/p/2711877637273472)|
+|2024-04-01 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[「贻如生物」获数千万元Pre-A轮融资，生物基皮革制造成本大幅降低 36氪独家](https://36kr.com/p/2706190817703813)|
+|2024-04-01 04:03:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[600万人涌入，这个省会城市火成2024年的顶流](https://36kr.com/p/2712719530424197)|
+|2024-04-01 04:03:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨4月油价或进入“8元时代”；小米汽车SU7交付时间延长；俞敏洪要求河南新东方文旅停播整顿](https://36kr.com/p/2714143641450629)|
+|2024-04-01 04:03:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“600亿元续命钱”到位，万达签约不见王健林](https://36kr.com/p/2712879154837637)|
+|2024-04-01 04:03:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“一下降价7万”，二手车商不敢收新能源车了](https://36kr.com/p/2712754969524353)|
+|2024-04-01 04:03:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[还没吃到今年第一个雪糕，这巨头就不卖了](https://36kr.com/p/2713178575370113)|
+|2024-04-01 10:02:31|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[可执行单元校验：在 IDE 中提升 AI 智能体代码的准确性](http://www.phodal.com/blog/executable-unit-validation/)|
+|2024-04-01 10:01:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[台灣三大電信宣布關閉3G網路！手機未升級VoLTE將無法通話](https://www.iphonetaiwan.org/2024/04/taiwan-3g-network-shutdown.html)|
+|2024-04-01 09:43:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果地圖即將升級！車輛導航更貼心，加油充電一路無憂](https://www.iphonetaiwan.org/2024/04/apple-carplay-maps-new-navigation.html)|
+|2024-04-01 08:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[小平板不死？蘋果 iPad mini 7 有望年底推出](https://www.iphonetaiwan.org/2024/04/ipad-mini-7-rumors-updates.html)|
+|2024-04-01 08:24:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 Swift 和 Xcode 全新教學上線：從零入門到精通](https://www.iphonetaiwan.org/2024/04/apple-swift-tutorials.html)|
+|2024-04-01 07:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[三星 OLED 面板良率問題？iPad Pro 2024 推遲至 5 月](https://www.iphonetaiwan.org/2024/04/samsung-oled-sipad-pro.html)|
 |2024-04-01 07:57:00|[机核](https://www.gcores.com/rss)|[恶趣味恐怖游戏《Fuck You Witch》正式发布](https://www.gcores.com/articles/179708)|
 |2024-04-01 07:54:20|[机核](https://www.gcores.com/rss)|[【官方整活】《永劫无间》丨新武器【手】实机演示](https://www.gcores.com/articles/179707)|
 |2024-04-01 07:26:18|[机核](https://www.gcores.com/rss)|[《冴子：女巨人约会模拟》发布愚人节恶搞视频](https://www.gcores.com/articles/179704)|
