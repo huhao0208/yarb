@@ -2,6 +2,55 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-01 15:36:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[《从零到一：我的 AI 网站创业之旅》](https://w2solo.com/topics/4525)|
+|2024-04-01 10:53:44|[Dennis](https://www.domon.cn/rss/)|[2024年3月阅读书摘](https://www.domon.cn/2024-3yue-yue-du-shu-zhai/)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[长期坚持运动健身的热情是什么？](https://www.zhihu.com/question/650341889)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[男朋友对自己挺好的，但是不舍得花钱，该分手吗？](https://www.zhihu.com/question/650946004)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何从心理学角度，看待「孩子在青春期想要争夺家庭话语权」？作为家长，如何正确引导？](https://www.zhihu.com/question/649386662)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[女子看中 11 岁女孩将其拐走当儿媳，涉事母子分别被判有期徒刑 2 年和 7 个月，从法律角度有哪些信息值得关注？](https://www.zhihu.com/question/651229194)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[送孩子上幼儿园时，她大哭大闹、拼命挣扎，表示不想分开，看着心疼，但怎么处理比较好？](https://www.zhihu.com/question/649550145)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[薛姨妈说宝钗不爱花儿粉儿，真的是这样吗？](https://www.zhihu.com/question/650560689)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[专家解读王婆说媒何以火爆全网，「沉浸式体验直击年轻人内心」，这反映出哪些现象？如何使文旅从爆红到长青？](https://www.zhihu.com/question/651166551)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《崩坏：星穹铁道》2.1 活动「杯中逸事」角色自选，你选谁？](https://www.zhihu.com/question/650836488)|
+|2024-04-01 16:04:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[每天慢跑 1 小时能减肥吗？](https://www.zhihu.com/question/650830648)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[爱情和事业孰轻孰重？](https://www.zhihu.com/question/638144152)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么韩国看起来好卷，却少有著名科学家？](https://www.zhihu.com/question/644282167)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你对工作的态度是更倾向于「用时间换钱」还是「用钱换时间」？](https://www.zhihu.com/question/650272689)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[韩国总统尹锡悦就「医生罢诊」向国民道歉，如何看待此事？释放了什么信号？](https://www.zhihu.com/question/651140054)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[外交部表示「中日双方专家就福岛核污染水排海问题开展对话」，透露哪些信息？](https://www.zhihu.com/question/651162675)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[四月起我国正式进入汛期，总体形势旱涝并发、涝重于旱，如何做好防汛准备、汛期应对？哪些信息值得关注？](https://www.zhihu.com/question/651129345)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[Wtt 仁川冠军赛梁靖崑 4:1 战胜了雨果，大胖有没有可能代替樊振东参加奥运单打？](https://www.zhihu.com/question/651056829)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么鼓励别人的励志句子分享？](https://www.zhihu.com/question/650889846)|
+|2024-04-01 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一年级小学生上课都知道答案就是不喜欢举手回答问题，怎么办？](https://www.zhihu.com/question/648159920)|
+|2024-04-01 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体报道部分人员主动交代或退赃后，还在足协工作，甚至在原岗位，哪些信息值得关注？](https://www.zhihu.com/question/651137589)|
+|2024-04-01 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[旅行中，你觉得一次「好的住宿」应该有怎样的标准？](https://www.zhihu.com/question/649629641)|
+|2024-04-01 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[请问三千巅峰蒙古披甲弓骑兵能不能打得过两千战列步兵？](https://www.zhihu.com/question/650763180)|
+|2024-04-01 07:19:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[任泽平《中国人口形势报告2024》：中国生育率在全球主要经济体中倒数第二 ，仅高于韩国](https://dig.chouti.com/link/41987644)|
+|2024-04-01 14:11:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[后方军官在办公室与多名女同事热吻被偷拍，乌军声明：“他自愿上前线”，已批准](https://dig.chouti.com/link/41992083)|
+|2024-04-01 14:40:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[哈马斯：抓获混入加沙的可疑法塔赫安全部队，计划配合以色列](https://dig.chouti.com/link/41992196)|
+|2024-04-01 09:09:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[紧跟时代的日本中文教材](https://dig.chouti.com/link/41989626)|
+|2024-04-01 09:09:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国安条例生效一周后，“自由亚洲电台”宣布关闭在港办公室，不再在香港雇用任何全职员工](https://dig.chouti.com/link/41989549)|
+|2024-04-01 08:03:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[柔宇科技：公司未进入破产程序，目前企业仍在运营中](https://dig.chouti.com/link/41988781)|
+|2024-04-01 14:01:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[志愿军空战英雄韩德彩逝世，享年91岁，曾击落美军“双料王牌”飞行员费席尔](https://dig.chouti.com/link/41991901)|
+|2024-04-01 07:21:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【大陆无人机拍摄金门二胆岛，“防长”打脸“金防部”：有错就要改】大陆民众近日使用无人机进入金门二胆岛营区拍摄，台陆军“金门防卫指挥部”（“金防部”）称，因无人机采远距离摄影，且位处太阳逆光方位，官兵未能及时目视发现。台防务部门负责人邱国正1日称，他绝对不认同这种说法，“有错就要改，但不要隐瞒”。](https://dig.chouti.com/link/41987926)|
+|2024-04-01 09:02:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从最强前锋到“英乙球员”，哈兰德把射门靴弄丢了？](https://dig.chouti.com/link/41989343)|
+|2024-04-01 07:22:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[兵库县神户动物王国，平时一脸高冷的鲸头鹳洗起澡来的表情是这样的…新・哥斯拉第一形态？](https://dig.chouti.com/link/41988036)|
+|2024-04-01 06:33:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【一针3万美元，印度是怎么把CAR-T价格打下来的？】3月21日，NUTURE一篇文章指出，印度ImmunoACT开发的CAR-T疗法（NexCAR19）单次治疗费用为3-4万美元，是现有CAR-T疗法价格的十分之一。巴西也希望开发一款3.5万美元的CAR-T疗法。去年，国产CAR-T疗法降到100万元以内，似乎并未带来太多改变，但未来降到30万元以内呢？](https://dig.chouti.com/link/41986980)|
+|2024-04-01 09:09:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美媒曝俄叛逃飞行员“不检点生活”：经常光顾酒吧，花光了乌克兰给他的钱](https://dig.chouti.com/link/41989578)|
+|2024-04-01 12:11:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[4月1日，德国娱乐性大麻合法化，柏林数百民众聚众吸大麻庆祝…](https://dig.chouti.com/link/41991201)|
+|2024-04-01 03:00:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【英国暗厨房打工记：零工经济中的幽灵地带】我要去一家号称T餐厅的粤菜馆面试。伦敦唯一一家T餐厅位于市中心的中国城，还有精美的餐厅网站。可这不是我要去的地方。Whatsapp上弹出了Jeni给我发的定位：一个Shell加油站。我恍然大悟，我要去的地方应该是一家不在地图上显示的外卖店。我就是这样知道暗厨房的。](https://dig.chouti.com/link/41984885)|
+|2024-04-01 12:01:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国黄金宣布先行对消费者进行垫付，问题加盟商实控人已被公安羁押](https://dig.chouti.com/link/41990931)|
+|2024-04-01 07:23:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[吃完才发现不对劲？](https://dig.chouti.com/link/41988233)|
+|2024-04-01 11:09:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[3月31日，江西南昌，突起强风，抱住大棚稳定支撑的男子瞬间飞上天，所幸人无碍。妻子：当时都懵了，我们五个人一起拽的……此前中央气象台曾升级发布强对流天气黄警：江西等局地大风11级以上](https://dig.chouti.com/link/41990711)|
+|2024-04-01 10:49:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[知情人讲述女子22楼扔小孩细节：避开安全气囊，从另外窗户抛下](https://dig.chouti.com/link/41990395)|
+|2024-04-01 07:23:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个博主发了个秀男朋友弹钢琴的视频，下面评论区](https://dig.chouti.com/link/41988271)|
+|2024-04-01 07:22:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Rhodinia verecunda银目天蚕蛾幼虫被碰到后会发出独特的声音吓走敌人！（过于奶声奶气了…](https://dig.chouti.com/link/41988192)|
+|2024-04-01 07:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在二手奢侈品店里，我看见100个工薪女孩的欲望](https://dig.chouti.com/link/41987554)|
+|2024-04-01 08:09:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[还以为在拍婚纱照](https://dig.chouti.com/link/41988900)|
+|2024-04-01 11:15:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【总被唱衰的东北，人口开始回流了？】与上一代东北人为了生计、发展离开东北不同，这代年轻人经济条件相对较好，不至于因生活窘迫而背井离乡。直播、电商等新兴业态能够结合当地特色，也为年轻人提供了新的就业机会，吸引更多年轻人返乡创业。](https://dig.chouti.com/link/41990849)|
+|2024-04-01 07:23:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[原来本体是这样的~~~~~ 蒲公英狗！](https://dig.chouti.com/link/41988266)|
+|2024-04-01 08:01:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男子抚养15年发现儿子非亲生，法院认定欺诈性抚养判生父赔偿15万](https://dig.chouti.com/link/41988546)|
+|2024-04-01 10:50:18|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨小红书新增互联网行业商业化负责人；B 站组织架构调整，加强细分内容品类运营](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514457&idx=1&sn=4ba0d96b689642f5db5c31b96e8905a2)|
 |2024-04-01 03:27:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 何時會正式支援 RCS 通訊標準呢？](https://applefans.today/2024-04-iphone-imessage-support-rcs-later/)|
 |2024-04-01 09:47:03|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[既然快放假了，搞点清仓来助助兴啊！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451157&idx=1&sn=7b00e7c4755371532708b46120d9b604)|
 |2024-04-01 07:58:28|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.4.1](https://www.justzht.com/2024/)|
