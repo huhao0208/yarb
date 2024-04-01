@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-01 01:03:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香港买房，起价500万的中产退路](https://dig.chouti.com/link/41984127)|
+|2024-04-01 02:02:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“上学、上班，不如上香”】没有KPI，每天处理寺庙活动、打扫卫生，再诵经、过斋，差不多早8晚4，一个月两三千块。看看来祈求的人，再看看菩萨，不管什么问题，都给比出个“ok”的手势。——在天津潮音寺，越来越多职场人过来，填上一份“入职表”。以下是三位寺庙“打工人”的讲述。](https://dig.chouti.com/link/41984594)|
+|2024-04-01 03:01:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中央汇金操作细节曝光，5只ETF被买超180亿份](https://dig.chouti.com/link/41984993)|
+|2024-04-01 00:02:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[内塔尼亚胡将接受疝气手术，总理职务由副总理暂时接替](https://dig.chouti.com/link/41983739)|
+|2024-04-01 01:01:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【秘鲁检察机关和警方深夜强闯总统私宅搜查，总统本人当时未在】博卢阿特就任总统后经常被发现佩戴不同的奢侈名表，而这些名表被指没有申报，博卢阿特也因此涉嫌非法敛财而被调查。对此，博卢阿特曾表示，她拥有的一切都是努力工作赚来的。博卢阿特表示愿意前往检察机关说明真相，但尚未敲定行程。](https://dig.chouti.com/link/41983932)|
+|2024-04-01 01:40:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网飞版《三体》：当预制菜工厂拿到冷门食材](https://dig.chouti.com/link/41984324)|
+|2024-04-01 01:02:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[英国国王患癌后首次公开亮相，“为免受感染与其他王室成员保持距离”](https://dig.chouti.com/link/41984014)|
+|2024-04-01 01:14:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【山西订婚强奸案后续：男方母亲找婚介询问退还的10万彩礼，发现被拉黑】此前法院判决显示，女方已于立案前将该彩礼退还至婚介服务部，婚介服务部工作人员通知男方母亲领取该彩礼但其拒绝领取。法院亦在案件受理后再次告知，男方母亲仍拒绝领取。](https://dig.chouti.com/link/41984255)|
+|2024-04-01 01:20:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[想加入独立开发者这个群体](https://w2solo.com/topics/4523)|
+|2024-04-01 04:20:00|[机核](https://www.gcores.com/rss)|[巴克斯的赐福——关于有机、生物动力法与自然酒](https://www.gcores.com/articles/179654)|
+|2024-04-01 04:12:00|[机核](https://www.gcores.com/rss)|[板垣惠介作品《刃牙道》宣布动画化](https://www.gcores.com/articles/179681)|
+|2024-04-01 04:12:00|[机核](https://www.gcores.com/rss)|[《圣兽之王》全球销量突破50万份](https://www.gcores.com/articles/179678)|
+|2024-04-01 03:45:33|[机核](https://www.gcores.com/rss)|[人工智能触手：雷蛇公布克苏鲁主题终极电竞椅](https://www.gcores.com/articles/179689)|
+|2024-04-01 03:13:08|[机核](https://www.gcores.com/rss)|[《宝可梦：SLEEP》史上首届“只是睡觉”世界锦标赛即将举行](https://www.gcores.com/articles/179686)|
+|2024-04-01 02:55:18|[机核](https://www.gcores.com/rss)|[Epic将正式收购Steam](https://www.gcores.com/articles/179685)|
+|2024-04-01 02:22:07|[机核](https://www.gcores.com/rss)|[娃娃机+肉鸽地牢探险：《抓抓地牢》现已开放试玩Demo下载](https://www.gcores.com/articles/179683)|
+|2024-04-01 02:11:29|[机核](https://www.gcores.com/rss)|[卡普空制直升机！卡普空宣布进军航空业务](https://www.gcores.com/articles/179682)|
+|2024-04-01 02:07:41|[机核](https://www.gcores.com/rss)|[业界领先：《战地5》将于本周实装EA反作弊系统](https://www.gcores.com/articles/179680)|
+|2024-04-01 01:41:01|[机核](https://www.gcores.com/rss)|[《沙漠大冒险》帮派及森林乐园场景详情揭晓，将于4月26日发售](https://www.gcores.com/articles/179677)|
+|2024-04-01 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/13](https://weekly.pychina.org/pyrecap/pyrw-2413.html)|
 |2024-04-01 01:09:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[特斯拉中国官网：Model Y全系涨价5000元](https://dig.chouti.com/link/41984185)|
 |2024-03-31 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 183 期（2024.04.01）](https://www.ftium4.com/ux-weekly-183.html)|
 |2024-03-31 16:00:00|[机核](https://www.gcores.com/rss)|[5月24日：暴雪《守望先锋》游戏总监正式宣布中国地区推出时间](https://www.gcores.com/articles/179656)|
