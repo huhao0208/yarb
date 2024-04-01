@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-31）
+﻿# 每日资讯（2024-04-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-01 01:09:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[特斯拉中国官网：Model Y全系涨价5000元](https://dig.chouti.com/link/41984185)|
 |2024-03-31 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 183 期（2024.04.01）](https://www.ftium4.com/ux-weekly-183.html)|
 |2024-03-31 16:00:00|[机核](https://www.gcores.com/rss)|[5月24日：暴雪《守望先锋》游戏总监正式宣布中国地区推出时间](https://www.gcores.com/articles/179656)|
 |2024-03-31 15:00:00|[机核](https://www.gcores.com/rss)|[通过赛博朋克了解一段二十世纪音乐史 中](https://www.gcores.com/radios/179648)|
@@ -66,6 +67,7 @@
 |2024-03-31 13:34:54|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[三月](https://github.com/yihong0618/gitblog/issues/283)|
 |2024-03-31 12:27:55|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 923 Div. 3 ](https://blog.mauve.icu/2024/03/31/acm/codeforces/CodeforcesRound923/)|
 |2024-03-31 11:41:50|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[折腾记-给玩客云刷上Armbian](https://nicksxs.me/2024/03/31/%E6%8A%98%E8%85%BE%E8%AE%B0-%E7%BB%99%E7%8E%A9%E5%AE%A2%E4%BA%91%E5%88%B7%E4%B8%8AArmbian/)|
+|2024-04-01 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Determinant and Hyper Volume](https://leimao.github.io/blog/Determinant-Hyper-Volume/)|
 |2024-03-31 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[《魔神英雄传》Metal Build 龙神丸和龙王丸模型](https://leimao.github.io/essay/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0%E9%BE%99%E7%A5%9E%E4%B8%B8%E9%BE%99%E7%8E%8B%E4%B8%B8%E6%A8%A1%E5%9E%8B/)|
 |2024-03-31 06:16:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Amprobe 版本更新至 v1.2](https://w2solo.com/topics/4521)|
 |2024-03-31 02:21:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 44 期（摘要）+ 赠书 5 本《明解 Python 算法与数据结构》](https://w2solo.com/topics/4520)|
