@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-02 01:12:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 59：3 月数据总结](https://w2solo.com/topics/4526)|
 |2024-04-01 18:37:10|[机核](https://www.gcores.com/rss)|[天生赢家！恭喜NAVI 2:1战胜 FaZe Clan，赢下 CS2 的首个 Major](https://www.gcores.com/articles/179699)|
 |2024-04-01 14:59:43|[机核](https://www.gcores.com/rss)|[《中世纪2：全面战争》加载界面格言考据和对照（一）](https://www.gcores.com/articles/179639)|
 |2024-04-01 13:29:42|[机核](https://www.gcores.com/rss)|[活动招募：游戏的人档案馆丨未来教师教案游戏化工作坊 · 成都站](https://www.gcores.com/articles/179721)|
