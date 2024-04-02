@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-02 12:03:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[华为正加紧研发三折手机，业内人士：厂商在研各类形态手机](https://dig.chouti.com/link/42001683)|
+|2024-04-02 12:07:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“地王”重现江湖，楼市供给端释放什么新信号？](https://dig.chouti.com/link/42001718)|
+|2024-04-02 14:12:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【38岁隆多确认退役，曾两获NBA总冠军】隆多是唯一一个在凯尔特人和湖人都获得过总冠军的球员，生涯4次入选全明星，4次入选最佳防守阵容，1次入选最佳阵容（3队）。](https://dig.chouti.com/link/42002827)|
+|2024-04-02 09:13:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[教科书梗图大赏，有种平静的疯感](https://dig.chouti.com/link/42000122)|
+|2024-04-02 13:09:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[两个人种植3000亩棉花，这可能吗？我们在新疆棉田里进行了一场实验](https://dig.chouti.com/link/42002303)|
+|2024-04-02 10:12:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不同药物对蜘蛛织网所产生的影响——科学家曾做过一个实验：给蜘蛛喂食含不同精神活性物质的药物，并观察其对蜘蛛织网的影响。这是他们的发现。](https://dig.chouti.com/link/42000768)|
+|2024-04-02 09:14:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[服用睾酮两年的嗓音变化](https://dig.chouti.com/link/42000133)|
+|2024-04-02 09:02:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[华为已撤回两项“遥遥领先”商标申请](https://dig.chouti.com/link/41999867)|
+|2024-04-02 10:03:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【特斯拉正在转向全新组装工艺“unbox（拆箱式）”】与传统产线的流水线作业方式不同，新工艺类似“组装乐高积木”：车身无需像以前一样在一条传送带上传送依次组装零部件，特斯拉计划在工厂的专用区域同时组装车辆的不同部分，最后将这些大型子组件装配在一起。新工艺有望使生产成本减半，制造所需占地面积减少40%以上。](https://dig.chouti.com/link/42000578)|
+|2024-04-02 07:13:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[民警有时候也想报警……](https://dig.chouti.com/link/41998720)|
+|2024-04-02 09:33:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[买卖黄金超2万元须实名登记？深圳公安：属实，为防范电诈资金流入黄金市场](https://dig.chouti.com/link/42000202)|
+|2024-04-02 11:14:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[表演一下子……万万没想到！](https://dig.chouti.com/link/42001322)|
+|2024-04-02 09:01:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【FIFA官方：朝鲜被判0-3负于日本，并罚款10000瑞士法郎】原定于3月26日在朝鲜首都平壤举行的世界杯预选赛第二阶段朝鲜对日本的比赛因“无法预期的因素”取消。国际足联纪律委员会决定宣布朝鲜以0-3的比分输掉比赛。此外，朝鲜足协还被勒令支付10000瑞士法郎的罚款。](https://dig.chouti.com/link/41999769)|
+|2024-04-02 12:03:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[某知名韩国游戏公司收购九城，交易已在最后阶段，创始人朱骏或将退出](https://dig.chouti.com/link/42001685)|
+|2024-04-02 12:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这是一款指针不按套路走的手表](https://dig.chouti.com/link/42001740)|
+|2024-04-02 12:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【111岁开国少将张力雄逝世，是最后一位参加过长征的开国将军】目前，“开国将帅”群体中，元帅、大将、上将、中将均已辞世。1955年首批授衔的开国少将也已全部离世。唯一在世“开国少将”为1923年出生的王扶之，1964年晋升为少将军衔。](https://dig.chouti.com/link/42001632)|
+|2024-04-02 10:12:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI“真人化”经典动画角色~~~最后一个有必要真“人”化嘛？！](https://dig.chouti.com/link/42000741)|
+|2024-04-02 13:07:11|[华山感染](https://feedpress.me/wx-hsinfect)|[集结号吹响！华山感染2024年6月批次研修报名启动](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502585&idx=2&sn=827c14570359f55d7de97c61cdcd9aa8)|
+|2024-04-02 13:07:11|[华山感染](https://feedpress.me/wx-hsinfect)|[APASL 2024 肝病学研究的亚太之声和中国之声](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502585&idx=1&sn=ec230292c3a2143e8ac1baf0ff84dedb)|
+|2024-04-02 16:05:35|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[愚人节整真活！ChatGPT放开限制，不注册也能玩 最前线](https://36kr.com/p/2715798412720001)|
+|2024-04-02 16:05:35|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[贾跃亭锐评小米汽车，其实是断了法拉第未来的所有后路](https://36kr.com/p/2714911891326724)|
+|2024-04-02 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[贾跃亭狠狠扎了雷军一刀](https://36kr.com/p/2715681322616580)|
+|2024-04-02 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发 数字生命技术公司「MyTwins.ai」完成天使轮融资，未来将会把数字分身带给每一位用户](https://36kr.com/p/2711896832686210)|
+|2024-04-02 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“米粉” 冲了保时捷直播间，女主播崩溃...](https://36kr.com/p/2715026916407170)|
+|2024-04-02 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[新造车3月销量：理想摔倒，问界吃饱，小米出道](https://36kr.com/p/2715574160324488)|
+|2024-04-02 22:51:17|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[如何在 PHP 中用注释声明数组的结构](https://mok.moe/p/php-doc-array)|
+|2024-04-02 08:42:50|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[有什么诱人的水果生鲜在打折，可以放假吃？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451225&idx=1&sn=1c4deb6e0b7f5b2003fc330a52eac114)|
 |2024-04-02 10:30:00|[机核](https://www.gcores.com/rss)|[真女神转生跟不上时代了吗？](https://www.gcores.com/videos/179731)|
 |2024-04-02 09:40:48|[机核](https://www.gcores.com/rss)|[最平衡的《守望先锋》：《守望先锋》“归来”现已实装4月1日版本更新](https://www.gcores.com/articles/179775)|
 |2024-04-02 09:00:00|[机核](https://www.gcores.com/rss)|[我家楼下，录音笔 VOL.172](https://www.gcores.com/radios/179764)|
