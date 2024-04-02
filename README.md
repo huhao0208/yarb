@@ -2,6 +2,39 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-02 10:30:00|[机核](https://www.gcores.com/rss)|[真女神转生跟不上时代了吗？](https://www.gcores.com/videos/179731)|
+|2024-04-02 09:40:48|[机核](https://www.gcores.com/rss)|[最平衡的《守望先锋》：《守望先锋》“归来”现已实装4月1日版本更新](https://www.gcores.com/articles/179775)|
+|2024-04-02 09:00:00|[机核](https://www.gcores.com/rss)|[我家楼下，录音笔 VOL.172](https://www.gcores.com/radios/179764)|
+|2024-04-02 08:56:55|[机核](https://www.gcores.com/rss)|[当事者研究#1-作为Vtuber粉丝的反身性自我观察](https://www.gcores.com/articles/179771)|
+|2024-04-02 08:32:06|[机核](https://www.gcores.com/rss)|[《神罪降临》 开发日志（第一期）](https://www.gcores.com/articles/179762)|
+|2024-04-02 08:11:25|[机核](https://www.gcores.com/rss)|[投喂猛男蛋白质：《壮士水族馆 -肌肉水族馆模拟器-》正式公开](https://www.gcores.com/articles/179769)|
+|2024-04-02 08:09:00|[机核](https://www.gcores.com/rss)|[《星之后裔：Knights of Veda》上线Steam，目前多半差评](https://www.gcores.com/articles/179767)|
+|2024-04-02 07:50:47|[机核](https://www.gcores.com/rss)|[四款精彩独立游戏，聚焦亚洲开发者：ID@Xbox线上媒体活动消息汇总](https://www.gcores.com/articles/179765)|
+|2024-04-02 07:25:25|[机核](https://www.gcores.com/rss)|[《龙之信条2》全球销量突破250万套，系列销量突破1000万](https://www.gcores.com/articles/179766)|
+|2024-04-02 07:10:00|[机核](https://www.gcores.com/rss)|[《三国志大战》制作人西山泰弘成立新公司开始运营](https://www.gcores.com/articles/179763)|
+|2024-04-02 06:49:39|[机核](https://www.gcores.com/rss)|[宝可梦+肉鸽自走棋，会摩擦出怎样的火花？](https://www.gcores.com/articles/179761)|
+|2024-04-02 06:08:06|[机核](https://www.gcores.com/rss)|[《对马岛之魂：导演剪辑版》PC版公布最新预告](https://www.gcores.com/articles/179758)|
+|2024-04-02 06:07:10|[机核](https://www.gcores.com/rss)|[【抽奖】用霰弹枪玩俄罗斯轮盘！《恶魔轮盘》将于4月6日发售](https://www.gcores.com/articles/179760)|
+|2024-04-02 06:03:24|[机核](https://www.gcores.com/rss)|[Team Ladybug宣布将制作《东方月神夜2》](https://www.gcores.com/articles/179757)|
+|2024-04-02 06:00:00|[机核](https://www.gcores.com/rss)|[万智牌《光雷驿镖客》机核独家预览卡第二弹](https://www.gcores.com/articles/179750)|
+|2024-04-02 05:54:00|[机核](https://www.gcores.com/rss)|[多位Square Enix游戏制作人被提拔为执行董事](https://www.gcores.com/articles/179759)|
+|2024-04-02 05:43:51|[机核](https://www.gcores.com/rss)|[【抽奖】《神力科莎：竞技版》DLC「纽博格林24小时耐力赛」正式发售](https://www.gcores.com/articles/179756)|
+|2024-04-02 05:40:25|[机核](https://www.gcores.com/rss)|[浅析 20 世纪以来美国流行音乐类艺人的表演服饰（一）：从“音乐”与“舞台”中衍生出的表演服饰](https://www.gcores.com/articles/179755)|
+|2024-04-02 05:25:21|[机核](https://www.gcores.com/rss)|[《碧蓝幻想Versus：崛起》Ver 1.30 版本更新于4月2日上线！](https://www.gcores.com/articles/179754)|
+|2024-04-02 05:11:00|[机核](https://www.gcores.com/rss)|[人气漫画改编游戏《忍者杀手：新琦玉炎上》正式公开](https://www.gcores.com/articles/179744)|
+|2024-04-02 10:12:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[原来大象真的会踩到自己的鼻子……解开了我多年的疑惑](https://dig.chouti.com/link/42000742)|
+|2024-04-02 04:17:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[如何修改Suno生成的音乐？甚至更换Suno生成音乐里面的歌手声音？ACE Studio ：AI人声合成引擎，制作像真人一样歌唱的AI歌手](https://dig.chouti.com/link/41997119)|
+|2024-04-02 05:01:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一家纽约女性酒店的八十年兴衰史](https://dig.chouti.com/link/41997289)|
+|2024-04-02 05:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【日本生育率为何一跌再跌？】2023年，日本老龄化程度达历史最高水准的同时，总和生育率亦降至历史最低。事实上，老龄化与少子化是一体两面的关系。本文作者在京都生活多年，亲历了日本社会老龄化和少子化同步加剧的过程。在这篇文章中，她从少子化的角度，讲述了日本社会发生的变化，以及政府做出的努力。](https://dig.chouti.com/link/41997672)|
+|2024-04-02 06:11:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[羚羊&影子](https://dig.chouti.com/link/41998135)|
+|2024-04-02 06:10:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当地时间4月1日，复活节兔子客串主持了白宫新闻发布会。现场的氛围看起来很欢乐啊](https://dig.chouti.com/link/41998087)|
+|2024-04-02 04:18:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第一张是1920年阿拉丁的插图，后面几张是维多利亚时代的沃尔特·克莱恩1704年出版的绘本。这两个版本里都表示： 阿拉丁是中国男孩。而今他的形象认知在世界范围内已与原设毫无关系。算是传播途径里信息迭散更替的一个实证了（大部分原因是拜某动画版本所赐吧）](https://dig.chouti.com/link/41997172)|
+|2024-04-02 05:13:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[图-144超音速客机的驾驶舱](https://dig.chouti.com/link/41997648)|
+|2024-04-02 06:33:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[F1母公司自由媒体作价42亿欧元收购MotoGP，多项顶级摩托车赛事在手](https://dig.chouti.com/link/41998211)|
+|2024-04-02 05:01:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[哥本哈根时装周将从明年起禁用羽毛和皮革](https://dig.chouti.com/link/41997387)|
+|2024-04-02 05:01:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[菲律宾参议员、总统姐姐反对外部力量干涉南海：我们“上头”了，很危险，外国“馈赠”会火上浇油](https://dig.chouti.com/link/41997394)|
+|2024-04-02 05:33:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本女艺人指原莉乃因《胡闹厨房》和前男友分手](https://dig.chouti.com/link/41997726)|
+|2024-04-02 08:14:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[江西省政协党组书记、主席、司法部原部长唐一军接受纪律审查和监察调查](https://dig.chouti.com/link/41999511)|
 |2024-04-02 12:50:37|[Macin](https://www.macin.org/atom.xml)|[马来：多元而复杂，交错且单纯](https://macin.org/2024/04/02/ma-lai-jian-jie/)|
 |2024-04-02 10:47:46|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[为ASP.NET Core实现一个自适应ModelBinder，让Action自适应前端参数传递](https://masuit.com/1889)|
 |2024-04-02 09:56:46|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[设备信息Deviceinfo Pro v2.9.8去广告优化版](https://masuit.com/1648)|
