@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-03 01:18:43|[Finisky Garden](https://finisky.github.io/atom.xml)|[Word Wildcard Replace Bug When Track Changes](https://finisky.github.io/en/word-wildcard-replace-bug-when-track-changes/)|
+|2024-04-03 01:16:33|[Finisky Garden](https://finisky.github.io/atom.xml)|[Word追踪修订时通配符替换Bug](https://finisky.github.io/word-wildcard-replace-bug-when-track-changes/)|
+|2024-04-03 00:00:33|[余晟以为](https://feedpress.me/wx-yurii-says)|[德国育儿经验谈：家长应当和儿童谈论“空气动力学”吗？](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009913&idx=1&sn=6996cc713389f0894f557683af478dc3)|
+|2024-04-03 11:58:36|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[吉光卡片的月营收已经突破 800 美金啦](https://w2solo.com/topics/4530)|
+|2024-04-03 02:02:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一款不一样的浏览器标签页，橘猫起始页](https://w2solo.com/topics/4529)|
+|2024-04-03 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为 P70 系列最全爆料汇总：Art 版设计清奇，影像升级或有惊喜](https://36kr.com/p/2717194105796741)|
+|2024-04-03 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果确认，正式放弃这款 iPhone](https://36kr.com/p/2716409846970504)|
+|2024-04-03 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为问界三杀理想](https://36kr.com/p/2716294708148354)|
+|2024-04-03 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[流水媲美《原神》，微信捧出游戏新王](https://36kr.com/p/2717041380292484)|
+|2024-04-03 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家｜理想反思落地：推出矩阵组织2.0，整合产品与商业](https://36kr.com/p/2717394332285061)|
+|2024-04-03 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米 SU7 这些反直觉的设计，恰是雷军造车成熟的体现](https://36kr.com/p/2716947738212485)|
+|2024-04-03 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Temu：摸着美国过河｜焦点分析](https://36kr.com/p/2717274432944001)|
+|2024-04-03 01:35:10|[Dawner](https://dawner.top/atom.xml)|[关于 Duolingo 好友系统](https://dawner.top/posts/about-duolingos-friend-system/)|
+|2024-04-03 15:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[全新 Beats Solo 4 耳機現身 FCC 數據庫：即將震撼登場](https://www.iphonetaiwan.org/2024/04/beats-solo-4-headphones.html)|
+|2024-04-03 14:47:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Vision Pro 讓想像與現實融合！Personas 空間角色正式啟動](https://www.iphonetaiwan.org/2024/04/apple-vision-pro-spatial-personas.html)|
+|2024-04-03 14:23:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.5 即將登場：iPhone 用戶可從網站直接下載 App](https://www.iphonetaiwan.org/2024/04/ios-17-5-update-dma.html)|
 |2024-04-03 08:21:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[信息噪音时代的悲哀](https://blog.est.im/2024/stderr-07)|
 |2024-04-03 09:02:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【OpenAI发布首支Sora制作的MV】 4月3日，OpenAI发布首个由Sora制作的MV《Worldweight》，MV中的音乐是由艺术家August Kamp作曲，画面内容由他借助Sora完成。](https://dig.chouti.com/link/42011079)|
 |2024-04-03 08:02:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深圳买卖黄金超2万元须实名登记？派出所：系倡导，并非强制](https://dig.chouti.com/link/42010423)|
