@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-03 03:49:41|[O3noBLOG](https://feeds.feedburner.com/othree)|[Dialog 的魔法](https://blog.othree.net/log/2024/04/03/the-magic-of-dialog/)|
+|2024-04-03 04:01:47|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[尝试了众多输入法方案后，我想和你分享这些心得](https://sspai.com/post/86791)|
 |2024-04-02 15:45:57|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[推荐 4 个压箱底的 SEO 分析宝藏工具](https://w2solo.com/topics/4528)|
 |2024-04-02 09:30:20|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道](https://w2solo.com/topics/4527)|
 |2024-04-02 12:01:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美团王兴：王慧文逐步恢复健康，将继续担任美团顾问](https://dig.chouti.com/link/42001498)|
