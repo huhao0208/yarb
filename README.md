@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-03 08:21:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[信息噪音时代的悲哀](https://blog.est.im/2024/stderr-07)|
+|2024-04-03 09:02:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【OpenAI发布首支Sora制作的MV】 4月3日，OpenAI发布首个由Sora制作的MV《Worldweight》，MV中的音乐是由艺术家August Kamp作曲，画面内容由他借助Sora完成。](https://dig.chouti.com/link/42011079)|
+|2024-04-03 08:02:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深圳买卖黄金超2万元须实名登记？派出所：系倡导，并非强制](https://dig.chouti.com/link/42010423)|
+|2024-04-03 07:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[互联网领吃员，还得是川渝人](https://dig.chouti.com/link/42010139)|
+|2024-04-03 06:33:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[特斯拉交付“滑铁卢”，除需求低迷外，马斯克在社媒的极端发言要背最大的锅？](https://dig.chouti.com/link/42009544)|
+|2024-04-03 08:09:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【马斯克回应特斯拉一季度销量大跌 ：比亚迪比我们还惨】马斯克在X上发帖回应特斯拉投资者罗伯特·格伯对该公司一季度销量下滑的批评，并将中国竞争对手比亚迪的销量拿来作对比。马斯克：“比亚迪的销量较上季度下降了42%。这对每个人来说都是一个困难的季度。”](https://dig.chouti.com/link/42010563)|
+|2024-04-03 09:02:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因玻璃门碎裂受伤：9年后美国一女子获赔超3500万美元（约2.5亿人民币）](https://dig.chouti.com/link/42011133)|
+|2024-04-03 06:13:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄军T-62坦克夸张的反无人机笼](https://dig.chouti.com/link/42009518)|
+|2024-04-03 06:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[逃离家暴的父亲后，我和母亲的“灾后”同居生活](https://dig.chouti.com/link/42009528)|
+|2024-04-03 08:33:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称极氪重启美国IPO计划，拟筹资至多5亿美元，极氪回应：已向SEC备案并正进行准备工作](https://dig.chouti.com/link/42010757)|
+|2024-04-03 06:00:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[蜂鸟几乎腰斩，北京最牛学区房挺不住了？](https://dig.chouti.com/link/42009104)|
+|2024-04-03 06:12:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[F1日本站的车队海报：法拉利&高达有点帅，而哈斯这边是大型拍领导马屁现场。。。](https://dig.chouti.com/link/42009461)|
+|2024-04-03 01:02:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[塞纳河“淘宝”记 ： 沉入河底的历史碎片](https://dig.chouti.com/link/42006231)|
+|2024-04-03 03:56:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【光速为什么不多不少正好是299792458米/秒？】人们总是好奇，为什么真空中的光速是299792458米/秒？既然这不是一个简洁的数字，看来像是实验值，那么为什么它连小数点都没有？真是有这样精确？“物理学是历史的。”对于光速的探测和确定，是这一说法的最好注脚。](https://dig.chouti.com/link/42007941)|
+|2024-04-03 07:02:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[数字人民币App推出“碰一碰”硬钱包收款，率先在深圳出租车行业试点](https://dig.chouti.com/link/42009872)|
+|2024-04-03 07:12:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[朝鲜宣布再次成功试射载有高超音速滑翔再入战斗部的中程弹道导弹](https://dig.chouti.com/link/42010103)|
+|2024-04-03 12:00:00|[机核](https://www.gcores.com/rss)|[Tezo × 机核 获取「耳羽」新装备，一同探索热爱](https://www.gcores.com/articles/179813)|
+|2024-04-03 09:00:00|[机核](https://www.gcores.com/rss)|[爸、妈以及独立的我，录音笔 VOL.173](https://www.gcores.com/radios/179825)|
+|2024-04-03 08:46:00|[机核](https://www.gcores.com/rss)|[《西瓜游戏》安卓版即将于四月中旬发布](https://www.gcores.com/articles/179819)|
+|2024-04-03 08:45:37|[机核](https://www.gcores.com/rss)|[可爱小狗探险解谜游戏《落日山丘》定档2024年暑期](https://www.gcores.com/articles/179828)|
+|2024-04-03 11:36:19|[Dennis](https://www.domon.cn/rss/)|[2024年3月Plog](https://www.domon.cn/2024nian-3yue-plog/)|
+|2024-04-03 11:53:36|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨亚马逊来中国卖大模型；马斯克去宿敌的平台投广告卖车](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514544&idx=2&sn=be9296b150af5c4b33842985a9d1776a)|
+|2024-04-03 11:53:35|[晚点LatePost](https://feedpress.me/wx-postlate)|[脉脉林凡：企业与员工没那么对立了，但不是因为谁做了什么](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514544&idx=1&sn=6b2bd2cad1313dd00eae7c55b7f427d2)|
 |2024-04-03 06:12:04|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[青团特价断码清仓！特价断码清仓！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451236&idx=1&sn=4675f8c264e2d38e03899b1bc690b4d0)|
 |2024-04-03 04:03:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[留学归来，我在TikTok做带货主播](https://36kr.com/p/2716166643513216)|
 |2024-04-03 04:03:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[让霉霉说地道中文的 AI，又惊艳升级了](https://36kr.com/p/2716254091507843)|
