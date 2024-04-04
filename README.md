@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-04-03）
+﻿# 每日资讯（2024-04-04）
 
 |时间|来源|标题|
 |---|---|---|
@@ -107,3 +107,4 @@
 |2024-04-03 01:10:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[哈萨克斯坦陆军T-72的顶棚，是爆反？！](https://dig.chouti.com/link/42006386)|
 |2024-04-03 03:49:41|[O3noBLOG](https://feeds.feedburner.com/othree)|[Dialog 的魔法](https://blog.othree.net/log/2024/04/03/the-magic-of-dialog/)|
 |2024-04-03 04:01:47|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[尝试了众多输入法方案后，我想和你分享这些心得](https://sspai.com/post/86791)|
+|2024-04-04 00:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[模型并行训练技术](https://www.chenshaowen.com/blog/model-parallel-training-techniques.html)|
