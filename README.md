@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-04 11:10:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[TikTok大神“恢复魔法”收集用过的橡皮屑，一顿操作还原出一个新橡皮~](https://dig.chouti.com/link/42020634)|
+|2024-04-04 11:10:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《足球小将》漫画正式完结，结束43年连载】《足球小将》的作者高桥阳一在社媒写道：“我已经画完了该系列的最后一集。。。我终于可以过上没有截止日的生活，我现在已经从漫画家的身份中退休。”同时高桥阳一表示将以铅笔画形式在网站上继续创作《足球小将》。](https://dig.chouti.com/link/42020619)|
+|2024-04-04 11:10:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2024年4月4日下午，美国财长耶伦抵达广州，财政部副部长廖岷与耶伦握手](https://dig.chouti.com/link/42020601)|
+|2024-04-04 00:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[研讨会系列继续推出新剧集](/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/04/04/workshop.html)|
 |2024-04-04 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国内零售金每克涨破 700 元，专家称多重因素支撑金价仍处高位，如何看待当前金价走势？下行通道何时到来？](https://www.zhihu.com/question/651548759)|
 |2024-04-04 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[疝气是什么？疝气有哪些常见的类型？](https://www.zhihu.com/question/651293277)|
 |2024-04-04 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《灌篮高手》里，樱木花道长得那么帅，为什么还会被女生拒绝五十次？](https://www.zhihu.com/question/508265338)|
