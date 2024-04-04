@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-04 03:08:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[腾讯和网易硬刚游戏：一场输不起的拐点争夺赛](https://dig.chouti.com/link/42017629)|
+|2024-04-04 02:59:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人住高层室内睡觉被风卷走，南昌“大风”还是被低估了——强对流究竟是什么？](https://dig.chouti.com/link/42017326)|
+|2024-04-04 01:43:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[湖北一景区“姓芈姓熊”（楚国王族）免费，“荆楚十八姓”（楚国贵族）半价”，当地官方：弘扬楚文化](https://dig.chouti.com/link/42016936)|
+|2024-04-04 02:32:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[HH-100航空商用无人运输系统验证机完成高滑试验](https://dig.chouti.com/link/42017304)|
+|2024-04-04 01:10:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人类为何没有阴茎骨？](https://dig.chouti.com/link/42016837)|
+|2024-04-04 01:08:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[祁连山千亿矿权纠纷案举报人住所坠亡，曾向好友留言：维权近20年，赔光所有，如今孤苦伶仃、贫病交加](https://dig.chouti.com/link/42016785)|
+|2024-04-04 01:09:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好冷的谐音梗……water发](https://dig.chouti.com/link/42016826)|
+|2024-04-04 03:04:29|[机核](https://www.gcores.com/rss)|[《空洞骑士：丝之歌》已在韩国通过评级，分级为12+](https://www.gcores.com/articles/179857)|
 |2024-04-03 10:41:56|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[台新銀行 FlyGo 卡 海外消費 3% 回饋無上限](https://applefans.today/2024-04-taishinbank-flygo-creditcard-special-event/)|
 |2024-04-03 02:58:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[歐盟要求 Apple 要讓使用者可以自行刪除 iPhone 照片 App](https://applefans.today/2024-04-eu-demands-apple-allow-iphone-users-to-delete-photos-app/)|
 |2024-04-03 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你最喜欢或者对你影响最大的一本书是什么呢？](https://www.zhihu.com/question/650469640)|
