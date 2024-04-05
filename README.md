@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-05 13:01:16|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 924 Div. 2 ](https://blog.mauve.icu/2024/04/05/acm/codeforces/CodeforcesRound924/)|
 |2024-04-05 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么谷歌们会盛行狗屁工作？](https://36kr.com/p/2588215633574537)|
 |2024-04-05 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李宁有今天怨不了别人](https://36kr.com/p/2719342373947140)|
 |2024-04-05 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克放弃自动驾驶？特斯拉CV负责人被曝离职](https://36kr.com/p/2718737776015494)|
