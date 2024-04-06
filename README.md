@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-06 10:12:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[浙江绍兴柯桥，一女子不慎踩空落水，60岁的泥水工谢世春骑车路过，没来得及把车停稳，边跑边脱衣服，随手扔掉手机，跳入河中，仅用20秒将女孩救起……获救女子几次跪谢，谢世春摆摆手，上车远去~](https://dig.chouti.com/link/42035531)|
+|2024-04-06 06:44:35|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 925 Div. 3 ](https://blog.mauve.icu/2024/04/06/acm/codeforces/CodeforcesRound925/)|
 |2024-04-06 03:19:26|[沈唁志](https://qq52o.me/feed)|[了解PHP魔术方法：__toString 、__invoke 和__debugInfo ](https://qq52o.me/2831.html)|
 |2024-04-06 07:30:00|[太隐](https://wangyurui.com/feed.xml)|[背影](https://wangyurui.com/posts/bei-ying-065eb135)|
 |2024-04-06 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[又一知名教育公司倒闭！张雪峰们让考研赛道“变天”](https://36kr.com/p/2720177831491459)|
