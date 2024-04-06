@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-06 03:03:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“旅行者1号”胡言乱语近5个月原因终于锁定：3%的内存损坏导致](https://dig.chouti.com/link/42032807)|
+|2024-04-06 02:33:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[宫崎骏新片《你想活出怎样的人生》上映第4天，中国内地票房超过4.43亿，超过日本本土票房，成为本片全球第一票仓](https://dig.chouti.com/link/42032563)|
+|2024-04-06 02:23:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在 ChatGPT 上，许多人开始主动追求被 AI 骂](https://dig.chouti.com/link/42032546)|
+|2024-04-06 01:02:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【詹姆斯大儿子布朗尼宣布将参加NBA选秀】布朗尼曾经历过心脏骤停并接受心脏手术，需要经过NBA健康小组的评估和批准，才能有资格参加5月的联合试训或选秀大会，或者在选秀大会上被选中。](https://dig.chouti.com/link/42032023)|
 |2024-04-05 13:01:16|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 924 Div. 2 ](https://blog.mauve.icu/2024/04/05/acm/codeforces/CodeforcesRound924/)|
 |2024-04-06 00:08:02|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[卸载利器——Uninstall Tool v3.7.4.5725学习版](https://masuit.com/84)|
 |2024-04-05 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么谷歌们会盛行狗屁工作？](https://36kr.com/p/2588215633574537)|
