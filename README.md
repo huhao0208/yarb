@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-06 11:49:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2024 年 4 月 6 日](https://www.changhai.org/articles/miscellaneous/blog/202404.php#latest)|
+|2024-04-06 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杨瀚森为什么不参加今年的 NBA 选秀？](https://www.zhihu.com/question/651758312)|
+|2024-04-06 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么中国钢笔萎靡不振？](https://www.zhihu.com/question/328742980)|
+|2024-04-06 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[终止造车计划后，美国苹果公司裁员 600 多人，为疫情以来苹果首次大规模裁员，哪些信息值得关注？](https://www.zhihu.com/question/651918106)|
+|2024-04-06 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《星穹铁道》里的角色砂金？](https://www.zhihu.com/question/641111858)|
+|2024-04-06 16:04:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么令人细思极恐的真实案件？](https://www.zhihu.com/question/334828112)|
 |2024-04-06 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[入职高校行政岗后，我的“神仙工作”滤镜碎了](https://36kr.com/p/2721502403737732)|
 |2024-04-06 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[被骂“擦边”的椰树，卖了50亿](https://36kr.com/p/2721516671449225)|
 |2024-04-06 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一家店月入10万，全靠男人的“面子”？](https://36kr.com/p/2721523570620551)|
