@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-07 12:58:36|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚从西湖国宾馆出来，我有话要说！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451256&idx=1&sn=26122d41bedcf8cf30655c2859177fd9)|
+|2024-04-07 09:16:21|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[实战：如何优雅的从 Skywalking 切换到 OpenTelemetry](http://crossoverjie.top/2024/04/07/ob/otel-replace-sw/)|
+|2024-04-07 21:05:48|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：setup.py里面的两个小技巧](https://www.kingname.info/2024/04/07/setup/)|
+|2024-04-07 22:55:34|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Listary Pro v6.3.0.73简体中文学习版](https://masuit.com/1573)|
 |2024-04-07 12:35:01|[白宦成](https://www.ixiqin.com/feed/)|[理光 GR3 说明书](https://www.ixiqin.com/2024/04/07/ricoh-gr3-manual/)|
 |2024-04-07 14:40:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 对话宝藏 App 创作者 Apptisan #007｜ Peaks：每周至少要进行一次用户访谈？](https://w2solo.com/topics/4538)|
 |2024-04-07 09:39:14|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一款全新类 Wox 和 Alfred 的效率工具 RunFlow，欢迎大家来体验](https://w2solo.com/topics/4537)|
