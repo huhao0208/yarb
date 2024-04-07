@@ -2,6 +2,40 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-07 12:35:01|[白宦成](https://www.ixiqin.com/feed/)|[理光 GR3 说明书](https://www.ixiqin.com/2024/04/07/ricoh-gr3-manual/)|
+|2024-04-07 14:40:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 对话宝藏 App 创作者 Apptisan #007｜ Peaks：每周至少要进行一次用户访谈？](https://w2solo.com/topics/4538)|
+|2024-04-07 09:39:14|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一款全新类 Wox 和 Alfred 的效率工具 RunFlow，欢迎大家来体验](https://w2solo.com/topics/4537)|
+|2024-04-07 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年入200亿，零食版拼多多围猎县城](https://36kr.com/p/2722666566137735)|
+|2024-04-07 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[放弃大厂的95后，追求着反传统的事业与人生](https://36kr.com/p/2722770745145217)|
+|2024-04-07 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI下一个重大飞跃是理解情感，第一个具有情商的对话型AI来了](https://36kr.com/p/2722646595975041)|
+|2024-04-07 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[90后妈妈在外买25㎡公寓独居：每周逃离家庭一天](https://36kr.com/p/2722778923890560)|
+|2024-04-07 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克发飙辟谣背后：特斯拉快被比亚迪卷死了](https://36kr.com/p/2722761244882824)|
+|2024-04-07 13:22:29|[明天的乌云](https://blog.xlab.app/atom.xml)|[Wechat2RSS: self-hosted版本发布](https://blog.xlab.app/p/fd57c4cf/)|
+|2024-04-07 13:12:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[老照片：1970年，费尔福德基地，英国协和原型机G-BSST 和它的研发、制造和试飞团队](https://dig.chouti.com/link/42046111)|
+|2024-04-07 14:16:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[个人房贷规模大幅“缩水”：六大行去年降逾5000亿](https://dig.chouti.com/link/42046486)|
+|2024-04-07 14:17:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伊朗伊斯兰革命卫队前总司令：以色列在国外的大使馆将不再安全](https://dig.chouti.com/link/42046535)|
+|2024-04-07 08:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[古代“王婆”如何靠一张嘴盘活“爱情买卖”？](https://dig.chouti.com/link/42043527)|
+|2024-04-07 11:09:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[那些立在学校楼顶却无人问津的神秘大球，到底是哪里来的？](https://dig.chouti.com/link/42045154)|
+|2024-04-07 13:12:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[南沙岛礁守备部队已经开始换新枪了，这些女兵是报务专业的](https://dig.chouti.com/link/42046047)|
+|2024-04-07 12:03:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美股的重大变化：埃克森美孚“崛起”，能源涨幅超过科技】石油股提供了一种押注经济增长的新玩法，即使地缘政治终结了增长叙事，它们还能对投资者提供一定的保护。](https://dig.chouti.com/link/42045576)|
+|2024-04-07 12:11:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【史里芬】没来自贡灯会等于没见过灯](https://dig.chouti.com/link/42045687)|
+|2024-04-07 07:34:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当中国电影失去万玛才旦】在万玛才旦离世近一年之际，恰逢《雪豹》上映，谨以此文追忆万玛才旦的才情与才能，叹息他的珍贵与不易。](https://dig.chouti.com/link/42042984)|
+|2024-04-07 08:33:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【华尔街日报：美国将严格审查“小额豁免”发货】“小额豁免”是Temu和Shein等电商巨头青睐的一种进口方式。从国外直接邮寄的价值低于800美元的包裹无需缴纳关税，美国海关也不会对其进行严格审查。美国国土安全部4月5日表示，直接发送给美国消费者的低价值包裹将受到更严格的审查，包括调查货物是否违反了美国的一些禁令。](https://dig.chouti.com/link/42043595)|
+|2024-04-07 09:09:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广州cpsp横幅大赏：](https://dig.chouti.com/link/42044052)|
+|2024-04-07 09:09:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2024中国航天日海报TOP20（排名不分先后，将由网友票选最佳）](https://dig.chouti.com/link/42044063)|
+|2024-04-07 10:10:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[SpaceX的新CG展示星舰助推器的陆上回收过程](https://dig.chouti.com/link/42044682)|
+|2024-04-07 07:11:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【多国抵制行动致门店销售额大幅下滑，麦当劳回购以色列所有门店】本轮巴以冲突爆发后，麦当劳以色列分部向以色列国防军和警察提供大量免费食物，以表达对其打击哈马斯行动的支持。一些领到食物的军警在网上发文拍照后，激起全球多个伊斯兰国家的抗议。据悉在回购以色列门店后，麦当劳将加强对各地分部的控制。](https://dig.chouti.com/link/42042849)|
+|2024-04-07 10:10:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[希拉里被民众当街怒骂F词：你要为数百万人的死亡负责，你不配说自己是女权主义者！](https://dig.chouti.com/link/42044678)|
+|2024-04-07 08:01:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【华金·菲尼克斯等签署公开信，力挺反对以色列占领巴勒斯坦的《利益区域》犹太裔导演】“我们是自豪的犹太人，但我们谴责将犹太人身份变成杀人武器的做法。永远记得纳粹大屠杀是一回事，将之作为杀人借口是另一回事。许多国际法专家、包括著名纳粹大屠杀学者已认定加沙‘正发生种族灭绝事件’，什么借口都无法为之辩护。”](https://dig.chouti.com/link/42043029)|
+|2024-04-07 08:02:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[YouTube视频被OpenAI用来训练大模型？YouTube CEO称暂无证据，但此举违规](https://dig.chouti.com/link/42043210)|
+|2024-04-07 09:19:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[80万年薪的“聘任制公务员”，是“神仙工作”吗？](https://dig.chouti.com/link/42044161)|
+|2024-04-07 12:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【明清以来，如果长子无男性继承人，次子有儿子，家业该怎么传承？】有这种问题的，八成是受到了现在的某些大肆鼓吹、宣扬“嫡庶神教”的影视剧、小说的荼毒，并且犯了以今比古，甚至“拿本朝的剑斩前朝的官”的毛病。现代所谓的“继承”和古代（明清）的“继承”侧重点不一样，甚至可以说压根不是一个意思。](https://dig.chouti.com/link/42045411)|
+|2024-04-07 12:09:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以色列军方确认所有以军部队都已离开加沙南部](https://dig.chouti.com/link/42045620)|
+|2024-04-07 07:11:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【张志磊：与帕克二番战确定，时间在年底】张志磊谈及上月与约瑟夫·帕克的比赛以及未来计划。他坦言自己在对阵帕克时有些过于自信和放松，导致最终失利，还透露自己与帕克之间有二番战的协议，时间将定在今年年底。](https://dig.chouti.com/link/42042917)|
+|2024-04-07 09:37:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[111岁英国男子约翰·廷尼斯伍德被吉尼斯认证为全球在世最年长男性，自称长寿秘诀是“运气好”](https://dig.chouti.com/link/42044233)|
+|2024-04-07 11:09:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[黄金狂飙站上2300美元背后：管你降不降息，已视美联储为无物？](https://dig.chouti.com/link/42045150)|
+|2024-04-07 07:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【两度被《自然》撤稿的室温超导学者迪亚斯坐实多项学术不端行为】近日，《自然》新闻团队援引的一份124页的法庭文件称，罗彻斯特大学一项长达10个月的调查发现，迪亚斯存在伪造实验数据伪造和抄袭等多项不当行为。迪亚斯是罗切斯特大学的终身教职员工，但校方目前正试图在他的合同结束前（2025年8月31日前）解雇他。](https://dig.chouti.com/link/42042841)|
+|2024-04-07 11:10:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全球首例活体人类移植猪肾脏手术患者出院：猪肾脏修改了69个基因](https://dig.chouti.com/link/42045189)|
 |2024-04-07 11:35:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[北京一楼盘“买一送一（烟台108平海景现房）”？销售人员：仅限部分房源，需全款支付](https://dig.chouti.com/link/42045304)|
 |2024-04-07 00:08:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[意大利埃特纳火山喷发的“烟圈”——这是一种叫“涡环”的现象，火山喷发时，火山口冒出的热气体、熔岩碎屑和火山灰被迅速排放到大气中。这些物质与周围的空气和水蒸气混合，并通过火山喷发的气流运动形成了“烟圈”。埃特纳火山的涡环排放量比任何其他火山都要多，当地人因此也将这座火山称为“指环夫人”。](https://dig.chouti.com/link/42039354)|
 |2024-04-07 04:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本的二手玩具店，治愈了我的童年](https://dig.chouti.com/link/42041513)|
