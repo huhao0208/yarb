@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-08 14:10:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从鱼的角度看翠鸟的精确捕食……](https://dig.chouti.com/link/42057275)|
+|2024-04-08 12:02:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“天都二号”卫星实现液氨冷气微推进系统首次在深空探测成功应用】探月工程用鹊桥通导技术试验卫星——天都二号卫星推进分系统工作正常，为卫星绕月提供了高精度轨道姿态控制。这是液氨冷气微推进系统在深空探测领域首次成功应用。此外，该推进系统采用的一体化成型3D打印铝合金贮箱，也实现国内首次在轨应用。](https://dig.chouti.com/link/42056257)|
+|2024-04-08 12:34:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国鳄鱼Lacoste起诉卡帝乐鳄鱼Cartelo商标侵权，胜诉](https://dig.chouti.com/link/42056516)|
+|2024-04-08 13:11:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[埃弗顿再被扣除2个英超积分，合计扣8分，目前高出降级区2分](https://dig.chouti.com/link/42056872)|
+|2024-04-08 13:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【国内首例猪肾移植入人体已持续工作14天，可正常产生尿液】3月25日，空军军医大学西京医院专家团队在切除受者自体双侧肾脏的情况下，将一只多基因编辑猪的肾脏移植到一位脑死亡受者体内。截至4月7日，“猪肾”已持续工作14天，功能良好，正常产生尿液。](https://dig.chouti.com/link/42056910)|
+|2024-04-08 08:05:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一只网红猫头鹰之死](https://dig.chouti.com/link/42053937)|
+|2024-04-08 06:12:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[感受一下Hand Talk：只需要输入文本或说话，Hand Talk应用会自动将其翻译成美国手语 ASL 或巴西手语 Libras 。该应用被联合国选为“世界上最佳的社交应用”，目前已翻译了近20亿个单词。](https://dig.chouti.com/link/42052673)|
+|2024-04-08 09:10:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[老照片：1998年，撒丁岛演习，德国空军米格-29，在飞行中部分座舱盖飞脱](https://dig.chouti.com/link/42054712)|
+|2024-04-08 10:10:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【巴西最高法院法官下令封禁部分X平台账号，马斯克怒批：违宪可耻，辞职下台】巴西国内正打击被认定传播仇恨言论和虚假信息的社交媒体账号，最高法院法官莫拉埃斯下令在巴西封锁X平台某些账号，X平台最初遵守了该命令，但马斯克本周末表示，所有这些账号都将被解除封锁并恢复。](https://dig.chouti.com/link/42055301)|
+|2024-04-08 08:02:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国家金融监督管理总局全国所有支局统一挂牌，形成“总局—省局—分局—支局”监管体系](https://dig.chouti.com/link/42053541)|
+|2024-04-08 06:44:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[幼儿园倒闭潮后，“下岗幼师们”的转行七十二变](https://dig.chouti.com/link/42052786)|
+|2024-04-08 12:04:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[财政部副部长廖岷：此次经中美双方深入磋商讨论，最终在经济、金融领域达成重要共识](https://dig.chouti.com/link/42056290)|
+|2024-04-08 12:14:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴黎奥运会田径赛场将使用紫色跑道，还分深浅两种颜色。浅紫色用于径赛、跳跃和投掷等比赛区域，深紫色用于跑道之外的技术区域。据悉，这种跑道有助运动员更好发挥，且比往届奥运会的跑道更环保。](https://dig.chouti.com/link/42056460)|
+|2024-04-08 10:11:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我要怎么提醒鸽子妈跑错层了啊……一孕傻三年](https://dig.chouti.com/link/42055381)|
+|2024-04-08 12:14:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾《联合新闻网》报道，大陆无人机今天（8日）两度造访二胆岛，台金防部出动干扰枪反制。大陆当事博主今天下午发布所拍影像，并讽“终于操作干扰枪，但屁用没有”。](https://dig.chouti.com/link/42056416)|
+|2024-04-08 12:14:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[漂浮在空中，还是个小短腿的迷之生物](https://dig.chouti.com/link/42056427)|
+|2024-04-08 12:54:56|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[近期网购推荐，离谱，但合理。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451314&idx=1&sn=503f15491a33ad39e8e382c113db7fb7)|
 |2024-04-08 11:39:13|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 60：而立有八](https://w2solo.com/topics/4541)|
 |2024-04-08 02:34:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[AI 时代，我靠 2 个页面，一个 AI 产品开始变现](https://w2solo.com/topics/4540)|
 |2024-04-08 02:08:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道](https://w2solo.com/topics/4539)|
