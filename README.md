@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-08 03:01:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[范志毅出任辽宁铁人教练组组长兼技术总监，李应发、李树斌担任技术顾问](https://dig.chouti.com/link/42050361)|
+|2024-04-08 03:03:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[现货白银突破28美元/盎司，创三年来新高](https://dig.chouti.com/link/42050807)|
+|2024-04-08 03:11:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[F-117近日的钻山沟视频与照片](https://dig.chouti.com/link/42050954)|
+|2024-04-08 02:09:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【虐猫考生已参加兰大研究生调剂复试，本人称不是很懂网络舆论暂不回应】徐某看起来比较轻松，表示现在最关注的问题是“笔试成绩什么时候出来”，“如果兰州大学对我思政考核有一个很好的最终结果，我会愿意接受采访。”在经过一片丁香树时，徐某感叹：“花好香啊，你可以写我喜欢赏花。我确实不能说太多，说太多也不好。”](https://dig.chouti.com/link/42050128)|
+|2024-04-08 02:09:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[检方通报邯郸初中生被害案：3名未成年犯罪嫌疑人（作案时已满12周岁不满14周岁）被核准追诉](https://dig.chouti.com/link/42050133)|
+|2024-04-08 02:10:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[仝卓和仝卓工作室的瓜省流版](https://dig.chouti.com/link/42050195)|
+|2024-04-08 01:10:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男巫Zack King联手一众TikTok网红，拍了一出大戏讽刺TikTok被禁~好多梗啊](https://dig.chouti.com/link/42049504)|
+|2024-04-08 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[不收3块5，高德志向不在盈利](https://36kr.com/p/2723299017291910)|
+|2024-04-08 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[突发，超级独角兽杀出：估值1300亿](https://36kr.com/p/2723314454870145)|
+|2024-04-08 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李书福，瞒不住了](https://36kr.com/p/2723400534652809)|
+|2024-04-08 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[吴泳铭废止张勇旧政，阿里重新拥抱变化](https://36kr.com/p/2723060933972613)|
+|2024-04-08 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Robotaxi，特斯拉股价的急救车](https://36kr.com/p/2722962569400962)|
+|2024-04-08 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9 亿用户、估值 300 亿美元，「暗黑版微信」决定上市](https://36kr.com/p/2722880252491909)|
+|2024-04-08 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨库迪回应陆正耀等被强制执行18.9亿元；恒大造车5年亏超1100亿元；清明节假期国内旅游出游1.19亿人次](https://36kr.com/p/2724032308679172)|
+|2024-04-08 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为发布会取消，P70将直接开售，网友先疯了](https://36kr.com/p/2723183303178112)|
 |2024-04-07 12:58:36|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚从西湖国宾馆出来，我有话要说！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451256&idx=1&sn=26122d41bedcf8cf30655c2859177fd9)|
 |2024-04-07 09:16:21|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[实战：如何优雅的从 Skywalking 切换到 OpenTelemetry](http://crossoverjie.top/2024/04/07/ob/otel-replace-sw/)|
 |2024-04-07 21:05:48|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：setup.py里面的两个小技巧](https://www.kingname.info/2024/04/07/setup/)|
