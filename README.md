@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-04-07）
+﻿# 每日资讯（2024-04-08）
 
 |时间|来源|标题|
 |---|---|---|
@@ -70,6 +70,7 @@
 |2024-04-07 04:38:40|[机核](https://www.gcores.com/rss)|[第n次去圆明园](https://www.gcores.com/articles/179915)|
 |2024-04-07 04:24:24|[机核](https://www.gcores.com/rss)|[浦泽直树，漫画领域最接近神的男人](https://www.gcores.com/articles/179931)|
 |2024-04-07 04:22:11|[机核](https://www.gcores.com/rss)|[《Hobo: Tough Life》，一个让我感觉自由的游戏](https://www.gcores.com/articles/179929)|
+|2024-04-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Integration By Substitution](https://leimao.github.io/blog/Integration-By-Substitution/)|
 |2024-04-07 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年 3 月和 4 月该入手的模型手办](https://leimao.github.io/essay/2024%E5%B9%B43%E6%9C%88%E5%92%8C4%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/)|
 |2024-04-07 04:01:32|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[选题、专业性、完美主义、数据和灵感，这些创作焦虑该如何应对？](https://sspai.com/post/87015)|
 |2024-04-07 02:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【2个月致13死，今年为何这么多人患上百日咳？】在公众印象中，百日咳是一种古老且“过时”的疾病，但从10来年前，百日咳病例就已呈上升趋势，由于青少年和成人症状不明显、检测技术限制等多种因素，其发病曾长期被忽视和低估。](https://dig.chouti.com/link/42040303)|
