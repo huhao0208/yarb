@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[宜家中国开出“低价精品店”；迪卡侬想要高端化；塔斯汀门店数突破7000家丨品牌日报](https://36kr.com/p/2724384374120966)|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[最前线 剑指小米SU7，智己L6预售价23-33万元](https://36kr.com/p/2725005741450500)|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大火的“新中式”，给消费行业带来了什么？](https://36kr.com/p/2724753489011720)|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[最便宜的 iPhone ，要来了](https://36kr.com/p/2725117685163271)|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[悄悄地，华为又当回了手机“大哥”](https://36kr.com/p/2724473086485255)|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[失实，理想否认裁员传闻，官宣最便宜新车，目标月销3万](https://36kr.com/p/2724731826529288)|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨甘肃天水官方开店卖麻辣烫；茅台回应飞天茅台价格跌破2600元；苹果指控前员工泄密至少6款苹果产品](https://36kr.com/p/2725455402034184)|
+|2024-04-09 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[阿里开始了大反攻](https://36kr.com/p/2724743986603269)|
+|2024-04-09 01:20:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[習俗的意義](http://mercurychong.blogspot.com/2024/04/blog-post.html)|
+|2024-04-09 04:01:43|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大斗作品](https://sspai.com/post/87799)|
 |2024-04-08 16:06:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你的宠物是你花了多少钱买的？](https://www.zhihu.com/question/650460666)|
 |2024-04-08 16:06:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[跑步慢慢变瘦后是什么感觉？](https://www.zhihu.com/question/651569617)|
 |2024-04-08 16:06:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以分享一张小猫奔向你的照片吗？](https://www.zhihu.com/question/646471496)|
