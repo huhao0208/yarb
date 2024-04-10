@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-10 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[当一个人迷茫了，觉得自己一无是处的时候该干些什么？](https://www.zhihu.com/question/489950851)|
+|2024-04-10 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[智己线下销售，替刘涛说出了“道歉风波”背后的心里话](https://36kr.com/p/2726145192625920)|
+|2024-04-10 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[体验完黄仁勋最爱用的 AI 工具：Google 不香了，还能平替 ChatGPT](https://36kr.com/p/2725892585399556)|
+|2024-04-10 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[揭秘暴雪网易「复婚」始末：微软做媒，国服因技术问题最早6月回归 36氪独家](https://36kr.com/p/2724553698927873)|
+|2024-04-10 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克最新演讲：20 年内可在火星生活，开启人类多行星文明纪元](https://36kr.com/p/2726155940504583)|
+|2024-04-10 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨网易回应暴雪国服回归；Zara辟谣撤出中国市场；智己汽车就“SU7参数标注错误”再次向小米道歉](https://36kr.com/p/2726876502729735)|
+|2024-04-10 03:36:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[非破壞性拆解：Apple Vision Pro、Meta Quest Pro、Meta Quest 3](https://applefans.today/2024-04-apple-vision-pro-ct-scans/)|
+|2024-04-10 04:10:09|[机核](https://www.gcores.com/rss)|[萌萌小恐龙商店模拟经营游戏《琥珀岛》即将推出](https://www.gcores.com/articles/180100)|
+|2024-04-10 04:02:24|[机核](https://www.gcores.com/rss)|[免费多人游戏《宝藏世界》宣布第三届年度兔子庆典正式开始！](https://www.gcores.com/articles/180097)|
+|2024-04-10 03:55:00|[机核](https://www.gcores.com/rss)|[暴雪回归！国服将由网易继续代理](https://www.gcores.com/articles/180073)|
+|2024-04-10 03:46:00|[机核](https://www.gcores.com/rss)|[克苏鲁钓鱼游戏《渔帆暗涌》将改编真人电影](https://www.gcores.com/articles/180093)|
+|2024-04-10 03:40:07|[机核](https://www.gcores.com/rss)|[《时尚造梦》免费更新第五弹将于4月11日上线](https://www.gcores.com/articles/180095)|
+|2024-04-10 03:11:55|[机核](https://www.gcores.com/rss)|[《无径之林》现已在机核商店正式发售](https://www.gcores.com/articles/180092)|
+|2024-04-10 03:00:26|[机核](https://www.gcores.com/rss)|[《星球大战：法外狂徒》公布最新预告，国区价格同步揭晓](https://www.gcores.com/articles/180090)|
+|2024-04-10 02:55:32|[机核](https://www.gcores.com/rss)|[《哈尔的移动城堡》中配“哈尔”终于官宣](https://www.gcores.com/articles/180089)|
+|2024-04-10 02:21:18|[机核](https://www.gcores.com/rss)|[《战地2042》宣布赛季停更](https://www.gcores.com/articles/180086)|
+|2024-04-10 02:13:00|[机核](https://www.gcores.com/rss)|[【更新】《小丑2: 双重妄想》发布正式预告片，10月4日全美上映](https://www.gcores.com/articles/180072)|
+|2024-04-10 00:58:44|[机核](https://www.gcores.com/rss)|[我就是，“超凡守护者”！《命运2：终焉之形》开发者介绍与演示汇总](https://www.gcores.com/articles/180080)|
+|2024-04-10 00:50:00|[机核](https://www.gcores.com/rss)|[《恶魔轮盘》Steam版销量突破50万份，Steam社区物品及毛绒玩具在路上](https://www.gcores.com/articles/180085)|
 |2024-04-09 10:28:46|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Whoscall 再端新功能「個資外洩偵測」！提前預警詐騙風險](https://applefans.today/2024-04-whoscall-new-features/)|
 |2024-04-09 11:02:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“很多人把黄金一袋子一袋子拿出来卖！”记者实探深圳水贝黄金市场：有人“买黄金跟不要钱似的”](https://dig.chouti.com/link/42066799)|
 |2024-04-09 13:43:24|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《笼中之鸟》：小偷被困在顶级豪宅，缺水少粮极限求生，最后的逃生不可思议！](https://www.ximalaya.com/sound/721574109)|
