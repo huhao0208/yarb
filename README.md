@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-10 08:03:56|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你们疯狂好评的仙品小番茄！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451381&idx=1&sn=e5b25dae18a718f68a716191e081b106)|
+|2024-04-10 09:43:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Face Sticker -- 一款在线 AI 贴纸生成工具，欢迎免费体验](https://w2solo.com/topics/4542)|
+|2024-04-10 08:13:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳 Apple 與 Photobucket 合作：用 130 億張照片訓練 AI 模型](https://www.iphonetaiwan.org/2024/04/photobucket-big-tech-ai-training-data.html)|
+|2024-04-10 06:43:56|[知乎每日精选](https://www.zhihu.com/rss)|[中国西安《小果酱》画稿展](http://zhuanlan.zhihu.com/p/690008063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2024-04-10 06:42:18|[知乎每日精选](https://www.zhihu.com/rss)|[灯塔之下，科学璀璨](http://zhuanlan.zhihu.com/p/690686329?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-04-10 03:16:22|[KAIX.IN](https://kaix.in/feed/)|[机器人之梦](https://kaix.in/2024/0410-robot-dreams/)|
 |2024-04-10 05:09:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好家伙？！贩毒嫌犯冒充亲属旁听庭审，遭被告当庭检举：“我的上线就在旁听席，他戴口罩我也认得”](https://dig.chouti.com/link/42074260)|
 |2024-04-10 06:03:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[特斯拉超越Coinbase，成“木头姐”旗舰ETF最大持股](https://dig.chouti.com/link/42074695)|
