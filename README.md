@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-11 03:28:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道 - 独立开发，副业的一些感想](https://w2solo.com/topics/4544)|
+|2024-04-11 02:10:58|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[SecureClipX —— 一款 100% 免费且（即将）开源的安全「系统剪贴板」替代方案](https://w2solo.com/topics/4543)|
+|2024-04-11 04:15:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 開放免費使用自家的 AI 修圖 工具](https://applefans.today/2024-04-google-photos-editing-features-availability/)|
+|2024-04-11 01:41:40|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[台灣開賣 M3 MacBook Air 了！最快可在 4 月 23 日送達](https://applefans.today/2024-04-tw-launch-m3-chip-macbook-air/)|
 |2024-04-11 00:35:18|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[共同守护留守儿童｜工劳小报 #39](https://feeds.laborinfozh.com/issue39/)|
 |2024-04-11 02:22:21|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[2024年的云原生架构需要哪些技术栈](http://crossoverjie.top/2024/04/11/ob/2024-cloud-native/)|
 |2024-04-10 13:16:30|[](http://blog.fivest.one/feed)|[分类法](https://blog.fivest.one/archives/6684)|
