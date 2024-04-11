@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-04-10）
+﻿# 每日资讯（2024-04-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-11 00:35:18|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[共同守护留守儿童｜工劳小报 #39](https://feeds.laborinfozh.com/issue39/)|
+|2024-04-11 02:22:21|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[2024年的云原生架构需要哪些技术栈](http://crossoverjie.top/2024/04/11/ob/2024-cloud-native/)|
 |2024-04-10 13:16:30|[](http://blog.fivest.one/feed)|[分类法](https://blog.fivest.one/archives/6684)|
 |2024-04-10 16:05:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中年职场人如何保持身材不发胖？](https://www.zhihu.com/question/651186140)|
 |2024-04-10 16:05:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 快船 105:92 太阳，如何评价这场比赛？](https://www.zhihu.com/question/652454862)|
