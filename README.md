@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-12 15:00:00|[机核](https://www.gcores.com/rss)|[转生一大堆，少女整乐队 天天ACG4.12](https://www.gcores.com/radios/179938)|
+|2024-04-12 14:02:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[The Information：TikTok正开发AI虚拟网红，帮助商家创作广告并实现带货](https://dig.chouti.com/link/42101720)|
+|2024-04-12 03:10:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网友：我希望丹尼尔和艾玛（因为公开反对你关于跨性别言论的事情）向你（J.K.罗琳）道歉，我确信你会原谅他们的。 J.K.罗琳：恐怕不会原谅。名人们放任社会侵害女性来之不易的权利、用自己的影响力去为未成年人变性而宣传，他们应该把道歉留给那些因为跨性别问题而遭受到创伤的人、以及依赖于单一性别空间的弱势妇女群体。](https://dig.chouti.com/link/42095459)|
+|2024-04-12 03:10:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本海自人形兵器：密集阵和海拉姆](https://dig.chouti.com/link/42095465)|
+|2024-04-12 03:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从行政处罚十日，到一年三个月刑期：一条涉黑线索牵出的“破坏生产经营罪”](https://dig.chouti.com/link/42095608)|
+|2024-04-12 09:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[嫦娥六号探月任务预计五一前后发射，将全球首次尝试月球背面采样返回](https://dig.chouti.com/link/42098805)|
+|2024-04-12 10:02:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[GLP-1减肥药产能战升温：礼来25亿美元德国建厂，预计2027年运营](https://dig.chouti.com/link/42099570)|
+|2024-04-12 13:12:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【菲律宾两大家族——马科斯家族与杜特尔特家族被指已“决裂”】当地时间4月10日，菲律宾总统马科斯启程访问美国，但与以往的出访不同，这次马科斯没有只让副总统莎拉·杜特尔特-卡皮奥一人代行总统职能，而是任命了三名政府看守人。](https://dig.chouti.com/link/42101392)|
+|2024-04-12 11:13:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[软脚禽又跪了，这次是在嘉手纳基地](https://dig.chouti.com/link/42100380)|
+|2024-04-12 12:18:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[自取其乳！ 考特尼·卡戴珊昨天表示因为感觉不舒服，于是给自己挤了一杯奶喝了~~](https://dig.chouti.com/link/42100905)|
+|2024-04-12 10:03:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一季度进出口规模首破10万亿元，义乌商人：订单排到两个月后，老外也多了](https://dig.chouti.com/link/42099644)|
+|2024-04-12 11:12:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[尼日尔军政府断绝与美法合作后，俄罗斯派遣军事专家](https://dig.chouti.com/link/42100325)|
+|2024-04-12 11:02:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国务院称布林肯已联系中国、土耳其、沙特等多方，望劝伊朗不要打击以色列](https://dig.chouti.com/link/42100053)|
+|2024-04-12 11:14:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[送外卖的985硕士“陈师傅”去教新闻了](https://dig.chouti.com/link/42100410)|
+|2024-04-12 12:18:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：肥宅英雄，作者Dan Everton](https://dig.chouti.com/link/42100932)|
+|2024-04-12 12:02:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【校方：因欺负同学被联名劝退事件双方家长已和解，男孩五一后将返校】据该校区相关负责人称，“他是这学期2月26日转来的，也就一个多月的时间”，不算很调皮，根本谈不上“霸凌”，就是有些不服管。“比如说班干部拉他进教室的时候，他可能会去推别人，或者是用脚去踢一下别人。上课不听讲，同学提醒他，他可能不会听。”](https://dig.chouti.com/link/42100574)|
+|2024-04-12 12:02:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[59岁基努·里维斯将迎娶小5岁女友，举办小型婚礼](https://dig.chouti.com/link/42100555)|
+|2024-04-12 11:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[澳门楼市将全面“撤辣”，将取消不动产交易“三税”，统一楼宇按揭成数上限为七成](https://dig.chouti.com/link/42100061)|
+|2024-04-12 03:09:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台陆委会11日记者会上公布例行性民调结果，台湾民众选择“永远维持现状”的比例创十年来新高。具体为：永远维持现状为37.9％、维持现状以后再决定26.3％、维持现状以后独立19.5％、尽快宣布独立5.4％、维持现状以后统一5.1％、尽快统一2.2％](https://dig.chouti.com/link/42095388)|
+|2024-04-12 03:23:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI以泄密为由解雇两名研究人员，包括首席科学家盟友](https://dig.chouti.com/link/42095544)|
+|2024-04-12 11:13:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网红编造“在巴黎捡到秦朗作业本”被处罚】经查，为吸粉引流，网民徐某某 女，29岁，网名“Thurman猫一杯” 与同事薛某 男，30岁 共同策划、编造“拾到小学生秦朗丢失的作业本”系列视频脚本，后网购寒假作业本，用手机自拍、制作相关视频，并散播至多个网络平台。目前已依法对徐某某、薛某及二人所在公司作出行政处罚。](https://dig.chouti.com/link/42100353)|
+|2024-04-12 09:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马尔代夫经贸部长4月11日表示，马尔代夫将很快可以用人民币进行进口货品的结算。4月14日，政府还将正式宣布支付宝和微信进入马尔代夫市场。](https://dig.chouti.com/link/42099185)|
+|2024-04-12 05:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1次训练用电2.4亿度，AI 为什么那么耗电？](https://dig.chouti.com/link/42096712)|
+|2024-04-12 07:03:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国航母交出指挥权：首次接受北约作战指挥，为期15天，随时可收回授权](https://dig.chouti.com/link/42097562)|
+|2024-04-12 09:47:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《一张大字报稿》（据说是沈从文写于1966年7月，内中有这样的文字：“我还是对范曾同志十分感谢，因为他教育了我，懂事一点，什么是‘损人利己’。可说是收获之一。”）](https://dig.chouti.com/link/42099336)|
+|2024-04-12 09:38:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[@九龙塘右眼财迷：看到众多赛博邻居在谈论范曾以86岁高龄新娶36岁小娇妻，“一树梨花压海棠”的故事，但却没人谈一谈他文革中揭发恩师沈从文“烂透了”，四度娶妻，以及攀附某大人物的事，这里忍不住讲一下](https://dig.chouti.com/link/42099333)|
+|2024-04-12 16:39:50|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 926 Div. 2 ](https://blog.mauve.icu/2024/04/12/acm/codeforces/CodeforcesRound926/)|
 |2024-04-12 05:37:29|[华山感染](https://feedpress.me/wx-hsinfect)|[古病毒是否仍在参与人类免疫进化？ 崔杰、张文宏团队在国家科学评论（NSR）上发表古病毒与免疫及临床应用展望](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502618&idx=2&sn=5a1265d16a7cdfaec17995e2c0bcd64e)|
 |2024-04-12 05:37:28|[华山感染](https://feedpress.me/wx-hsinfect)|[频上热搜！这种呼吸道传染病卷土重来，如何应对？](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502618&idx=1&sn=084ff734d744f05efe817b8b85c33ccf)|
 |2024-04-12 00:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[我们需要从 XZ 后门中获得的启示](/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/04/12/xz.html)|
