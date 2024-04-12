@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-12 05:37:29|[华山感染](https://feedpress.me/wx-hsinfect)|[古病毒是否仍在参与人类免疫进化？ 崔杰、张文宏团队在国家科学评论（NSR）上发表古病毒与免疫及临床应用展望](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502618&idx=2&sn=5a1265d16a7cdfaec17995e2c0bcd64e)|
+|2024-04-12 05:37:28|[华山感染](https://feedpress.me/wx-hsinfect)|[频上热搜！这种呼吸道传染病卷土重来，如何应对？](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502618&idx=1&sn=084ff734d744f05efe817b8b85c33ccf)|
+|2024-04-12 00:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[我们需要从 XZ 后门中获得的启示](/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/04/12/xz.html)|
 |2024-04-12 09:06:33|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[有点离谱，但打工人真的很爱。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451519&idx=1&sn=64db13ea1a67b5681d0d8cfc240b368b)|
 |2024-04-12 09:45:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[有后端/全栈大佬吗？求合作](https://w2solo.com/topics/4549)|
 |2024-04-12 05:53:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[失业一个月，我的自由职业独立开发之路](https://w2solo.com/topics/4548)|
