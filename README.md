@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-04-12）
+﻿# 每日资讯（2024-04-13）
 
 |时间|来源|标题|
 |---|---|---|
@@ -33,6 +33,7 @@
 |2024-04-12 05:37:28|[华山感染](https://feedpress.me/wx-hsinfect)|[频上热搜！这种呼吸道传染病卷土重来，如何应对？](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502618&idx=1&sn=084ff734d744f05efe817b8b85c33ccf)|
 |2024-04-12 00:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[我们需要从 XZ 后门中获得的启示](/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/04/12/xz.html)|
 |2024-04-12 09:06:33|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[有点离谱，但打工人真的很爱。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451519&idx=1&sn=64db13ea1a67b5681d0d8cfc240b368b)|
+|2024-04-13 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：2024 年春季学期迎新会 & Python与shell的碰撞——xonsh，兼论AI人如何提高生产力](https://tuna.moe/event/2024/xonsh/)|
 |2024-04-12 09:45:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[有后端/全栈大佬吗？求合作](https://w2solo.com/topics/4549)|
 |2024-04-12 05:53:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[失业一个月，我的自由职业独立开发之路](https://w2solo.com/topics/4548)|
 |2024-04-12 03:39:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #31：我曾走在崩溃的边缘](https://w2solo.com/topics/4547)|
