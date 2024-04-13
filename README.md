@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-13 15:00:00|[机核](https://www.gcores.com/rss)|[数字时代，还是有人偏爱实体游戏GadioNews04.13](https://www.gcores.com/radios/179652)|
+|2024-04-13 12:40:23|[机核](https://www.gcores.com/rss)|[关于“副作用”想了一个简单的比赛走格子的小游戏](https://www.gcores.com/articles/180272)|
+|2024-04-13 12:30:00|[机核](https://www.gcores.com/rss)|[抽象的设计需求，应该如何应对？](https://www.gcores.com/videos/180264)|
+|2024-04-13 09:38:41|[机核](https://www.gcores.com/rss)|[译介丨最无趣的数字](https://www.gcores.com/articles/180271)|
+|2024-04-13 09:22:27|[机核](https://www.gcores.com/rss)|[黄衣之王神话作品译文：《光芒万丈》](https://www.gcores.com/articles/180270)|
+|2024-04-13 09:22:27|[机核](https://www.gcores.com/rss)|[一篇没有营养的《辐射》剧集观后感](https://www.gcores.com/articles/180266)|
+|2024-04-13 09:17:29|[机核](https://www.gcores.com/rss)|[《神圣而可怕的空气》自译｜06. 勇敢者弗兰蒂切克](https://www.gcores.com/articles/180261)|
+|2024-04-13 08:41:38|[机核](https://www.gcores.com/rss)|[记录丨首次虚幻室外神庙摄影](https://www.gcores.com/videos/180265)|
+|2024-04-13 07:38:47|[机核](https://www.gcores.com/rss)|[手游《Fate/Grand Order》将与《魔法使之夜》展开联动，4月下旬上线](https://www.gcores.com/articles/180267)|
+|2024-04-13 03:44:01|[机核](https://www.gcores.com/rss)|[涅克洛蒙达：信仰家族柯多（完）](https://www.gcores.com/articles/177462)|
+|2024-04-13 03:00:00|[机核](https://www.gcores.com/rss)|[E起前进！「吉考斯工业 x EDG」联名系列正式发售](https://www.gcores.com/articles/179190)|
+|2024-04-13 00:49:53|[机核](https://www.gcores.com/rss)|[《异界失控》：毛茸茸配异常物，可爱强力两不误](https://www.gcores.com/articles/180247)|
+|2024-04-13 16:50:00|[smallyu的博客](https://smallyu.net/atom.xml)|[为什么说PoW比PoS更加去中心化](https://smallyu.net/2024/04/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4PoW%E6%AF%94PoS%E6%9B%B4%E5%8A%A0%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/)|
 |2024-04-13 07:25:15|[迷途小书童的Note](https://xugaoxiang.com/feed)|[图像基础概念](https://xugaoxiang.com/2024/04/13/image-foundation/)|
 |2024-04-13 02:52:15|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Streamlit部署YOLOv8模型](https://xugaoxiang.com/2024/04/13/yolov8-streamlit/)|
 |2024-04-13 12:30:00|[太隐](https://wangyurui.com/feed.xml)|[诗鬼](https://wangyurui.com/posts/san-jie-qi-meng-2a4c2e5a)|
