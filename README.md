@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-13 07:25:15|[迷途小书童的Note](https://xugaoxiang.com/feed)|[图像基础概念](https://xugaoxiang.com/2024/04/13/image-foundation/)|
+|2024-04-13 02:52:15|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Streamlit部署YOLOv8模型](https://xugaoxiang.com/2024/04/13/yolov8-streamlit/)|
+|2024-04-13 12:30:00|[太隐](https://wangyurui.com/feed.xml)|[诗鬼](https://wangyurui.com/posts/san-jie-qi-meng-2a4c2e5a)|
+|2024-04-13 15:54:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Amprobe 版本更新至 v1.3.1](https://w2solo.com/topics/4553)|
 |2024-04-13 12:05:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个简单作品，多谢点击！](https://w2solo.com/topics/4552)|
 |2024-04-13 11:51:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[写了篇新的专栏「独立开发的 100 个思考」](https://w2solo.com/topics/4551)|
 |2024-04-13 08:52:47|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 46 期（摘要）+ 赠书 7 本](https://w2solo.com/topics/4550)|
