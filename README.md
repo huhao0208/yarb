@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-04-13）
+﻿# 每日资讯（2024-04-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-14 01:12:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据称是以色列在大气层外拦截伊朗弹道导弹的视频](https://dig.chouti.com/link/42113344)|
+|2024-04-14 00:02:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伊朗国防部长：任何向以色列开放领空用于攻击伊朗的国家，都将面临果断回应](https://dig.chouti.com/link/42112741)|
+|2024-04-14 00:55:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伊朗向以色列本土发射弹道导弹和无人机，多国关闭领空](https://dig.chouti.com/link/42113022)|
 |2024-04-13 15:00:00|[机核](https://www.gcores.com/rss)|[数字时代，还是有人偏爱实体游戏GadioNews04.13](https://www.gcores.com/radios/179652)|
 |2024-04-13 12:40:23|[机核](https://www.gcores.com/rss)|[关于“副作用”想了一个简单的比赛走格子的小游戏](https://www.gcores.com/articles/180272)|
 |2024-04-13 12:30:00|[机核](https://www.gcores.com/rss)|[抽象的设计需求，应该如何应对？](https://www.gcores.com/videos/180264)|
