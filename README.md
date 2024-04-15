@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-15 03:17:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Humane AI Pin 能成為替代 iPhone 的產品嗎？](https://applefans.today/2024-04-humane-ai-pin-reviews-willbe-iphone-killer/)|
+|2024-04-15 01:17:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac app 測量螢幕像素 – PixelSnap](https://applefans.today/2024-04-mac-app-pixelsnap/)|
+|2024-04-15 06:14:54|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[实战：如何编写一个 OpenTelemetry Extensions](http://crossoverjie.top/2024/04/15/ob/how-to-write-otel-extensions/)|
+|2024-04-15 11:00:00|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)|
+|2024-04-15 08:44:40|[Steve Sun](https://www.sund.site/index.xml)|[审计追踪的设计](https://sund.site/posts/2024/audit-system-design/)|
+|2024-04-15 15:04:11|[机核](https://www.gcores.com/rss)|[【抽奖】「DCTer」原创角色「精灵贝斯手 埃塔」1/7手办公开](https://www.gcores.com/articles/180341)|
+|2024-04-15 13:00:00|[机核](https://www.gcores.com/rss)|[看似没有关系但热情似火的古巴故事：暗杀 智利之夜番外 Vol.2.5](https://www.gcores.com/radios/179701)|
+|2024-04-15 13:00:00|[机核](https://www.gcores.com/rss)|[妥协时代的结束：冷战阴云与智利 智利之夜Vol.2](https://www.gcores.com/radios/173199)|
+|2024-04-15 13:42:18|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[正则表达式中 “$” 并不是表示 “字符串结束”](https://w2solo.com/topics/4559)|
+|2024-04-15 13:21:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 61：一天内狂赚 330 万美元](https://w2solo.com/topics/4558)|
+|2024-04-15 11:18:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新产品来了！在线思维脑图 Smind｜更快！更方便！](https://w2solo.com/topics/4557)|
+|2024-04-15 13:20:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[门票4000元，百人同时垂钓？6人因“竞钓标鱼”开设赌场获刑](https://dig.chouti.com/link/42128474)|
+|2024-04-15 05:09:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[莫迪向选民承诺：印度独立100周年之际，即2047年，印度将成为发达国家](https://dig.chouti.com/link/42123902)|
+|2024-04-15 13:11:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一拖六](https://dig.chouti.com/link/42128396)|
+|2024-04-15 14:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[家中养了15只猫，噪音、异味让邻居不堪其扰，法院：减少至5只以下](https://dig.chouti.com/link/42128632)|
+|2024-04-15 13:15:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“九旬老人控诉保姆卷走200万”案开庭，原告律师：协商退100万，保姆未同意](https://dig.chouti.com/link/42128469)|
+|2024-04-15 06:24:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【一个女孩想要住自己房子的决心】2023年春天，31岁的四川女孩橘子做出了一个不寻常的选择——在对装修一无所知的情况下，她仍然决定自装房子，完完全全靠自己画设计图，铺水电，贴地砖，刮腻子……她甚至为此辞去了工作，还专门去上了电工培训课。尽管看起十分大胆，但这是橘子深思熟虑才作出的决定。](https://dig.chouti.com/link/42124651)|
+|2024-04-15 12:12:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Hesja作品，F-35A特辑](https://dig.chouti.com/link/42127908)|
+|2024-04-15 12:16:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【幼儿园关停后，教师寻出路】学前教育专任教师在2022年有324.42万人，到了2023年，这一数据为307.37万。](https://dig.chouti.com/link/42127909)|
+|2024-04-15 07:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI官宣在东京开设首个亚洲办事处，将发布针对日语进行优化的GPT-4模型](https://dig.chouti.com/link/42124836)|
+|2024-04-15 07:10:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[荣梓杉，中戏北电专业课考试双第一](https://dig.chouti.com/link/42125219)|
+|2024-04-15 07:32:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一所私人游戏博物馆和它的5000件藏品](https://dig.chouti.com/link/42125313)|
+|2024-04-15 12:12:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不到48小时，悉尼再次发生持刀行凶事件！悉尼西部韦克利的“基督好牧人”Christ the Good Shepherd教堂在进行直播时，突然有黑衣人冲上去持刀行凶，主教Mar Mari Emmanuel和牧师被捅伤。目前凶手已经被捕，行凶动机不明](https://dig.chouti.com/link/42127881)|
+|2024-04-15 07:51:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[华夏基金已获得香港证监会批准发行比特币及以太坊现货ETF](https://dig.chouti.com/link/42125346)|
+|2024-04-15 07:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[照片中的历史：1990 年，莫斯科克格勃新闻部秘书、“克格勃小姐”大赛冠军叶卡捷琳娜·马约洛娃](https://dig.chouti.com/link/42125154)|
+|2024-04-15 09:13:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[鹈鹕：平等地夹每一个生物](https://dig.chouti.com/link/42126437)|
+|2024-04-15 11:02:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩媒：歌手朴宝蓝尸检结果显示，没有“他杀或做出极端选择”迹象](https://dig.chouti.com/link/42127222)|
+|2024-04-15 09:32:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网传“已获刑”，昔日明星基金经理蔡嵩松本人回应：没什么好说的，这个是网上的说法](https://dig.chouti.com/link/42126452)|
+|2024-04-15 05:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[wtt澳门世界杯，这球潇洒~](https://dig.chouti.com/link/42123897)|
+|2024-04-15 06:02:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴伦·特朗普成年了，身高2米……总统儿子也有“择校”压力？](https://dig.chouti.com/link/42124364)|
+|2024-04-15 09:12:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[李显龙5月15日辞去新加坡总理一职，副总理兼财政部长黄循财同日继任](https://dig.chouti.com/link/42126405)|
+|2024-04-15 07:32:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【特斯拉高管：一些关于印度计划的报道“纯属捏造”】特斯拉公共政策和业务发展副总裁表示，最近关于特斯拉印度计划的报道是“错误的”。印度当地媒体上周报道称，特斯拉正探索与印度富豪穆克什·安巴尼的信实工业合作在印度建厂。还有报道称，特斯拉正考虑在古吉拉特邦、马哈拉施特拉邦和泰米尔纳德邦选择厂址。](https://dig.chouti.com/link/42125300)|
+|2024-04-15 08:03:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克发布全员信：特斯拉全球范围内将裁员10%](https://dig.chouti.com/link/42125647)|
+|2024-04-15 06:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“从艺2年会卤猪头肉”……记者探访徐州市徐海路幼儿园生活劳动课](https://dig.chouti.com/link/42124517)|
+|2024-04-15 07:03:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴勒斯坦媒体：以色列释放150名被关押巴勒斯坦人](https://dig.chouti.com/link/42125078)|
 |2024-04-15 10:54:57|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你一笔我一笔，明年老板开滴滴。。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451551&idx=1&sn=9a6e86ec20ec63a015cb493958881f52)|
 |2024-04-15 07:00:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[我对抄袭行为的看法](https://www.imaegoo.com/2024/about-plagiarism/)|
 |2024-04-15 11:00:00|[机核](https://www.gcores.com/rss)|[《辐射》电视剧浅评，机浪 VOL.43](https://www.gcores.com/radios/180327)|
