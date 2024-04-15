@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-15 12:59:06|[晚点LatePost](https://feedpress.me/wx-postlate)|[V23 诞生史：给年轻人造一台大玩具](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514985&idx=2&sn=17b10faa4d585dcd3a51440c666f2956)|
+|2024-04-15 12:59:05|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨抖音生活服务一季度销售额超 1000 亿，但未缩小与美团差距](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514985&idx=1&sn=3f10150657a835aa07d9e4dd89de4fc9)|
 |2024-04-15 03:17:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Humane AI Pin 能成為替代 iPhone 的產品嗎？](https://applefans.today/2024-04-humane-ai-pin-reviews-willbe-iphone-killer/)|
 |2024-04-15 01:17:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac app 測量螢幕像素 – PixelSnap](https://applefans.today/2024-04-mac-app-pixelsnap/)|
 |2024-04-15 06:14:54|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[实战：如何编写一个 OpenTelemetry Extensions](http://crossoverjie.top/2024/04/15/ob/how-to-write-otel-extensions/)|
