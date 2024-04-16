@@ -2,6 +2,40 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-16 14:12:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[倒装句，一问一答](https://dig.chouti.com/link/42138383)|
+|2024-04-16 13:09:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【法媒：法国将邀俄方参加诺曼底登陆80周年纪念，俄方：普京尚未收到邀请】普京曾参加2014年诺曼底登陆70 周年纪念仪式。仪式上，时任法国总统奥朗德表示，苏联人民为盟军在二战中取得胜利做出决定性贡献，这一点永远不会被忘记。](https://dig.chouti.com/link/42137882)|
+|2024-04-16 13:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[沙丘2哈克南家族的围笑~~](https://dig.chouti.com/link/42137898)|
+|2024-04-16 14:13:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这个装置，用于展示科威特每秒生产多少石油~](https://dig.chouti.com/link/42138424)|
+|2024-04-16 11:34:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[IMF：调高2024年全球增速预期至3.2%](https://dig.chouti.com/link/42137078)|
+|2024-04-16 12:12:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[坦克形态重回一战，乌克兰战场上的最新型俄军“乌龟”坦克，顶部布置了无人机干扰机](https://dig.chouti.com/link/42137508)|
+|2024-04-16 07:10:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[超 前 精 神 状 态 图 鉴](https://dig.chouti.com/link/42134530)|
+|2024-04-16 07:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从“厌女”到“爱女”，她们对浪漫小说感到厌烦](https://dig.chouti.com/link/42134561)|
+|2024-04-16 10:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[极越回应员工自称因买小米SU7被辞退：以个人身份为竞品进行长期宣发，还多次无故旷工](https://dig.chouti.com/link/42136060)|
+|2024-04-16 11:15:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好球](https://dig.chouti.com/link/42137033)|
+|2024-04-16 12:01:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[李显龙卸任总理后将出任新加坡国务资政](https://dig.chouti.com/link/42137138)|
+|2024-04-16 08:15:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好强的饭缩力](https://dig.chouti.com/link/42135095)|
+|2024-04-16 05:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【走出泌尿外科，他们继续和“福报”沉默斗争】中国男科疾病整体发病率约为51%，大多体现为早泄（PE）、勃起功能障碍（ED）两种，且在近些年呈现出年轻化的趋势，20-30岁年龄段群体占比越来越高。当我们还在嘲笑那些贴在农村电线杆子上的男科广告时，却没有认识到，在这些广告的背后，是一个个无奈、隐秘、羞愧的故事。](https://dig.chouti.com/link/42133484)|
+|2024-04-16 08:15:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本乡民挑战最难拼图，并成功获得了银行的认可](https://dig.chouti.com/link/42135130)|
+|2024-04-16 08:14:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据郭正亮、邱毅透露，接下来对岸还会来人，而且是一波接着一波……都会各自带团过来](https://dig.chouti.com/link/42135068)|
+|2024-04-16 09:04:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[蔚来“单飞”？江淮回应：会继续合作，将不会是在代工方面](https://dig.chouti.com/link/42135755)|
+|2024-04-16 09:12:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[露天矿，470万立方米覆盖层（岩土）爆破](https://dig.chouti.com/link/42135911)|
+|2024-04-16 09:12:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网友“糕冷呆头鱼”晒出网红猫一杯小号的广告报价……另据这位网友爆料，猫一杯大号，单推一条广告报价是60W+](https://dig.chouti.com/link/42135854)|
+|2024-04-16 06:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[熟悉的陌生人：“文人”大卫·休谟](https://dig.chouti.com/link/42133999)|
+|2024-04-16 08:39:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“研究生联名举报导师”背后，“研究生都搞不定”的中小学科创比赛引热议](https://dig.chouti.com/link/42135312)|
+|2024-04-16 06:13:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[那只可以在谷歌地球从太空看到的兔子消失了……这只名为Hase（德语“野兔”）的“粉红兔”作品由维也纳艺术团体Gelitin创作，平躺在意大利阿尔卑斯山位于库尼奥附近名为Artesina的乡村景点。团队花了五年多时间于2005年建造完成，当时预计项目持续到2025年。然而兔子表面慢慢褪色，粉红色兔子最终变成了灰色，现已被移除。](https://dig.chouti.com/link/42133994)|
+|2024-04-16 07:03:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[特斯拉全球大裁员超1.4万人，有员工抵达工厂扫描工牌无法进厂才发现被解雇](https://dig.chouti.com/link/42134354)|
+|2024-04-16 15:49:10|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨苹果加注越南；劝得了马斯克的人走了一个又一个](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515071&idx=2&sn=57b84ec36532ad85735f73987a5abb5a)|
+|2024-04-16 15:49:10|[晚点LatePost](https://feedpress.me/wx-postlate)|[特斯拉大调整：All in 带来的灾难，用再一次 All in 解决](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515071&idx=1&sn=1732c552dff34b420eb0432027a41c57)|
+|2024-04-16 15:55:24|[机核](https://www.gcores.com/rss)|[你会如何装饰家里的空闲空间？](https://www.gcores.com/articles/180412)|
+|2024-04-16 15:00:00|[机核](https://www.gcores.com/rss)|[如何在21天的时间里做出一个“好评如潮”的游戏？ 听听《奇愈地下城》的创作者们怎么说 CLIPS VOL.15](https://www.gcores.com/radios/179940)|
+|2024-04-16 14:48:31|[机核](https://www.gcores.com/rss)|[《百英雄传》、《蟹蟹寻宝奇遇》、《庄园领主》等多款游戏即将加入4月XGP](https://www.gcores.com/articles/180411)|
+|2024-04-16 13:28:08|[机核](https://www.gcores.com/rss)|[最新一期任天堂“Indie World”独立游戏发布会将于本月17日晚22时举办](https://www.gcores.com/articles/180407)|
+|2024-04-16 12:46:08|[机核](https://www.gcores.com/rss)|[创意工坊来了：《巫师 3：狂猎》现已开启REDkit模组编辑器测试](https://www.gcores.com/articles/180404)|
+|2024-04-16 12:40:51|[机核](https://www.gcores.com/rss)|[《幻兽帕鲁》工作室CEO称腾讯正在制造同类游戏](https://www.gcores.com/articles/180402)|
+|2024-04-16 07:24:49|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何幫毛孩申請「寵物身分證」？](https://applefans.today/2024-04-pet-id/)|
+|2024-04-16 03:24:46|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 鎖定鍵不只是鎖定螢幕！10 個方便功能還能快速 SOS 求救！](https://applefans.today/2024-04-iphone-side-button/)|
+|2024-04-16 02:21:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[YouTube 公告將加強檢測 Ad Blocker 廣告阻擋器](https://applefans.today/2024-04-youtube-app-block-ads/)|
+|2024-04-16 10:11:14|[知乎每日精选](https://www.zhihu.com/rss)|[京藏高速为何出京由南向北?](http://www.zhihu.com/question/21576053/answer/2703572384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-04-16 10:47:22|[Mosu](https://www.mosuzi.com/atom.xml)|[从vue2到vue3（一）：响应式](https://mosuzi.com/docs/tech/%E4%BB%8E-Vue2-%E5%88%B0-Vue3%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%93%8D%E5%BA%94%E5%BC%8F/)|
 |2024-04-16 10:56:46|[机核](https://www.gcores.com/rss)|[《最终幻想16》公布1.31版本详情，更新与“沧海恸哭”DLC同天上线](https://www.gcores.com/articles/180399)|
 |2024-04-16 10:36:32|[机核](https://www.gcores.com/rss)|[回答抖S公主的问题：短篇冒险游戏《公主×会客厅》4月26日上线Steam](https://www.gcores.com/articles/180398)|
