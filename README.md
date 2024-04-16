@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-04-15）
+﻿# 每日资讯（2024-04-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-16 01:12:18|[机核](https://www.gcores.com/rss)|[《冰汽时代2》沙盒模式限时测试今日开启](https://www.gcores.com/articles/180349)|
 |2024-04-15 12:59:06|[晚点LatePost](https://feedpress.me/wx-postlate)|[V23 诞生史：给年轻人造一台大玩具](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514985&idx=2&sn=17b10faa4d585dcd3a51440c666f2956)|
 |2024-04-15 12:59:05|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨抖音生活服务一季度销售额超 1000 亿，但未缩小与美团差距](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514985&idx=1&sn=3f10150657a835aa07d9e4dd89de4fc9)|
 |2024-04-15 03:17:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Humane AI Pin 能成為替代 iPhone 的產品嗎？](https://applefans.today/2024-04-humane-ai-pin-reviews-willbe-iphone-killer/)|
