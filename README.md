@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-16 02:32:17|[机核](https://www.gcores.com/rss)|[Steam FPS游戏节现已隆重开幕，边框贴纸等好礼免费领](https://www.gcores.com/articles/180359)|
+|2024-04-16 02:29:28|[机核](https://www.gcores.com/rss)|[圣莫妮卡工作室正在为未公布项目进行招聘](https://www.gcores.com/articles/180361)|
+|2024-04-16 02:08:48|[机核](https://www.gcores.com/rss)|[《恶意不息》公布最新预告，将于4月19日0点发售](https://www.gcores.com/articles/180357)|
+|2024-04-16 02:00:00|[机核](https://www.gcores.com/rss)|[「John Wick × FANTHFUL」电影主题周边现已登陆机核商店](https://www.gcores.com/articles/180331)|
+|2024-04-16 01:34:38|[机核](https://www.gcores.com/rss)|[任天堂确认不参加2024年科隆游戏展](https://www.gcores.com/articles/180353)|
+|2024-04-16 01:31:06|[机核](https://www.gcores.com/rss)|[ATLUS宣布将于4月23日举办《暗喻幻想》特别节目](https://www.gcores.com/articles/180351)|
+|2024-04-16 01:18:54|[机核](https://www.gcores.com/rss)|[《空洞骑士：丝之歌》获得澳大利亚游戏评级，距离发售更进一步](https://www.gcores.com/articles/180350)|
+|2024-04-16 01:27:10|[鸟窝](https://colobu.com/atom.xml)|[gotips 002: 多阶段 defer](https://colobu.com/2024/04/16/gotips-002-Multistage-defer/)|
+|2024-04-16 14:30:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[openSUSE Leap Micro 6 进入 Alpha 阶段](/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/04/16/leap-micro.html)|
 |2024-04-16 01:12:18|[机核](https://www.gcores.com/rss)|[《冰汽时代2》沙盒模式限时测试今日开启](https://www.gcores.com/articles/180349)|
 |2024-04-15 12:59:06|[晚点LatePost](https://feedpress.me/wx-postlate)|[V23 诞生史：给年轻人造一台大玩具](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514985&idx=2&sn=17b10faa4d585dcd3a51440c666f2956)|
 |2024-04-15 12:59:05|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨抖音生活服务一季度销售额超 1000 亿，但未缩小与美团差距](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514985&idx=1&sn=3f10150657a835aa07d9e4dd89de4fc9)|
