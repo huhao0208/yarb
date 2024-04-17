@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-17 10:38:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2024 Samsung Neo QLED 8K 智慧顯示器 驚艷登場](https://applefans.today/2024-04-samsung-neo-qled-8k-smarttv-launch/)|
+|2024-04-17 03:49:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 新廣告 -「Goodbye Leather」宣傳對地球的責任](https://applefans.today/2024-04-apple-ads-goodbye-leather/)|
+|2024-04-17 01:19:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 歡慶 2024 世界地球日 ！ 戴著 Apple Watch 運動即可領取獎章](https://applefans.today/2024-04-apple-celebrates-earth-day-2024/)|
+|2024-04-17 05:08:42|[沉舟侧畔 Blog](https://springwood.me/feed/)|[日本的节假日㊗](https://springwood.me/jp-holiday/)|
+|2024-04-17 04:13:26|[晚点LatePost](https://feedpress.me/wx-postlate)|[对话 MiniMax 闫俊杰：AGI 不是大杀器，是普通人每天用的产品](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515088&idx=1&sn=7080c5e13d99a6ca7f39044cb8f1eaf5)|
+|2024-04-17 08:24:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[国际化有没有找过人工翻译的?还是说机翻?](https://w2solo.com/topics/4566)|
+|2024-04-17 07:20:39|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[海外视频检索](https://w2solo.com/topics/4565)|
+|2024-04-17 07:11:25|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[简单做了个 Ai 工具导航站！分享给大家！](https://w2solo.com/topics/4564)|
+|2024-04-17 10:55:04|[Mosu](https://www.mosuzi.com/atom.xml)|[从 Vue2 到 Vue3（二）：语法](https://mosuzi.com/docs/tech/%E4%BB%8E-Vue2-%E5%88%B0-Vue3%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E8%AF%AD%E6%B3%95/)|
+|2024-04-17 06:15:33|[知乎每日精选](https://www.zhihu.com/rss)|[如果让你来改进一座「筒子楼」，你会怎么设计？](http://www.zhihu.com/question/652609243/answer/3468994199?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2024-04-17 03:55:44|[知乎每日精选](https://www.zhihu.com/rss)|[欧洲美人身上的“大妞感”和“女神气息”为什么会出现地域扎堆的情况？](http://zhuanlan.zhihu.com/p/564592327?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2024-04-17 03:37:58|[知乎每日精选](https://www.zhihu.com/rss)|[如何识别「赫鲁晓夫楼」、「筒子楼」与「老式单元楼」？](http://www.zhihu.com/question/652609179/answer/3468866932?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-04-17 05:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【弄堂公主，另一个江浙沪女子宇宙】所谓弄堂公主，虽然出身于上海底层市民空间，却是略有姿色难自弃，对自身定位和物质消费都有着较高期许。弄堂本是平民住地，却出了格格不入的“公主”，其中讽刺意味可想而知。](https://dig.chouti.com/link/42144079)|
 |2024-04-17 06:02:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[4月15日，C929项目联合攻关启动大会在中国商飞公司召开](https://dig.chouti.com/link/42144367)|
 |2024-04-17 04:11:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[F-35C细节](https://dig.chouti.com/link/42143602)|
