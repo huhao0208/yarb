@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-18 03:33:22|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 放行：Delta 遊戲模擬器正式入駐 App Store](https://applefans.today/2024-04-delta-game-emulator-iphone/)|
+|2024-04-18 04:01:47|[机核](https://www.gcores.com/rss)|[穿越乡鬼迷雾，单人剧本杀游戏《子归》现已开启免费试玩！](https://www.gcores.com/articles/180514)|
+|2024-04-18 03:55:03|[机核](https://www.gcores.com/rss)|[Delta模拟器现已上线iOS国区，支持多款经典任天堂主机游戏](https://www.gcores.com/articles/180513)|
+|2024-04-18 03:50:00|[机核](https://www.gcores.com/rss)|[万代公布《艾尔登法环》DLC收藏版雕像细节视频](https://www.gcores.com/articles/180509)|
+|2024-04-18 03:29:28|[机核](https://www.gcores.com/rss)|[猫猫模拟器《小猫咪大城市》将于5月9日上线！](https://www.gcores.com/articles/180508)|
+|2024-04-18 03:24:53|[机核](https://www.gcores.com/rss)|[【泄露】《天国 拯救2》即将于2024年内推出](https://www.gcores.com/articles/180511)|
+|2024-04-18 03:09:59|[机核](https://www.gcores.com/rss)|[官方手游《歧路旅人：大陆的霸者》「霸者测试」正式开测](https://www.gcores.com/articles/180507)|
+|2024-04-18 03:03:19|[机核](https://www.gcores.com/rss)|[2小时游玩演示，《黑帝斯2》现已开启技术测试](https://www.gcores.com/articles/180496)|
+|2024-04-18 02:37:45|[机核](https://www.gcores.com/rss)|[《盗贼之海》玩家数破4000万！](https://www.gcores.com/articles/180499)|
+|2024-04-18 02:32:52|[机核](https://www.gcores.com/rss)|[宫崎骏入选美国《时代》杂志“2024年度世界百大最具影响力人物”](https://www.gcores.com/articles/180500)|
+|2024-04-18 02:28:10|[机核](https://www.gcores.com/rss)|[NETFLIX发布魔幻历史剧集《百年孤独》首支预告](https://www.gcores.com/articles/180501)|
+|2024-04-18 02:15:52|[机核](https://www.gcores.com/rss)|[《原始袭变（Exoprimal）》第四赛季开启，并宣布与《洛克人》系列联动](https://www.gcores.com/articles/180497)|
+|2024-04-18 01:33:37|[机核](https://www.gcores.com/rss)|[《恶魔轮盘》Steam版销量突破100万份，多人模式在路上](https://www.gcores.com/articles/180493)|
+|2024-04-18 01:17:40|[机核](https://www.gcores.com/rss)|[《对马岛之魂》PC版确认支持PSN奖杯系统](https://www.gcores.com/articles/180492)|
+|2024-04-18 01:07:59|[机核](https://www.gcores.com/rss)|[暗黑冒险PRG《国王之墓》今日发售，国区特价37元](https://www.gcores.com/articles/180491)|
+|2024-04-18 01:00:00|[机核](https://www.gcores.com/rss)|[全球首次线下试玩！来核聚变广州站抢先体验《真·女神转生V：Vengeance》](https://www.gcores.com/articles/180459)|
+|2024-04-18 03:13:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[千万网红郑燕姿前几天刚宣布怀孕，昨天她男友韩亿就被爆出轨。因为男方朋友圈一直是单身状态，女生不知道男方有女朋友，在看到官宣怀孕的视频后女生找到郑燕姿告知男方人品有问题，郑燕姿比较在意有没有戴T，并且表示会再跟男方慎重的聊一下，结果在和女生对话完的第三天后郑燕姿发布了一条和男友秀恩爱的视频。。。](https://dig.chouti.com/link/42153997)|
+|2024-04-18 01:05:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【一场雨，浇灭了小镇的地产梦】一个华北小镇的梦想与现实：成也土地，危也土地](https://dig.chouti.com/link/42152604)|
+|2024-04-18 03:34:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[华为Pura70系列开售：芯片未透露，设计全面改版，5999元起](https://dig.chouti.com/link/42154053)|
+|2024-04-18 01:02:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[复旦大学：在校内有这些行为或被劝离，并谢绝再次入校](https://dig.chouti.com/link/42152436)|
+|2024-04-18 02:11:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“弱智吧”帖子训练AI效果遥遥领先？研究人员回应：网上宣传过分夸大】“许多读者误以为我们使用‘弱智吧’网友的评论训练大模型就可以达到很好的效果，事实上，我们仅保留了弱智吧帖子的标题。”白岳霖说：“实验结果并不能代表弱智吧，因为数据实际上相当于多方（网友、作者们和大模型系统）协同构造的。”](https://dig.chouti.com/link/42153263)|
 |2024-04-17 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[The align-content property for block layouts is now part of Baseline](https://web.dev/blog/align-content-block?hl=en)|
 |2024-04-17 13:20:47|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[抉择](https://github.com/yihong0618/gitblog/issues/287)|
 |2024-04-17 23:41:01|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：2秒抓取网页并转换为markdown](https://www.kingname.info/2024/04/17/reader/)|
