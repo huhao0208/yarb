@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-19 14:04:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[25年前，高层是怎么决策放长假的？](https://dig.chouti.com/link/42170987)|
+|2024-04-19 11:49:07|[Dennis](https://www.domon.cn/rss/)|[中式旧核](https://www.domon.cn/zhong-shi-jiu-he/)|
+|2024-04-19 14:10:20|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《曾经是超人的男人》：电梯战神曾是韩国超人，每天都在拯救地球，但结尾太出乎意料！](https://www.ximalaya.com/sound/723698037)|
+|2024-04-19 07:38:53|[知乎每日精选](https://www.zhihu.com/rss)|[什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-04-19 00:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[openSUSE Factory 启用了逐位可重复构建](/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/04/19/factory.html)|
 |2024-04-19 14:14:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一携带爆炸物男子强行闯入伊朗驻法国使馆领事处，已被警方逮捕](https://dig.chouti.com/link/42171044)|
 |2024-04-19 14:44:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么劝你不要杀人？](https://dig.chouti.com/link/42171195)|
