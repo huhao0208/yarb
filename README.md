@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-19 02:00:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞 M2 iPad Air 將使用 mini-LED 螢幕？！](https://applefans.today/2024-04-ipad-air-12-9-inch-use-mini-led-display-rumor/)|
 |2024-04-18 09:35:12|[华山感染](https://feedpress.me/wx-hsinfect)|[明日启幕！大会主席张文宏教授视频致辞，与您相约第二届东方国际感染病学术周](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502643&idx=1&sn=3322307f0cef49c24fd9fe6c557ee646)|
 |2024-04-18 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[The Intl.Segmenter object is now part of Baseline](https://web.dev/blog/intl-segmenter?hl=en)|
 |2024-04-18 02:19:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我做了一个极简的简历工具生成器](https://w2solo.com/topics/4568)|
