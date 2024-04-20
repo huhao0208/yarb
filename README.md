@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-20 12:14:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这是那边的狗先生请您的](https://dig.chouti.com/link/42178711)|
+|2024-04-20 13:01:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中央财大学生吐槽800米体测：3分50秒及格，比国家标准高太多，很多人达不到](https://dig.chouti.com/link/42178798)|
+|2024-04-20 14:33:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国医协称不能接受医学院在规定扩招范围内自主招生方案](https://dig.chouti.com/link/42179661)|
+|2024-04-20 12:14:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[现在可以干文物修复了。。。。。。](https://dig.chouti.com/link/42178720)|
+|2024-04-20 03:02:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美媒：美军12架B-2隐身轰炸机罕见同时出动，创下新纪录】美国空军目前装备有20架B-2战略轰炸机，其中两架还因为事故正处于维修状态。而根据美国与俄罗斯签订的《新削减战略武器条约》，通常情况下美国空军只有11或12架B-2战略轰炸机处于部署状态。](https://dig.chouti.com/link/42174658)|
+|2024-04-20 03:02:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国际奥委会发布《奥林匹克AI议程》：如何利用人工智能潜能支持运动员](https://dig.chouti.com/link/42174732)|
+|2024-04-20 09:02:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香港电影局“开拓内地电影市场资助计划”发布：最高可获1000万港币融资](https://dig.chouti.com/link/42177245)|
+|2024-04-20 09:12:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1991年，滚石杂志上的麦当娜](https://dig.chouti.com/link/42177510)|
+|2024-04-20 09:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不用社交还有编制，古代有一种社恐人的梦中情职：冢户](https://dig.chouti.com/link/42177525)|
+|2024-04-20 11:12:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[繁殖的季节来了吗](https://dig.chouti.com/link/42178383)|
+|2024-04-20 11:36:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新成立的信息支援部队是干什么的？](https://dig.chouti.com/link/42178430)|
+|2024-04-20 01:11:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美军首辆生产型M10布克轻坦](https://dig.chouti.com/link/42174028)|
+|2024-04-20 02:02:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广州一楼盘墙里抠出泡沫？开发商：属工艺瑕疵，不影响安全](https://dig.chouti.com/link/42174204)|
+|2024-04-20 00:10:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ΩДΩ ……炸鸡叔Giancarlo Esposito接受采访时分享自己的破产经历，他在人生最低谷曾想过自我了结赚保费，好让一家人活下去，而给他带来光明的正是参演《绝命毒师》](https://dig.chouti.com/link/42173647)|
+|2024-04-20 04:02:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[四川燃气费上涨背后的燃表公司：利润增速放缓，员工被曝行贿](https://dig.chouti.com/link/42175193)|
+|2024-04-20 05:02:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[29岁渡边雄太放弃260万美元球员选项，结束6年NBA生涯，下赛季回日本打球](https://dig.chouti.com/link/42175619)|
+|2024-04-20 05:02:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[郑也夫：文人字与文人书法作品之废存](https://dig.chouti.com/link/42175523)|
+|2024-04-20 05:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【北京，马驹桥，100多块钱一天的人生】马驹桥镇离北京市区的距离刚刚好：它足够远，生存成本与一般乡镇一样；它足够近，招工者抵达这里的时间成本在可接受范围内。这种刚刚好，为劳务双方提供了一种灵活的谈判空间。](https://dig.chouti.com/link/42175842)|
+|2024-04-20 05:32:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克确认推迟访问印度：工作繁重不得不推迟，期待今年晚些时候到访](https://dig.chouti.com/link/42175850)|
+|2024-04-20 14:24:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #47：当你的老师希望你去做开源](https://w2solo.com/topics/4572)|
+|2024-04-20 15:00:00|[机核](https://www.gcores.com/rss)|[既要报喜也得报忧 GadioNews04.20](https://www.gcores.com/radios/180244)|
 |2024-04-20 11:42:18|[CatCoding](https://catcoding.me/atom.xml)|[Cryptape 招聘 - 区块链开发工程师](http://catcoding.me/p/ckb-vm-hc/)|
 |2024-04-20 12:53:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[GPU-Z（2.59）汉化版，专业的显卡测试软件](https://masuit.com/1244)|
 |2024-04-20 06:00:00|[机核](https://www.gcores.com/rss)|[《辐射》剧集：有人叫好，有人破防？](https://www.gcores.com/articles/180577)|
