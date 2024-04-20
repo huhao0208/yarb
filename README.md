@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-20 11:42:18|[CatCoding](https://catcoding.me/atom.xml)|[Cryptape 招聘 - 区块链开发工程师](http://catcoding.me/p/ckb-vm-hc/)|
 |2024-04-20 12:53:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[GPU-Z（2.59）汉化版，专业的显卡测试软件](https://masuit.com/1244)|
 |2024-04-20 06:00:00|[机核](https://www.gcores.com/rss)|[《辐射》剧集：有人叫好，有人破防？](https://www.gcores.com/articles/180577)|
 |2024-04-20 04:42:43|[机核](https://www.gcores.com/rss)|[大阪相扑手的5厘米厚特上炸猪排饭](https://www.gcores.com/videos/180607)|
