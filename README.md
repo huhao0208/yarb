@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-04-19）
+﻿# 每日资讯（2024-04-20）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-20 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：基于完成的 Rust 异步：compio 项目及其经验](https://tuna.moe/event/2024/compio/)|
 |2024-04-19 14:04:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[25年前，高层是怎么决策放长假的？](https://dig.chouti.com/link/42170987)|
 |2024-04-19 11:49:07|[Dennis](https://www.domon.cn/rss/)|[中式旧核](https://www.domon.cn/zhong-shi-jiu-he/)|
 |2024-04-19 14:10:20|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《曾经是超人的男人》：电梯战神曾是韩国超人，每天都在拯救地球，但结尾太出乎意料！](https://www.ximalaya.com/sound/723698037)|
