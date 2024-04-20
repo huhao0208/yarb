@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-20 03:56:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[退休一周年](http://mercurychong.blogspot.com/2024/04/blog-post_64.html)|
+|2024-04-20 03:29:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[入院記](http://mercurychong.blogspot.com/2024/04/blog-post_19.html)|
+|2024-04-20 03:49:14|[甜欣屋](https://tcxx.info/feed)|[大学生想去游戏开发岗，父母不支持怎么办？](https://tcxx.info/notion/1014.html)|
 |2024-04-20 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：基于完成的 Rust 异步：compio 项目及其经验](https://tuna.moe/event/2024/compio/)|
 |2024-04-19 14:04:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[25年前，高层是怎么决策放长假的？](https://dig.chouti.com/link/42170987)|
 |2024-04-19 11:49:07|[Dennis](https://www.domon.cn/rss/)|[中式旧核](https://www.domon.cn/zhong-shi-jiu-he/)|
