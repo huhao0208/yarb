@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-21 11:00:00|[机核](https://www.gcores.com/rss)|[当《黑神话：悟空》遇见“未来游戏场景”](https://www.gcores.com/articles/180635)|
+|2024-04-21 08:26:01|[机核](https://www.gcores.com/rss)|[游戏策略合订本](https://www.gcores.com/articles/180644)|
+|2024-04-21 08:17:07|[机核](https://www.gcores.com/rss)|[让感觉重新降临：如何理解“不在场”](https://www.gcores.com/articles/180647)|
+|2024-04-21 04:27:04|[机核](https://www.gcores.com/rss)|[模拟经营手游之王？《Township》游戏拆解分析](https://www.gcores.com/articles/180641)|
+|2024-04-21 02:40:00|[机核](https://www.gcores.com/rss)|[来挑战8篇短文入门程序开发（二）](https://www.gcores.com/articles/180629)|
 |2024-04-21 02:04:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[上线 10 天，独立访客达到 2K，加油～ 记录下！](https://w2solo.com/topics/4573)|
 |2024-04-21 03:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离你最近的空间计算打开方式，X499元？](https://dig.chouti.com/link/42183229)|
 |2024-04-21 03:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2024年“荷赛”世界新闻摄影奖获奖照片——路透社记者穆罕默德·萨利姆拍摄，2023年10月17日，在汗尤尼斯的纳赛尔医院太平间，一位妇女抱着一个小女孩的尸体哭泣。后经采访，这位妇女是36岁的伊纳斯·阿布·马马尔，她怀中抱着的是年仅5岁的侄女萨利的遗体。一枚导弹击中了萨利的家，5岁的她和妈妈、姐姐一同遇难。](https://dig.chouti.com/link/42182970)|
