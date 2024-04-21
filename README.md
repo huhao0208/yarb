@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-21 14:00:56|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[学习下LlamaIndex-初始篇](https://nicksxs.me/2024/04/21/%E5%AD%A6%E4%B9%A0%E4%B8%8BLlamaIndex-%E5%88%9D%E5%A7%8B%E7%AF%87/)|
+|2024-04-21 04:54:29|[Phoenix's island](https://blog.phoenixlzx.com/atom.xml)|[通过重写 EEPROM 永久修改 MAC 地址](https://blog.phoenixlzx.com/2024/04/21/permanently-change-mac-eeprom/)|
+|2024-04-21 14:51:11|[鸟窝](https://colobu.com/atom.xml)|[Go语言编程技巧和参与开源项目](https://colobu.com/2024/04/21/gotips-and-open-source/)|
+|2024-04-21 05:07:07|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[在 kubernetes 环境下如何采集日志](http://crossoverjie.top/2024/04/21/ob/k8s-log-collect/)|
 |2024-04-21 05:25:23|[Teobler - 失眠多梦，bug...](https://teobler.com/rss.xml)|[ChatGPT、Transformer 与注意力机制](https://teobler.com/posts/20240421-chatgpt-attention-and-transformer)|
 |2024-04-21 13:43:51|[迷途小书童的Note](https://xugaoxiang.com/feed)|[YOLOv8+DeepSort实现目标检测与追踪](https://xugaoxiang.com/2024/04/21/yolov8-deepsort/)|
 |2024-04-21 15:00:00|[机核](https://www.gcores.com/rss)|[COSPLAY真好玩，机组闲聊Vol.30](https://www.gcores.com/radios/180595)|
