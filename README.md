@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-22 12:33:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[WriteBug数字空间，专属程序员的知识库，不仅仅只是个markdown编辑器](https://masuit.com/2282)|
+|2024-04-22 12:32:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新短视频：物理学家之死](https://www.changhai.org/articles/youtube/shorts/202404.php#latest)|
+|2024-04-22 14:01:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[首部潜艇主题宣传片《隐入深海》](https://dig.chouti.com/link/42197991)|
+|2024-04-22 15:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1975年人民出版社翻译出版了马克思《数学手稿》（图1）这书其实没什么学术价值，很多地方就没弄明白极限，纯粹是马克思私下写给恩格斯讨论的（图2），当然也没指望公之于众，结果“不幸”被整理出来，在当年的氛围下可就真不得了……](https://dig.chouti.com/link/42198733)|
+|2024-04-22 14:02:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国慰安妇受害者子女首次在国内起诉日本政府](https://dig.chouti.com/link/42198056)|
+|2024-04-22 14:43:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩媒感叹从中国来的人少了，包裹多了——“中韩航线乘客较2019年大幅下降超30%，但来自中国的快递蜂拥而至”](https://dig.chouti.com/link/42198483)|
+|2024-04-22 12:16:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[安妮·海瑟薇，中性风《V》杂志封面写真](https://dig.chouti.com/link/42197388)|
+|2024-04-22 11:15:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[现场视频：4月19日，莫斯科，伊朗一名拳击手参赛期间踢举牌女郎的臀部。。。事发后，台下多名观众涌上台殴打该男子，男子被推下擂台，头部遭到踢打。目前，该男子已向被踢女子公开道歉，将被终身禁赛，他在该场比赛中获得的全部报酬将用于赔偿被踢女子。](https://dig.chouti.com/link/42196917)|
+|2024-04-22 12:16:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[公路上的蛋](https://dig.chouti.com/link/42197410)|
+|2024-04-22 12:02:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【以色列国防军军事情报局局长引咎辞职，为去年10月7日遭到哈马斯突袭担责】哈利瓦是遇袭以来，首个引咎辞职的以色列官员。“过去的每一天每一夜，那个黑暗的日子一直在困扰着我，我将永远带着战争的痛苦度过余生，”但他只说他应承担责任，没有具体说明自己有何过错。此外，他呼吁就10月7日袭击事件成立一个国家调查委员会](https://dig.chouti.com/link/42197141)|
+|2024-04-22 12:16:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ಥ﹏ಥ ](https://dig.chouti.com/link/42197399)|
+|2024-04-22 11:16:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【巨浪2导弹发射画面公开】4月22日，人民海军推出首部潜艇主题宣传片《隐入深海》。在视频最后出现“巨浪-2”潜射远程弹道导弹从水下发射的画面。（说明巨浪3已形成战斗力？）](https://dig.chouti.com/link/42196952)|
+|2024-04-22 05:01:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[史上首次，伦敦马拉松为残疾人运动员发与普通选手同额奖金](https://dig.chouti.com/link/42192668)|
+|2024-04-22 05:03:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Costco线上平台“开市客到家”正式上线，目前覆盖上海、苏州、杭州、宁波等城市](https://dig.chouti.com/link/42193022)|
+|2024-04-22 11:16:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[田馥甄（Hebe）将出席天津泡泡岛音乐节](https://dig.chouti.com/link/42196972)|
+|2024-04-22 05:41:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[7.7亿元平安信托延期兑付：被套牢的保险业务员和普通投资者](https://dig.chouti.com/link/42193261)|
+|2024-04-22 09:13:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[啊——呀！](https://dig.chouti.com/link/42195751)|
+|2024-04-22 05:58:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【以色列起诉哈马斯领导人的妹妹】萨芭赫·萨利姆·哈尼亚现年57岁。据路透社报道，她住在以色列南部一座城镇。她的哥哥哈尼亚长期在卡塔尔首都多哈活动。据以色列司法部通报，哈马斯去年10月7日大规模突袭以色列后，萨芭赫·萨利姆·哈尼亚向她的哥哥等数十名联系人发送信息，“称赞”这次行动，并“呼吁展开更多屠杀”。](https://dig.chouti.com/link/42193266)|
+|2024-04-22 10:17:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[甲板上，辽宁舰的24架歼15与山东舰的21架歼15对比](https://dig.chouti.com/link/42196414)|
+|2024-04-22 11:16:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[槟榔西施，一次营业](https://dig.chouti.com/link/42196939)|
+|2024-04-22 11:02:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[知情人士：斗鱼创始人兼CEO陈少杰已于春节后取保候审](https://dig.chouti.com/link/42196784)|
+|2024-04-22 09:02:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【55岁“二奶奶”杀害同村3岁男孩被判死刑，死者家属：凶手已上诉】关于杀人动机，钟某在接受审讯时曾表示，因两个儿子坐牢，自己产生自卑、嫉妒的心理，于是将私愤发泄在恰巧路过她家的成成身上，“因为当时一下子心情不好，一时冲动，控制不住自己，就双手去捏他（成成）的脖子……”](https://dig.chouti.com/link/42195360)|
+|2024-04-22 09:12:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“减半”令新代币供应减少，比特币矿企或面临收入损失](https://dig.chouti.com/link/42195642)|
+|2024-04-22 09:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[清北商科毕业生“疯狂赚钱”的野心落空后](https://dig.chouti.com/link/42195775)|
+|2024-04-22 08:02:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[外交部发言人：应王毅邀请，布林肯将于4月24日至26日访华](https://dig.chouti.com/link/42194666)|
+|2024-04-22 04:06:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【王羽佳的“心跳实验”：音乐能统一人们的心率】近日，美国卡内基音乐厅以视频形式公布了一组音乐实验数据，其中记录了2023年1月钢琴家王羽佳与费城交响乐团在拉赫玛尼诺夫150周年马拉松音乐会上的心率变化情况。](https://dig.chouti.com/link/42192462)|
+|2024-04-22 06:09:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男子将电动车电池带回家充电起火致2死1伤，犯失火罪被判4年6个月](https://dig.chouti.com/link/42193651)|
 |2024-04-22 13:56:22|[机核](https://www.gcores.com/rss)|[Atlus著名插画师金子一马确认离职，已于去年加入Colopl](https://www.gcores.com/articles/180723)|
 |2024-04-22 13:51:41|[机核](https://www.gcores.com/rss)|[《死侍3：死侍与死党》新预告如约而至，MCU首部R级影片，7月26日北美上映](https://www.gcores.com/articles/180721)|
 |2024-04-22 13:00:00|[机核](https://www.gcores.com/rss)|[游戏帝国S2 Vol.4丨三维纪元 id Software 下](https://www.gcores.com/radios/173174)|
