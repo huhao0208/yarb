@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-22 02:46:00|[华山感染](https://feedpress.me/wx-hsinfect)|[院士专家齐聚，共探十大科学方向！第二届东方国际感染病学术周在沪召开](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502766&idx=1&sn=48a9a675c951c4a226027d1a0bd4e36b)|
+|2024-04-22 02:08:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果可能不再生產 FineWoven 材質的環保配件？！](https://applefans.today/2024-04-apple-finewoven-ends-production-rumor/)|
 |2024-04-21 14:00:56|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[学习下LlamaIndex-初始篇](https://nicksxs.me/2024/04/21/%E5%AD%A6%E4%B9%A0%E4%B8%8BLlamaIndex-%E5%88%9D%E5%A7%8B%E7%AF%87/)|
 |2024-04-21 04:54:29|[Phoenix's island](https://blog.phoenixlzx.com/atom.xml)|[通过重写 EEPROM 永久修改 MAC 地址](https://blog.phoenixlzx.com/2024/04/21/permanently-change-mac-eeprom/)|
 |2024-04-21 14:51:11|[鸟窝](https://colobu.com/atom.xml)|[Go语言编程技巧和参与开源项目](https://colobu.com/2024/04/21/gotips-and-open-source/)|
