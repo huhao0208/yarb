@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-22 13:56:22|[机核](https://www.gcores.com/rss)|[Atlus著名插画师金子一马确认离职，已于去年加入Colopl](https://www.gcores.com/articles/180723)|
+|2024-04-22 13:51:41|[机核](https://www.gcores.com/rss)|[《死侍3：死侍与死党》新预告如约而至，MCU首部R级影片，7月26日北美上映](https://www.gcores.com/articles/180721)|
+|2024-04-22 13:00:00|[机核](https://www.gcores.com/rss)|[游戏帝国S2 Vol.4丨三维纪元 id Software 下](https://www.gcores.com/radios/173174)|
+|2024-04-22 12:25:05|[机核](https://www.gcores.com/rss)|[动作肉鸽游戏《失落城堡2》开展第二次限时免费测试](https://www.gcores.com/articles/180716)|
+|2024-04-22 10:41:49|[机核](https://www.gcores.com/rss)|[赛博朋克横版游戏《月亮武士》新演示放出](https://www.gcores.com/articles/180711)|
+|2024-04-22 10:30:00|[机核](https://www.gcores.com/rss)|[两轮承载灵魂！第三骑：ADV与越野](https://www.gcores.com/videos/180479)|
+|2024-04-22 09:54:55|[机核](https://www.gcores.com/rss)|[《剑星》将在所有过审国家提供未删减版本](https://www.gcores.com/articles/180709)|
+|2024-04-22 09:25:00|[机核](https://www.gcores.com/rss)|[全“球”首次线下试玩！来核聚变广州站抢先体验《超级猴子球：香蕉大乱斗》](https://www.gcores.com/articles/180699)|
+|2024-04-22 09:00:00|[机核](https://www.gcores.com/rss)|[我俩的《魔兽世界》回忆，录音笔 VOL.185](https://www.gcores.com/radios/180694)|
+|2024-04-22 08:11:00|[机核](https://www.gcores.com/rss)|[基里安·墨菲出演《孤岛惊魂7》？假的！](https://www.gcores.com/articles/180701)|
+|2024-04-22 07:47:54|[机核](https://www.gcores.com/rss)|[本周节目预告 4.22~4.28](https://www.gcores.com/articles/180702)|
+|2024-04-22 07:46:24|[机核](https://www.gcores.com/rss)|[【抽奖】漫库× 《最终幻想7 重生》主题快闪活动已开启！](https://www.gcores.com/articles/180685)|
+|2024-04-22 07:16:42|[机核](https://www.gcores.com/rss)|[日本朝日电视台公布「世界动画歌曲总选举」结果](https://www.gcores.com/articles/180696)|
+|2024-04-22 06:07:01|[机核](https://www.gcores.com/rss)|[【传闻】知名爆料人指出《看门狗》系列已死](https://www.gcores.com/articles/180689)|
+|2024-04-22 06:03:47|[机核](https://www.gcores.com/rss)|[Embracer宣布拆分为三家公司，充分发挥协同效应](https://www.gcores.com/articles/180691)|
+|2024-04-22 05:11:20|[机核](https://www.gcores.com/rss)|[TGA创始人曝光《与狼同行2》新截图](https://www.gcores.com/articles/180681)|
+|2024-04-22 03:53:20|[机核](https://www.gcores.com/rss)|[腾讯宣布《DNF手游》将于5月21日正式上线](https://www.gcores.com/articles/180682)|
+|2024-04-22 03:39:29|[机核](https://www.gcores.com/rss)|[《黑神话》应该怎么定价？你从未听过的游戏定价发展史](https://www.gcores.com/articles/180676)|
+|2024-04-22 03:08:27|[机核](https://www.gcores.com/rss)|[因剧集火爆，《辐射4》游戏同时在线人数再次回升](https://www.gcores.com/articles/180679)|
+|2024-04-22 03:05:00|[机核](https://www.gcores.com/rss)|[《神罪降临》音乐赏析——COLOSSUS](https://www.gcores.com/videos/180653)|
+|2024-04-22 12:16:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 62：按下葫芦起了瓢&一错再错](https://w2solo.com/topics/4574)|
 |2024-04-22 11:15:01|[晚点LatePost](https://feedpress.me/wx-postlate)|[当云鲸决定做一款全智能清洁机器人](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515289&idx=1&sn=12ed24bccc7e579d812e9e77f5a35f8b)|
 |2024-04-22 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/16](https://weekly.pychina.org/pyrecap/pyrw-2416.html)|
 |2024-04-22 04:04:26|[知乎每日精选](https://www.zhihu.com/rss)|[火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？](http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
