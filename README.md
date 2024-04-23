@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-23 15:27:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 正式發佈 iPad 發表會時間 新品預測總整理](https://applefans.today/2024-04-apple-announces-special-event-let-loose/)|
+|2024-04-23 05:40:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何申請 iMessage 聯絡人密鑰驗證 ？](https://applefans.today/2024-ios-17-2-how-to-use-imessage-contact-key-verification/)|
+|2024-04-23 08:59:03|[摄影世界](https://feedx.net/rss/photoworld.xml)|[OPPO 超影像大赛｜我与世界超合拍 主题月赛征集投稿开启！](https://www.photoworld.com.cn/post/176488)|
+|2024-04-23 15:00:00|[机核](https://www.gcores.com/rss)|[群星慢慢闭上了眼睛：科幻名篇《神的九十亿个名字》 读书·浪潮的把戏](https://www.gcores.com/radios/180591)|
+|2024-04-23 14:14:07|[机核](https://www.gcores.com/rss)|[苹果将于5月7日晚10时举行线上特别直播活动](https://www.gcores.com/articles/180778)|
+|2024-04-23 13:16:02|[机核](https://www.gcores.com/rss)|[送美少女上餐桌的《饿殍：明末千里行》，后续的故事是色戒？](https://www.gcores.com/articles/180776)|
+|2024-04-23 13:14:41|[华山感染](https://feedpress.me/wx-hsinfect)|[曾玫邵祝军张文宏牵头中国百日咳诊疗与预防指南颁布，助力中国百日咳应对](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502781&idx=2&sn=b6477caf8325bc8072450bcec8c74b81)|
+|2024-04-23 13:14:40|[华山感染](https://feedpress.me/wx-hsinfect)|[庄辉院士分享传染病防治的中国智慧 现场实录](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502781&idx=1&sn=d276c2852e2f31e3a46dcdfde0e7562e)|
+|2024-04-23 08:32:04|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[如果今年米其林不评它，说明评委瞎：）））](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653451920&idx=1&sn=17f0304cce0557ad764aa02902e2be31)|
 |2024-04-23 12:00:00|[机核](https://www.gcores.com/rss)|[发售进行时！「吉考斯工业 x EDG」联名系列现已登陆多个线上店](https://www.gcores.com/articles/180706)|
 |2024-04-23 09:48:25|[机核](https://www.gcores.com/rss)|[Serious Bros.宣布《幻想地球》将于5月9日登陆macOS平台](https://www.gcores.com/articles/180772)|
 |2024-04-23 09:22:00|[机核](https://www.gcores.com/rss)|[新旧时代的冲突：小评《百英雄传》](https://www.gcores.com/articles/180761)|
