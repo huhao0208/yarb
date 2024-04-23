@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-23 21:42:26|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何强迫LLama3用中文回复？](https://www.kingname.info/2024/04/23/llama-chinese/)|
 |2024-04-23 15:27:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 正式發佈 iPad 發表會時間 新品預測總整理](https://applefans.today/2024-04-apple-announces-special-event-let-loose/)|
 |2024-04-23 05:40:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何申請 iMessage 聯絡人密鑰驗證 ？](https://applefans.today/2024-ios-17-2-how-to-use-imessage-contact-key-verification/)|
 |2024-04-23 08:59:03|[摄影世界](https://feedx.net/rss/photoworld.xml)|[OPPO 超影像大赛｜我与世界超合拍 主题月赛征集投稿开启！](https://www.photoworld.com.cn/post/176488)|
