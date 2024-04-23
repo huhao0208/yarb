@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-04-22）
+﻿# 每日资讯（2024-04-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-23 01:11:27|[机核](https://www.gcores.com/rss)|[《暗喻幻想：ReFantazio》公布最新预告，将于10月11日发售](https://www.gcores.com/articles/180726)|
+|2024-04-23 00:02:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[黄金创近两年最大单日跌幅：伦敦现货黄金跌2.6%，COMEX近月黄金期货跌近3%](https://dig.chouti.com/link/42200914)|
 |2024-04-22 12:33:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[WriteBug数字空间，专属程序员的知识库，不仅仅只是个markdown编辑器](https://masuit.com/2282)|
 |2024-04-22 12:32:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新短视频：物理学家之死](https://www.changhai.org/articles/youtube/shorts/202404.php#latest)|
 |2024-04-22 14:01:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[首部潜艇主题宣传片《隐入深海》](https://dig.chouti.com/link/42197991)|
