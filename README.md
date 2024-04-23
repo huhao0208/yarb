@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-23 03:01:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个检测网站 SEO 的工具](https://w2solo.com/topics/4575)|
+|2024-04-23 03:13:08|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Ray-Ban Meta 智慧眼鏡 讓你可以更輕鬆操控 Apple Music](https://applefans.today/2024-04-ray-ban-meta-glasses-apple-music/)|
 |2024-04-23 01:11:27|[机核](https://www.gcores.com/rss)|[《暗喻幻想：ReFantazio》公布最新预告，将于10月11日发售](https://www.gcores.com/articles/180726)|
 |2024-04-23 00:02:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[黄金创近两年最大单日跌幅：伦敦现货黄金跌2.6%，COMEX近月黄金期货跌近3%](https://dig.chouti.com/link/42200914)|
 |2024-04-22 12:33:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[WriteBug数字空间，专属程序员的知识库，不仅仅只是个markdown编辑器](https://masuit.com/2282)|
