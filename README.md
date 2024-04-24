@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-24 09:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 將帶來更強大的 AI 智慧功能和散熱設計](https://www.iphonetaiwan.org/2024/04/ iphone-16-ai-thermal-upgrade.html)|
+|2024-04-24 09:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 AI 伺服器：台積電 3 奈米製程技術，2025 年量產](https://www.iphonetaiwan.org/2024/04/apple-ai-server.html)|
+|2024-04-24 09:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳韓國軍方將禁用蘋果 iPhone？只允許三星安卓手機！](https://www.iphonetaiwan.org/2024/04/south-korean-military-bans-apple-iphone.html)|
+|2024-04-24 06:04:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[等了 14 年！！iPad 即將推出內建計算器應用程式](https://www.iphonetaiwan.org/2024/04/apple-ipad-calculator-app.html)|
+|2024-04-24 05:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[台灣「地震損失減稅」如何申請：災損減稅 3 步驟！](https://www.iphonetaiwan.org/2024/04/taiwan-earthquake-tax-cut.html)|
 |2024-04-24 09:29:19|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这个岛，我可以吃到天荒地老](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452053&idx=1&sn=ed2a1f26b8b66affa2df5d7b975f1664)|
 |2024-04-24 11:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[疑似韩国演练精确制导弹药打击朝鲜导弹运载车。](https://dig.chouti.com/link/42218886)|
 |2024-04-24 11:11:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[触地弹跳，拉升复飞，二次着陆](https://dig.chouti.com/link/42218909)|
