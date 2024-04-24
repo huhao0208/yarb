@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-04-23）
+﻿# 每日资讯（2024-04-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-24 00:45:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【14岁初三女生遭同学霸凌，被迫割喉求生？长沙警方：2名女性嫌疑人（分别为15岁和14岁）已传唤到案】近日，长沙一家长反映自己女儿遭遇校园霸凌，在该家长发布的视频中，一女孩被多名身穿校服的女孩和男孩殴打，不断被扇耳光和脚踩头部。有人喊“把刀拿过来，老子要捅她一刀子”。视频中，有被打女孩脖子部位被割伤画面。](https://dig.chouti.com/link/42212148)|
 |2024-04-23 21:42:26|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何强迫LLama3用中文回复？](https://www.kingname.info/2024/04/23/llama-chinese/)|
 |2024-04-23 15:27:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 正式發佈 iPad 發表會時間 新品預測總整理](https://applefans.today/2024-04-apple-announces-special-event-let-loose/)|
 |2024-04-23 05:40:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何申請 iMessage 聯絡人密鑰驗證 ？](https://applefans.today/2024-ios-17-2-how-to-use-imessage-contact-key-verification/)|
