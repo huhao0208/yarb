@@ -2,6 +2,42 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-24 12:11:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“喷火机器狗”，最远喷9米，可用于除雪，售价9420美元](https://dig.chouti.com/link/42219395)|
+|2024-04-24 13:04:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“木头姐”的ARK基金遭遇投资者大规模撤资](https://dig.chouti.com/link/42219810)|
+|2024-04-24 14:12:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[成都太古里，一个女生养活30多个摄影师！](https://dig.chouti.com/link/42220409)|
+|2024-04-24 14:12:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[成都文旅正式官宣：熊猫“花花”成为成都文旅荣誉局长](https://dig.chouti.com/link/42220485)|
+|2024-04-24 14:12:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国禁止用竞业协议限制员工跳槽，商业团体誓言起诉】4月23日，美国联邦贸易委员会（FTC）投票通过一项规定，要求全国范围的公司不得要求员工签署竞业禁止协议，以限制员工在规定时间内跳槽到竞争公司或创办竞争企业。该规定将于8月生效。美国商业团体表示，FTC无权采取这一措施，他们将提起诉讼以阻止该规定的实施。](https://dig.chouti.com/link/42220457)|
+|2024-04-24 04:10:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[庆应义塾大学学生做的实验：给一片叶子贴上邮票，寄出去能收得到吗？实验结果是，能收到。](https://dig.chouti.com/link/42214487)|
+|2024-04-24 09:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[试过一次海南鱼茶，想抽自己两嘴巴](https://dig.chouti.com/link/42217559)|
+|2024-04-24 12:34:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“以旧换新”的风吹到一线城市，深圳13个楼盘入场，有网红盘成交已破亿](https://dig.chouti.com/link/42219517)|
+|2024-04-24 07:02:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[耿彦波留给大同的这块警示碑再引关注：华严寺综治犯三错，明耻彰过](https://dig.chouti.com/link/42216055)|
+|2024-04-24 12:11:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[感受一个婊里婊气~](https://dig.chouti.com/link/42219436)|
+|2024-04-24 09:12:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大三退学去加拿大开挖掘机：“有落差，但现在更快乐”](https://dig.chouti.com/link/42217561)|
+|2024-04-24 10:01:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[请师傅来家里雕刻根雕，最后看到成品很无语，但是看着看着又笑了，我们该付多少钱给师傅啊……](https://dig.chouti.com/link/42217762)|
+|2024-04-24 10:02:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[确定无缘巴黎奥运会但拒绝退役，孙杨宣布正式恢复训练](https://dig.chouti.com/link/42217794)|
+|2024-04-24 10:08:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【多地“天然气顺价”提速，居民用气价格确实在涨】发改委要求全国大中城市在今年6月前完成一次调价，9月底前全国县级以上行政区建立价格联动机制（含居民和非居民）。](https://dig.chouti.com/link/42218310)|
+|2024-04-24 11:01:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“点读机女孩”高君雨多平台账号被禁](https://dig.chouti.com/link/42218548)|
+|2024-04-24 11:11:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国知名家居品牌把中国进口产品贴标“美国制造”，或被罚款317万美元】当地时间周一晚些时候，美国联邦贸易委员会（FTC）向法院提交文件，要求对美国知名高端家居用品零售商“威廉姆斯—索诺玛”（Williams-Sonoma）开出高额罚单，指控其在商品介绍中涉嫌虚假宣传，包括将从中国进口的床垫产品贴上“美国制造”标签。](https://dig.chouti.com/link/42218874)|
+|2024-04-24 15:46:02|[机核](https://www.gcores.com/rss)|[漫画图像中的视觉风格及画意（一）](https://www.gcores.com/articles/180833)|
+|2024-04-24 14:30:21|[机核](https://www.gcores.com/rss)|[优点鲜明，缺点明显：《剑星》媒体评分汇总](https://www.gcores.com/articles/180830)|
+|2024-04-24 13:08:07|[机核](https://www.gcores.com/rss)|[后海 胡同的景色](https://www.gcores.com/articles/180825)|
+|2024-04-24 13:02:07|[机核](https://www.gcores.com/rss)|[文化论 一 ：性焦虑、宅文化的困境与二次元的末日钟](https://www.gcores.com/articles/180824)|
+|2024-04-24 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.42丨阴阳路](https://www.gcores.com/radios/180810)|
+|2024-04-24 12:58:14|[机核](https://www.gcores.com/rss)|[《命定奇谭》：国风志怪的坊间奇遇，大荒星陨的命运变局](https://www.gcores.com/articles/180826)|
+|2024-04-24 12:39:02|[机核](https://www.gcores.com/rss)|[第一人称心理恐怖游戏《黑暗世界: 因与果》公布最新预告](https://www.gcores.com/articles/180823)|
+|2024-04-24 12:00:06|[机核](https://www.gcores.com/rss)|[【聊聊天~】有哪些游戏的UI曾让你感到难忘？](https://www.gcores.com/articles/180821)|
+|2024-04-24 11:21:00|[机核](https://www.gcores.com/rss)|[我在《无限暖暖》中感受到了技术革新带来的意义](https://www.gcores.com/articles/180777)|
+|2024-04-24 11:20:52|[机核](https://www.gcores.com/rss)|[《无限暖暖》：换装加开放世界，出乎意料的有趣](https://www.gcores.com/videos/180819)|
+|2024-04-24 11:00:00|[机核](https://www.gcores.com/rss)|[含25种鸡尾酒配方：Fangamer宣布推出《赛博朋克酒保行动》食谱](https://www.gcores.com/articles/180817)|
+|2024-04-24 10:30:24|[机核](https://www.gcores.com/rss)|[JOYTOY战锤40K新品公布：泰伦虫族参战](https://www.gcores.com/articles/180813)|
+|2024-04-24 10:30:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第6回——恶兆双子，去恨去爱](https://www.gcores.com/articles/180801)|
+|2024-04-24 10:30:00|[机核](https://www.gcores.com/rss)|[今日再看《全金属狂潮》](https://www.gcores.com/videos/180656)|
+|2024-04-24 09:30:00|[机核](https://www.gcores.com/rss)|[《黑暗世界：因与果》坠入黑暗预告](https://www.gcores.com/videos/180780)|
+|2024-04-24 09:30:00|[机核](https://www.gcores.com/rss)|[ 游戏预告 池核 梦核 丨Chest ，欢迎来到Chest！](https://www.gcores.com/videos/180719)|
+|2024-04-24 09:00:00|[机核](https://www.gcores.com/rss)|[豆腐脑、糖油饼、碳水和碳水，录音笔 VOL.187](https://www.gcores.com/radios/180812)|
+|2024-04-24 09:00:00|[机核](https://www.gcores.com/rss)|[“活捉主播”活动、会员折扣以及更多！核聚变 2024 广州站 GPASS 会员福利全览](https://www.gcores.com/articles/180797)|
+|2024-04-24 06:46:00|[机核](https://www.gcores.com/rss)|[伊藤润二全面监修，“富江”雕像开启预订](https://www.gcores.com/articles/180800)|
+|2024-04-24 06:38:46|[机核](https://www.gcores.com/rss)|[数字技术科普系列二：用数字表示文字](https://www.gcores.com/articles/180806)|
 |2024-04-24 09:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 將帶來更強大的 AI 智慧功能和散熱設計](https://www.iphonetaiwan.org/2024/04/ iphone-16-ai-thermal-upgrade.html)|
 |2024-04-24 09:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 AI 伺服器：台積電 3 奈米製程技術，2025 年量產](https://www.iphonetaiwan.org/2024/04/apple-ai-server.html)|
 |2024-04-24 09:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳韓國軍方將禁用蘋果 iPhone？只允許三星安卓手機！](https://www.iphonetaiwan.org/2024/04/south-korean-military-bans-apple-iphone.html)|
