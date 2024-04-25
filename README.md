@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-25 04:03:21|[机核](https://www.gcores.com/rss)|[《碧蓝幻想 Relink》发售11天销量突破100万份](https://www.gcores.com/articles/180847)|
+|2024-04-25 03:13:00|[机核](https://www.gcores.com/rss)|[《Gmod》下架任天堂相关内容](https://www.gcores.com/articles/180843)|
+|2024-04-25 03:07:38|[机核](https://www.gcores.com/rss)|[《庄园领主》发行商以中文介绍游戏，将于明日发售](https://www.gcores.com/articles/180844)|
+|2024-04-25 03:00:00|[机核](https://www.gcores.com/rss)|[“无限畅玩”核聚变游戏嘉年华2024广州站奇游加速器展区介绍](https://www.gcores.com/articles/180814)|
+|2024-04-25 02:41:56|[机核](https://www.gcores.com/rss)|[任天堂发布《纸片马力欧RPG》5分钟详细介绍影片](https://www.gcores.com/articles/180842)|
+|2024-04-25 02:16:19|[机核](https://www.gcores.com/rss)|[《剑星》官方发文感谢媒体点评，M站均分目前为82分](https://www.gcores.com/articles/180840)|
+|2024-04-25 01:58:21|[机核](https://www.gcores.com/rss)|[《魔兽世界》随身助手App将伴随“地心之战”终止服务](https://www.gcores.com/articles/180839)|
+|2024-04-25 01:42:48|[机核](https://www.gcores.com/rss)|[《最后的咒语》卢恩堡的矮人DLC及免费更新现已推出](https://www.gcores.com/articles/180838)|
+|2024-04-25 01:28:59|[机核](https://www.gcores.com/rss)|[《绝地求生》“怀旧活动”将于5月14日实装，经典艾伦格回归](https://www.gcores.com/articles/180837)|
+|2024-04-25 02:52:49|[Tinyfool的个人网站](https://codechina.org/feed/)|[Swift编程中应用@available和deprecated在自己的编程中提供便利](https://codechina.org/2024/04/available-deprecated/)|
+|2024-04-25 02:42:44|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[去哪看《 Let Loose 盡情飛放 》發表會內容？](https://applefans.today/2024-04-how-to-watch-apple-let-loose-event/)|
+|2024-04-25 01:37:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[自打嘴巴！傳聞 12.9 吋的 M2 iPad Air 6 螢幕 不再是 mini-LED 了](https://applefans.today/2024-04-12-9-inch-ipad-air-will-not-feature-mini-led/)|
 |2024-04-25 00:36:31|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[汽车上天，工人落地｜工劳小报 #40](https://feed.laborinfocn6.com/issue40/)|
 |2024-04-24 12:11:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“喷火机器狗”，最远喷9米，可用于除雪，售价9420美元](https://dig.chouti.com/link/42219395)|
 |2024-04-24 13:04:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“木头姐”的ARK基金遭遇投资者大规模撤资](https://dig.chouti.com/link/42219810)|
