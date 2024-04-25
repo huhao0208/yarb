@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-04-24）
+﻿# 每日资讯（2024-04-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-25 00:36:31|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[汽车上天，工人落地｜工劳小报 #40](https://feed.laborinfocn6.com/issue40/)|
 |2024-04-24 12:11:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“喷火机器狗”，最远喷9米，可用于除雪，售价9420美元](https://dig.chouti.com/link/42219395)|
 |2024-04-24 13:04:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“木头姐”的ARK基金遭遇投资者大规模撤资](https://dig.chouti.com/link/42219810)|
 |2024-04-24 14:12:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[成都太古里，一个女生养活30多个摄影师！](https://dig.chouti.com/link/42220409)|
