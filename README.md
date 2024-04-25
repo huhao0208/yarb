@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-25 11:55:57|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《恐怖角》：超级反派癫狂残忍、智商超高，悬疑惊悚中的经典之作！](https://www.ximalaya.com/sound/724932657)|
+|2024-04-25 06:35:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[黄仁勋亲自给OpenAI送货，全球首台DGX H200开箱了](https://dig.chouti.com/link/42227364)|
+|2024-04-25 07:04:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[出口和建筑投资强劲，韩国一季度GDP增长3.4%超预期](https://dig.chouti.com/link/42227765)|
+|2024-04-25 14:12:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[游轮的加长方式看起来非常简单粗暴](https://dig.chouti.com/link/42232180)|
+|2024-04-25 13:13:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【 美国一季度GDP低于预期 核心PCE物价指数大幅反弹】美国第一季度实际GDP年化季率初值录得1.6%，为2023年Q1以来最低。美国第一季度核心PCE物价指数年化季率初值录得3.7%，为2023年Q2以来新高，较上月大幅反弹。](https://dig.chouti.com/link/42231649)|
+|2024-04-25 14:12:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【神十八发射任务圆满成功】神舟十八号载人飞船与长征火箭成功分离，进入预定轨道，航天员乘组状态良好，发射取得圆满成功。](https://dig.chouti.com/link/42232144)|
+|2024-04-25 05:05:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯新组建的“非洲军团”抵达尼日尔，继法军后美军也要撤出该国，瓦格纳2.0赢了？](https://dig.chouti.com/link/42226538)|
+|2024-04-25 09:02:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[华南师大文学院要求手抄毕业论文引学生不满，院方称考核师范生书写能力](https://dig.chouti.com/link/42229078)|
+|2024-04-25 12:13:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[罗马2077 by AI](https://dig.chouti.com/link/42231135)|
+|2024-04-25 12:35:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国企业的寒风，吹向“35+”员工：要么主动辞职，要么“自愿退休”](https://dig.chouti.com/link/42231186)|
+|2024-04-25 09:11:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[岁月催人老！38岁鲁尼现身古迪逊公园球场，一脸白须脸部发福](https://dig.chouti.com/link/42229420)|
+|2024-04-25 09:11:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【法国科学家研究发现：鸡会因情绪而脸红】当鸡看到自己喜欢吃的东西时，脸色就会变得有点红。当经历像是捕捉不到食物这种压力时，那么整张脸都会变成猩红色，但是休息时脸色又会变浅很多。当鸡习惯与人类相处时，鸡的脸色会比较浅。这项研究揭示了感情状态的表现，或许对人鸡关系的培养会有很大帮助。](https://dig.chouti.com/link/42229463)|
+|2024-04-25 11:44:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾博主测试防弹头盔，解放军和美军表现最好，台军和俄军最拉跨？](https://dig.chouti.com/link/42230769)|
+|2024-04-25 12:04:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[报案激增、J·K·罗琳差点被抓，苏格兰仇恨犯罪法为何引争议？](https://dig.chouti.com/link/42230990)|
+|2024-04-25 09:11:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[朱迪斯和莎乐美，两个绘画中容易和人头一起出现的女性](https://dig.chouti.com/link/42229470)|
+|2024-04-25 09:12:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[来广西合浦看看这的鲎有多少？](https://dig.chouti.com/link/42229509)|
+|2024-04-25 06:12:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国哥伦比亚大学，警察在校园内抓捕支持巴勒斯坦的抗议者](https://dig.chouti.com/link/42227210)|
+|2024-04-25 09:34:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[99岁马来西亚前总理马哈蒂尔接受反贪污调查，涉财产申报等问题](https://dig.chouti.com/link/42229541)|
+|2024-04-25 15:08:01|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨​北京车展首日，得意的和失意的；Meta 收入大增，股价大跌；爱马仕全地区二位数增长](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515499&idx=2&sn=5e3a68f39805c90d80eadafb4389b02f)|
+|2024-04-25 15:08:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[理想前总裁沈亚楠再创业，从给中产家庭造车到给中产家庭装修](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515499&idx=1&sn=a9deb4183ae6fadce04ab68f3ae8d89c)|
 |2024-04-25 10:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台积电被美国职场评分网站Glassdoor评为最差雇主：工作时间太长、等级制度严格](https://dig.chouti.com/link/42229695)|
 |2024-04-25 10:02:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国哥伦比亚大学挺巴勒斯坦抗议，示威学生分组“保卫”营地：准备好为同志们挺身而出了吗？](https://dig.chouti.com/link/42229709)|
 |2024-04-25 11:03:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国驻俄大使馆外墙上出现骷髅头图案](https://dig.chouti.com/link/42230454)|
