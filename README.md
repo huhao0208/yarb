@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-04-25）
+﻿# 每日资讯（2024-04-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-26 01:11:36|[机核](https://www.gcores.com/rss)|[2024年暴雪嘉年华宣告取消](https://www.gcores.com/articles/180892)|
 |2024-04-25 03:30:42|[太隐](https://wangyurui.com/feed.xml)|[自由的灵魂](https://wangyurui.com/posts/zi-you-de-ling-hun-f6bcb3d8)|
 |2024-04-25 13:09:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[HyperOS & MIUI 帧率开关 - 免 ROOT 解锁隐藏刷新率](https://w2solo.com/topics/4580)|
 |2024-04-25 11:55:57|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《恐怖角》：超级反派癫狂残忍、智商超高，悬疑惊悚中的经典之作！](https://www.ximalaya.com/sound/724932657)|
