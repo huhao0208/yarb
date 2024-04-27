@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-27 07:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[台積電 1.8nm 晶片製程：為 iPhone 帶來驚人性能提升](https://www.iphonetaiwan.org/2024/04/iphone-18-tsmc-1-8nm-chip.html)|
+|2024-04-27 07:40:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18：蘋果與 OpenAI 有望合作，全新人工智慧功能](https://www.iphonetaiwan.org/2024/04/apple-openai-ios-ipados-18.html)|
+|2024-04-27 07:15:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Watch X：手錶結構革新，薄型電路板來臨](https://www.iphonetaiwan.org/2024/04/apple-watch-x-structure-change.html)|
+|2024-04-27 06:51:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 AI 人工智慧革新！開源四款模型掀起技術革命](https://www.iphonetaiwan.org/2024/04/apple-open-source-ai-models.html)|
 |2024-04-27 15:00:00|[机核](https://www.gcores.com/rss)|[本地化的成与败 GadioNews04.27](https://www.gcores.com/radios/180594)|
 |2024-04-27 13:19:10|[机核](https://www.gcores.com/rss)|[吃遍泰拉！《明日方舟》将与《迷宫饭》展开联动](https://www.gcores.com/articles/180970)|
 |2024-04-27 07:57:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #48：Python 3.14 的发布计划](https://w2solo.com/topics/4586)|
