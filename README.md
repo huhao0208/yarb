@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-27 07:57:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #48：Python 3.14 的发布计划](https://w2solo.com/topics/4586)|
+|2024-04-27 01:31:18|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个关于前端面试题的网站](https://w2solo.com/topics/4585)|
 |2024-04-27 04:53:32|[机核](https://www.gcores.com/rss)|[王子复国，有这样的军师和姐姐，能不赢吗？](https://www.gcores.com/articles/180957)|
 |2024-04-27 02:00:00|[机核](https://www.gcores.com/rss)|[Switch睡死不完全解决方案](https://www.gcores.com/articles/180951)|
 |2024-04-27 10:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[什么是 MLOps](https://www.chenshaowen.com/blog/what-is-mlops.html)|
