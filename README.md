@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-04-26）
+﻿# 每日资讯（2024-04-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-27 10:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[什么是 MLOps](https://www.chenshaowen.com/blog/what-is-mlops.html)|
 |2024-04-26 07:47:45|[太隐](https://wangyurui.com/feed.xml)|[小诗（一）：《游古城》](https://wangyurui.com/posts/xiao-shi-you-gu-cheng-2baf1782)|
 |2024-04-26 16:59:09|[摄影世界](https://feedx.net/rss/photoworld.xml)|[征稿｜抓拍视界里的中国，你的镜头准备好了吗？](https://www.photoworld.com.cn/post/176531)|
 |2024-04-26 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[佳能 2024 开门红，收益双增](https://www.photoworld.com.cn/post/176632)|
@@ -15,6 +16,7 @@
 |2024-04-26 08:21:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你一再调戏我啊，用凤梨？？？？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452136&idx=1&sn=b65385d34abe539c8a8df575a6af3ef3)|
 |2024-04-26 09:36:57|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[母親節禮物 2024 有什麼 ? 選三星美型家電最高贈 2 萬旅遊金](https://applefans.today/2024-04-samsung-monther-gift-specil-event/)|
 |2024-04-26 02:28:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[五月！即將推出下一代 Beats Solo 4 無線耳機 嗎？](https://applefans.today/2024-04-beats-solo-4-rumors/)|
+|2024-04-27 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：怎样给大语言模型编程：抽象、封装和碰瓷](https://tuna.moe/event/2024/llm/)|
 |2024-04-26 07:48:22|[机核](https://www.gcores.com/rss)|[海豹十日谈 2024 第一日：亚瑟·摩根赢了](https://www.gcores.com/radios/180927)|
 |2024-04-26 07:19:33|[机核](https://www.gcores.com/rss)|[2024年4月国产网络游戏审批信息公布，《失落之魂》等游戏过审](https://www.gcores.com/articles/180926)|
 |2024-04-26 07:07:40|[机核](https://www.gcores.com/rss)|[肉鸽登山冒险游戏《孤山难越》现已登陆主机平台！](https://www.gcores.com/articles/180924)|
