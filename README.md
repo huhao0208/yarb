@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-28 12:37:08|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[折腾记-给玩客云装上casaos](https://nicksxs.me/2024/04/28/%E6%8A%98%E8%85%BE%E8%AE%B0-%E7%BB%99%E7%8E%A9%E5%AE%A2%E4%BA%91%E8%A3%85%E4%B8%8Acasaos/)|
+|2024-04-28 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[斯莫格公益影像奖向全球发出邀约｜SmallRig 惊艳亮相 2024 NAB SHOW](https://www.photoworld.com.cn/post/176539)|
+|2024-04-28 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[风驰电掣的 F1 赛车用什么拍？](https://www.photoworld.com.cn/post/176642)|
+|2024-04-28 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[获奖名单｜来看看有没有你记录的大美中国](https://www.photoworld.com.cn/post/176661)|
 |2024-04-28 12:00:00|[机核](https://www.gcores.com/rss)|[【聊聊天】您对传闻中的NS2有什么样的期待？](https://www.gcores.com/articles/180991)|
 |2024-04-28 10:42:25|[机核](https://www.gcores.com/rss)|[下周节目预告 4.29~5.5](https://www.gcores.com/articles/181020)|
 |2024-04-28 10:30:00|[机核](https://www.gcores.com/rss)|[聚会型电玩“半宅空间”开店记](https://www.gcores.com/videos/180994)|
