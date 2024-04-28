@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-04-27）
+﻿# 每日资讯（2024-04-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-28 00:47:56|[鸟窝](https://colobu.com/atom.xml)|[Go语言编程技巧 1.0 发布了](https://colobu.com/2024/04/28/gotips-1-0-is-released/)|
+|2024-04-28 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Transformations of Random Variables](https://leimao.github.io/blog/Transformations-Random-Variables/)|
+|2024-04-28 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[高达 SEED 2024 剧场版湾区上映](https://leimao.github.io/essay/Gundam-SEED-2024%E5%89%A7%E5%9C%BA%E7%89%88-%E6%B9%BE%E5%8C%BA%E4%B8%8A%E6%98%A0/)|
 |2024-04-27 07:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[台積電 1.8nm 晶片製程：為 iPhone 帶來驚人性能提升](https://www.iphonetaiwan.org/2024/04/iphone-18-tsmc-1-8nm-chip.html)|
 |2024-04-27 07:40:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18：蘋果與 OpenAI 有望合作，全新人工智慧功能](https://www.iphonetaiwan.org/2024/04/apple-openai-ios-ipados-18.html)|
 |2024-04-27 07:15:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Watch X：手錶結構革新，薄型電路板來臨](https://www.iphonetaiwan.org/2024/04/apple-watch-x-structure-change.html)|
