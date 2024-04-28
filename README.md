@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-28 12:00:00|[机核](https://www.gcores.com/rss)|[【聊聊天】您对传闻中的NS2有什么样的期待？](https://www.gcores.com/articles/180991)|
+|2024-04-28 10:42:25|[机核](https://www.gcores.com/rss)|[下周节目预告 4.29~5.5](https://www.gcores.com/articles/181020)|
+|2024-04-28 10:30:00|[机核](https://www.gcores.com/rss)|[聚会型电玩“半宅空间”开店记](https://www.gcores.com/videos/180994)|
+|2024-04-28 10:25:48|[机核](https://www.gcores.com/rss)|[网易暴雪游戏运营团队发布辟谣公告，国服数据丢失等均为谣言](https://www.gcores.com/articles/181019)|
+|2024-04-28 10:18:11|[机核](https://www.gcores.com/rss)|[《黑帝斯2》技术测试将于明日结束](https://www.gcores.com/articles/181018)|
+|2024-04-28 09:00:00|[机核](https://www.gcores.com/rss)|[《全面战争》是一种简单难度更难的游戏，录音笔 VOL.190](https://www.gcores.com/radios/181006)|
+|2024-04-28 08:39:53|[机核](https://www.gcores.com/rss)|[格斗游戏《饿狼传说 City of the Wolves》马可·罗德里格斯角色宣传片公开](https://www.gcores.com/articles/181010)|
+|2024-04-28 10:14:36|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[今天上班我精神状态 be like：](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452155&idx=1&sn=133524ab368a0f3d2868a81a38bb6f2a)|
+|2024-04-28 09:03:18|[黑羽的个人博客](https://blog.thetbw.xyz/atom.xml)|[使用 pl4j 实现插件系统](https://blog.thetbw.xyz/archives/plugin-system-by-pl4j)|
+|2024-04-28 10:42:24|[晚点LatePost](https://feedpress.me/wx-postlate)|[丰田调整在华策略，南北丰田工厂齐减产](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515530&idx=3&sn=3f46e2ad98cb137aaf3b7a3bbc533bcb)|
+|2024-04-28 10:42:23|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨中概股指数年内涨幅追上纳斯达克；北京车展，抓紧时间多卖车](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515530&idx=2&sn=11134e35a4e247b6ed9c20dfdfc31bd8)|
+|2024-04-28 10:42:22|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨出海电商四小龙竞赛：翻倍增长，用一切办法](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515530&idx=1&sn=0c65b0b1af59fc3dfca15a966a9cba37)|
+|2024-04-28 01:52:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2404](https://xiaket.github.io/2024/pensieve-2404.html)|
 |2024-04-28 08:00:00|[机核](https://www.gcores.com/rss)|[「 崩 溃 AI 」](https://www.gcores.com/videos/180963)|
 |2024-04-28 06:37:44|[机核](https://www.gcores.com/rss)|[像素风叙事解谜游戏《往事伴我》定档5月7日上线](https://www.gcores.com/articles/180997)|
 |2024-04-28 02:17:05|[I'm TualatriX](https://imtx.me/feed/latest/)|[把「开新坑」作为「心灵按摩」](https://imtx.me/blog/starting-new-projects-as-spiritual-massage/)|
