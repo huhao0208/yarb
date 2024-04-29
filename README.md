@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-29 03:03:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 忘記螢幕密碼不用電腦也可以解開！四招解法一次搞懂](https://applefans.today/itoolab-unlockgo-2024-04-how-to-unlock-iphone-screen-lock/)|
+|2024-04-29 02:11:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPad Pro 將跳過 M3 晶片，直升 M4 晶片 嗎？](https://applefans.today/2024-04-bloomberg-new-ipad-pro-m4-chip-rumors/)|
+|2024-04-29 07:47:10|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[一次消息队列异常堆积的排查](http://crossoverjie.top/2024/04/29/ob/pulsar-slow-consume/)|
+|2024-04-29 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/17](https://weekly.pychina.org/pyrecap/pyrw-2417.html)|
 |2024-04-28 21:07:21|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[如何看待2024年4月26日下午问界M7高速车祸全网消声？](https://masuit.com/40)|
 |2024-04-28 16:23:22|[机核](https://www.gcores.com/rss)|[《赛马娘Pretty Derby 热血喧闹大感谢祭！》将于8月30日发售](https://www.gcores.com/articles/181033)|
 |2024-04-28 16:02:38|[机核](https://www.gcores.com/rss)|[国产文字推理游戏《真探2》将于5月17日登录Steam平台](https://www.gcores.com/articles/181032)|
