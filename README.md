@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-29 09:08:38|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[五一只来上海待3天，有什么必吃榜？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452208&idx=1&sn=0107a50c55eb4718623be1cf9722acc7)|
+|2024-04-29 10:12:33|[机核](https://www.gcores.com/rss)|[《铁拳8》公布第一季宣传片，“莉迪亚”将于夏季登场](https://www.gcores.com/articles/181093)|
+|2024-04-29 10:00:00|[机核](https://www.gcores.com/rss)|[边缘人优胜、运营指责玩家！Level-5的投票有多抽象？](https://www.gcores.com/videos/181074)|
+|2024-04-29 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#297：《龙腾世纪：审判》](https://www.gcores.com/articles/181026)|
+|2024-04-29 09:59:06|[机核](https://www.gcores.com/rss)|[《罪恶装备 -奋战-》公开新DLC角色“史烈牙”预告](https://www.gcores.com/articles/181092)|
+|2024-04-29 09:34:18|[机核](https://www.gcores.com/rss)|[卡普空公布《街头霸王6》豪鬼角色实机演示](https://www.gcores.com/articles/181089)|
+|2024-04-29 09:30:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第7回——古龙战争，黄金扩张](https://www.gcores.com/articles/181065)|
+|2024-04-29 09:03:28|[机核](https://www.gcores.com/rss)|[动画电影《神偷奶爸4》确认引进中国内地](https://www.gcores.com/articles/181088)|
+|2024-04-29 09:00:00|[机核](https://www.gcores.com/rss)|[《逃离塔科夫》与《辐射4》近况，录音笔 VOL.191](https://www.gcores.com/radios/181067)|
+|2024-04-29 10:56:44|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【Mac app】實測 Spark Mail app 的 Spark +AI 功能](https://applefans.today/2024-setapp-sparkmailapp/)|
 |2024-04-29 06:52:57|[机核](https://www.gcores.com/rss)|[《NieR Re in carnation 资料集》预订开启，8月28日发售](https://www.gcores.com/articles/181072)|
 |2024-04-29 06:02:53|[机核](https://www.gcores.com/rss)|[冒险解谜游戏《小小梦魇》发售7周年，官方公布纪念贺图](https://www.gcores.com/articles/181070)|
 |2024-04-29 05:45:40|[机核](https://www.gcores.com/rss)|[《宝可梦动画图鉴》「伊布篇」公布](https://www.gcores.com/articles/181069)|
