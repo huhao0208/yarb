@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-29 16:00:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Sennheiser Momentum True Wireless 4 評測 木耳都能辨識的卓越音質](https://applefans.today/2024-04-sennheiser-momentum-true-wireless-4-reviews/)|
+|2024-04-29 13:00:00|[机核](https://www.gcores.com/rss)|[放下面包红酒，拿起步枪，走向他的结局：智利入夜｜智利之夜 Vol.3](https://www.gcores.com/radios/173200)|
+|2024-04-29 12:35:27|[机核](https://www.gcores.com/rss)|[【聊聊天】你是如何看待游戏MOD的？](https://www.gcores.com/articles/181095)|
+|2024-04-29 11:19:54|[竹林里有冰的博客](https://zhul.in/rss.xml)|[使用 Github Action 更新用于 rpm 打包的 spec 文件](https://zhul.in/2024/04/29/update-a-rpm-spec-by-github-action/)|
+|2024-04-29 11:14:16|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨马斯克重新聚焦特斯拉；保时捷预计中国市场下半年回暖；​“五一” 前夕机票降价](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515587&idx=3&sn=54ea21120657d81d7bfc6383602a7657)|
+|2024-04-29 11:14:16|[晚点LatePost](https://feedpress.me/wx-postlate)|[供应链新军丨德赛西威如何成为中国座舱、智驾域控第二](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515587&idx=2&sn=9276676c9d8f81c60c5efd9f1df7941f)|
+|2024-04-29 11:14:15|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点视频｜互联网公司的中等规模陷阱](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515587&idx=1&sn=1bd92e1f72230329ff59157153c6b1cc)|
 |2024-04-29 09:08:38|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[五一只来上海待3天，有什么必吃榜？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452208&idx=1&sn=0107a50c55eb4718623be1cf9722acc7)|
 |2024-04-29 10:12:33|[机核](https://www.gcores.com/rss)|[《铁拳8》公布第一季宣传片，“莉迪亚”将于夏季登场](https://www.gcores.com/articles/181093)|
 |2024-04-29 10:00:00|[机核](https://www.gcores.com/rss)|[边缘人优胜、运营指责玩家！Level-5的投票有多抽象？](https://www.gcores.com/videos/181074)|
