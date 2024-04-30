@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-30 03:47:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[無望！Mercedes-Benz 並不想支援下一代 Apple CarPlay](https://applefans.today/2024-04-mercedes-benz-ceo-not-using-apple-next-gen-carplay/)|
+|2024-04-30 01:01:36|[鸟窝](https://colobu.com/atom.xml)|[Go heap profile 怎么了](https://colobu.com/2024/04/30/what-s-wrong-with-go-heap-profile/)|
 |2024-04-29 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[首届海峡两岸手机摄影大赛获奖作品公示](https://www.photoworld.com.cn/post/176611)|
 |2024-04-29 16:00:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Sennheiser Momentum True Wireless 4 評測 木耳都能辨識的卓越音質](https://applefans.today/2024-04-sennheiser-momentum-true-wireless-4-reviews/)|
 |2024-04-29 13:00:00|[机核](https://www.gcores.com/rss)|[放下面包红酒，拿起步枪，走向他的结局：智利入夜｜智利之夜 Vol.3](https://www.gcores.com/radios/173200)|
