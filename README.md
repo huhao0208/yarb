@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-30 08:12:55|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[辞职！！！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452226&idx=1&sn=2fbaeedd2614dc1d06bebb2442533f19)|
+|2024-04-30 03:56:22|[KAIX.IN](https://kaix.in/feed/)|[瞎说](https://kaix.in/2024/0430-let-go/)|
+|2024-04-30 07:45:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我的作品：liusha.app apk 下载站点](https://w2solo.com/topics/4588)|
+|2024-04-30 10:26:35|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨马斯克的关键 23 小时；​中金人均薪酬两年降 30%；中国耐用品消费回暖](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515683&idx=2&sn=9e1bf0a1da1d6a02dd39011dd573e17c)|
+|2024-04-30 10:26:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[对话 PixVerse 王长虎：AI 视频生成可能通向新平台，Sora 只领先几个月](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515683&idx=1&sn=f474c0a5494f60c3f5c2e4b251959ae7)|
+|2024-04-30 10:30:00|[机核](https://www.gcores.com/rss)|[聊聊《战锤40K》禁军事件](https://www.gcores.com/videos/181051)|
+|2024-04-30 10:03:01|[机核](https://www.gcores.com/rss)|[新大型项目已启动：光荣特库摩公布最新财报](https://www.gcores.com/articles/181143)|
+|2024-04-30 10:00:00|[机核](https://www.gcores.com/rss)|[一本漫画卖三千万？美漫市场真的疯了？](https://www.gcores.com/videos/181022)|
+|2024-04-30 09:00:00|[机核](https://www.gcores.com/rss)|[游戏多卡应该入刑，录音笔 VOL.192](https://www.gcores.com/radios/181138)|
+|2024-04-30 09:00:00|[机核](https://www.gcores.com/rss)|[肉鸽地牢策略游戏《亡者之地》将于5月13号发售](https://www.gcores.com/articles/181116)|
+|2024-04-30 11:33:23|[Dennis](https://www.domon.cn/rss/)|[2024年4月阅读书摘](https://www.domon.cn/2024-4yue-yue-du-shu-zhai/)|
+|2024-04-30 03:20:00|[太隐](https://wangyurui.com/feed.xml)|[解构之美](https://wangyurui.com/posts/jie-gou-zhi-mei-4e3d28d8)|
+|2024-04-30 08:38:53|[中文信息学报](https://feedpress.me/wx-jcip1986)|[《中文信息学报》新刊概览∣ 2024年第3期（38卷第3期）](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485647&idx=1&sn=70712388f89e7469788692bf63fbab96)|
 |2024-04-30 07:18:38|[机核](https://www.gcores.com/rss)|[SE：重新审查高清游戏开发政策，预计将损失221亿日元](https://www.gcores.com/articles/181134)|
 |2024-04-30 06:51:01|[机核](https://www.gcores.com/rss)|[《盟军敢死队 起源》将于2024年夏季进行测试](https://www.gcores.com/articles/181133)|
 |2024-04-30 06:35:48|[机核](https://www.gcores.com/rss)|[EP.13 我们希望用这一期电台来安利你：来看话剧吧！](https://www.gcores.com/videos/181126)|
