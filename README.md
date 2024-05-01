@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-01 01:49:48|[机核](https://www.gcores.com/rss)|[《生化危机2重制版》警察局关卡拆解](https://www.gcores.com/articles/181159)|
+|2024-05-01 00:12:48|[余晟以为](https://feedpress.me/wx-yurii-says)|[德国生活点滴：种族歧视比你想象的要负责（续）](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009925&idx=1&sn=f682c4b14263d2b6ff53e238ebc8c267)|
 |2024-04-30 09:45:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[跟著我們前往 Apple原廠零件獨立維修中心 的 「 一心保衛站 」幫 iPhone 換電池](https://applefans.today/2024-04-kaohsiung-guardstation-irp/)|
 |2024-04-30 12:19:15|[华山感染](https://feedpress.me/wx-hsinfect)|[五一出行警惕这种“小黑点”！严重可致命……](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502824&idx=1&sn=0ab6ddbc1a9894f0f72c4fec6c6beda2)|
 |2024-04-30 14:29:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[闲话 UFO](https://www.changhai.org/articles/youtube/UFO.php)|
