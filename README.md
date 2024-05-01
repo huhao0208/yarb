@@ -1,10 +1,11 @@
-﻿# 每日资讯（2024-04-30）
+﻿# 每日资讯（2024-05-01）
 
 |时间|来源|标题|
 |---|---|---|
 |2024-04-30 09:45:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[跟著我們前往 Apple原廠零件獨立維修中心 的 「 一心保衛站 」幫 iPhone 換電池](https://applefans.today/2024-04-kaohsiung-guardstation-irp/)|
 |2024-04-30 12:19:15|[华山感染](https://feedpress.me/wx-hsinfect)|[五一出行警惕这种“小黑点”！严重可致命……](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502824&idx=1&sn=0ab6ddbc1a9894f0f72c4fec6c6beda2)|
 |2024-04-30 14:29:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[闲话 UFO](https://www.changhai.org/articles/youtube/UFO.php)|
+|2024-05-01 00:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[对齐 Ops，使用新思路重写 Ops Copilot 已更新](https://www.chenshaowen.com/blog/ops-copilot-has-been-updated-using-pipeline-and-llm.html)|
 |2024-04-30 15:00:00|[机核](https://www.gcores.com/rss)|[游戏圆桌 游戏可以不做这么长吗](https://www.gcores.com/radios/181003)|
 |2024-04-30 14:44:26|[机核](https://www.gcores.com/rss)|[微软将于6月10日举行发布会，神秘新作紧追其后](https://www.gcores.com/articles/181156)|
 |2024-04-30 13:57:25|[机核](https://www.gcores.com/rss)|[挪威球星埃尔林·哈兰德宣布联动《部落冲突》，带来专属皮肤](https://www.gcores.com/articles/181154)|
