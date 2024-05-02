@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-02 10:58:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[微言小义 2024.04 ](https://www.changhai.org/articles/miscellaneous/blog/202404.php)|
 |2024-05-02 15:15:50|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[数据恢复 R-Studio 9.4 Build 191303网络技术员学习版](https://masuit.com/1538)|
 |2024-05-02 04:48:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[無線頭戴式耳機 Beats Solo 4 上市！有什麼新功能？](https://applefans.today/2024-05-beats-solo-4-launch/)|
 |2024-05-02 03:33:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.5 Beta 在「尋找」App 加入「維修狀態」新功能](https://applefans.today/2024-05-apple-ios-17-5-iphone-repair-state/)|
