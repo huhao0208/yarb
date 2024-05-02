@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-05-01）
+﻿# 每日资讯（2024-05-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-02 00:56:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2024 年 5 月 1 日](https://www.changhai.org/articles/miscellaneous/blog/202405.php#latest)|
+|2024-05-02 00:46:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[Latest post on Threads：2024.5.1](https://www.changhai.org/articles/miscellaneous/eblog/202405.php#latest)|
+|2024-05-02 00:45:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[Posts on Threads 2024.01 - 2024.04 ](https://www.changhai.org/articles/miscellaneous/eblog/202401.php)|
 |2024-05-01 13:00:00|[机核](https://www.gcores.com/rss)|[“望洋兴叹”，对“坚船利炮”的痛苦无奈 北洋水师与近代中国 Vol.02](https://www.gcores.com/radios/173216)|
 |2024-05-01 10:00:00|[机核](https://www.gcores.com/rss)|[「换装」的魅力——那些在试玩之前，《无限暖暖》没告诉我的事](https://www.gcores.com/videos/181147)|
 |2024-05-01 04:26:23|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Ollama本地部署，离线使用大模型](https://xugaoxiang.com/2024/05/01/ollama-offline-deploy/)|
