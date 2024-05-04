@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-05-03）
+﻿# 每日资讯（2024-05-04）
 
 |时间|来源|标题|
 |---|---|---|
@@ -8,6 +8,7 @@
 |2024-05-03 08:55:04|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[吕克贝松最新震撼神作《狗神》，男主开局吓哭无数观众，最后终于收获完美结局！](https://www.ximalaya.com/sound/726512921)|
 |2024-05-03 15:00:00|[机核](https://www.gcores.com/rss)|[五一假期看点什么好？核市奇谭Vol.71](https://www.gcores.com/radios/181005)|
 |2024-05-03 10:30:00|[机核](https://www.gcores.com/rss)|[两轮承载灵魂！第四骑：巡航与休旅](https://www.gcores.com/videos/181101)|
+|2024-05-04 01:24:53|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[原来 k3s 的证书默认一年就会过期](https://mok.moe/p/3c20)|
 |2024-05-03 23:18:02|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[van♂——一位比主角人气还要高的反派](https://masuit.com/1911)|
 |2024-05-03 04:22:21|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果官網販售的 AirPods Max、Beats Solo 4 和 Beats Studio Pro 怎麼選？](https://applefans.today/2024-05-beats-solo-4-vs-airpods-max-beats-studio-pro-compare/)|
 |2024-05-03 12:00:20|[太隐](https://wangyurui.com/feed.xml)|[诗词（二）：《清平乐》](https://wangyurui.com/posts/xiao-ci-er-qing-ping-le-782d7001)|
