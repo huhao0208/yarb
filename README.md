@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-04 12:49:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[微寻，为个人网站提供微信扫码登录能力。](https://w2solo.com/topics/4593)|
+|2024-05-04 12:44:13|[smallyu的博客](https://smallyu.net/atom.xml)|[炒币投资的小 tips](https://smallyu.net/2024/05/04/%E7%82%92%E5%B8%81%E6%8A%95%E8%B5%84%E7%9A%84%E5%B0%8F-tips/)|
+|2024-05-04 15:30:00|[机核](https://www.gcores.com/rss)|[单纯的“哭”和“笑”，或许无法概括这五年的回忆](https://www.gcores.com/articles/181208)|
+|2024-05-04 13:55:00|[机核](https://www.gcores.com/rss)|[摄影丨彼方频伽瓶](https://www.gcores.com/articles/181216)|
+|2024-05-04 13:45:00|[机核](https://www.gcores.com/rss)|[往年手账补档](https://www.gcores.com/articles/181214)|
+|2024-05-04 13:00:00|[机核](https://www.gcores.com/rss)|[工作汇报Vol.4丨那个人是怎么做播客的](https://www.gcores.com/radios/181000)|
+|2024-05-04 11:35:01|[机核](https://www.gcores.com/rss)|[中文翻译丨《生化奇兵》文化参考（即彩蛋+引用）](https://www.gcores.com/articles/181229)|
+|2024-05-04 11:34:03|[机核](https://www.gcores.com/rss)|[2004的过期电影卷](https://www.gcores.com/articles/181230)|
 |2024-05-04 08:05:05|[太隐](https://wangyurui.com/feed.xml)|[张廷玉是奸臣](https://wangyurui.com/posts/zhang-ting-yu-shi-jian-chen-e9f99667)|
 |2024-05-04 04:30:00|[太隐](https://wangyurui.com/feed.xml)|[青年人，读马克思吧！](https://wangyurui.com/posts/qing-nian-ren-du-ma-ke-si-ba-5127bf67)|
 |2024-05-04 07:00:00|[机核](https://www.gcores.com/rss)|[国产+开放世界+EA=跑路！？顶着质疑debuff坚持了7年，今年一定！](https://www.gcores.com/videos/181168)|
