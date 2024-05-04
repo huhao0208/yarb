@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-04 16:24:00|[旅行者的随想](https://blog.besscroft.com/rss.xml)|[Next SSR 开发与实践](https://blog.besscroft.com/articles/2024/next-ssr-practice/)|
+|2024-05-04 16:14:41|[祝融说。](https://zhurongshuo.com/index.xml)|[弱小不应是被欺凌的理由。](https://zhurongshuo.com/posts/2024/05/0501/)|
+|2024-05-04 16:39:10|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 942 Div. 2 ](https://blog.mauve.icu/2024/05/04/acm/codeforces/CodeforcesRound942/)|
 |2024-05-04 12:49:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[微寻，为个人网站提供微信扫码登录能力。](https://w2solo.com/topics/4593)|
 |2024-05-04 12:44:13|[smallyu的博客](https://smallyu.net/atom.xml)|[炒币投资的小 tips](https://smallyu.net/2024/05/04/%E7%82%92%E5%B8%81%E6%8A%95%E8%B5%84%E7%9A%84%E5%B0%8F-tips/)|
 |2024-05-04 15:30:00|[机核](https://www.gcores.com/rss)|[单纯的“哭”和“笑”，或许无法概括这五年的回忆](https://www.gcores.com/articles/181208)|
