@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-05 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Kawhi Leonard 拒绝比赛](https://leimao.github.io/essay/Kawhi-Leonard-%E6%8B%92%E7%BB%9D%E6%AF%94%E8%B5%9B/)|
+|2024-05-05 02:35:59|[鸟窝](https://colobu.com/atom.xml)|[Sqids: 简短唯一ID生成器](https://colobu.com/2024/05/05/Sqids-short-unique-identifiers-generators/)|
 |2024-05-04 16:24:00|[旅行者的随想](https://blog.besscroft.com/rss.xml)|[Next SSR 开发与实践](https://blog.besscroft.com/articles/2024/next-ssr-practice/)|
 |2024-05-04 16:14:41|[祝融说。](https://zhurongshuo.com/index.xml)|[弱小不应是被欺凌的理由。](https://zhurongshuo.com/posts/2024/05/0501/)|
 |2024-05-04 16:39:10|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 942 Div. 2 ](https://blog.mauve.icu/2024/05/04/acm/codeforces/CodeforcesRound942/)|
