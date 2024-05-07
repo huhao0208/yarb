@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-07 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：文章推荐与导读（4.20-5.5）](https://www.gcores.com/articles/181386)|
+|2024-05-07 15:00:00|[机核](https://www.gcores.com/rss)|[路上别乱看，不要乱搭讪 摩登怪谈Vol.4](https://www.gcores.com/radios/181338)|
+|2024-05-07 14:59:51|[机核](https://www.gcores.com/rss)|[M4版iPad Pro、Apple Pencil Pro：苹果“放飞吧”线上特别直播消息汇总](https://www.gcores.com/articles/181413)|
+|2024-05-07 13:40:10|[机核](https://www.gcores.com/rss)|[微软宣布解散Tango Gameworks及Arkane Austin等多家工作室](https://www.gcores.com/articles/181411)|
+|2024-05-07 12:52:35|[机核](https://www.gcores.com/rss)|[【聊聊天】关于《生化危机9》你有什么期待的内容？](https://www.gcores.com/articles/181408)|
 |2024-05-07 08:08:44|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚刚！它突然回归！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452416&idx=1&sn=11a344e87778bcf5df96a33fcd5ce249)|
 |2024-05-07 12:59:03|[摄影世界](https://feedx.net/rss/photoworld.xml)|[王昆峰《国色·九歌》影像艺术展亮相中国美术馆](https://www.photoworld.com.cn/post/176686)|
 |2024-05-07 15:49:46|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨日本住房空置率新高；报道马斯克商业帝国灰色面的团队拿到普利策；中概股反弹，涨 25% 才能跑赢大盘](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515756&idx=2&sn=e0363f9779f2191fbac17315fcf9ad78)|
