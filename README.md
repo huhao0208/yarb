@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-07 08:08:44|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚刚！它突然回归！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452416&idx=1&sn=11a344e87778bcf5df96a33fcd5ce249)|
+|2024-05-07 12:59:03|[摄影世界](https://feedx.net/rss/photoworld.xml)|[王昆峰《国色·九歌》影像艺术展亮相中国美术馆](https://www.photoworld.com.cn/post/176686)|
+|2024-05-07 15:49:46|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨日本住房空置率新高；报道马斯克商业帝国灰色面的团队拿到普利策；中概股反弹，涨 25% 才能跑赢大盘](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515756&idx=2&sn=e0363f9779f2191fbac17315fcf9ad78)|
+|2024-05-07 15:49:45|[晚点LatePost](https://feedpress.me/wx-postlate)|[特斯拉大裁员后的豪赌，FSD v12 是如何诞生的｜TECH TUESDAY](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515756&idx=1&sn=f3b2745410d0c70e085e18fdc799eab2)|
+|2024-05-07 12:36:47|[嵌入式工程猫的博客](https://blog.vvzero.com/atom.xml)|[把 vim 的缩进设为 4 个字符，并且 tab 自动转空格](https://blog.vvzero.com/2024/05/07/vim-set-auto-indent-to-4-spaces/)|
+|2024-05-07 12:36:30|[嵌入式工程猫的博客](https://blog.vvzero.com/atom.xml)|[不用 snap，在 Ubuntu 上安装 certbot](https://blog.vvzero.com/2024/05/07/Ubuntu-install-certbot-without-snap/)|
+|2024-05-07 12:35:55|[嵌入式工程猫的博客](https://blog.vvzero.com/atom.xml)|[在 Ubuntu 中启用 swap](https://blog.vvzero.com/2024/05/07/Ubuntu-enable-swap-file/)|
+|2024-05-07 12:35:45|[嵌入式工程猫的博客](https://blog.vvzero.com/atom.xml)|[让 Nginx 反向代理的程序获取客户端真实 IP](https://blog.vvzero.com/2024/05/07/Nginx-get-real-ip/)|
+|2024-05-07 12:35:26|[嵌入式工程猫的博客](https://blog.vvzero.com/atom.xml)|[在 Linux 中显示所有正在监听的 TCP 端口](https://blog.vvzero.com/2024/05/07/Linux-show-all-listening-ports/)|
+|2024-05-07 16:11:05|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M2 iPad Air 6 正式發表 多一個 13 吋的大螢幕選擇](https://applefans.today/2024-05-m2-ipad-air-6-release/)|
+|2024-05-07 14:49:56|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[跨一代升級！直接用 M4 晶片的 iPad Pro 正式發表](https://applefans.today/2024-05-m4-ipad-pro-release/)|
 |2024-05-07 10:00:00|[机核](https://www.gcores.com/rss)|[仙品坐垫？二龙路代言人抢先体验](https://www.gcores.com/videos/181381)|
 |2024-05-07 09:00:41|[机核](https://www.gcores.com/rss)|[《告别回忆》系列新作《告别回忆 双想 〜Not always true〜》信息公开](https://www.gcores.com/articles/181398)|
 |2024-05-07 09:00:00|[机核](https://www.gcores.com/rss)|[想赢怕输，录音笔 VOL.194](https://www.gcores.com/radios/181394)|
