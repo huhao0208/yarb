@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-07 10:00:00|[机核](https://www.gcores.com/rss)|[仙品坐垫？二龙路代言人抢先体验](https://www.gcores.com/videos/181381)|
+|2024-05-07 09:00:41|[机核](https://www.gcores.com/rss)|[《告别回忆》系列新作《告别回忆 双想 〜Not always true〜》信息公开](https://www.gcores.com/articles/181398)|
+|2024-05-07 09:00:00|[机核](https://www.gcores.com/rss)|[想赢怕输，录音笔 VOL.194](https://www.gcores.com/radios/181394)|
+|2024-05-07 08:31:59|[机核](https://www.gcores.com/rss)|[回首过去，你是否被治愈？《With My Past往事伴我》今日正式上线Steam](https://www.gcores.com/articles/181395)|
+|2024-05-07 08:21:03|[机核](https://www.gcores.com/rss)|[小高和刚《超侦探事件簿 雾雨迷宫Plus》将于7月18日发售](https://www.gcores.com/articles/181391)|
+|2024-05-07 07:05:10|[机核](https://www.gcores.com/rss)|[任天堂确认本财年公布NS继任机型](https://www.gcores.com/articles/181383)|
+|2024-05-07 06:47:25|[机核](https://www.gcores.com/rss)|[任天堂新一季度财报公开：Switch累计销量达1.4亿](https://www.gcores.com/articles/181378)|
+|2024-05-07 06:15:00|[机核](https://www.gcores.com/rss)|[《星际拓荒》：何以伟大](https://www.gcores.com/articles/181355)|
 |2024-05-07 01:47:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Watch 2024 彩虹錶環 巧妙融合多面驕傲旗幟元素](https://applefans.today/2024-05-apple-watch-2024-pride-edition-bands/)|
 |2024-05-07 00:41:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[阿西莫夫论 UFO](https://youtube.com/shorts/VmmqhLoEOXE)|
 |2024-05-07 00:02:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[太空中的 “漂流瓶”](https://www.youtube.com/watch?v=9LSfBdeWjgU)|
