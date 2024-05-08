@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-08 16:00:00|[机核](https://www.gcores.com/rss)|[汽车时代的乌托邦：Futurama展览描绘的未来生活](https://www.gcores.com/articles/181430)|
+|2024-05-08 14:40:00|[机核](https://www.gcores.com/rss)|[搬运丨武侠小说家乔靖夫：《九龙城寨之围城》让我在武打电影世界走了一遭](https://www.gcores.com/articles/181469)|
+|2024-05-08 14:26:29|[机核](https://www.gcores.com/rss)|[第一人称生存游戏《血清》推出全新CG](https://www.gcores.com/articles/181480)|
+|2024-05-08 13:18:50|[机核](https://www.gcores.com/rss)|[【聊聊天】你对日本背景的《刺客信条RED》有何期待？](https://www.gcores.com/articles/181474)|
+|2024-05-08 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.43丨新王加冕](https://www.gcores.com/radios/181462)|
+|2024-05-08 12:38:19|[机核](https://www.gcores.com/rss)|[《云顶Genting》开发日志 V0.1](https://www.gcores.com/articles/181459)|
+|2024-05-08 12:35:42|[机核](https://www.gcores.com/rss)|[回到1999：诺基亚推出3210复刻版，售价349元](https://www.gcores.com/articles/181473)|
+|2024-05-08 11:59:01|[机核](https://www.gcores.com/rss)|[BOOOM作品《2408太空漫游》游戏关卡攻略](https://www.gcores.com/articles/181465)|
+|2024-05-08 11:46:40|[机核](https://www.gcores.com/rss)|[《偶像大师》系列新作手游《学园偶像大师》5月16日开服](https://www.gcores.com/articles/181467)|
+|2024-05-08 11:08:16|[机核](https://www.gcores.com/rss)|[微软推出“烈火风暴”特别版Xbox手柄](https://www.gcores.com/articles/181466)|
+|2024-05-08 10:30:00|[机核](https://www.gcores.com/rss)|[今川泰宏与《GR大铁人地球静止之日》后篇：罪与罚](https://www.gcores.com/videos/180139)|
+|2024-05-08 10:09:25|[机核](https://www.gcores.com/rss)|[中国音像与数字出版协会将成立游戏产业研究专家委员会](https://www.gcores.com/articles/181461)|
+|2024-05-08 10:07:00|[机核](https://www.gcores.com/rss)|[“这才是生活”，核聚变游戏嘉年华2024广州站解忧果调展区介绍](https://www.gcores.com/articles/181460)|
+|2024-05-08 10:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第8回——火焰大锅，巨人战争](https://www.gcores.com/articles/181433)|
+|2024-05-08 09:40:37|[机核](https://www.gcores.com/rss)|[著名插画师金子一马新作首次公布相关信息](https://www.gcores.com/articles/181457)|
+|2024-05-08 09:39:59|[机核](https://www.gcores.com/rss)|[星球大战剧版501克隆人人偶上手，外形优秀手感不佳](https://www.gcores.com/articles/181448)|
+|2024-05-08 09:30:00|[机核](https://www.gcores.com/rss)|[考验反应、新颖玩法：来核聚变广州站抢先体验《Scars of Mars》](https://www.gcores.com/articles/181440)|
+|2024-05-08 09:00:00|[机核](https://www.gcores.com/rss)|[父母的悠长假期，录音笔 VOL.195](https://www.gcores.com/radios/181444)|
+|2024-05-08 08:04:00|[机核](https://www.gcores.com/rss)|[打造最强卡组：来核聚变广州站抢先体验《雾隐战记》](https://www.gcores.com/articles/181439)|
+|2024-05-08 07:01:36|[机核](https://www.gcores.com/rss)|[游戏《剑星》——一周目通关以后的个人心得](https://www.gcores.com/articles/181342)|
 |2024-05-08 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[哈苏推出 XCD 2,5/25V 广角夜拍镜头](https://www.photoworld.com.cn/post/176709)|
 |2024-05-08 09:06:12|[O3noBLOG](https://feeds.feedburner.com/othree)|[看見不同的學習風景](https://blog.othree.net/log/2024/05/08/see-different/)|
 |2024-05-08 01:10:23|[Finisky Garden](https://finisky.github.io/atom.xml)|[WinSCP Transfer to Temporary Filename Not Working](https://finisky.github.io/en/winscp-transfer-to-temp-filename-not-working/)|
