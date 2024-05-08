@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-05-07）
+﻿# 每日资讯（2024-05-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-08 00:06:10|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Listary – 为您重新定义文件搜索+浏览](https://masuit.com/2258)|
 |2024-05-07 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：文章推荐与导读（4.20-5.5）](https://www.gcores.com/articles/181386)|
 |2024-05-07 15:00:00|[机核](https://www.gcores.com/rss)|[路上别乱看，不要乱搭讪 摩登怪谈Vol.4](https://www.gcores.com/radios/181338)|
 |2024-05-07 14:59:51|[机核](https://www.gcores.com/rss)|[M4版iPad Pro、Apple Pencil Pro：苹果“放飞吧”线上特别直播消息汇总](https://www.gcores.com/articles/181413)|
@@ -27,6 +28,7 @@
 |2024-05-07 06:47:25|[机核](https://www.gcores.com/rss)|[任天堂新一季度财报公开：Switch累计销量达1.4亿](https://www.gcores.com/articles/181378)|
 |2024-05-07 06:15:00|[机核](https://www.gcores.com/rss)|[《星际拓荒》：何以伟大](https://www.gcores.com/articles/181355)|
 |2024-05-07 01:47:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Watch 2024 彩虹錶環 巧妙融合多面驕傲旗幟元素](https://applefans.today/2024-05-apple-watch-2024-pride-edition-bands/)|
+|2024-05-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Reparameterization Trick](https://leimao.github.io/blog/Reparameterization-Trick/)|
 |2024-05-07 00:41:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[阿西莫夫论 UFO](https://youtube.com/shorts/VmmqhLoEOXE)|
 |2024-05-07 00:02:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[太空中的 “漂流瓶”](https://www.youtube.com/watch?v=9LSfBdeWjgU)|
 |2024-05-07 01:49:02|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 63&64：4 月数据总结，全面下降！](https://w2solo.com/topics/4602)|
