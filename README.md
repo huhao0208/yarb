@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-09 10:49:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[YouTube 频道一月记](https://www.changhai.org/articles/youtube/myChannel2.php)|
+|2024-05-09 16:00:00|[机核](https://www.gcores.com/rss)|[《小猫咪大城市》现已在「机核商店」正式发售！](https://www.gcores.com/articles/181543)|
+|2024-05-09 15:31:50|[机核](https://www.gcores.com/rss)|[在二次元游戏里，用文本重塑时代叙事](https://www.gcores.com/articles/181567)|
+|2024-05-09 15:00:00|[机核](https://www.gcores.com/rss)|[齐家、治国、平天下，游戏茶话会Vol.68](https://www.gcores.com/radios/181339)|
+|2024-05-09 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第十章 丹妮莉丝](https://www.gcores.com/radios/181384)|
+|2024-05-09 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第九章 艾德](https://www.gcores.com/radios/181382)|
+|2024-05-09 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第八章 凯特琳](https://www.gcores.com/radios/181380)|
+|2024-05-09 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第七章 艾德](https://www.gcores.com/radios/181379)|
+|2024-05-09 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第六章 艾莉亚](https://www.gcores.com/radios/181377)|
+|2024-05-09 13:26:03|[机核](https://www.gcores.com/rss)|[【聊聊天】老外竟通过“吟诗”来判断是不是国产手游？](https://www.gcores.com/articles/181561)|
+|2024-05-09 08:50:41|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[我柚来了，biubiu 爆汁](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452594&idx=1&sn=ca7d934213b837126a7babcabf27fde6)|
 |2024-05-09 12:12:16|[机核](https://www.gcores.com/rss)|[DJMAX宣布联动Pulsar电竞鼠标，带来X2v2专属涂装](https://www.gcores.com/articles/181555)|
 |2024-05-09 11:55:13|[机核](https://www.gcores.com/rss)|[《人类一败涂地》Switch国行首发创佳绩 登顶e商店排行榜首](https://www.gcores.com/articles/181557)|
 |2024-05-09 10:01:17|[机核](https://www.gcores.com/rss)|[探秘恐怖校园传说：惊悚冒险游戏《女鬼桥二 释魂路》现已发售](https://www.gcores.com/articles/181550)|
