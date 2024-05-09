@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-09 12:27:44|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《精英部队》揭秘毒贩与精英部队的生死较量：暴力、警匪片情节真实再现！](https://www.ximalaya.com/sound/727773368)|
+|2024-05-09 07:36:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 iPad Pro 和 M2 iPad Pro 比較！升級了什麼？又拔掉了什麼？](https://applefans.today/2024-05-compared-m4-ipad-pro-vs-m2-ipad-pro/)|
+|2024-05-09 15:53:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[湾湾日记 -- 跨平台多媒体日记 App](https://w2solo.com/topics/4605)|
+|2024-05-09 09:37:50|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[在线选择配置=>生成隐私政策，免费下载 + 一键托管](https://w2solo.com/topics/4604)|
+|2024-05-09 05:38:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Apr.28 - May.4](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240504/)|
+|2024-05-09 05:36:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)|
 |2024-05-09 10:49:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[YouTube 频道一月记](https://www.changhai.org/articles/youtube/myChannel2.php)|
 |2024-05-09 16:00:00|[机核](https://www.gcores.com/rss)|[《小猫咪大城市》现已在「机核商店」正式发售！](https://www.gcores.com/articles/181543)|
 |2024-05-09 15:31:50|[机核](https://www.gcores.com/rss)|[在二次元游戏里，用文本重塑时代叙事](https://www.gcores.com/articles/181567)|
