@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-09 00:34:38|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)|
 |2024-05-08 16:00:00|[机核](https://www.gcores.com/rss)|[汽车时代的乌托邦：Futurama展览描绘的未来生活](https://www.gcores.com/articles/181430)|
 |2024-05-08 14:40:00|[机核](https://www.gcores.com/rss)|[搬运丨武侠小说家乔靖夫：《九龙城寨之围城》让我在武打电影世界走了一遭](https://www.gcores.com/articles/181469)|
 |2024-05-08 14:26:29|[机核](https://www.gcores.com/rss)|[第一人称生存游戏《血清》推出全新CG](https://www.gcores.com/articles/181480)|
