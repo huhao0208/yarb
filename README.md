@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-05-09）
+﻿# 每日资讯（2024-05-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-10 00:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“佳能创造欢笑” ：佳能 “大笑” 企业文化战略 2.0 升级发布会在北京举行](https://www.photoworld.com.cn/post/176723)|
 |2024-05-09 12:27:44|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《精英部队》揭秘毒贩与精英部队的生死较量：暴力、警匪片情节真实再现！](https://www.ximalaya.com/sound/727773368)|
 |2024-05-09 07:36:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 iPad Pro 和 M2 iPad Pro 比較！升級了什麼？又拔掉了什麼？](https://applefans.today/2024-05-compared-m4-ipad-pro-vs-m2-ipad-pro/)|
 |2024-05-09 15:53:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[湾湾日记 -- 跨平台多媒体日记 App](https://w2solo.com/topics/4605)|
