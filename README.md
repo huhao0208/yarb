@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-10 14:36:00|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Git图形化客户端——GitExtensions 4.2.1](https://masuit.com/2183)|
+|2024-05-10 14:33:49|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[TortoiseGit-2.16-64bit小乌龟简体中文版](https://masuit.com/1750)|
+|2024-05-10 14:11:37|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[硬盘哨兵 Hard Disk Sentinel Pro v6.20.1多语言学习版](https://masuit.com/1503)|
+|2024-05-10 10:22:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M2 iPad Air 6 與 iPad Air 5 比較：該入手嗎？](https://applefans.today/2024-05-m2-ipad-air-m1-ipad-air-compare/)|
+|2024-05-10 01:28:36|[Finisky Garden](https://finisky.github.io/atom.xml)|[AI搜索与大模型应用的一些思考](https://finisky.github.io/thoughts-on-ai-search-and-llm-applications/)|
+|2024-05-10 10:09:30|[知乎每日精选](https://www.zhihu.com/rss)|[都说民国继承了清朝的法统，那么清朝的法统又源于何处？](http://www.zhihu.com/question/655546193/answer/3493810288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-05-10 08:03:28|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[外面买不到。。。原来不是吹的啊？？？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452621&idx=1&sn=02812a1fa952c957fe856e6c099381af)|
 |2024-05-10 00:20:19|[SHRIK3](https://shrik3.com/index.xml)|[ CONTENT WARNING code gore](https://shrik3.com/code_gore/)|
 |2024-05-10 02:51:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #33：创业者的一天](https://w2solo.com/topics/4609)|
