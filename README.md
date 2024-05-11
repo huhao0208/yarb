@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-05-10）
+﻿# 每日资讯（2024-05-11）
 
 |时间|来源|标题|
 |---|---|---|
@@ -31,5 +31,6 @@
 |2024-05-10 01:27:17|[机核](https://www.gcores.com/rss)|[Frontier宣布《侏罗纪世界》系列新作，将于2026财年发售](https://www.gcores.com/articles/181577)|
 |2024-05-10 01:16:48|[机核](https://www.gcores.com/rss)|[英伟达发布《对马岛之魂：导演剪辑版》及《家园3》专版驱动](https://www.gcores.com/articles/181576)|
 |2024-05-10 02:59:20|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何使用 LINE 貼圖拼貼樂 功能？與 iMessage 貼圖有何不同？](https://applefans.today/2024-05-line-new-features/)|
+|2024-05-11 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：OSPP 2024 项目说明会](https://tuna.moe/event/2024/ospp2024/)|
 |2024-05-10 03:07:12|[知乎每日精选](https://www.zhihu.com/rss)|[《艾尔登法环》到底好不好玩？](http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-05-10 00:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“佳能创造欢笑” ：佳能 “大笑” 企业文化战略 2.0 升级发布会在北京举行](https://www.photoworld.com.cn/post/176723)|
