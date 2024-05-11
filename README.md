@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-11 03:17:07|[机核](https://www.gcores.com/rss)|[ROG掌机最新机型“Rog Ally X”首次公开](https://www.gcores.com/articles/181647)|
+|2024-05-11 03:01:25|[机核](https://www.gcores.com/rss)|[这回的故事是？山本崇一郎新作漫画7月连载开始](https://www.gcores.com/articles/181644)|
+|2024-05-11 03:00:00|[机核](https://www.gcores.com/rss)|[“能玩还能买”核聚变游戏嘉年华2024广州站贩售区公布第一弹](https://www.gcores.com/articles/181533)|
+|2024-05-11 02:42:17|[机核](https://www.gcores.com/rss)|[Switch版《死印》新DLC“不归的游乐园”2024年夏季推出](https://www.gcores.com/articles/181643)|
+|2024-05-11 02:17:02|[机核](https://www.gcores.com/rss)|[《波斯王子Rogue》因《黑帝斯2》突然上架而延期](https://www.gcores.com/articles/181641)|
+|2024-05-11 02:00:00|[机核](https://www.gcores.com/rss)|[【机核发行】最新游戏试玩和周边放送！核聚变2024广州站机核发行展区介绍](https://www.gcores.com/articles/181396)|
+|2024-05-11 01:37:13|[机核](https://www.gcores.com/rss)|[《对马岛之魂》PC版在部分地区下架 Steam退款已开放](https://www.gcores.com/articles/181640)|
 |2024-05-10 11:00:00|[太隐](https://wangyurui.com/feed.xml)|[乐天知命](https://wangyurui.com/posts/le-tian-zhi-ming-634bc415)|
 |2024-05-10 14:19:12|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨Temu、阿里打架，韩国电商下滑；索马里海盗卷土重来；特步的多品牌之路不好走](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515858&idx=3&sn=e6d8ec7be8bcf14768f7e29b88fff4c0)|
 |2024-05-10 14:19:11|[晚点LatePost](https://feedpress.me/wx-postlate)|[全文翻译：TikTok、字节跳动诉美国司法部长起诉书](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515858&idx=2&sn=3c38ce307492e080b5a9bf0893c8924c)|
