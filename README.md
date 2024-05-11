@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-11 08:34:10|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2024-05-11 【有剧透】崩铁2.2主线剧情感想](https://blog.cmyr.ltd/archives/86ef2021.html)|
+|2024-05-11 11:00:00|[机核](https://www.gcores.com/rss)|[“边玩边买”核聚变游戏嘉年华2024广州站贩售区公布](https://www.gcores.com/articles/181663)|
+|2024-05-11 09:36:41|[机核](https://www.gcores.com/rss)|[动作RPG《辛特堡传说》现已在Steam开启免费试玩](https://www.gcores.com/articles/181677)|
+|2024-05-11 09:33:33|[机核](https://www.gcores.com/rss)|[冒险射击游戏《破碎之地》计费删档“启程测试”定档5月24日](https://www.gcores.com/articles/181676)|
+|2024-05-11 09:00:00|[机核](https://www.gcores.com/rss)|[查找你的设备，录音笔 VOL.198](https://www.gcores.com/radios/181670)|
+|2024-05-11 08:33:28|[机核](https://www.gcores.com/rss)|[《完美音浪》成为微软和贝塞斯达有史以来评分最高的游戏](https://www.gcores.com/articles/181671)|
 |2024-05-11 08:20:00|[机核](https://www.gcores.com/rss)|[小小冒险，大大快乐：《小猫咪，大城市》满足了“想当猫”的快乐](https://www.gcores.com/articles/181666)|
 |2024-05-11 08:08:47|[机核](https://www.gcores.com/rss)|[轻松有趣、个性十足：《小猫咪大城市》媒体评分汇总](https://www.gcores.com/articles/181665)|
 |2024-05-11 07:41:58|[机核](https://www.gcores.com/rss)|[可以在家学会的网络技术（一）：HTTP](https://www.gcores.com/articles/181664)|
