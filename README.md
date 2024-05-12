@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-12 01:51:13|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #50：我最喜欢的 Python 3.13 新特性！](https://w2solo.com/topics/4613)|
+|2024-05-12 00:03:02|[华山感染](https://feedpress.me/wx-hsinfect)|[5.12国际护士节 致敬我们的护士，共绘我们的未来](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502938&idx=1&sn=41726a331b155b4e23f1cae0341bf8a1)|
 |2024-05-11 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[尼康｜相约光影 共创未来](https://www.photoworld.com.cn/post/176746)|
 |2024-05-11 15:00:00|[机核](https://www.gcores.com/rss)|[炎上、解散！任天堂要出新主机 核周报05.11](https://www.gcores.com/radios/181341)|
 |2024-05-11 14:03:00|[机核](https://www.gcores.com/rss)|[2024年5月第二周手办模型情报汇总](https://www.gcores.com/articles/181623)|
