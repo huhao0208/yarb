@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-13 11:32:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[性價與價值的選擇戰：M4 iPad Pro 與 M2 iPad Air 比較](https://applefans.today/2024-05-m4-ipad-pro-m2-ipad-air-compare/)|
 |2024-05-13 13:51:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[迈阿密‒纽约飞机起降视频](https://www.youtube.com/watch?v=fHxilfRCxwg)|
 |2024-05-13 16:04:32|[机核](https://www.gcores.com/rss)|[“刺客信条：影”：育碧公布《刺客信条》新作名称，完整揭晓5月16日0点公开](https://www.gcores.com/articles/181801)|
 |2024-05-13 13:10:00|[机核](https://www.gcores.com/rss)|[【聊聊天】在《王国之泪》后，还想再一次重游海拉鲁大陆吗？](https://www.gcores.com/articles/181789)|
