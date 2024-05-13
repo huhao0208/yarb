@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-05-12）
+﻿# 每日资讯（2024-05-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-13 01:08:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[净资产+1](http://mercurychong.blogspot.com/2024/05/1.html)|
 |2024-05-12 04:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[OPPO 超影像大赛 “当妈妈望向我的时候” 主题影像征集活动](https://www.photoworld.com.cn/post/176757)|
 |2024-05-12 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 188 期（2024.05.13）](https://www.ftium4.com/ux-weekly-188.html)|
 |2024-05-12 12:03:22|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨吉姆·西蒙斯不做价值投资，收益率跑赢巴菲特；单车撑起极氪 2.8 万美元市值；​学钢琴的孩子少了，雅马哈利润下滑](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247515944&idx=3&sn=75d12be59b977727915857afa1365119)|
