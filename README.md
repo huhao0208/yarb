@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-14 03:31:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.5 在 News+ App 加入「Quartiles」遊戲](https://applefans.today/2024-05-apple-news-plus-introduces-quartiles-a-new-game/)|
+|2024-05-14 02:44:34|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[macOS 14.5 更新 為重要的安全更新](https://applefans.today/macos-sonoma-14-5/)|
+|2024-05-14 02:15:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[watchOS 10.5 更新 加入彩虹錶面](https://applefans.today/watchos-10-5/)|
+|2024-05-14 01:40:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.5 更新 正式加入全新反追蹤通知、全新的彩虹背景圖片](https://applefans.today/ios-17-5/)|
 |2024-05-13 11:32:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[性價與價值的選擇戰：M4 iPad Pro 與 M2 iPad Air 比較](https://applefans.today/2024-05-m4-ipad-pro-m2-ipad-air-compare/)|
 |2024-05-13 13:51:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[迈阿密‒纽约飞机起降视频](https://www.youtube.com/watch?v=fHxilfRCxwg)|
 |2024-05-13 16:04:32|[机核](https://www.gcores.com/rss)|[“刺客信条：影”：育碧公布《刺客信条》新作名称，完整揭晓5月16日0点公开](https://www.gcores.com/articles/181801)|
