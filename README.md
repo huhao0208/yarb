@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-14 08:01:41|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚刚！它突然八八折！（懂的来](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452762&idx=1&sn=e8da8f6519cb1ef22e2a4d8d586d3e56)|
 |2024-05-14 07:55:18|[机核](https://www.gcores.com/rss)|[刷新记录：《地狱潜者2》销量突破1200万](https://www.gcores.com/articles/181846)|
 |2024-05-14 07:27:00|[机核](https://www.gcores.com/rss)|[《沉默的蟋蟀》现已登陆机核商店，GPASS会员享折上折！](https://www.gcores.com/articles/181842)|
 |2024-05-14 07:00:00|[机核](https://www.gcores.com/rss)|[低门槛轻松做游戏：轻游梦工坊编辑器核聚变游戏嘉年华2024广州站展台介绍](https://www.gcores.com/articles/181672)|
