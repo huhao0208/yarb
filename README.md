@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-14 17:06:41|[机核](https://www.gcores.com/rss)|[抽10连送大米，《天穗之咲稻姬》一番赏将于5月21日在线发售](https://www.gcores.com/articles/181875)|
+|2024-05-14 13:53:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[曼德勃罗集与数学简单性](https://www.youtube.com/shorts/Qje40Io_1mM)|
 |2024-05-14 15:00:00|[机核](https://www.gcores.com/rss)|[真实的虚构之城：哥谭市起源](https://www.gcores.com/articles/181843)|
 |2024-05-14 15:00:00|[机核](https://www.gcores.com/rss)|[字儿实在是太多啦！松弛聊手游：《绝区零》三测、《重返1999》和《明日方舟》新活动“慈悲灯塔”](https://www.gcores.com/radios/181620)|
 |2024-05-14 13:21:43|[机核](https://www.gcores.com/rss)|[【聊聊天】SE“又到了“最终幻想”的时刻了么？](https://www.gcores.com/articles/181864)|
