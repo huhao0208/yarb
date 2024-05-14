@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-14 15:00:00|[机核](https://www.gcores.com/rss)|[真实的虚构之城：哥谭市起源](https://www.gcores.com/articles/181843)|
+|2024-05-14 15:00:00|[机核](https://www.gcores.com/rss)|[字儿实在是太多啦！松弛聊手游：《绝区零》三测、《重返1999》和《明日方舟》新活动“慈悲灯塔”](https://www.gcores.com/radios/181620)|
+|2024-05-14 13:21:43|[机核](https://www.gcores.com/rss)|[【聊聊天】SE“又到了“最终幻想”的时刻了么？](https://www.gcores.com/articles/181864)|
+|2024-05-14 12:00:00|[机核](https://www.gcores.com/rss)|[希腊众神的名字都是什么意思？有哪些来源和血脉传承？](https://www.gcores.com/videos/181825)|
+|2024-05-14 11:00:00|[机核](https://www.gcores.com/rss)|[摄影分享丨昆明动物园](https://www.gcores.com/articles/181855)|
+|2024-05-14 10:49:51|[机核](https://www.gcores.com/rss)|[《仙剑奇侠传》与《轩辕剑》版权将被出售](https://www.gcores.com/articles/181866)|
+|2024-05-14 10:30:00|[机核](https://www.gcores.com/rss)|[顶级视听享受——核聚变游戏嘉年华2024广州站三星电视展位公开](https://www.gcores.com/articles/181848)|
+|2024-05-14 10:17:00|[机核](https://www.gcores.com/rss)|[收录全部DLC，《战国无双4 DX》上架Steam](https://www.gcores.com/articles/181836)|
+|2024-05-14 10:15:00|[机核](https://www.gcores.com/rss)|[《黑暗之魂3》超大型MOD“远古王座”现已更新简体中文](https://www.gcores.com/articles/181847)|
+|2024-05-14 10:05:35|[机核](https://www.gcores.com/rss)|[Steam好评如潮：农场模拟游戏《Rusty's Retirement》销量突破20万份](https://www.gcores.com/articles/181863)|
+|2024-05-14 09:47:19|[机核](https://www.gcores.com/rss)|[Steam特别好评：免费烹饪游戏《Cookard》现已推出](https://www.gcores.com/articles/181859)|
+|2024-05-14 09:00:00|[机核](https://www.gcores.com/rss)|[从“荒漠”到“美食荒漠”，北京饮食口味六百年变迁，录音笔 VOL.200](https://www.gcores.com/radios/181853)|
+|2024-05-14 08:54:08|[机核](https://www.gcores.com/rss)|[BOOOM作品《时序百年心》介绍PV](https://www.gcores.com/videos/181761)|
+|2024-05-14 08:39:34|[机核](https://www.gcores.com/rss)|[经营拉面摊&与顾客交流：叙事对话类游戏《深夜拉面》7月发售](https://www.gcores.com/articles/181852)|
 |2024-05-14 08:01:41|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚刚！它突然八八折！（懂的来](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653452762&idx=1&sn=e8da8f6519cb1ef22e2a4d8d586d3e56)|
 |2024-05-14 07:55:18|[机核](https://www.gcores.com/rss)|[刷新记录：《地狱潜者2》销量突破1200万](https://www.gcores.com/articles/181846)|
 |2024-05-14 07:27:00|[机核](https://www.gcores.com/rss)|[《沉默的蟋蟀》现已登陆机核商店，GPASS会员享折上折！](https://www.gcores.com/articles/181842)|
