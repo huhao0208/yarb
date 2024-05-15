@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-05-14）
+﻿# 每日资讯（2024-05-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-15 01:14:12|[机核](https://www.gcores.com/rss)|[《黑帝斯2》登顶：Steam周销量排行榜 2024年5月第1周](https://www.gcores.com/articles/181883)|
+|2024-05-15 01:12:54|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[诚心寻找一名有 ai 相关开发经验的开发者合作](https://w2solo.com/topics/4617)|
 |2024-05-14 17:06:41|[机核](https://www.gcores.com/rss)|[抽10连送大米，《天穗之咲稻姬》一番赏将于5月21日在线发售](https://www.gcores.com/articles/181875)|
 |2024-05-14 13:53:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[曼德勃罗集与数学简单性](https://www.youtube.com/shorts/Qje40Io_1mM)|
 |2024-05-14 15:00:00|[机核](https://www.gcores.com/rss)|[真实的虚构之城：哥谭市起源](https://www.gcores.com/articles/181843)|
