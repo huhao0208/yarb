@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-05-15）
+﻿# 每日资讯（2024-05-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-16 01:13:44|[机核](https://www.gcores.com/rss)|[《不羁联盟》将于本周五开启预载，5月22日正式推出](https://www.gcores.com/articles/181945)|
+|2024-05-16 01:00:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[今年的第七个作品，上线后就暂停一段时间](https://w2solo.com/topics/4622)|
 |2024-05-15 08:01:12|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[四川各地 20 种小馆美味（可网购](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453032&idx=1&sn=7a99fe0485b62fc878abb47de62db763)|
 |2024-05-15 16:09:40|[机核](https://www.gcores.com/rss)|[《刺客信条：影》公布全球首支CGI预告](https://www.gcores.com/articles/181940)|
 |2024-05-15 15:00:00|[机核](https://www.gcores.com/rss)|[「核聚变游戏节」广州站线上Steam展示会将于本周开启](https://www.gcores.com/articles/181894)|
