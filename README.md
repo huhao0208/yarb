@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-17 04:14:59|[祝融说。](https://zhurongshuo.com/index.xml)|[过度的极限的挑衅是一种预期的暴力——那也是暴力。](https://zhurongshuo.com/posts/2024/05/1701/)|
+|2024-05-17 09:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[中國緊張了？未來每 4 台 iPhone 就有一台來自印度](https://www.iphonetaiwan.org/2024/05/iphone-production-india-2028.html)|
+|2024-05-17 09:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 系列螢幕下月開始生產：四款新機九月亮相](https://www.iphonetaiwan.org/2024/05/iphone-16-series-launch-september.html)|
+|2024-05-17 08:01:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[為什麼果粉使用超過三年才換新 iPad？原因是什麼](https://www.iphonetaiwan.org/2024/05/ipad-user-upgrade-cycle.html)|
 |2024-05-17 07:41:35|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[時尚、環保、實用性的結合：LAUT REVIVE PROP iPhone 手機殻](https://applefans.today/2024-05-laut-revive-prop-iphone-case-reviews/)|
 |2024-05-17 04:26:13|[KAIX.IN](https://kaix.in/feed/)|[More interesting problems](https://kaix.in/2024/0517-more-interesting-problems/)|
 |2024-05-17 08:11:08|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[老板太懂事儿了！！！！这公司！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453109&idx=1&sn=8d5888d8df1b7d7d4948d946d9362167)|
