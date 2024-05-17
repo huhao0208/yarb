@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-05-16）
+﻿# 每日资讯（2024-05-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-17 01:11:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 133 期）: 副业项目 10 个月赚了 10 万美元](https://w2solo.com/topics/4628)|
+|2024-05-17 00:52:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[曼谷 Vclub7 Massage 按摩有优惠 Bangkok Vclub7 Massage has sale promotion ](https://w2solo.com/topics/4627)|
 |2024-05-16 12:19:02|[O3noBLOG](https://feeds.feedburner.com/othree)|[溝通](https://blog.othree.net/log/2024/05/16/communication/)|
 |2024-05-16 15:00:00|[机核](https://www.gcores.com/rss)|[给《庄园领主》弄个DLC：体验沙俄地主的一日庄园生活](https://www.gcores.com/radios/181618)|
 |2024-05-16 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第十五章 琼恩](https://www.gcores.com/radios/181783)|
