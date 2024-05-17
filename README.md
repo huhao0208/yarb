@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-17 07:41:35|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[時尚、環保、實用性的結合：LAUT REVIVE PROP iPhone 手機殻](https://applefans.today/2024-05-laut-revive-prop-iphone-case-reviews/)|
+|2024-05-17 04:26:13|[KAIX.IN](https://kaix.in/feed/)|[More interesting problems](https://kaix.in/2024/0517-more-interesting-problems/)|
+|2024-05-17 08:11:08|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[老板太懂事儿了！！！！这公司！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453109&idx=1&sn=8d5888d8df1b7d7d4948d946d9362167)|
+|2024-05-17 11:44:48|[机核](https://www.gcores.com/rss)|[「核聚变游戏嘉年华2024广州站」交通指南](https://www.gcores.com/articles/181991)|
+|2024-05-17 09:40:56|[机核](https://www.gcores.com/rss)|[「ROAD TO EVO 2024」中国赛区即将拉开序幕](https://www.gcores.com/articles/182043)|
+|2024-05-17 09:26:13|[机核](https://www.gcores.com/rss)|[网易末世流浪冒险射击游戏《破碎之地》发布全新实机PV](https://www.gcores.com/articles/182041)|
+|2024-05-17 09:00:00|[机核](https://www.gcores.com/rss)|[核聚变前一次平凡的下班儿，录音笔 VOL.203](https://www.gcores.com/radios/182031)|
+|2024-05-17 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图233期:突然起风，下班就冲](https://www.gcores.com/articles/179394)|
 |2024-05-17 03:32:06|[迷途小书童的Note](https://xugaoxiang.com/feed)|[3种免费使用GPT4的方法](https://xugaoxiang.com/2024/05/17/3-methods-gpt4/)|
 |2024-05-17 02:21:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #34：直播敲代码](https://w2solo.com/topics/4629)|
 |2024-05-17 06:41:57|[机核](https://www.gcores.com/rss)|[《庄园领主》销量突破两百万份，开发者发文感谢](https://www.gcores.com/articles/182033)|
