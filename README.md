@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-17 04:18:00|[机核](https://www.gcores.com/rss)|[7.0职业演示宣传片公开！第81回《最终幻想14》制作人来信情报汇总](https://www.gcores.com/articles/182010)|
+|2024-05-17 03:30:51|[机核](https://www.gcores.com/rss)|[《潜水员戴夫》X《哥斯拉》联动DLC将于5月23日推出](https://www.gcores.com/articles/182019)|
+|2024-05-17 02:29:59|[机核](https://www.gcores.com/rss)|[TGA最佳手游《漫威终极逆转》即将登陆国服](https://www.gcores.com/articles/182014)|
+|2024-05-17 02:10:06|[机核](https://www.gcores.com/rss)|[《刺客信条 影》实体版需联网方可安装游戏，育碧发文回应](https://www.gcores.com/articles/182011)|
+|2024-05-17 01:47:00|[机核](https://www.gcores.com/rss)|[【更新】《GTA》全系列销量破4.25亿,《GTA 6》将于2025年秋季发售](https://www.gcores.com/articles/182004)|
+|2024-05-17 01:43:36|[机核](https://www.gcores.com/rss)|[夏日游戏节合作厂商公开：2K将公开最受欢迎系列的新作](https://www.gcores.com/articles/182008)|
+|2024-05-17 01:32:25|[机核](https://www.gcores.com/rss)|[Epic喜加一：原价198元《龙腾世纪：审判》年度版免费领](https://www.gcores.com/articles/182009)|
+|2024-05-17 01:21:59|[机核](https://www.gcores.com/rss)|[知名模拟器《PPSSPP》现已上架App Store](https://www.gcores.com/articles/182007)|
+|2024-05-17 01:11:24|[机核](https://www.gcores.com/rss)|[解散前最终更新：《Hi-Fi RUSH》现已实装第九次更新](https://www.gcores.com/articles/182005)|
 |2024-05-17 01:11:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 133 期）: 副业项目 10 个月赚了 10 万美元](https://w2solo.com/topics/4628)|
 |2024-05-17 00:52:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[曼谷 Vclub7 Massage 按摩有优惠 Bangkok Vclub7 Massage has sale promotion ](https://w2solo.com/topics/4627)|
 |2024-05-16 12:19:02|[O3noBLOG](https://feeds.feedburner.com/othree)|[溝通](https://blog.othree.net/log/2024/05/16/communication/)|
