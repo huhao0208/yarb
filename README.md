@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-17 15:00:00|[机核](https://www.gcores.com/rss)|[语言即魔法，翻译即背叛：聊聊《巴别塔》以及做书的事 核市奇谭SP](https://www.gcores.com/radios/181619)|
+|2024-05-17 13:30:00|[机核](https://www.gcores.com/rss)|[【聊聊天】怎样看待“传闻”？资深“舅舅党”Jason Schreie分享如何甄别](https://www.gcores.com/articles/182027)|
 |2024-05-17 04:14:59|[祝融说。](https://zhurongshuo.com/index.xml)|[过度的极限的挑衅是一种预期的暴力——那也是暴力。](https://zhurongshuo.com/posts/2024/05/1701/)|
 |2024-05-17 09:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[中國緊張了？未來每 4 台 iPhone 就有一台來自印度](https://www.iphonetaiwan.org/2024/05/iphone-production-india-2028.html)|
 |2024-05-17 09:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 系列螢幕下月開始生產：四款新機九月亮相](https://www.iphonetaiwan.org/2024/05/iphone-16-series-launch-september.html)|
