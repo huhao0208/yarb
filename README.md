@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-19 15:00:00|[机核](https://www.gcores.com/rss)|[法师高举双手，海崖屹立，地震止息：《大地之骨》 浪潮的把戏](https://www.gcores.com/radios/182096)|
+|2024-05-19 13:20:17|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》标准版售价268元：WeGame2024游戏之夜消息汇总](https://www.gcores.com/articles/182103)|
+|2024-05-19 12:05:00|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》WeGame预告丨2024.8.20 同步发售](https://www.gcores.com/videos/182094)|
+|2024-05-19 11:10:00|[机核](https://www.gcores.com/rss)|[用拼贴动画来打开「错乱标记」](https://www.gcores.com/videos/182091)|
+|2024-05-19 08:20:42|[机核](https://www.gcores.com/rss)|[开发日志丨《Aliepot 温室效应》](https://www.gcores.com/articles/182089)|
+|2024-05-19 05:29:50|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《德州电锯杀人狂3D》：德州电锯狂魔重出江湖，版本加强老当益壮，亲手锯掉所有仇人](https://www.ximalaya.com/sound/729677470)|
 |2024-05-19 08:20:00|[机核](https://www.gcores.com/rss)|[Gadio Spec 2024年6月至2024年12月节目单发布](https://www.gcores.com/articles/182045)|
 |2024-05-19 05:46:00|[机核](https://www.gcores.com/rss)|[绘画过程：街头霸王——朱莉](https://www.gcores.com/videos/182082)|
 |2024-05-19 04:00:00|[机核](https://www.gcores.com/rss)|[【游戏拉片室】游戏设计解读——直觉带你探索整个世界《动物井》](https://www.gcores.com/videos/182083)|
