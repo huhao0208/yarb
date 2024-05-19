@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-19 14:34:19|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[远程桌面工具rustdesk的私有化部署-mac锁定问题](https://nicksxs.me/2024/05/19/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7rustdesk%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2-mac%E9%94%81%E5%AE%9A%E9%97%AE%E9%A2%98/)|
+|2024-05-19 15:41:05|[机核](https://www.gcores.com/rss)|[血条进化史v2.0.0：数字与公式](https://www.gcores.com/articles/182078)|
 |2024-05-19 15:00:00|[机核](https://www.gcores.com/rss)|[法师高举双手，海崖屹立，地震止息：《大地之骨》 浪潮的把戏](https://www.gcores.com/radios/182096)|
 |2024-05-19 13:20:17|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》标准版售价268元：WeGame2024游戏之夜消息汇总](https://www.gcores.com/articles/182103)|
 |2024-05-19 12:05:00|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》WeGame预告丨2024.8.20 同步发售](https://www.gcores.com/videos/182094)|
