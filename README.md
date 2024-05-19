@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-19 01:16:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[爱因斯坦的鱼子酱和玻尔的白兰地](https://www.youtube.com/shorts/d1TWvGX0rXs)|
 |2024-05-18 14:24:42|[知乎每日精选](https://www.zhihu.com/rss)|[浅谈一下范闲前七集情绪变化起伏](http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-05-18 14:24:23|[知乎每日精选](https://www.zhihu.com/rss)|[如何评价范闲两季跪拜的变化？](http://zhuanlan.zhihu.com/p/698522675?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-05-18 14:23:52|[知乎每日精选](https://www.zhihu.com/rss)|[如何理解庆余年2中的范闲？](http://zhuanlan.zhihu.com/p/698521968?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
