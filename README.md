@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-20 08:34:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[一个私藏超市，好买赛过菜市场！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453177&idx=1&sn=fb4188ef74b595e0ad85472cb2f4e64f)|
+|2024-05-20 08:59:03|[摄影世界](https://feedx.net/rss/photoworld.xml)|[AI 创作，助力动画影像领域视觉叙事发展](https://www.photoworld.com.cn/post/176842)|
+|2024-05-20 09:00:02|[中文信息学报](https://feedpress.me/wx-jcip1986)|[《中文信息学报》新刊概览∣ 2024年第4期（38卷第4期）](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485654&idx=1&sn=b9538b08a716b58f7f31911dc4c7d8d1)|
 |2024-05-20 02:29:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[第二次中Covid的520](http://mercurychong.blogspot.com/2024/05/covid520.html)|
 |2024-05-20 08:03:37|[机核](https://www.gcores.com/rss)|[参与活动有机会获得：“咚兵卫”推出超大油豆腐&天妇罗造型靠垫](https://www.gcores.com/articles/182143)|
 |2024-05-20 07:31:16|[机核](https://www.gcores.com/rss)|[可爱又悠闲的寻物冒险：Gamera Games公布新作《失物招领有限公司》](https://www.gcores.com/articles/182142)|
