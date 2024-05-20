@@ -2,22 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-20 02:29:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[第二次中Covid的520](http://mercurychong.blogspot.com/2024/05/covid520.html)|
+|2024-05-20 08:03:37|[机核](https://www.gcores.com/rss)|[参与活动有机会获得：“咚兵卫”推出超大油豆腐&天妇罗造型靠垫](https://www.gcores.com/articles/182143)|
+|2024-05-20 07:31:16|[机核](https://www.gcores.com/rss)|[可爱又悠闲的寻物冒险：Gamera Games公布新作《失物招领有限公司》](https://www.gcores.com/articles/182142)|
+|2024-05-20 07:18:42|[机核](https://www.gcores.com/rss)|[《死亡细胞》衍生动画《死亡细胞 不朽》最新预告公开，预计6月19日开播](https://www.gcores.com/articles/182141)|
+|2024-05-20 07:03:40|[机核](https://www.gcores.com/rss)|[类Rogue合作动作游戏《兔子与钢铁》首周销量突破10万份](https://www.gcores.com/articles/182138)|
+|2024-05-20 06:06:59|[机核](https://www.gcores.com/rss)|[《燃えよ！乙女道士～華遊恋語～》公布9月26日发售，并发布开场动画](https://www.gcores.com/articles/182137)|
+|2024-05-20 05:39:21|[机核](https://www.gcores.com/rss)|[520的甜蜜消息，多款乙女游戏NS中文版公布发售日期](https://www.gcores.com/articles/182135)|
+|2024-05-20 05:01:51|[机核](https://www.gcores.com/rss)|[《剑风传奇》饭制动画《剑风传奇：黑衣剑士》公开概念预告](https://www.gcores.com/articles/182133)|
+|2024-05-20 05:00:00|[机核](https://www.gcores.com/rss)|[模风掠影（卷一百三十一）5月特摄系列专辑（上）](https://www.gcores.com/articles/182068)|
+|2024-05-20 04:36:42|[机核](https://www.gcores.com/rss)|[清新风格独立游戏《The Witch's Bakery》Steam页面上线](https://www.gcores.com/articles/182126)|
+|2024-05-20 04:33:35|[机核](https://www.gcores.com/rss)|[拟真二战RTS《战争之人2》现已发售，首周购买享免费升级](https://www.gcores.com/articles/182131)|
+|2024-05-20 04:28:17|[机核](https://www.gcores.com/rss)|[特斯拉宣布未来生产的车辆不再支持Steam](https://www.gcores.com/articles/182129)|
+|2024-05-20 04:19:12|[机核](https://www.gcores.com/rss)|[COD放出神秘PV，明示将与《高达》系列联动](https://www.gcores.com/articles/182128)|
+|2024-05-20 08:05:09|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[在这样的大环境下，普通程序员的出路在哪？](https://w2solo.com/topics/4632)|
+|2024-05-20 03:18:06|[Decohack](https://www.decohack.com/feed)|[分享几个抓取 AppStore 应用图标的方法-独立产品灵感周刊 DecoHack #058](https://www.decohack.com/Post/1522)|
+|2024-05-20 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/20](https://weekly.pychina.org/pyrecap/pyrw-2420.html)|
 |2024-05-20 03:16:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享几个抓取 AppStore 应用图标的方法 - 独立产品灵感周刊 DecoHack #058](https://w2solo.com/topics/4631)|
 |2024-05-20 03:00:00|[机核](https://www.gcores.com/rss)|[阔别多年！「错乱标记」系列重返时空之旅](https://www.gcores.com/articles/181785)|
 |2024-05-20 02:38:50|[机核](https://www.gcores.com/rss)|[《对马岛之魂：导演剪辑版》PC版同时在线人数超7万人](https://www.gcores.com/articles/182118)|
 |2024-05-20 01:44:09|[机核](https://www.gcores.com/rss)|[推荐SSD：《不羁联盟》公布正式版配置要求](https://www.gcores.com/articles/182116)|
 |2024-05-20 01:36:41|[机核](https://www.gcores.com/rss)|[《堡垒之夜》X《辐射》联动将于5月24日开启](https://www.gcores.com/articles/182115)|
 |2024-05-20 01:24:01|[机核](https://www.gcores.com/rss)|[《红霞岛》将迎来最终更新，带来单人离线模式](https://www.gcores.com/articles/182114)|
-|2024-05-19 14:34:19|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[远程桌面工具rustdesk的私有化部署-mac锁定问题](https://nicksxs.me/2024/05/19/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7rustdesk%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2-mac%E9%94%81%E5%AE%9A%E9%97%AE%E9%A2%98/)|
-|2024-05-19 15:41:05|[机核](https://www.gcores.com/rss)|[血条进化史v2.0.0：数字与公式](https://www.gcores.com/articles/182078)|
-|2024-05-19 15:00:00|[机核](https://www.gcores.com/rss)|[法师高举双手，海崖屹立，地震止息：《大地之骨》 浪潮的把戏](https://www.gcores.com/radios/182096)|
-|2024-05-19 13:20:17|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》标准版售价268元：WeGame2024游戏之夜消息汇总](https://www.gcores.com/articles/182103)|
-|2024-05-19 12:05:00|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》WeGame预告丨2024.8.20 同步发售](https://www.gcores.com/videos/182094)|
-|2024-05-19 11:10:00|[机核](https://www.gcores.com/rss)|[用拼贴动画来打开「错乱标记」](https://www.gcores.com/videos/182091)|
-|2024-05-19 08:20:42|[机核](https://www.gcores.com/rss)|[开发日志丨《Aliepot 温室效应》](https://www.gcores.com/articles/182089)|
-|2024-05-19 05:29:50|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《德州电锯杀人狂3D》：德州电锯狂魔重出江湖，版本加强老当益壮，亲手锯掉所有仇人](https://www.ximalaya.com/sound/729677470)|
-|2024-05-19 08:20:00|[机核](https://www.gcores.com/rss)|[Gadio Spec 2024年6月至2024年12月节目单发布](https://www.gcores.com/articles/182045)|
-|2024-05-19 05:46:00|[机核](https://www.gcores.com/rss)|[绘画过程：街头霸王——朱莉](https://www.gcores.com/videos/182082)|
-|2024-05-19 04:00:00|[机核](https://www.gcores.com/rss)|[【游戏拉片室】游戏设计解读——直觉带你探索整个世界《动物井》](https://www.gcores.com/videos/182083)|
-|2024-05-19 07:24:10|[鸟窝](https://colobu.com/atom.xml)|[让 Rob Pike 或者字节跳动的同学实现一个红黑树](https://colobu.com/2024/05/19/let-Rob-Pike-write-a-Red-Black-tree/)|
-|2024-05-19 01:16:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[爱因斯坦的鱼子酱和玻尔的白兰地](https://www.youtube.com/shorts/d1TWvGX0rXs)|
