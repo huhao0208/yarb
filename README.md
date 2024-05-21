@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-21 01:43:49|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.5.1 更新 修正刪除照片重現錯誤](https://applefans.today/ios-17-5-1/)|
 |2024-05-21 01:13:59|[机核](https://www.gcores.com/rss)|[P社宣布生活模拟游戏《Life by You》再度延期，具体发售时间待定](https://www.gcores.com/articles/182172)|
 |2024-05-21 13:46:00|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[OpenTelemetry 实践指南：历史、架构与基本概念](http://crossoverjie.top/2024/05/21/ob/OpenTelemetry-getstart/)|
 |2024-05-20 10:50:45|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[WWDC 2024 預測總整理：會加入哪些 AI 新功能呢？](https://applefans.today/2024-05-what-to-expect-in-wwdc24/)|
