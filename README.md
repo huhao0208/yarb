@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-23 00:27:42|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[高校里的人质与临时工｜工劳小报 #42](https://feed.laborinfocn6.com/issue42/)|
 |2024-05-22 14:51:37|[机核](https://www.gcores.com/rss)|[核聚变，不再只是“乌托邦”](https://www.gcores.com/articles/182292)|
 |2024-05-22 14:08:45|[机核](https://www.gcores.com/rss)|[【聊聊天】你对V社近期曝光的全新6v6射击新作怎么看？](https://www.gcores.com/articles/182285)|
 |2024-05-22 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.44丨重回酒馆](https://www.gcores.com/radios/182281)|
