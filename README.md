@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-05-23）
+﻿# 每日资讯（2024-05-24）
 
 |时间|来源|标题|
 |---|---|---|
@@ -38,6 +38,7 @@
 |2024-05-23 10:23:22|[Amon's Blog](https://amonxu.com/atom.xml)|[如何在 GitHub README 中插入视频？原来这么简单](https://amonxu.com/2024/05/23/zh-CN/2024-05-23-How-to-embed-a-video-into-GitHub-README/)|
 |2024-05-23 10:03:22|[Amon's Blog](https://amonxu.com/atom.xml)|[How to embed a video into GitHub-README? So easy!](https://amonxu.com/2024/05/23/en/2024-05-23-How-to-embed-a-video-into-GitHub-README/)|
 |2024-05-23 04:04:23|[KAIX.IN](https://kaix.in/feed/)|[登月、国宝、逻辑](https://kaix.in/2024/0523/)|
+|2024-05-24 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PyTorch Eager Mode Quantization TensorRT Acceleration](https://leimao.github.io/blog/PyTorch-Eager-Mode-Quantization-TensorRT-Acceleration/)|
 |2024-05-23 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年我的跑步竞速装备](https://leimao.github.io/essay/2024%E5%B9%B4%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E7%AB%9E%E9%80%9F%E8%A3%85%E5%A4%87/)|
 |2024-05-23 04:29:55|[迷途小书童的Note](https://xugaoxiang.com/feed)|[让AI帮你做PPT，简单高效且免费](https://xugaoxiang.com/2024/05/23/gamma-ppt/)|
 |2024-05-23 06:30:00|[机核](https://www.gcores.com/rss)|[CRPG，Chillwave与胶囊塔——《極東1989》开发日志](https://www.gcores.com/articles/182110)|
