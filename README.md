@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-24 02:21:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果傳聞推出一款具備可折疊螢幕的 MacBook](https://applefans.today/2024-05-ming-chi-kuo-foldable-macbook-rumor/)|
+|2024-05-24 02:31:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一起来看下你最真实的影响力吧🔥，开发了一款 iOS “粉丝知多少” 小组件 App](https://w2solo.com/topics/4643)|
+|2024-05-24 00:54:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 134 期）：视频图片压缩工具月收入 2.5K 美金](https://w2solo.com/topics/4642)|
+|2024-05-24 15:00:00|[机核](https://www.gcores.com/rss)|[这未来是想怎么办，学上不上书看不看 天天ACG 5.24](https://www.gcores.com/radios/182122)|
+|2024-05-24 13:40:56|[机核](https://www.gcores.com/rss)|[【聊聊天】哪款游戏开启了你的玩家生涯？](https://www.gcores.com/articles/182403)|
+|2024-05-24 13:14:43|[机核](https://www.gcores.com/rss)|[独立漫画《绿海假日》第2章 新居与塔楼-1](https://www.gcores.com/articles/182404)|
+|2024-05-24 11:24:47|[机核](https://www.gcores.com/rss)|[《巫术：疯狂领主的试验场》重制版现已在各大平台发售，国区售价128元](https://www.gcores.com/articles/182402)|
+|2024-05-24 10:30:00|[机核](https://www.gcores.com/rss)|[【抽奖】人气画师Ryota-H童话题材原画「疯帽子」手办雕像公开](https://www.gcores.com/articles/181086)|
+|2024-05-24 10:00:00|[机核](https://www.gcores.com/rss)|[《地狱之刃2》治好了前作的“病”，变得能玩、好玩且令人动容](https://www.gcores.com/videos/182390)|
+|2024-05-24 09:28:33|[机核](https://www.gcores.com/rss)|[东宝宣布收购动画工作室Science SARU](https://www.gcores.com/articles/182399)|
+|2024-05-24 09:10:35|[机核](https://www.gcores.com/rss)|[免费游玩：《全民街篮》将于5月31日在Steam开启抢先体验](https://www.gcores.com/articles/182398)|
+|2024-05-24 09:00:00|[机核](https://www.gcores.com/rss)|[出差中有关游戏创作的杂感，录音笔 VOL.208](https://www.gcores.com/radios/182382)|
+|2024-05-24 09:00:00|[机核](https://www.gcores.com/rss)|[于山海之间重逢丨大连森林动物园游记](https://www.gcores.com/articles/182359)|
+|2024-05-24 08:54:39|[机核](https://www.gcores.com/rss)|[OMOCAT负责监制，《OMORI》官方漫画6月连载开启](https://www.gcores.com/articles/182389)|
+|2024-05-24 08:30:00|[机核](https://www.gcores.com/rss)|[漫画沦为潮玩！一本漫画几百个版本！ 如何成为美漫韭菜 第三期](https://www.gcores.com/videos/182347)|
+|2024-05-24 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图234期:耐心等待，下班挺快](https://www.gcores.com/articles/179751)|
+|2024-05-24 08:29:30|[机核](https://www.gcores.com/rss)|[从攻防转换的角度，评价游戏战斗是否好玩](https://www.gcores.com/articles/182375)|
 |2024-05-24 06:24:23|[KAIX.IN](https://kaix.in/feed/)|[2024.05.24 14:24](https://kaix.in/2024/0524/)|
 |2024-05-24 11:34:38|[迷途小书童的Note](https://xugaoxiang.com/feed)|[AI写歌，太惊艳了！](https://xugaoxiang.com/2024/05/24/suno/)|
 |2024-05-24 05:51:57|[迷途小书童的Note](https://xugaoxiang.com/feed)|[MacOS版ChatGPT来了](https://xugaoxiang.com/2024/05/24/chatgpt-for-macos/)|
