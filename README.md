@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-24 07:59:34|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[618 清单｜不吹不黑](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453385&idx=1&sn=f0ff04997f49c0e1a9bf17d070f58b5d)|
+|2024-05-24 11:10:22|[Amon's Blog](https://amonxu.com/atom.xml)|[我是一个 HR，碰到疑似“外星人”，居然让我帮他修理星际飞船？！](https://amonxu.com/2024/05/24/zh-CN/2024-05-24-HR-uses-Jobot-to-help-an-alien-repair-a-spaceship/)|
 |2024-05-24 02:21:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果傳聞推出一款具備可折疊螢幕的 MacBook](https://applefans.today/2024-05-ming-chi-kuo-foldable-macbook-rumor/)|
 |2024-05-24 02:31:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一起来看下你最真实的影响力吧🔥，开发了一款 iOS “粉丝知多少” 小组件 App](https://w2solo.com/topics/4643)|
 |2024-05-24 00:54:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 134 期）：视频图片压缩工具月收入 2.5K 美金](https://w2solo.com/topics/4642)|
