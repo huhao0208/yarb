@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-24 06:24:23|[KAIX.IN](https://kaix.in/feed/)|[2024.05.24 14:24](https://kaix.in/2024/0524/)|
+|2024-05-24 11:34:38|[迷途小书童的Note](https://xugaoxiang.com/feed)|[AI写歌，太惊艳了！](https://xugaoxiang.com/2024/05/24/suno/)|
+|2024-05-24 05:51:57|[迷途小书童的Note](https://xugaoxiang.com/feed)|[MacOS版ChatGPT来了](https://xugaoxiang.com/2024/05/24/chatgpt-for-macos/)|
 |2024-05-24 07:49:41|[机核](https://www.gcores.com/rss)|[网红犬Kabosu（Doge）今日因病离世](https://www.gcores.com/articles/182386)|
 |2024-05-24 06:47:50|[机核](https://www.gcores.com/rss)|[GDC文章粗读——看看《Hi-Fi RUSH》的卡通渲染（下）](https://www.gcores.com/articles/182264)|
 |2024-05-24 06:40:46|[机核](https://www.gcores.com/rss)|[机核GCORES 钱从哪来？](https://www.gcores.com/videos/182378)|
