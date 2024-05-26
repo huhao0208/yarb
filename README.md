@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-26 02:21:47|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 辅助理解现有代码：自然语言搜索的 RAG 策略设计与 IDE 插件的落地](http://www.phodal.com/blog/ai-assistant-understanding-codebase/)|
+|2024-05-26 08:01:06|[华山感染](https://feedpress.me/wx-hsinfect)|[张文宏教授团队报道国际首例RHOH基因错义突变导致免疫缺陷病例](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503016&idx=1&sn=4560fb46aaedac00e40524d5d536d8d6)|
 |2024-05-26 04:24:23|[KAIX.IN](https://kaix.in/feed/)|[人+性大不同](https://kaix.in/2024/0526-risque-usiness/)|
 |2024-05-26 05:00:00|[机核](https://www.gcores.com/rss)|[泛论《漫威：终极逆转》的玩法机制与运营观念](https://www.gcores.com/articles/182425)|
 |2024-05-26 03:38:11|[机核](https://www.gcores.com/rss)|[E.D 开发日志 编号002](https://www.gcores.com/articles/182039)|
