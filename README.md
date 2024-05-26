@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-05-25）
+﻿# 每日资讯（2024-05-26）
 
 |时间|来源|标题|
 |---|---|---|
@@ -17,6 +17,7 @@
 |2024-05-25 07:37:47|[机核](https://www.gcores.com/rss)|[它能抚慰你对乔尔的念情吗？【WIFI猛男】](https://www.gcores.com/videos/182423)|
 |2024-05-25 12:00:00|[太隐](https://wangyurui.com/feed.xml)|[谈《矛盾论》](https://wangyurui.com/posts/tan-mao-dun-lun-713b5c6f)|
 |2024-05-25 12:11:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #52：Python 处理 Excel 的资源](https://w2solo.com/topics/4644)|
+|2024-05-26 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年 5 月我的训练心得体会](https://leimao.github.io/essay/2024%E5%B9%B45%E6%9C%88%E6%88%91%E7%9A%84%E8%AE%AD%E7%BB%83%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/)|
 |2024-05-25 05:38:57|[机核](https://www.gcores.com/rss)|[一次返乡引发的碎碎念](https://www.gcores.com/articles/182413)|
 |2024-05-25 05:36:00|[机核](https://www.gcores.com/rss)|[《ED》后续开发计划](https://www.gcores.com/articles/182420)|
 |2024-05-25 03:41:57|[机核](https://www.gcores.com/rss)|[绘画过程——街头霸王 嘉米](https://www.gcores.com/videos/182417)|
