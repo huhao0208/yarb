@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-05-26）
+﻿# 每日资讯（2024-05-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-27 01:14:11|[机核](https://www.gcores.com/rss)|[“前景袭击”来了：《战地2042》将于本周实装全新限时活动](https://www.gcores.com/articles/182469)|
 |2024-05-26 14:31:26|[smallyu的博客](https://smallyu.net/atom.xml)|[发币的核心要点](https://smallyu.net/2024/05/26/%E5%8F%91%E5%B8%81%E7%9A%84%E6%A0%B8%E5%BF%83%E8%A6%81%E7%82%B9/)|
 |2024-05-26 15:58:00|[机核](https://www.gcores.com/rss)|[守望译事：毛加](https://www.gcores.com/articles/182455)|
 |2024-05-26 15:57:00|[机核](https://www.gcores.com/rss)|[埃及行记（6）](https://www.gcores.com/articles/182446)|
