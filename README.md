@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-27 04:00:17|[机核](https://www.gcores.com/rss)|[新纪录！《名侦探柯南 百万美元的五棱星》票房突破140亿日元](https://www.gcores.com/articles/182481)|
+|2024-05-27 01:27:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[指數回升的感悟](http://mercurychong.blogspot.com/2024/05/blog-post_26.html)|
 |2024-05-27 01:14:11|[机核](https://www.gcores.com/rss)|[“前景袭击”来了：《战地2042》将于本周实装全新限时活动](https://www.gcores.com/articles/182469)|
 |2024-05-26 14:31:26|[smallyu的博客](https://smallyu.net/atom.xml)|[发币的核心要点](https://smallyu.net/2024/05/26/%E5%8F%91%E5%B8%81%E7%9A%84%E6%A0%B8%E5%BF%83%E8%A6%81%E7%82%B9/)|
 |2024-05-26 15:58:00|[机核](https://www.gcores.com/rss)|[守望译事：毛加](https://www.gcores.com/articles/182455)|
