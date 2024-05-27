@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-27 11:17:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[三星全新 Odyssey OLED、Smart Monitor、ViewFinity 開啟桌上 AI 潮生活](https://applefans.today/2024-05-samsung-odyssey-oled-g8-press-release/)|
+|2024-05-27 14:13:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个又漂亮又丝滑的微信小程序，Midjourney 提示词生成器 + 4000 原创模板。](https://w2solo.com/topics/4647)|
+|2024-05-27 07:54:30|[Decohack](https://www.decohack.com/feed)|[每月赚3万美金的短视频制作工具-独立产品灵感周刊 DecoHack #059](https://www.decohack.com/Post/1534)|
+|2024-05-27 14:17:18|[晚点LatePost](https://feedpress.me/wx-postlate)|[淘天如何运营 3500 万 88VIP 核心用户？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516458&idx=1&sn=4f6bcf0320dcb54aaad11a9584fcd927)|
+|2024-05-27 12:22:08|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[中国人的水果史观！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453446&idx=1&sn=40aefde25fe8428b512f16f72bb1083c)|
+|2024-05-27 10:19:44|[知乎每日精选](https://www.zhihu.com/rss)|[为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？](http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-05-27 10:00:00|[机核](https://www.gcores.com/rss)|[一周多了，核聚变的戒断反应还没好](https://www.gcores.com/videos/182480)|
 |2024-05-27 09:00:00|[机核](https://www.gcores.com/rss)|[所以存在主义是人道主义，录音笔 VOL.209](https://www.gcores.com/radios/182490)|
 |2024-05-27 08:14:46|[机核](https://www.gcores.com/rss)|[多人合作生存游戏《吸血鬼王朝》将在Steam 新品节上推出试玩版](https://www.gcores.com/articles/182495)|
