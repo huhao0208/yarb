@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-27 13:48:57|[机核](https://www.gcores.com/rss)|[【聊聊天】那些让玩家扮演“大反派”的游戏](https://www.gcores.com/articles/182507)|
+|2024-05-27 13:18:34|[机核](https://www.gcores.com/rss)|[《使命召唤：黑色行动6》真人预告将于本周二晚公开](https://www.gcores.com/articles/182510)|
+|2024-05-27 13:00:00|[机核](https://www.gcores.com/rss)|[请把假发摘掉吧！智利之夜文本赏析·上｜ 智利之夜Vol.5](https://www.gcores.com/radios/173207)|
+|2024-05-27 11:07:35|[机核](https://www.gcores.com/rss)|[有被恶心到！欢迎来到MOJO宇宙！](https://www.gcores.com/videos/182491)|
+|2024-05-27 11:07:17|[机核](https://www.gcores.com/rss)|[​Maiden Godslayer](https://www.gcores.com/videos/182497)|
+|2024-05-27 14:38:15|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[rule_no1](http://www.seis-jun.xyz/rule-no1)|
+|2024-05-27 12:29:06|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[optimize_daily_task](http://www.seis-jun.xyz/optimize-daily-task)|
 |2024-05-27 11:17:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[三星全新 Odyssey OLED、Smart Monitor、ViewFinity 開啟桌上 AI 潮生活](https://applefans.today/2024-05-samsung-odyssey-oled-g8-press-release/)|
 |2024-05-27 14:13:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个又漂亮又丝滑的微信小程序，Midjourney 提示词生成器 + 4000 原创模板。](https://w2solo.com/topics/4647)|
 |2024-05-27 07:54:30|[Decohack](https://www.decohack.com/feed)|[每月赚3万美金的短视频制作工具-独立产品灵感周刊 DecoHack #059](https://www.decohack.com/Post/1534)|
