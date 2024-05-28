@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-28 15:00:00|[机核](https://www.gcores.com/rss)|[小枪手中拿，丧尸都得爬 《死亡之屋》系列回顾（上）](https://www.gcores.com/radios/182395)|
+|2024-05-28 14:15:56|[机核](https://www.gcores.com/rss)|[首发XGP：《使命召唤：黑色行动6》公布真人预告](https://www.gcores.com/articles/182588)|
+|2024-05-28 13:54:30|[机核](https://www.gcores.com/rss)|[邦摇专访│ Perfume：也许能利用AI，把舞台表演变成一种更有趣、更不可思议的体验？](https://www.gcores.com/articles/182587)|
+|2024-05-28 13:30:00|[机核](https://www.gcores.com/rss)|[【聊聊天】你在游戏中遇到过什么离谱BUG？](https://www.gcores.com/articles/182579)|
+|2024-05-28 11:27:12|[机核](https://www.gcores.com/rss)|[从体育为起点，以竞技为终点，体育游戏的对战进化，路在何方？](https://www.gcores.com/articles/182581)|
+|2024-05-28 20:46:24|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何正确处理多行字符串的缩进问题](https://www.kingname.info/2024/05/28/indent-in-multiline-str/)|
+|2024-05-28 20:46:11|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：为什么这个JSON无法解析？](https://www.kingname.info/2024/05/28/slash-in-json/)|
+|2024-05-28 08:47:00|[沉舟侧畔 Blog](https://springwood.me/feed/)|[日本的行政区划以及地图着色技术的使用](https://springwood.me/jp-cities/)|
+|2024-05-28 11:25:39|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[Hexo next 使用utterances评论](http://www.seis-jun.xyz/how-to-use-utterances)|
+|2024-05-28 10:04:10|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[吃这些，我瘦了 6 斤（应季，无广](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453500&idx=1&sn=711168d9c773c41e5134c79ca12fad4e)|
+|2024-05-28 04:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[我也被黑客勒索攻击了](https://lmmsoft.github.io//hacked_for_ransom/)|
 |2024-05-28 08:25:15|[KAIX.IN](https://kaix.in/feed/)|[我觉得](https://kaix.in/2024/0528-i-think/)|
 |2024-05-28 10:08:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[NCC 電檢已通過 Apple Pencil Pro](https://applefans.today/2024-05-ncc-apple-pencil-pro/)|
 |2024-05-28 10:41:11|[机核](https://www.gcores.com/rss)|[中国互联网协会发布《未成年人网络游戏服务消费管理要求（征求意见稿）》](https://www.gcores.com/articles/182580)|
