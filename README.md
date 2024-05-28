@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-28 08:25:15|[KAIX.IN](https://kaix.in/feed/)|[我觉得](https://kaix.in/2024/0528-i-think/)|
+|2024-05-28 10:08:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[NCC 電檢已通過 Apple Pencil Pro](https://applefans.today/2024-05-ncc-apple-pencil-pro/)|
+|2024-05-28 10:41:11|[机核](https://www.gcores.com/rss)|[中国互联网协会发布《未成年人网络游戏服务消费管理要求（征求意见稿）》](https://www.gcores.com/articles/182580)|
+|2024-05-28 10:00:00|[机核](https://www.gcores.com/rss)|[TV动画《NieR:Automata Ver1.1a》第2季公开新PV，7月开播](https://www.gcores.com/articles/182573)|
+|2024-05-28 09:46:46|[机核](https://www.gcores.com/rss)|[《龙之信条2》销量突破300万份，官方发文感谢 ​​​](https://www.gcores.com/articles/182577)|
+|2024-05-28 09:00:00|[机核](https://www.gcores.com/rss)|[三人成虎的机核最速传说，录音笔 VOL.210](https://www.gcores.com/radios/182567)|
+|2024-05-28 08:35:58|[机核](https://www.gcores.com/rss)|[奥斯卡最佳动画长片提名电影《机器人之梦》正式定档端午假期6月8日](https://www.gcores.com/articles/182571)|
 |2024-05-28 08:18:54|[机核](https://www.gcores.com/rss)|[「HobbyMax」《少女前线》索米 KP-31 耳朵山的雪妖精 Ver.1/7 手办测评](https://www.gcores.com/articles/182543)|
 |2024-05-28 08:10:29|[机核](https://www.gcores.com/rss)|[【抽奖】化身鲁滨孙流落荒岛，《求生岛》现已脱离抢先体验正式发售](https://www.gcores.com/articles/182568)|
 |2024-05-28 08:09:00|[机核](https://www.gcores.com/rss)|[休闲治愈风游戏《兽娘红茶馆》公布中文PV，秋季发售](https://www.gcores.com/articles/182551)|
