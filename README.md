@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-28 04:15:23|[祝融说。](https://zhurongshuo.com/index.xml)|[生存从来都是全体性的。](https://zhurongshuo.com/posts/2024/05/2801/)|
+|2024-05-28 01:52:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[提供一个免费添加水印的小玩意](https://w2solo.com/topics/4649)|
+|2024-05-28 01:33:39|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 67：世界上没有意外](https://w2solo.com/topics/4648)|
+|2024-05-28 03:40:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何在 iPhone 加入 Google 密碼管理工具 Widget 小工具？](https://applefans.today/2024-05-google-passwords-manager-widget-iphone/)|
 |2024-05-27 13:48:57|[机核](https://www.gcores.com/rss)|[【聊聊天】那些让玩家扮演“大反派”的游戏](https://www.gcores.com/articles/182507)|
 |2024-05-27 13:18:34|[机核](https://www.gcores.com/rss)|[《使命召唤：黑色行动6》真人预告将于本周二晚公开](https://www.gcores.com/articles/182510)|
 |2024-05-27 13:00:00|[机核](https://www.gcores.com/rss)|[请把假发摘掉吧！智利之夜文本赏析·上｜ 智利之夜Vol.5](https://www.gcores.com/radios/173207)|
