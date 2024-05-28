@@ -2,38 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-28 08:18:54|[机核](https://www.gcores.com/rss)|[「HobbyMax」《少女前线》索米 KP-31 耳朵山的雪妖精 Ver.1/7 手办测评](https://www.gcores.com/articles/182543)|
+|2024-05-28 08:10:29|[机核](https://www.gcores.com/rss)|[【抽奖】化身鲁滨孙流落荒岛，《求生岛》现已脱离抢先体验正式发售](https://www.gcores.com/articles/182568)|
+|2024-05-28 08:09:00|[机核](https://www.gcores.com/rss)|[休闲治愈风游戏《兽娘红茶馆》公布中文PV，秋季发售](https://www.gcores.com/articles/182551)|
+|2024-05-28 08:00:00|[机核](https://www.gcores.com/rss)|[以大阪日本桥为舞台，游戏《芙哇芙哇女仆咖啡厅》夏季发售](https://www.gcores.com/articles/182553)|
+|2024-05-28 07:32:30|[机核](https://www.gcores.com/rss)|[中世纪类魂肉鸽《死亡教堂》1.0正式版现已推出 特惠32.4元](https://www.gcores.com/articles/182556)|
+|2024-05-28 07:00:00|[机核](https://www.gcores.com/rss)|[探索黑石城：火人节的艺术与文化之旅](https://www.gcores.com/articles/182371)|
+|2024-05-28 06:42:00|[机核](https://www.gcores.com/rss)|[《星空》深度鉴赏与解读：何以成为终极太空RPG](https://www.gcores.com/articles/179667)|
+|2024-05-28 06:15:00|[机核](https://www.gcores.com/rss)|[绘·游记丨自驾游镇扬](https://www.gcores.com/articles/182515)|
+|2024-05-28 06:10:18|[机核](https://www.gcores.com/rss)|[长文&多图 《暗影幽蝶：潘多拉》：一部二次元潜入游戏的制作历程，探讨战争、科技的副作用](https://www.gcores.com/articles/182486)|
+|2024-05-28 05:59:47|[机核](https://www.gcores.com/rss)|[【抽奖】火焰新英雄预告抢先看，回合制策略游戏《神奇英侠》将于5月30日上线！](https://www.gcores.com/articles/182549)|
+|2024-05-28 05:34:50|[机核](https://www.gcores.com/rss)|[独立游戏《炒饭大师》将于8月份登录Steam](https://www.gcores.com/articles/182542)|
+|2024-05-28 05:00:00|[机核](https://www.gcores.com/rss)|[东京迪士尼海洋新园区 “Fantasy Springs” 将于举办开幕活动，可线上观看](https://www.gcores.com/articles/182504)|
+|2024-05-28 04:11:40|[机核](https://www.gcores.com/rss)|[米哈游新作《绝区零》将于7月4日开启全平台公测](https://www.gcores.com/articles/182539)|
+|2024-05-28 03:00:00|[机核](https://www.gcores.com/rss)|[The Liminal Space 游戏宣传视频](https://www.gcores.com/videos/182522)|
+|2024-05-28 02:01:48|[机核](https://www.gcores.com/rss)|[《Dota2》TI13直邀战队公布！预选赛即将于下月开打](https://www.gcores.com/articles/182532)|
+|2024-05-28 01:42:37|[机核](https://www.gcores.com/rss)|[改编自同名漫画，真人电影《蓝色时期》预告片公开](https://www.gcores.com/articles/182533)|
+|2024-05-28 01:41:20|[机核](https://www.gcores.com/rss)|[杉田智和担任主角CV，《坂本日常》TV动画化](https://www.gcores.com/articles/182530)|
+|2024-05-28 01:33:00|[机核](https://www.gcores.com/rss)|[Steam开放世界生存制作游戏节现已隆重开幕](https://www.gcores.com/articles/182531)|
+|2024-05-28 01:16:58|[机核](https://www.gcores.com/rss)|[会员订阅来了：育碧介绍《彩虹六号：围攻》第九年度第二赛季新增内容](https://www.gcores.com/articles/182529)|
+|2024-05-28 01:10:13|[机核](https://www.gcores.com/rss)|[科乐美将于本周五举行新一期《寂静岭》发布会](https://www.gcores.com/articles/182528)|
+|2024-05-28 01:35:45|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[悬疑片《猎杀风河谷》：印第安保留地上频发邪恶事件，两位漫威英雄联手险些全军覆没！](https://www.ximalaya.com/sound/731461249)|
+|2024-05-28 07:25:54|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[hexo如何给文章加框](http://www.seis-jun.xyz/how-to-add-frame)|
+|2024-05-28 06:15:34|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[hexo 如何给文章设密码](http://www.seis-jun.xyz/how-to-encrypt)|
+|2024-05-28 06:11:59|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[密码测试](http://www.seis-jun.xyz/encrypt_test)|
+|2024-05-28 05:06:34|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何学习](http://www.seis-jun.xyz/how-to-pretend-you-know)|
 |2024-05-28 04:15:23|[祝融说。](https://zhurongshuo.com/index.xml)|[生存从来都是全体性的。](https://zhurongshuo.com/posts/2024/05/2801/)|
 |2024-05-28 01:52:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[提供一个免费添加水印的小玩意](https://w2solo.com/topics/4649)|
 |2024-05-28 01:33:39|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 67：世界上没有意外](https://w2solo.com/topics/4648)|
 |2024-05-28 03:40:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何在 iPhone 加入 Google 密碼管理工具 Widget 小工具？](https://applefans.today/2024-05-google-passwords-manager-widget-iphone/)|
-|2024-05-27 13:48:57|[机核](https://www.gcores.com/rss)|[【聊聊天】那些让玩家扮演“大反派”的游戏](https://www.gcores.com/articles/182507)|
-|2024-05-27 13:18:34|[机核](https://www.gcores.com/rss)|[《使命召唤：黑色行动6》真人预告将于本周二晚公开](https://www.gcores.com/articles/182510)|
-|2024-05-27 13:00:00|[机核](https://www.gcores.com/rss)|[请把假发摘掉吧！智利之夜文本赏析·上｜ 智利之夜Vol.5](https://www.gcores.com/radios/173207)|
-|2024-05-27 11:07:35|[机核](https://www.gcores.com/rss)|[有被恶心到！欢迎来到MOJO宇宙！](https://www.gcores.com/videos/182491)|
-|2024-05-27 11:07:17|[机核](https://www.gcores.com/rss)|[​Maiden Godslayer](https://www.gcores.com/videos/182497)|
-|2024-05-27 14:38:15|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[rule_no1](http://www.seis-jun.xyz/rule-no1)|
-|2024-05-27 12:29:06|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[optimize_daily_task](http://www.seis-jun.xyz/optimize-daily-task)|
-|2024-05-27 11:17:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[三星全新 Odyssey OLED、Smart Monitor、ViewFinity 開啟桌上 AI 潮生活](https://applefans.today/2024-05-samsung-odyssey-oled-g8-press-release/)|
-|2024-05-27 14:13:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个又漂亮又丝滑的微信小程序，Midjourney 提示词生成器 + 4000 原创模板。](https://w2solo.com/topics/4647)|
-|2024-05-27 07:54:30|[Decohack](https://www.decohack.com/feed)|[每月赚3万美金的短视频制作工具-独立产品灵感周刊 DecoHack #059](https://www.decohack.com/Post/1534)|
-|2024-05-27 14:17:18|[晚点LatePost](https://feedpress.me/wx-postlate)|[淘天如何运营 3500 万 88VIP 核心用户？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516458&idx=1&sn=4f6bcf0320dcb54aaad11a9584fcd927)|
-|2024-05-27 12:22:08|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[中国人的水果史观！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453446&idx=1&sn=40aefde25fe8428b512f16f72bb1083c)|
-|2024-05-27 10:19:44|[知乎每日精选](https://www.zhihu.com/rss)|[为什么半固态电池、固态电池、钠离子电池被业内认为是新一代动力电池？有何优势？](http://www.zhihu.com/question/648735601/answer/3434048465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
-|2024-05-27 10:00:00|[机核](https://www.gcores.com/rss)|[一周多了，核聚变的戒断反应还没好](https://www.gcores.com/videos/182480)|
-|2024-05-27 09:00:00|[机核](https://www.gcores.com/rss)|[所以存在主义是人道主义，录音笔 VOL.209](https://www.gcores.com/radios/182490)|
-|2024-05-27 08:14:46|[机核](https://www.gcores.com/rss)|[多人合作生存游戏《吸血鬼王朝》将在Steam 新品节上推出试玩版](https://www.gcores.com/articles/182495)|
-|2024-05-27 06:01:16|[机核](https://www.gcores.com/rss)|[电波 × 怪文书 × 音游《晕晕电波症候群》公布！](https://www.gcores.com/articles/182487)|
-|2024-05-27 05:00:44|[机核](https://www.gcores.com/rss)|[翻译｜辐射伪典：辐射电视剧批评 第一部分](https://www.gcores.com/articles/182482)|
-|2024-05-27 08:11:58|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ unity 开发者必备 17 个学习网址](https://w2solo.com/topics/4646)|
-|2024-05-27 08:03:13|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[每月赚 3 万美金的短视频制作工具](https://w2solo.com/topics/4645)|
-|2024-05-27 10:19:30|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Google Gmail注册流程](https://xugaoxiang.com/2024/05/27/gmail-register/)|
-|2024-05-27 11:20:33|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[fatal'\:' 'origin' does not appear to be a git repository](http://www.seis-jun.xyz/git-error)|
-|2024-05-27 08:50:09|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[Hexo添加字数统计](http://www.seis-jun.xyz/add_counter)|
-|2024-05-27 11:31:01|[Mark24](https://mark24code.github.io/feed.xml)|[使用Ruby-build 在 MacOS上 编译 Portable ruby](https://mark24code.github.io/ruby/2024/05/27/%E4%BD%BF%E7%94%A8Ruby-build-%E5%9C%A8-MacOS%E4%B8%8A-%E7%BC%96%E8%AF%91-Portable-ruby.html)|
-|2024-05-27 05:05:22|[KAIX.IN](https://kaix.in/feed/)|[孝顺](https://kaix.in/2024/0527-filial-piety/)|
-|2024-05-27 00:17:31|[Bing's Blog](https://www.bbing.com.cn/index.xml)|[日志透传工具-channel](https://imcbc.cn/202405/transmite-log-channel/)|
-|2024-05-27 03:21:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[你如何處理 iPad 淘汰 的機型？](https://applefans.today/2024-05-cirp-report-what-apple-users-do-with-old-ipads/)|
-|2024-05-27 01:54:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社： iOS 18 的最新三大變化](https://applefans.today/2024-05-mark-gurman-coming-in-ios-18/)|
-|2024-05-27 04:00:17|[机核](https://www.gcores.com/rss)|[新纪录！《名侦探柯南 百万美元的五棱星》票房突破140亿日元](https://www.gcores.com/articles/182481)|
-|2024-05-27 01:27:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[指數回升的感悟](http://mercurychong.blogspot.com/2024/05/blog-post_26.html)|
-|2024-05-27 01:14:11|[机核](https://www.gcores.com/rss)|[“前景袭击”来了：《战地2042》将于本周实装全新限时活动](https://www.gcores.com/articles/182469)|
