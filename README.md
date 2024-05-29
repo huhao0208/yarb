@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-29 02:36:17|[机核](https://www.gcores.com/rss)|[乐高×《塞尔达传说 》，德库树二合一积木套装9月1日发售](https://www.gcores.com/articles/182604)|
+|2024-05-29 02:35:06|[机核](https://www.gcores.com/rss)|[CDPR公布最新一期财报，《赛博朋克2077》开发正式结束](https://www.gcores.com/articles/182602)|
+|2024-05-29 02:30:00|[机核](https://www.gcores.com/rss)|[以《赛博朋克酒保行动》为例，浅谈对白创作中的技巧方法（一）](https://www.gcores.com/articles/180103)|
+|2024-05-29 02:12:00|[机核](https://www.gcores.com/rss)|[手游《学园偶像大师》下载数突破100万，官方发布奖励](https://www.gcores.com/articles/182599)|
+|2024-05-29 01:56:16|[机核](https://www.gcores.com/rss)|[《对马岛之魂》名列前茅：Steam周销量排行榜 2024年5月第3周](https://www.gcores.com/articles/182598)|
+|2024-05-29 01:47:13|[机核](https://www.gcores.com/rss)|[索尼Days of Play庆典今日开启，会免游戏同步揭晓](https://www.gcores.com/articles/182597)|
+|2024-05-29 01:24:12|[机核](https://www.gcores.com/rss)|[《沙石镇时光》现已实装《猛兽派对》联动，“怪兽萌宠”DLC同步发售](https://www.gcores.com/articles/182596)|
+|2024-05-29 00:23:46|[机核](https://www.gcores.com/rss)|[见证者离终焉之形不远了!《命运2：终焉之形》发布预告片公布](https://www.gcores.com/articles/182594)|
 |2024-05-28 15:00:00|[机核](https://www.gcores.com/rss)|[小枪手中拿，丧尸都得爬 《死亡之屋》系列回顾（上）](https://www.gcores.com/radios/182395)|
 |2024-05-28 14:15:56|[机核](https://www.gcores.com/rss)|[首发XGP：《使命召唤：黑色行动6》公布真人预告](https://www.gcores.com/articles/182588)|
 |2024-05-28 13:54:30|[机核](https://www.gcores.com/rss)|[邦摇专访│ Perfume：也许能利用AI，把舞台表演变成一种更有趣、更不可思议的体验？](https://www.gcores.com/articles/182587)|
