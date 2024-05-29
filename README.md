@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-29 08:52:24|[Mark24](https://mark24code.github.io/feed.xml)|[选择编程语言的思考](https://mark24code.github.io/%E7%A8%8B%E5%BA%8F%E6%80%9D%E8%80%83/2024/05/29/%E9%80%89%E6%8B%A9%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E7%9A%84%E6%80%9D%E8%80%83.html)|
+|2024-05-29 16:48:21|[迷途小书童的Note](https://xugaoxiang.com/feed)|[绝美AI图片用的什么提示词？有它，不愁！](https://xugaoxiang.com/2024/05/30/mj-prompt-parser/)|
+|2024-05-29 14:57:04|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手机上6个免费AI，简直强的可怕](https://xugaoxiang.com/2024/05/29/aigc-mobile/)|
+|2024-05-29 14:03:09|[晚点LatePost](https://feedpress.me/wx-postlate)|[野心收缩、战线扩张，大众重新梳理在华智能研发](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516561&idx=3&sn=cc69b17c8ef965ab14f2441aa2a0eba9)|
+|2024-05-29 14:03:08|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨中国教培在美国找到新市场；日本连续33年成全球最大债权国](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516561&idx=2&sn=aac99eef30edfccbefabed79e677a03d)|
+|2024-05-29 14:03:08|[晚点LatePost](https://feedpress.me/wx-postlate)|[大模型的 5 月：热闹的 30 天和鸿沟边缘](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516561&idx=1&sn=2f9c065dbaedc1b7f7f0698186530f76)|
 |2024-05-29 13:59:15|[乌托邦是个理想国](https://shenyongfan.com/rss/)|[域外杂谈 - 济州岛旅行见闻](http://localhost:2368/jeju-island/)|
 |2024-05-29 12:00:48|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[什么神仙工作，一年只干二十天？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453527&idx=1&sn=b0dbbbfdfaf68fd3d9f719885d6215a2)|
 |2024-05-29 08:21:02|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[菜鸟的独立开发 Journey- 第 0 周](https://w2solo.com/topics/4652)|
