@@ -1,10 +1,11 @@
-﻿# 每日资讯（2024-05-30）
+﻿# 每日资讯（2024-05-31）
 
 |时间|来源|标题|
 |---|---|---|
 |2024-05-30 09:53:09|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[2024超燃复仇动作片《灭世男孩》：丛林中的蜕变，聋哑男孩的复仇史诗！](https://www.ximalaya.com/sound/731952479)|
 |2024-05-30 20:39:45|[I'm OWenT](https://owent.net/index.xml)|[GCC 14的一个warning to error BUG](//owent.net/2024/2401.html)|
 |2024-05-30 12:02:11|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[消保委的测评神了！！！（附跟买清单](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453687&idx=1&sn=8e944105955d4b9ae30005c05fc2403a)|
+|2024-05-31 00:00:00|[疯投圈](https://crazy.capital/feed)|[96. 中高端也要性价比：山姆、理想、lululemon](https://crazy.capital/96)|
 |2024-05-30 15:00:00|[机核](https://www.gcores.com/rss)|[游戏圆桌：世界上还有电子游戏里没有用过的“美学”吗？](https://www.gcores.com/radios/182394)|
 |2024-05-30 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第二十六章 琼恩（中册完）](https://www.gcores.com/radios/182645)|
 |2024-05-30 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 中册》：第二十五章 珊莎](https://www.gcores.com/radios/182644)|
