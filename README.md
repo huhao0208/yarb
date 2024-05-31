@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-31 02:25:56|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果即將在 iOS 18 的 siri 帶來三大 變化 ！如何讓 Siri 變得更聰明](https://applefans.today/2024-05-ios-18-siri-ai-features/)|
+|2024-05-31 01:46:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 iPad Pro 與 M3 MacBook Air 比較：選擇指南](https://applefans.today/2024-05-13-inch-macbook-air-m3-vs-ipad-pro-m4/)|
+|2024-05-31 04:00:00|[机核](https://www.gcores.com/rss)|[奇幻动作RPG《万物契约》官方入驻机组社区](https://www.gcores.com/articles/182701)|
+|2024-05-31 03:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】送DualSense手柄！PS5嗨玩季开启超多优惠 《地平线零之曙光》登录WeGame平台](https://www.gcores.com/articles/182707)|
+|2024-05-31 03:00:00|[机核](https://www.gcores.com/rss)|[进阶在即，揭开「UNIT NULL 零号机组」崭新篇章](https://www.gcores.com/articles/182326)|
+|2024-05-31 02:38:24|[机核](https://www.gcores.com/rss)|[动画《忍者蝙蝠侠》新作《忍者蝙蝠侠VS黑帮联盟》正式公布](https://www.gcores.com/articles/182738)|
+|2024-05-31 02:06:04|[机核](https://www.gcores.com/rss)|[《FARMAGIA》正式公布：“MARVELOUS GAME SHOWCASE 2024”信息汇总](https://www.gcores.com/articles/182735)|
+|2024-05-31 00:30:00|[机核](https://www.gcores.com/rss)|[Epic喜加一：原价137元《骑士精神2》免费领](https://www.gcores.com/articles/182732)|
+|2024-05-31 03:52:11|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[免费开源工具站【Tools-Web】- 0531 更新日志](https://w2solo.com/topics/4658)|
+|2024-05-31 03:31:02|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新站上线: 轻兔推荐 - 工作日每天为您推荐一款软件或服务](https://w2solo.com/topics/4657)|
+|2024-05-31 02:08:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #35：外包、技术选型和卖房](https://w2solo.com/topics/4656)|
+|2024-05-31 01:01:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 135 期）：简单的网页托管小工具 月收入 1.5 万美金](https://w2solo.com/topics/4655)|
 |2024-05-30 09:53:09|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[2024超燃复仇动作片《灭世男孩》：丛林中的蜕变，聋哑男孩的复仇史诗！](https://www.ximalaya.com/sound/731952479)|
 |2024-05-30 20:39:45|[I'm OWenT](https://owent.net/index.xml)|[GCC 14的一个warning to error BUG](//owent.net/2024/2401.html)|
 |2024-05-30 12:02:11|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[消保委的测评神了！！！（附跟买清单](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453687&idx=1&sn=8e944105955d4b9ae30005c05fc2403a)|
