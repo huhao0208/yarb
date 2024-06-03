@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-03 03:32:32|[whyes 的博客](https://whyes.org/feed.xml)|[ASCO 2024 肝癌摘要选读 #ASCO24](http://whyes.org/2024/asco-2024)|
+|2024-06-03 03:46:22|[迷途小书童的Note](https://xugaoxiang.com/feed)|[人人都要学点提示词](https://xugaoxiang.com/2024/06/03/prompt/)|
+|2024-06-03 11:15:00|[ipfans's Blog](https://www.4async.com/atom.xml)|[RAG 技术在实际工程中的应用：OpenAI 的最佳实践分享](https://www.4async.com/2024/06/openai-survey-of-techniques-for-maximizing-llm-performance/)|
+|2024-06-03 09:11:29|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你们要的葡萄酒百年老店，闭眼买不踩坑](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453904&idx=1&sn=e808e03d66226ec20d2d06bf52f0e6be)|
+|2024-06-03 08:31:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[海外品牌入华，一个复杂问题的简单化](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516748&idx=1&sn=f850350d7e5f01f6b1c0ddd4365e53f1)|
 |2024-06-03 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PIS 开启抖音直播](https://leimao.github.io/essay/PIS%E5%BC%80%E5%90%AF%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD/)|
 |2024-06-03 02:08:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 定位自動走路？！iPhone 定位修改神器 AnyTo 打破限制暢玩 Pokémon GO](https://applefans.today/2024-05-imyfone-anyto-ios-locatine-changer/)|
 |2024-06-03 01:49:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPad Air GPU 降規：M2 晶片從 10 核心縮減至 9 核心](https://applefans.today/2024-05-m2-ipad-air-gpu-core-count/)|
