@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-03 08:15:15|[KAIX.IN](https://kaix.in/feed/)|[指甲](https://kaix.in/2024/0603-nail/)|
+|2024-06-03 03:42:42|[Decohack](https://www.decohack.com/feed)|[发现有趣创意和免费工具-独立产品灵感周刊 DecoHack #060](https://www.decohack.com/Post/1549)|
 |2024-06-03 03:32:32|[whyes 的博客](https://whyes.org/feed.xml)|[ASCO 2024 肝癌摘要选读 #ASCO24](http://whyes.org/2024/asco-2024)|
 |2024-06-03 03:46:22|[迷途小书童的Note](https://xugaoxiang.com/feed)|[人人都要学点提示词](https://xugaoxiang.com/2024/06/03/prompt/)|
 |2024-06-03 11:15:00|[ipfans's Blog](https://www.4async.com/atom.xml)|[RAG 技术在实际工程中的应用：OpenAI 的最佳实践分享](https://www.4async.com/2024/06/openai-survey-of-techniques-for-maximizing-llm-performance/)|
