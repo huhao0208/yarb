@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-06-02）
+﻿# 每日资讯（2024-06-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-03 01:13:06|[机核](https://www.gcores.com/rss)|[夏日游戏节公布预热宣传片，将于6月8日隆重开幕](https://www.gcores.com/articles/182834)|
+|2024-06-03 00:08:44|[余晟以为](https://feedpress.me/wx-yurii-says)|[争论美国登月造假？还是别浪费时间了吧](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009946&idx=1&sn=1299a7143b6f0d6132ebabcd1e5225c5)|
 |2024-06-02 15:32:18|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[给局域网中的Ubuntu固定下ip](https://nicksxs.me/2024/06/02/%E7%BB%99%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%AD%E7%9A%84Ubuntu%E5%9B%BA%E5%AE%9A%E4%B8%8Bip/)|
 |2024-06-02 13:30:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[多新鲜呐。。。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453763&idx=1&sn=4368733fd823ae3176892ea9c809effd)|
 |2024-06-02 15:00:00|[机核](https://www.gcores.com/rss)|[火人、土人、苦命人 新维加斯里那些差点成为主角的人们（上）](https://www.gcores.com/radios/182808)|
