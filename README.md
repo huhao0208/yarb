@@ -2,28 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-03 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PIS 开启抖音直播](https://leimao.github.io/essay/PIS%E5%BC%80%E5%90%AF%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD/)|
+|2024-06-03 02:08:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 定位自動走路？！iPhone 定位修改神器 AnyTo 打破限制暢玩 Pokémon GO](https://applefans.today/2024-05-imyfone-anyto-ios-locatine-changer/)|
+|2024-06-03 01:49:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPad Air GPU 降規：M2 晶片從 10 核心縮減至 9 核心](https://applefans.today/2024-05-m2-ipad-air-gpu-core-count/)|
+|2024-06-03 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/22](https://weekly.pychina.org/pyrecap/pyrw-2422.html)|
+|2024-06-03 03:09:21|[smallyu的博客](https://smallyu.net/atom.xml)|[区块链中的 PBFT 不需要第二次投票](https://smallyu.net/2024/06/03/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%AD%E7%9A%84PBFT%E4%B8%8D%E9%9C%80%E8%A6%81%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%8A%95%E7%A5%A8/)|
 |2024-06-03 01:54:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[Hersey Park 过山车实拍](https://www.youtube.com/watch?v=bROzvV8We9o)|
 |2024-06-03 00:27:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[偶遇的鼓励](http://mercurychong.blogspot.com/2024/06/blog-post.html)|
 |2024-06-03 01:13:06|[机核](https://www.gcores.com/rss)|[夏日游戏节公布预热宣传片，将于6月8日隆重开幕](https://www.gcores.com/articles/182834)|
 |2024-06-03 00:08:44|[余晟以为](https://feedpress.me/wx-yurii-says)|[争论美国登月造假？还是别浪费时间了吧](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009946&idx=1&sn=1299a7143b6f0d6132ebabcd1e5225c5)|
-|2024-06-02 15:32:18|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[给局域网中的Ubuntu固定下ip](https://nicksxs.me/2024/06/02/%E7%BB%99%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%AD%E7%9A%84Ubuntu%E5%9B%BA%E5%AE%9A%E4%B8%8Bip/)|
-|2024-06-02 13:30:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[多新鲜呐。。。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653453763&idx=1&sn=4368733fd823ae3176892ea9c809effd)|
-|2024-06-02 15:00:00|[机核](https://www.gcores.com/rss)|[火人、土人、苦命人 新维加斯里那些差点成为主角的人们（上）](https://www.gcores.com/radios/182808)|
-|2024-06-02 10:00:26|[机核](https://www.gcores.com/rss)|[80Wh大电池,双存升级:ROG掌机X正式发布](https://www.gcores.com/articles/182815)|
-|2024-06-02 08:07:27|[机核](https://www.gcores.com/rss)|[初聊电子游戏中的深度](https://www.gcores.com/articles/182809)|
-|2024-06-02 07:34:10|[机核](https://www.gcores.com/rss)|[个人向叙事插画构图思路](https://www.gcores.com/articles/182806)|
-|2024-06-02 07:24:01|[机核](https://www.gcores.com/rss)|[我的游戏随笔——《庄园领主》EA](https://www.gcores.com/articles/182807)|
-|2024-06-02 04:30:48|[机核](https://www.gcores.com/rss)|[下周节目预告 6.3~6.9](https://www.gcores.com/articles/182803)|
-|2024-06-02 03:59:32|[机核](https://www.gcores.com/rss)|[如何设计游戏教程](https://www.gcores.com/articles/182801)|
-|2024-06-02 03:16:23|[机核](https://www.gcores.com/rss)|[设计实践｜架空玄幻古装戏服·三生之川](https://www.gcores.com/articles/182802)|
-|2024-06-02 21:25:56|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何找到Github用户的邮箱？](https://www.kingname.info/2024/06/02/find-email-of-github/)|
-|2024-06-02 12:27:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 IntelliPhone 手機：AR、VR 和健康功能大突破](https://www.iphonetaiwan.org/2024/06/apple-intelliphone-ai-smartphone.html)|
-|2024-06-02 10:03:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[中國詐團假 iPhone 換真機，蘋果十年被騙 1230 萬美元](https://www.iphonetaiwan.org/2024/06/china-citizens-fake-iphone-scam-apple.html)|
-|2024-06-02 09:29:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[2024 iPad Pro/Air 已通過 NCC 認證！台灣即將開賣](https://www.iphonetaiwan.org/2024/06/2024-ipad-taiwan-ncc.html)|
-|2024-06-02 03:02:13|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点视频｜“战争与和平”：字节与腾讯的六年恩怨史](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516735&idx=2&sn=8a86206a6a839dc0b331f027086e1de0)|
-|2024-06-02 03:02:12|[晚点LatePost](https://feedpress.me/wx-postlate)|[便利蜂没有理想国：系统改变人，环境改变系统](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516735&idx=1&sn=1350bd3b6dae8e99b41a52b15419c7d7)|
-|2024-06-02 07:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 控制中心大更新！為 iPhone 帶來全新操作體驗](https://www.iphonetaiwan.org/2024/06/ios-18-control-center.html)|
-|2024-06-02 07:33:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 將為 iMessage 添加文字效果和 AI 撰寫功能](https://www.iphonetaiwan.org/2024/06/ios18-imessage-text-effects.html)|
-|2024-06-02 07:07:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果與 OpenAI 合作：iOS 18 Siri 即將迎來革命性升級](https://www.iphonetaiwan.org/2024/06/apple-openai-siri-future.html)|
-|2024-06-02 06:36:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[經典不滅！世界首款指紋辨識 iPhone 已成過時產品](https://www.iphonetaiwan.org/2024/06/apple-obsolete-products-update-iphone5s.html)|
-|2024-06-02 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Variational Autoencoder](https://leimao.github.io/blog/Variational-Autoencoder/)|
