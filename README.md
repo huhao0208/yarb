@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-04 12:54:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 68：5 月数据总结，近两年最低值](https://w2solo.com/topics/4666)|
+|2024-06-04 16:08:21|[whyes 的博客](https://whyes.org/feed.xml)|[纳武利尤单抗+伊匹木单抗：晚期肝癌一线治疗的新选择 #ASCO24](http://whyes.org/2024/checkmate-9dw-nivolumab-ipilimumab-hcc)|
+|2024-06-04 14:51:13|[乌托邦是个理想国](https://shenyongfan.com/rss/)|[使用 Animator for framer 实现 SVG 动效交付](http://localhost:2368/framer_svg_animation/)|
 |2024-06-04 09:55:45|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚刚！！它又又被大师傅翻牌了！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454022&idx=1&sn=bbc594ab846b212cd6d7bb05532b5a51)|
 |2024-06-04 10:11:26|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨日本汽车业再曝造假丑闻；曾经的核心资产现在怎么样了？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516852&idx=2&sn=3d4109bc663f53a2429d9d60ad5b1fa2)|
 |2024-06-04 10:11:26|[晚点LatePost](https://feedpress.me/wx-postlate)|[对话香港大学马毅：“如果相信只靠 Scaling Laws 就能实现 AGI，你该改行了”](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516852&idx=1&sn=0fb21d24cdd2feb8c28d9e55928cc6a9)|
