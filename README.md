@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-04 01:45:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[WWDC 2024 Apple 會有新的硬體設備嗎？](https://applefans.today/2024-06-wwdc-no-any-new-hardware-rumors/)|
 |2024-06-03 08:53:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[台灣開賣 Apple Pencil Pro ！最快可在 6 月 19 日送達](https://applefans.today/2024-06-tw-launch-apple-pencil-pro/)|
 |2024-06-03 10:05:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[【译】几个你或许并不知道 kubernetes 技巧](http://crossoverjie.top/2024/06/03/ob/Kubernetes-tricks/)|
 |2024-06-03 13:30:00|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)|
