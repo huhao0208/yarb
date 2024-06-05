@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-05 02:54:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 May.26 - Jun.1](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240601/)|
 |2024-06-05 08:09:36|[机核](https://www.gcores.com/rss)|[2024年6月进口网络游戏审批信息公布](https://www.gcores.com/articles/182944)|
 |2024-06-05 07:11:58|[机核](https://www.gcores.com/rss)|[游戏设计中，如何设计和分析世界观？](https://www.gcores.com/videos/182939)|
 |2024-06-05 06:51:40|[机核](https://www.gcores.com/rss)|[Netflix版《狂赌之渊》真人剧集《BET》公布演员阵容](https://www.gcores.com/articles/182937)|
