@@ -2,22 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-06-04 12:54:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 68：5 月数据总结，近两年最低值](https://w2solo.com/topics/4666)|
-|2024-06-04 16:08:21|[whyes 的博客](https://whyes.org/feed.xml)|[纳武利尤单抗+伊匹木单抗：晚期肝癌一线治疗的新选择 #ASCO24](http://whyes.org/2024/checkmate-9dw-nivolumab-ipilimumab-hcc)|
-|2024-06-04 14:51:13|[乌托邦是个理想国](https://shenyongfan.com/rss/)|[使用 Animator for framer 实现 SVG 动效交付](http://localhost:2368/framer_svg_animation/)|
-|2024-06-04 09:55:45|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[刚刚！！它又又被大师傅翻牌了！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454022&idx=1&sn=bbc594ab846b212cd6d7bb05532b5a51)|
-|2024-06-04 10:11:26|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨日本汽车业再曝造假丑闻；曾经的核心资产现在怎么样了？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516852&idx=2&sn=3d4109bc663f53a2429d9d60ad5b1fa2)|
-|2024-06-04 10:11:26|[晚点LatePost](https://feedpress.me/wx-postlate)|[对话香港大学马毅：“如果相信只靠 Scaling Laws 就能实现 AGI，你该改行了”](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247516852&idx=1&sn=0fb21d24cdd2feb8c28d9e55928cc6a9)|
-|2024-06-04 08:38:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[DIY 了一个 AI 导航网，需要的朋友可以收藏起来](https://w2solo.com/topics/4665)|
-|2024-06-04 06:57:33|[机核](https://www.gcores.com/rss)|[与恶意捆绑斗智斗勇：《流氓软件》现已在Steam推出试玩Demo](https://www.gcores.com/articles/182897)|
-|2024-06-04 06:35:57|[机核](https://www.gcores.com/rss)|[欢庆一周年：《街头霸王6》现已推出6月格斗通行证](https://www.gcores.com/articles/182896)|
-|2024-06-04 06:30:10|[机核](https://www.gcores.com/rss)|[《黎明杀机》现已实装《龙与地下城》联动，同捆DLC同步发售](https://www.gcores.com/articles/182895)|
-|2024-06-04 05:04:34|[机核](https://www.gcores.com/rss)|[第26届上海电影节“SIFF动画”单元名单陆续公布](https://www.gcores.com/articles/182890)|
-|2024-06-04 03:54:28|[机核](https://www.gcores.com/rss)|[毒液系列第三部《毒液：最后一舞》发布预告片，10月25日北美上映](https://www.gcores.com/articles/182886)|
-|2024-06-04 03:20:02|[机核](https://www.gcores.com/rss)|[竹内凉真主演，剧集《人中之龙 ～Beyond the Game～》正式公布](https://www.gcores.com/articles/182885)|
-|2024-06-04 02:02:38|[机核](https://www.gcores.com/rss)|[《博德之门3》将于9月实装官方模组支持，确认登录主机](https://www.gcores.com/articles/182883)|
-|2024-06-04 01:27:15|[机核](https://www.gcores.com/rss)|[育碧推出前瞻会挑战，参与可得丰厚奖励](https://www.gcores.com/articles/182882)|
-|2024-06-04 05:14:15|[KAIX.IN](https://kaix.in/feed/)|[2024.06.04 13:14](https://kaix.in/2024/0604/)|
-|2024-06-04 05:52:23|[Dennis](https://www.domon.cn/rss/)|[2024年5月阅读书摘](https://www.domon.cn/2024-5yue-yue-du-shu-zhai/)|
-|2024-06-04 00:10:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[微言小义 2024.05 ](https://www.changhai.org/articles/miscellaneous/blog/202405.php)|
-|2024-06-04 01:45:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[WWDC 2024 Apple 會有新的硬體設備嗎？](https://applefans.today/2024-06-wwdc-no-any-new-hardware-rumors/)|
+|2024-06-05 08:09:36|[机核](https://www.gcores.com/rss)|[2024年6月进口网络游戏审批信息公布](https://www.gcores.com/articles/182944)|
+|2024-06-05 07:11:58|[机核](https://www.gcores.com/rss)|[游戏设计中，如何设计和分析世界观？](https://www.gcores.com/videos/182939)|
+|2024-06-05 06:51:40|[机核](https://www.gcores.com/rss)|[Netflix版《狂赌之渊》真人剧集《BET》公布演员阵容](https://www.gcores.com/articles/182937)|
+|2024-06-05 05:37:09|[机核](https://www.gcores.com/rss)|[《冥舞之约》试玩Demo现已上线Steam](https://www.gcores.com/articles/182934)|
+|2024-06-05 05:00:00|[机核](https://www.gcores.com/rss)|[ROBOT魂Ver.A.N.I.M.E.版高达MKII体验](https://www.gcores.com/videos/182557)|
+|2024-06-05 04:10:00|[机核](https://www.gcores.com/rss)|[《CATO 黄油猫》预计今年秋季正式发售，将参加 Steam 6月新品节](https://www.gcores.com/articles/182907)|
+|2024-06-05 04:00:00|[机核](https://www.gcores.com/rss)|[锁定直播间！机核和你一起看发布会](https://www.gcores.com/articles/182874)|
+|2024-06-05 03:58:16|[机核](https://www.gcores.com/rss)|[万代推出“BANDAI”亚克力logo立牌，8月发售](https://www.gcores.com/articles/182929)|
+|2024-06-05 03:00:00|[机核](https://www.gcores.com/rss)|[解谜需要折纸拼图还要做条形码？一起逃离《动物井》！](https://www.gcores.com/videos/182914)|
+|2024-06-05 02:57:57|[机核](https://www.gcores.com/rss)|[Key社开设25周年纪念网站，新作《anemoi》情报近日公布](https://www.gcores.com/articles/182927)|
+|2024-06-05 02:34:13|[机核](https://www.gcores.com/rss)|[《异形：夺命舰》（罗慕路斯）发布正式预告](https://www.gcores.com/articles/182925)|
+|2024-06-05 02:16:58|[机核](https://www.gcores.com/rss)|[埃及游记（终）](https://www.gcores.com/articles/182923)|
+|2024-06-05 01:48:08|[机核](https://www.gcores.com/rss)|[大阪世博会吉祥物“脉脉”扭蛋公布，10月发售](https://www.gcores.com/articles/182924)|
