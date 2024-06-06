@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-06 12:25:53|[沉舟侧畔 Blog](https://springwood.me/feed/)|[1 岁小棉袄生病的日记](https://springwood.me/1y-baby-illness/)|
+|2024-06-06 06:16:35|[碗丸食事](https://feedpress.me/wx-foodfile-111010)|[使用国产海鲜的寿司店，还能玩什么有趣理念呢？](http://mp.weixin.qq.com/s?__biz=MzU3MjcxOTk5NQ%3D%3D&mid=2247489345&idx=1&sn=785f2f14de631dd5c94928dc05da2d21)|
+|2024-06-06 01:26:42|[鸟窝](https://colobu.com/atom.xml)|[Rust tips #1 ~ #20](https://colobu.com/2024/06/06/rust-tips-1-20/)|
+|2024-06-06 09:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[為何 Apple Watch 和 AirPods 出貨量下降，但仍統治市場](https://www.iphonetaiwan.org/2024/06/apple-watch-airpods-market-dominance.html)|
+|2024-06-06 08:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[App Store 創下四年最佳業績，消費額遠超 Google Play](https://www.iphonetaiwan.org/2024/06/app-store-vs-google-play-revenue.html)|
+|2024-06-06 08:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[內幕揭露：Apple Vision Pro 將於 7 月在多國同步上市](https://www.iphonetaiwan.org/2024/06/apple-vision-pro-global-launch.html)|
+|2024-06-06 07:19:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 安全更新 5 年承諾，實際更長：保護您的數據](https://www.iphonetaiwan.org/2024/06/iphone-security-updates-5-years-promise.html)|
+|2024-06-06 06:35:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 iOS 18 AI 功能：用戶自選開啟，保護隱私新標準](https://www.iphonetaiwan.org/2024/06/ios18-ai-features.html)|
 |2024-06-06 03:14:15|[KAIX.IN](https://kaix.in/feed/)|[四十一](https://kaix.in/2024/0606-41/)|
 |2024-06-06 07:37:57|[机核](https://www.gcores.com/rss)|[斩破弹幕的长空利剑 99%好评《恶魔之刃》首发特惠倒计时](https://www.gcores.com/articles/183005)|
 |2024-06-06 07:13:18|[机核](https://www.gcores.com/rss)|[《赤痕：夜之仪式》全新DLC“经典模式2：多米尼克的诅咒”将于6月11日全平台发售！](https://www.gcores.com/articles/183001)|
