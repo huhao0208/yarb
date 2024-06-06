@@ -2,23 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-06 03:14:15|[KAIX.IN](https://kaix.in/feed/)|[四十一](https://kaix.in/2024/0606-41/)|
+|2024-06-06 07:37:57|[机核](https://www.gcores.com/rss)|[斩破弹幕的长空利剑 99%好评《恶魔之刃》首发特惠倒计时](https://www.gcores.com/articles/183005)|
+|2024-06-06 07:13:18|[机核](https://www.gcores.com/rss)|[《赤痕：夜之仪式》全新DLC“经典模式2：多米尼克的诅咒”将于6月11日全平台发售！](https://www.gcores.com/articles/183001)|
+|2024-06-06 07:04:51|[机核](https://www.gcores.com/rss)|[《寂静之地：入侵日》定档6月28日，怪物入侵地球开启末日极限逃杀](https://www.gcores.com/articles/183000)|
+|2024-06-06 06:54:34|[机核](https://www.gcores.com/rss)|[《哲学梗模拟器》已开放Steam页面，7月24日发售](https://www.gcores.com/articles/182999)|
+|2024-06-06 06:41:06|[机核](https://www.gcores.com/rss)|[同人游戏《血源卡丁车》现已免费上架Steam](https://www.gcores.com/articles/182998)|
+|2024-06-06 06:36:31|[机核](https://www.gcores.com/rss)|[《刺客信条 幻景》现已登录苹果App Store](https://www.gcores.com/articles/182997)|
+|2024-06-06 06:25:41|[机核](https://www.gcores.com/rss)|[《法外枭雄：滚石城》Steam定价76元 限时免费试玩开启](https://www.gcores.com/articles/182995)|
+|2024-06-06 05:29:15|[机核](https://www.gcores.com/rss)|[手绘风独立游戏《变色龙童绘历险》现已上架机核商店](https://www.gcores.com/articles/182989)|
+|2024-06-06 05:16:15|[机核](https://www.gcores.com/rss)|[【传闻】《最后生还者2》的PC版开发工作正在顺利进行](https://www.gcores.com/articles/182984)|
+|2024-06-06 05:04:04|[机核](https://www.gcores.com/rss)|[译介丨你看过雷德利·斯科特导演的《拿破仑》吗?](https://www.gcores.com/articles/182986)|
+|2024-06-06 04:27:57|[机核](https://www.gcores.com/rss)|[我怎样设计桌游①从机制出发的设计方法](https://www.gcores.com/videos/182979)|
+|2024-06-06 03:38:37|[机核](https://www.gcores.com/rss)|[《歧路旅人2》加入 XGP并更新挑战模式，《歧路旅人》登陆PS5/4](https://www.gcores.com/articles/182982)|
+|2024-06-06 03:00:00|[机核](https://www.gcores.com/rss)|[游戏摄影丨青衫落拓剑锋寒·《对马岛之魂》小记](https://www.gcores.com/articles/182946)|
+|2024-06-06 02:09:21|[机核](https://www.gcores.com/rss)|[炸机勇士来了！《魔兽世界》国服将于6月11日开启删档技术测试](https://www.gcores.com/articles/182975)|
+|2024-06-06 03:26:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果裝置的使用者，聽音樂喜歡 Apple Music？還是 Spotify 呢？](https://applefans.today/2024-06-apple-user-like-apple-music-or-spotify/)|
+|2024-06-06 04:29:49|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[Fedora下浏览器播放视频卡住没有声音](http://www.seis-jun.xyz/no-audio-in-playing-browser-video)|
 |2024-06-06 02:26:10|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[运行LaTeX 遇到 ! LaTeX Error: File `xxx` not found.](http://www.seis-jun.xyz/no-file-found-in-LaTeX)|
 |2024-06-06 01:00:12|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[Fedora下没有音量控制了](http://www.seis-jun.xyz/no-audio-control)|
 |2024-06-06 00:48:22|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[职业病诊断的“迷宫”｜工劳小报 #43](https://feed.laborinfocn6.com/issue43/)|
-|2024-06-05 12:42:53|[Mosu](https://www.mosuzi.com/atom.xml)|[记一次动态注册路由导致的路由跳转阻塞问题](https://mosuzi.com/docs/tech/vue-router-add-route-blocks-next/)|
-|2024-06-05 13:39:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Sony 2024 BRAVIA 全新系列登台 在家享受劇院級魔法](https://applefans.today/2024-06-sony-2024-bravia-press-release/)|
-|2024-06-05 10:09:51|[余晟以为](https://feedpress.me/wx-yurii-says)|[为什么说“不值得浪费时间登月真假”](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009950&idx=1&sn=3247575eea2ccf89fd96a2d955ab2188)|
-|2024-06-05 02:54:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 May.26 - Jun.1](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240601/)|
-|2024-06-05 08:09:36|[机核](https://www.gcores.com/rss)|[2024年6月进口网络游戏审批信息公布](https://www.gcores.com/articles/182944)|
-|2024-06-05 07:11:58|[机核](https://www.gcores.com/rss)|[游戏设计中，如何设计和分析世界观？](https://www.gcores.com/videos/182939)|
-|2024-06-05 06:51:40|[机核](https://www.gcores.com/rss)|[Netflix版《狂赌之渊》真人剧集《BET》公布演员阵容](https://www.gcores.com/articles/182937)|
-|2024-06-05 05:37:09|[机核](https://www.gcores.com/rss)|[《冥舞之约》试玩Demo现已上线Steam](https://www.gcores.com/articles/182934)|
-|2024-06-05 05:00:00|[机核](https://www.gcores.com/rss)|[ROBOT魂Ver.A.N.I.M.E.版高达MKII体验](https://www.gcores.com/videos/182557)|
-|2024-06-05 04:10:00|[机核](https://www.gcores.com/rss)|[《CATO 黄油猫》预计今年秋季正式发售，将参加 Steam 6月新品节](https://www.gcores.com/articles/182907)|
-|2024-06-05 04:00:00|[机核](https://www.gcores.com/rss)|[锁定直播间！机核和你一起看发布会](https://www.gcores.com/articles/182874)|
-|2024-06-05 03:58:16|[机核](https://www.gcores.com/rss)|[万代推出“BANDAI”亚克力logo立牌，8月发售](https://www.gcores.com/articles/182929)|
-|2024-06-05 03:00:00|[机核](https://www.gcores.com/rss)|[解谜需要折纸拼图还要做条形码？一起逃离《动物井》！](https://www.gcores.com/videos/182914)|
-|2024-06-05 02:57:57|[机核](https://www.gcores.com/rss)|[Key社开设25周年纪念网站，新作《anemoi》情报近日公布](https://www.gcores.com/articles/182927)|
-|2024-06-05 02:34:13|[机核](https://www.gcores.com/rss)|[《异形：夺命舰》（罗慕路斯）发布正式预告](https://www.gcores.com/articles/182925)|
-|2024-06-05 02:16:58|[机核](https://www.gcores.com/rss)|[埃及游记（终）](https://www.gcores.com/articles/182923)|
-|2024-06-05 01:48:08|[机核](https://www.gcores.com/rss)|[大阪世博会吉祥物“脉脉”扭蛋公布，10月发售](https://www.gcores.com/articles/182924)|
