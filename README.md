@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-06-05）
+﻿# 每日资讯（2024-06-06）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-06 00:48:22|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[职业病诊断的“迷宫”｜工劳小报 #43](https://feed.laborinfocn6.com/issue43/)|
 |2024-06-05 12:42:53|[Mosu](https://www.mosuzi.com/atom.xml)|[记一次动态注册路由导致的路由跳转阻塞问题](https://mosuzi.com/docs/tech/vue-router-add-route-blocks-next/)|
 |2024-06-05 13:39:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Sony 2024 BRAVIA 全新系列登台 在家享受劇院級魔法](https://applefans.today/2024-06-sony-2024-bravia-press-release/)|
 |2024-06-05 10:09:51|[余晟以为](https://feedpress.me/wx-yurii-says)|[为什么说“不值得浪费时间登月真假”](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009950&idx=1&sn=3247575eea2ccf89fd96a2d955ab2188)|
