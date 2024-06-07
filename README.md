@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-06-06）
+﻿# 每日资讯（2024-06-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-07 00:46:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 136 期）：一个每年赚 10 万美元的网站拦截器](https://w2solo.com/topics/4678)|
 |2024-06-06 06:35:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[挑简历看麻了，就业市场太卷了](https://blog.est.im/2024/stderr-10)|
 |2024-06-06 15:19:17|[鸟窝](https://colobu.com/atom.xml)|[如何将图片编码成base64?](https://colobu.com/2024/06/06/image-to-base64/)|
 |2024-06-06 15:37:11|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[曝光这家无良公司！制作假冒 App 还上架到了应用商店](https://w2solo.com/topics/4677)|
