@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PyTorch Automatic Mixed Precision Training](https://leimao.github.io/blog/PyTorch-Automatic-Mixed-Precision-Training/)|
+|2024-06-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[日本酱油 VS 中国酱油](https://leimao.github.io/essay/%E6%97%A5%E6%9C%AC%E9%85%B1%E6%B2%B9-VS-%E4%B8%AD%E5%9B%BD%E9%85%B1%E6%B2%B9/)|
+|2024-06-08 08:38:13|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《墓地邂逅》：探灵节目组，夜探废弃精神病院，这回算是捅了恶鬼窝了！](https://www.ximalaya.com/sound/733699245)|
+|2024-06-08 15:00:00|[机核](https://www.gcores.com/rss)|[重装结队，再战发布会 核周报06.08](https://www.gcores.com/radios/182813)|
+|2024-06-08 10:51:42|[鸟窝](https://colobu.com/atom.xml)|[Rust tips #21 ~ #40](https://colobu.com/2024/06/08/rust-tips-21-40/)|
 |2024-06-08 12:30:00|[机核](https://www.gcores.com/rss)|[怎样把生物变成机械【仿生学在设计中的应用】](https://www.gcores.com/videos/183096)|
 |2024-06-08 10:30:00|[机核](https://www.gcores.com/rss)|[V我50 漫画大师给你画漫画](https://www.gcores.com/videos/183092)|
 |2024-06-08 09:11:35|[机核](https://www.gcores.com/rss)|[《疯狂的麦克斯：狂暴女神》，冲就对了](https://www.gcores.com/videos/183115)|
