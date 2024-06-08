@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-08 17:23:23|[机核](https://www.gcores.com/rss)|[GTA6预告车辆解析（下）](https://www.gcores.com/videos/183127)|
+|2024-06-08 16:00:00|[机核](https://www.gcores.com/rss)|[【更新机核直播录像】《乐高地平线大冒险》官宣、《心灵杀手2》 “夜春镇” DLC明日发售：2024年夏日游戏节消息汇总](https://www.gcores.com/articles/183101)|
 |2024-06-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PyTorch Automatic Mixed Precision Training](https://leimao.github.io/blog/PyTorch-Automatic-Mixed-Precision-Training/)|
 |2024-06-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[日本酱油 VS 中国酱油](https://leimao.github.io/essay/%E6%97%A5%E6%9C%AC%E9%85%B1%E6%B2%B9-VS-%E4%B8%AD%E5%9B%BD%E9%85%B1%E6%B2%B9/)|
 |2024-06-08 08:38:13|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《墓地邂逅》：探灵节目组，夜探废弃精神病院，这回算是捅了恶鬼窝了！](https://www.ximalaya.com/sound/733699245)|
