@@ -2,26 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-08 04:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[影像当随时代：摄影师李泛与索尼双子星镜头的人文之旅](https://www.photoworld.com.cn/post/177025)|
+|2024-06-08 05:54:37|[KAIX.IN](https://kaix.in/feed/)|[老街](https://kaix.in/2024/0608-street/)|
+|2024-06-08 08:00:00|[机核](https://www.gcores.com/rss)|[党同伐异，无止无休，我们熟悉的二游生态哪去了？](https://www.gcores.com/videos/183089)|
+|2024-06-08 07:51:42|[机核](https://www.gcores.com/rss)|[《光明旅者》续作《光明破坏者》发布全新预告片，将于夏末登陆Steam抢先体验](https://www.gcores.com/articles/183113)|
+|2024-06-08 06:30:00|[机核](https://www.gcores.com/rss)|[漫谈：雨血/影之刃小记](https://www.gcores.com/articles/183104)|
+|2024-06-08 03:25:24|[机核](https://www.gcores.com/rss)|[《绝地潜兵2》为什么突然变得不好玩了？](https://www.gcores.com/articles/183097)|
+|2024-06-08 02:24:52|[机核](https://www.gcores.com/rss)|[【开箱】《质量效应》MAKO灰鲭鲨步战车雕塑+N7哨兵头显+四枚战绩徽章](https://www.gcores.com/videos/183105)|
 |2024-06-08 02:19:50|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》确认首发不登录Xbox：游戏科学公布游戏预购常见问题解答](https://www.gcores.com/articles/183111)|
 |2024-06-08 04:09:09|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #54：ChatTTS 强大的文本生成语音模型](https://w2solo.com/topics/4682)|
 |2024-06-08 03:16:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享一下新做的博客，同时寻求一下友情链接](https://w2solo.com/topics/4681)|
 |2024-06-08 00:37:38|[机核](https://www.gcores.com/rss)|[《死亡细胞》开发者新作公开：Devolver 2024年度发布会消息汇总](https://www.gcores.com/articles/183108)|
 |2024-06-08 00:33:05|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》PC配置公布：GTX 1060 / RX 580 即可开启西行之旅](https://www.gcores.com/articles/183110)|
-|2024-06-07 08:40:26|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[禁忌！东海手钓野生大黄鱼！想摸！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454423&idx=1&sn=9a912d5c42d646b7a10e0288fb9b18a6)|
-|2024-06-07 13:10:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[告别镜像拉取烦恼，多平台容器镜像代理服务](https://w2solo.com/topics/4680)|
-|2024-06-07 10:36:09|[Mosu](https://www.mosuzi.com/atom.xml)|[华胥记谈：农家楼馆杀人事件](https://mosuzi.com/docs/common/dream-murder/)|
-|2024-06-07 06:33:25|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[unity 做 AR 最需要注意的几点](https://w2solo.com/topics/4679)|
-|2024-06-07 12:13:00|[机核](https://www.gcores.com/rss)|[“俄罗斯Meme”的代表人物，远非“抽象”一词能概括](https://www.gcores.com/articles/183080)|
-|2024-06-07 12:00:00|[机核](https://www.gcores.com/rss)|[双头牛为什么叫婆罗门？《辐射》废土生物名字来源大揭秘](https://www.gcores.com/videos/183071)|
-|2024-06-07 10:30:00|[机核](https://www.gcores.com/rss)|[两轮承载灵魂！第六骑：浅谈头盔选用](https://www.gcores.com/videos/182996)|
-|2024-06-07 10:25:13|[机核](https://www.gcores.com/rss)|[狂战士神话背后的真实维京战士](https://www.gcores.com/articles/183084)|
-|2024-06-07 09:32:07|[机核](https://www.gcores.com/rss)|[动画制作公司GAINAX宣布破产，“GAINAX”商标已交由Khara管理](https://www.gcores.com/articles/183072)|
-|2024-06-07 09:15:53|[机核](https://www.gcores.com/rss)|[战棋策略觅绝配，超英小队展神威：超能力向SLG《神奇英侠》体验](https://www.gcores.com/articles/183074)|
-|2024-06-07 09:00:00|[机核](https://www.gcores.com/rss)|[再论熬夜、饮酒与希艺欧的沙发，录音笔 VOL.218](https://www.gcores.com/radios/183073)|
-|2024-06-07 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图236期:喝两口茶，一会就爬](https://www.gcores.com/articles/180447)|
 |2024-06-08 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：支持多种 ISA 扩展的二进制背后的秘密](https://tuna.moe/event/2024/multi-isa-binary/)|
-|2024-06-07 02:42:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[WWDC 2024 值得期待？feat. Western Digital](https://applefans.today/2024-06-wwdc24-sandisk-reviews/)|
-|2024-06-07 02:04:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社：Apple 預計在 iOS 18 推出全新的 Password App](https://applefans.today/2024-06-ios-18-new-passwords-app/)|
-|2024-06-07 04:53:51|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[一个游戏的点子](https://blog.codingnow.com/2024/06/game_idea.html)|
-|2024-06-07 07:50:36|[机核](https://www.gcores.com/rss)|[异世界冒险开启：动画《异世界自杀小队》7月5日播出](https://www.gcores.com/articles/183069)|
-|2024-06-07 00:46:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 136 期）：一个每年赚 10 万美元的网站拦截器](https://w2solo.com/topics/4678)|
