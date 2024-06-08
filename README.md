@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-08 12:30:00|[机核](https://www.gcores.com/rss)|[怎样把生物变成机械【仿生学在设计中的应用】](https://www.gcores.com/videos/183096)|
+|2024-06-08 10:30:00|[机核](https://www.gcores.com/rss)|[V我50 漫画大师给你画漫画](https://www.gcores.com/videos/183092)|
+|2024-06-08 09:11:35|[机核](https://www.gcores.com/rss)|[《疯狂的麦克斯：狂暴女神》，冲就对了](https://www.gcores.com/videos/183115)|
+|2024-06-08 08:51:56|[机核](https://www.gcores.com/rss)|[《女神异闻录３Reload：扩展通行证》“Episode Aegis”将于9月10日发布](https://www.gcores.com/articles/183114)|
 |2024-06-08 04:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[影像当随时代：摄影师李泛与索尼双子星镜头的人文之旅](https://www.photoworld.com.cn/post/177025)|
 |2024-06-08 05:54:37|[KAIX.IN](https://kaix.in/feed/)|[老街](https://kaix.in/2024/0608-street/)|
 |2024-06-08 08:00:00|[机核](https://www.gcores.com/rss)|[党同伐异，无止无休，我们熟悉的二游生态哪去了？](https://www.gcores.com/videos/183089)|
