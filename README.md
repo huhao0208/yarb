@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-06-07）
+﻿# 每日资讯（2024-06-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-08 00:37:38|[机核](https://www.gcores.com/rss)|[《死亡细胞》开发者新作公开：Devolver 2024年度发布会消息汇总](https://www.gcores.com/articles/183108)|
+|2024-06-08 00:33:05|[机核](https://www.gcores.com/rss)|[《黑神话：悟空》PC配置公布：GTX 1060 / RX 580 即可开启西行之旅](https://www.gcores.com/articles/183110)|
 |2024-06-07 08:40:26|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[禁忌！东海手钓野生大黄鱼！想摸！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454423&idx=1&sn=9a912d5c42d646b7a10e0288fb9b18a6)|
 |2024-06-07 13:10:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[告别镜像拉取烦恼，多平台容器镜像代理服务](https://w2solo.com/topics/4680)|
 |2024-06-07 10:36:09|[Mosu](https://www.mosuzi.com/atom.xml)|[华胥记谈：农家楼馆杀人事件](https://mosuzi.com/docs/common/dream-murder/)|
@@ -14,6 +16,7 @@
 |2024-06-07 09:15:53|[机核](https://www.gcores.com/rss)|[战棋策略觅绝配，超英小队展神威：超能力向SLG《神奇英侠》体验](https://www.gcores.com/articles/183074)|
 |2024-06-07 09:00:00|[机核](https://www.gcores.com/rss)|[再论熬夜、饮酒与希艺欧的沙发，录音笔 VOL.218](https://www.gcores.com/radios/183073)|
 |2024-06-07 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图236期:喝两口茶，一会就爬](https://www.gcores.com/articles/180447)|
+|2024-06-08 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：支持多种 ISA 扩展的二进制背后的秘密](https://tuna.moe/event/2024/multi-isa-binary/)|
 |2024-06-07 02:42:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[WWDC 2024 值得期待？feat. Western Digital](https://applefans.today/2024-06-wwdc24-sandisk-reviews/)|
 |2024-06-07 02:04:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社：Apple 預計在 iOS 18 推出全新的 Password App](https://applefans.today/2024-06-ios-18-new-passwords-app/)|
 |2024-06-07 04:53:51|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[一个游戏的点子](https://blog.codingnow.com/2024/06/game_idea.html)|
