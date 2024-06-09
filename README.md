@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-09 03:36:28|[鸟窝](https://colobu.com/atom.xml)|[Rust tips #81 ~ #90](https://colobu.com/2024/06/09/rust-tips-81-90/)|
+|2024-06-09 03:36:19|[鸟窝](https://colobu.com/atom.xml)|[Rust tips #61 ~ #80](https://colobu.com/2024/06/09/rust-tips-61-80/)|
+|2024-06-09 03:36:11|[鸟窝](https://colobu.com/atom.xml)|[Rust tips #41 ~ #60](https://colobu.com/2024/06/09/rust-tips-41-60/)|
+|2024-06-09 04:00:00|[机核](https://www.gcores.com/rss)|[【游戏拉片室】《匹诺曹的谎言》第二期 毫无“爽”感的战斗](https://www.gcores.com/videos/182973)|
 |2024-06-08 17:23:23|[机核](https://www.gcores.com/rss)|[GTA6预告车辆解析（下）](https://www.gcores.com/videos/183127)|
 |2024-06-08 16:00:00|[机核](https://www.gcores.com/rss)|[【更新机核直播录像】《乐高地平线大冒险》官宣、《心灵杀手2》 “夜春镇” DLC明日发售：2024年夏日游戏节消息汇总](https://www.gcores.com/articles/183101)|
 |2024-06-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PyTorch Automatic Mixed Precision Training](https://leimao.github.io/blog/PyTorch-Automatic-Mixed-Precision-Training/)|
