@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-09 15:57:17|[smallyu的博客](https://smallyu.net/atom.xml)|[Ethereum Casper 为什么需要 EIP-7251](https://smallyu.net/2024/06/09/Ethereum-Casper-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-EIP-7251/)|
+|2024-06-09 10:18:09|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2024-06-09 如何通过阿里云 OpenAPI 管理 CDN](https://blog.cmyr.ltd/archives/46e67068.html)|
 |2024-06-09 15:00:00|[机核](https://www.gcores.com/rss)|[你抽的是什么池？松弛聊手游：《鸣潮》，《星穹铁道》，《重返未来 1999》一周年](https://www.gcores.com/radios/183118)|
 |2024-06-09 10:56:22|[机核](https://www.gcores.com/rss)|[《心灵杀手2》照相模式截图01](https://www.gcores.com/articles/183152)|
 |2024-06-09 09:56:23|[机核](https://www.gcores.com/rss)|[【民俗】歌乐天](https://www.gcores.com/articles/183151)|
