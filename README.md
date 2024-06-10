@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-06-09）
+﻿# 每日资讯（2024-06-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-10 00:03:14|[华山感染](https://feedpress.me/wx-hsinfect)|[华山感染拍了拍你：端午安康，事事“粽”意！](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503235&idx=1&sn=4146a174842f9a217e60eb1c864b33dc)|
 |2024-06-09 15:57:17|[smallyu的博客](https://smallyu.net/atom.xml)|[Ethereum Casper 为什么需要 EIP-7251](https://smallyu.net/2024/06/09/Ethereum-Casper-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-EIP-7251/)|
 |2024-06-09 10:18:09|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2024-06-09 如何通过阿里云 OpenAPI 管理 CDN](https://blog.cmyr.ltd/archives/46e67068.html)|
 |2024-06-09 15:00:00|[机核](https://www.gcores.com/rss)|[你抽的是什么池？松弛聊手游：《鸣潮》，《星穹铁道》，《重返未来 1999》一周年](https://www.gcores.com/radios/183118)|
