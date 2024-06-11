@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-06-10）
+﻿# 每日资讯（2024-06-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-11 00:45:19|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【WWDC 2024】全新 macOS Sequoia 正式推出](https://applefans.today/2024-06-wwdc24-macos-sequoia/)|
 |2024-06-10 04:39:59|[鸟窝](https://colobu.com/atom.xml)|[Rob Pike 语录](https://colobu.com/2024/06/10/The-Analects-of-Rob-Pike/)|
 |2024-06-10 13:17:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 69：日下载量从 8000 暴跌到 800](https://w2solo.com/topics/4684)|
 |2024-06-10 03:38:27|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[流沙海外职位搜索引擎](https://w2solo.com/topics/4683)|
