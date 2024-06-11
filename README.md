@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-11 15:00:00|[机核](https://www.gcores.com/rss)|[《西游记》里的“神仙妖怪”们到底是怎么来的？](https://www.gcores.com/radios/183119)|
+|2024-06-11 11:00:00|[机核](https://www.gcores.com/rss)|[小丑牌Balatro无法战胜的分数机制](https://www.gcores.com/articles/183197)|
+|2024-06-11 10:54:06|[机核](https://www.gcores.com/rss)|[《影之刃零》夏日游戏节展后问答](https://www.gcores.com/articles/183259)|
+|2024-06-11 10:00:00|[机核](https://www.gcores.com/rss)|[J3工作室火热招聘中，一起去做更好的枪战游戏吧！](https://www.gcores.com/articles/183086)|
+|2024-06-11 09:20:42|[机核](https://www.gcores.com/rss)|[科幻叙事游戏《沉没意志》参加Steam六月新品节，全新Demo首次公开](https://www.gcores.com/articles/183256)|
+|2024-06-11 09:00:45|[机核](https://www.gcores.com/rss)|[心理恐怖游戏《黑暗世界：因与果》公开两支全新预告片](https://www.gcores.com/articles/183255)|
+|2024-06-11 09:00:00|[机核](https://www.gcores.com/rss)|[你最喜欢的游戏发布会是哪年哪场？录音笔 VOL.219](https://www.gcores.com/radios/183244)|
+|2024-06-11 08:56:57|[机核](https://www.gcores.com/rss)|[经营建造游戏《奇想乐园》试玩版现已上架Steam](https://www.gcores.com/articles/183254)|
+|2024-06-11 08:49:42|[机核](https://www.gcores.com/rss)|[点点失物不迷路，可爱寻物冒险游戏《失物招领有限公司》中文试玩版现已上线](https://www.gcores.com/articles/183251)|
+|2024-06-11 08:49:20|[机核](https://www.gcores.com/rss)|[《合金弹头：战略版》试玩版现已限时上架Steam平台](https://www.gcores.com/articles/183250)|
+|2024-06-11 08:24:23|[机核](https://www.gcores.com/rss)|[《生化危机 村庄》全球累计销量突破1000万份](https://www.gcores.com/articles/183247)|
+|2024-06-11 13:38:55|[Mr. PM 下午先生](http://feeds.feedburner.com/pmmustknow)|[把 Persona 區分存量和增量，來創造產品的增長](https://mrpm.cc/?p=1666)|
+|2024-06-11 14:02:06|[鸟窝](https://colobu.com/atom.xml)|[朝着错误的方向发展](https://colobu.com/2024/06/11/go-evolves-in-the-wrong-direction/)|
 |2024-06-11 03:45:52|[晚点LatePost](https://feedpress.me/wx-postlate)|[苹果的大模型冲刺：没有 AI 新产品，只有新功能](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517023&idx=1&sn=a5093790253e23c273cd1b1a8d0e6648)|
 |2024-06-11 07:40:10|[机核](https://www.gcores.com/rss)|[开放世界RPG《烽火与炊烟》官方入驻机组社区](https://www.gcores.com/articles/183243)|
 |2024-06-11 07:30:00|[机核](https://www.gcores.com/rss)|[永野芽郁&佐藤健主演，《工作细胞》真人电影公布特报](https://www.gcores.com/articles/183240)|
