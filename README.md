@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-06-11）
+﻿# 每日资讯（2024-06-12）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-12 01:14:43|[机核](https://www.gcores.com/rss)|[会员来了：《彩虹六号：围攻》第九年度第二赛季现已推出](https://www.gcores.com/articles/183273)|
 |2024-06-11 15:00:00|[机核](https://www.gcores.com/rss)|[《西游记》里的“神仙妖怪”们到底是怎么来的？](https://www.gcores.com/radios/183119)|
 |2024-06-11 11:00:00|[机核](https://www.gcores.com/rss)|[小丑牌Balatro无法战胜的分数机制](https://www.gcores.com/articles/183197)|
 |2024-06-11 10:54:06|[机核](https://www.gcores.com/rss)|[《影之刃零》夏日游戏节展后问答](https://www.gcores.com/articles/183259)|
