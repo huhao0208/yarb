@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-12 10:08:13|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[信创银河麒麟高级服务器操作系统 V10 安装无头浏览器 Chromium](https://www.imaegoo.com/2024/kylin-chromium/)|
+|2024-06-12 08:04:12|[华山感染](https://feedpress.me/wx-hsinfect)|[日本报告的链球菌中毒性休克综合征创新高！你需要知道的都在这里了→](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503249&idx=1&sn=b13795823910835f294af1f3a991ed8c)|
+|2024-06-12 10:38:15|[迷途小书童的Note](https://xugaoxiang.com/feed)|[快手可灵文生视频大模型](https://xugaoxiang.com/2024/06/12/klingai/)|
+|2024-06-12 08:26:36|[迷途小书童的Note](https://xugaoxiang.com/feed)|[敢叫印钞机加速器的AI，你确定不来试试？](https://xugaoxiang.com/2024/06/12/moneyprinterturbo/)|
+|2024-06-12 12:20:55|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[我在新疆很想你](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454617&idx=1&sn=68d872422d95918d207ae528d398d05d)|
+|2024-06-12 12:38:00|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[核心竞争力](https://scottyeung.top/2024/core-competitiveness/)|
 |2024-06-12 11:40:00|[机核](https://www.gcores.com/rss)|[【独家揭幕】夏日游戏节试玩日都有什么？逛丢一只鞋 SGF 2024 VOL.2](https://www.gcores.com/videos/183295)|
 |2024-06-12 10:35:03|[机核](https://www.gcores.com/rss)|[TORCH TORCH与《艾尔登法环》联名首弹商品“黄金树的恩惠”吊坠，现已开始接受订购](https://www.gcores.com/articles/183318)|
 |2024-06-12 10:28:55|[机核](https://www.gcores.com/rss)|[《喋血街头1》，一部被忽略的纯粹黑暗作品](https://www.gcores.com/articles/183112)|
