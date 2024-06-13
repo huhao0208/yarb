@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-13 11:38:45|[Conge](https://conge.github.io/feed.xml)|[折返点 2423 - 2024 隧道马训练第 18 周 比赛周](https://conge.livingwithfcs.org/2024/06/13/ReturnPoint-am55-week18/)|
 |2024-06-13 12:04:23|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[全新疆最难吃的地方，但是热辣滚烫！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454664&idx=1&sn=4b21c4e3e53d013a5768fe9e3dc1218d)|
 |2024-06-13 14:58:40|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[图像识别深度学习资料](http://www.seis-jun.xyz/object-detection)|
 |2024-06-13 13:15:00|[est の 输入输出](https://blog.est.im/rss)|[chromium/libcef.dll真是毒瘤](https://blog.est.im/2024/stderr-12)|
