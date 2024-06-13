@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-13 07:43:19|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手教你打造一个AI智能体](https://xugaoxiang.com/2024/06/13/ai-agent-builder/)|
+|2024-06-13 04:39:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[人生乐器，只需要 a～出来，就可以获得独一无二的乐器](https://w2solo.com/topics/4689)|
+|2024-06-13 10:22:48|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[从 Prometheus 到 OpenTelemetry：指标监控的演进与实践](http://crossoverjie.top/2024/06/13/ob/OpenTelemetry-metrics-concept/)|
 |2024-06-13 05:12:50|[甜欣屋](https://tcxx.info/feed)|[苹果宣布整合ChatGPT！盘点硅谷大厂的AI策略](https://tcxx.info/diary/1060.html)|
 |2024-06-13 06:00:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Music 音樂下載並轉檔成 MP3 借助 UkeySoft Apple Music 轉檔器一鍵完成！](https://applefans.today/2024-06-ukeysoft-apple-music-converter/)|
 |2024-06-13 02:18:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[台灣開賣 M2 iPad Air ！最快可在 6 月 20 日送達](https://applefans.today/2024-06-tw-launch-m2-ipad-air/)|
