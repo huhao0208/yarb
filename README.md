@@ -1,7 +1,11 @@
-﻿# 每日资讯（2024-06-13）
+﻿# 每日资讯（2024-06-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-14 01:17:57|[机核](https://www.gcores.com/rss)|[联名出征沙特世界杯：OnceAgain与LGD就《守望先锋》项目达成合作](https://www.gcores.com/articles/183453)|
+|2024-06-14 01:08:23|[机核](https://www.gcores.com/rss)|[粉红天使返场：《守望先锋》“归来”国际服再度开启公益活动](https://www.gcores.com/articles/183452)|
+|2024-06-14 01:10:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #36：Gap Year](https://w2solo.com/topics/4691)|
+|2024-06-14 01:04:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 137 期）：在线写作课程年收入 30 万美元](https://w2solo.com/topics/4690)|
 |2024-06-13 11:38:45|[Conge](https://conge.github.io/feed.xml)|[折返点 2423 - 2024 隧道马训练第 18 周 比赛周](https://conge.livingwithfcs.org/2024/06/13/ReturnPoint-am55-week18/)|
 |2024-06-13 12:04:23|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[全新疆最难吃的地方，但是热辣滚烫！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454664&idx=1&sn=4b21c4e3e53d013a5768fe9e3dc1218d)|
 |2024-06-13 14:58:40|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[图像识别深度学习资料](http://www.seis-jun.xyz/object-detection)|
@@ -33,6 +37,7 @@
 |2024-06-13 07:43:19|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手教你打造一个AI智能体](https://xugaoxiang.com/2024/06/13/ai-agent-builder/)|
 |2024-06-13 04:39:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[人生乐器，只需要 a～出来，就可以获得独一无二的乐器](https://w2solo.com/topics/4689)|
 |2024-06-13 10:22:48|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[从 Prometheus 到 OpenTelemetry：指标监控的演进与实践](http://crossoverjie.top/2024/06/13/ob/OpenTelemetry-metrics-concept/)|
+|2024-06-14 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PyTorch Variational Autoencoder](https://leimao.github.io/blog/PyTorch-Variational-Autoencoder/)|
 |2024-06-13 05:12:50|[甜欣屋](https://tcxx.info/feed)|[苹果宣布整合ChatGPT！盘点硅谷大厂的AI策略](https://tcxx.info/diary/1060.html)|
 |2024-06-13 06:00:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Music 音樂下載並轉檔成 MP3 借助 UkeySoft Apple Music 轉檔器一鍵完成！](https://applefans.today/2024-06-ukeysoft-apple-music-converter/)|
 |2024-06-13 02:18:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[台灣開賣 M2 iPad Air ！最快可在 6 月 20 日送達](https://applefans.today/2024-06-tw-launch-m2-ipad-air/)|
