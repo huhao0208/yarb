@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-14 03:26:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 新功能：幫 App 上鎖，終於！](https://applefans.today/ios-18-locked-apps/)|
+|2024-06-14 03:16:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 使用 ChatGPT 有付錢給 OpenAI 嗎？](https://applefans.today/2024-06-apple-pay-openai-to-use-chatgpt-in-ios-18/)|
 |2024-06-14 01:17:57|[机核](https://www.gcores.com/rss)|[联名出征沙特世界杯：OnceAgain与LGD就《守望先锋》项目达成合作](https://www.gcores.com/articles/183453)|
 |2024-06-14 01:08:23|[机核](https://www.gcores.com/rss)|[粉红天使返场：《守望先锋》“归来”国际服再度开启公益活动](https://www.gcores.com/articles/183452)|
 |2024-06-14 01:10:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #36：Gap Year](https://w2solo.com/topics/4691)|
