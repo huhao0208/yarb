@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-14 09:51:21|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18「計算機」App 大幅升級：新功能詳解](https://applefans.today/2024-06-ios-18-calculator-features/)|
+|2024-06-14 09:13:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 新功能：一鍵完美隱藏 App 不露餡！](https://applefans.today/ios-18-hidden-apps/)|
+|2024-06-14 10:38:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[小红书去水印图片视频下载](https://w2solo.com/topics/4692)|
+|2024-06-14 14:55:04|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（一）](http://www.seis-jun.xyz/paper-reading-1)|
+|2024-06-14 11:55:58|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何让大脑保持敏锐？](http://www.seis-jun.xyz/how-to-make-the-brain-sharp)|
 |2024-06-14 12:01:31|[机核](https://www.gcores.com/rss)|[2023年度日本音乐推荐part1【四百四.Hz vol.11】](https://www.gcores.com/videos/183493)|
 |2024-06-14 11:00:00|[机核](https://www.gcores.com/rss)|[GT赛车史记04：最好的GT游戏《GT赛车4》](https://www.gcores.com/videos/183484)|
 |2024-06-14 10:30:00|[机核](https://www.gcores.com/rss)|[何谓经典？美系厂牌Toybiz聊聊看](https://www.gcores.com/videos/182950)|
