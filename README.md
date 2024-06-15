@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-15 00:59:11|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读](http://www.seis-jun.xyz/paper-reading)|
+|2024-06-15 00:51:55|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（二）](http://www.seis-jun.xyz/paper-reading-2)|
 |2024-06-14 14:50:00|[est の 输入输出](https://blog.est.im/rss)|[如何删除 C:\Windows\WinSxS 文件](https://blog.est.im/2024/stdout-08)|
 |2024-06-14 15:13:06|[机核](https://www.gcores.com/rss)|[《艾尔登法环》“黄金树幽影”公布全球解锁时间](https://www.gcores.com/articles/183506)|
 |2024-06-14 15:00:00|[机核](https://www.gcores.com/rss)|[再现经典原作魅力！《七龙珠 电光炸裂！ZERO》采访内容摘要](https://www.gcores.com/articles/183474)|
