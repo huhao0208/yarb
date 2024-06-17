@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-17 08:34:24|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[アニメ「風が強く吹いている」名言のまとめ](https://jasonkayzk.github.io/2024/06/17/%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E9%A2%A8%E3%81%8C%E5%BC%B7%E3%81%8F%E5%90%B9%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8D%E5%90%8D%E8%A8%80%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/)|
+|2024-06-17 10:55:35|[机核](https://www.gcores.com/rss)|[你这个人，还真是满脑子想着黑神话呢！丨怎么攒电脑](https://www.gcores.com/videos/183626)|
+|2024-06-17 10:20:22|[机核](https://www.gcores.com/rss)|[《崩坏：星穹铁道》2.3版本将于6月19日更新，机甲少女流萤限时上线](https://www.gcores.com/articles/183625)|
+|2024-06-17 09:48:29|[机核](https://www.gcores.com/rss)|[手游《魔法少女小圆 Magia Exedra》发布先导PV](https://www.gcores.com/articles/183624)|
+|2024-06-17 09:00:00|[机核](https://www.gcores.com/rss)|[倒时差与昏睡，录音笔 VOL.223](https://www.gcores.com/radios/183613)|
+|2024-06-17 09:00:00|[机核](https://www.gcores.com/rss)|[买3A游戏即送GPASS体验卡，机核商店新合作来咯！](https://www.gcores.com/articles/183489)|
+|2024-06-17 08:24:45|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（七）](http://www.seis-jun.xyz/paper-reading-7)|
+|2024-06-17 06:37:51|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何审稿](http://www.seis-jun.xyz/how-to-review)|
+|2024-06-17 02:46:13|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（六）](http://www.seis-jun.xyz/paper-reading-6)|
+|2024-06-17 03:50:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[商業化的需求](http://mercurychong.blogspot.com/2024/06/blog-post_16.html)|
+|2024-06-17 09:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[放下計算機！iOS 18 讓你在任何文字方塊中瞬間計算數學](https://www.iphonetaiwan.org/2024/06/ios-18-hidden-features-math-calculations.html)|
+|2024-06-17 08:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Intelligence 智慧功能逐步上線，完整體驗要等明年](https://www.iphonetaiwan.org/2024/06/apple-intelligence-features-release.html)|
+|2024-06-17 07:58:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 終於支援 RCS：能否改變蘋果與安卓用戶的通訊方式](https://www.iphonetaiwan.org/2024/06/ios18-rcs-support.html)|
+|2024-06-17 06:47:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果設計趨勢！未來iPhone和MacBook將比iPad Pro更纖薄](https://www.iphonetaiwan.org/2024/06/apple-new-thin-design-iphone-macbook.html)|
+|2024-06-17 05:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果發布 Xcode 16 和 Swift Assist，大幅提升開發者效率](https://www.iphonetaiwan.org/2024/06/apple-new-tools-for-developers.html)|
 |2024-06-17 06:59:44|[机核](https://www.gcores.com/rss)|[《艾尔登法环 黄金树幽影》疑似出现泄露视频 官方提醒玩家注意防范](https://www.gcores.com/articles/183611)|
 |2024-06-17 06:23:17|[机核](https://www.gcores.com/rss)|[桐生一马迎56岁生日，官方发布纪念短片祝贺](https://www.gcores.com/articles/183605)|
 |2024-06-17 04:08:43|[机核](https://www.gcores.com/rss)|[《影之诗：Worlds Beyond》宣布延期至2025年春季](https://www.gcores.com/articles/183593)|
