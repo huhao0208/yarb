@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-18 12:03:02|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[天山脚下的绿洲，挂满小糖包](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454899&idx=1&sn=0f626e853e7b55e4456f9102ae0f26cc)|
+|2024-06-18 13:01:13|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《第一滴血5》：邪恶兰博再也压制不住心中恶魔，为了释放杀戮冲动制造养女惨案！](https://www.ximalaya.com/sound/735730795)|
+|2024-06-18 10:18:58|[观人看世界](https://feedpress.me/wx-iwatch1024)|[在这风暴汹涌、正在转向的时代，寻找同路人](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489551&idx=1&sn=4247f1853c26a10855069e13a83c01ca)|
 |2024-06-18 12:28:00|[plus studio](https://studyinglover.com/atom.xml)|[pydantic+openai+json 控制大模型输出的最佳范式](https://studyinglover.com/2024/06/18/pydantic+openai+json:%20%E6%8E%A7%E5%88%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%9A%84%E6%9C%80%E4%BD%B3%E8%8C%83%E5%BC%8F/)|
 |2024-06-18 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[尼康推出全画幅微单数码相机 Z6Ⅲ](https://www.photoworld.com.cn/post/177038)|
 |2024-06-18 10:17:13|[智朋的个人博客](https://coffeelize.top/atom.xml)|[残余应力](https://coffeelize.top/posts/24061818.html)|
