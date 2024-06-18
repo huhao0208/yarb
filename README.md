@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-18 12:28:00|[plus studio](https://studyinglover.com/atom.xml)|[pydantic+openai+json 控制大模型输出的最佳范式](https://studyinglover.com/2024/06/18/pydantic+openai+json:%20%E6%8E%A7%E5%88%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%9A%84%E6%9C%80%E4%BD%B3%E8%8C%83%E5%BC%8F/)|
+|2024-06-18 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[尼康推出全画幅微单数码相机 Z6Ⅲ](https://www.photoworld.com.cn/post/177038)|
+|2024-06-18 10:17:13|[智朋的个人博客](https://coffeelize.top/atom.xml)|[残余应力](https://coffeelize.top/posts/24061818.html)|
+|2024-06-18 00:08:50|[余晟以为](https://feedpress.me/wx-yurii-says)|[“历史照进现实”，这似乎不太现实](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009963&idx=1&sn=20d216778548b5812c254f791b902a2f)|
+|2024-06-18 10:31:43|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240618](https://xugaoxiang.com/2024/06/18/ai-daily-20240618/)|
 |2024-06-18 07:27:45|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 新功能：iMessage 的「點按回應」不再侷限只能用預設值](https://applefans.today/2024-06-ios18-imessage-tapback-features/)|
 |2024-06-18 05:22:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 的 iMessage App 可以「預約時間」傳送訊息](https://applefans.today/2024-06-ios-18-imessage-send-later/)|
 |2024-06-18 02:28:28|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 在 iMessage 加入哪些「文字特效」呢？](https://applefans.today/2024-06-ios18-imessage-allnew-ways-to-play-with-text/)|
