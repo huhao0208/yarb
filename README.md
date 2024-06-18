@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-18 03:18:16|[机核](https://www.gcores.com/rss)|[手游《食物语》正式停止在中国大陆地区的运营](https://www.gcores.com/articles/183656)|
+|2024-06-18 02:16:00|[机核](https://www.gcores.com/rss)|[「机核 × 渴创V1 Max」联名键盘「魔群信标」现已正式发售](https://www.gcores.com/articles/183619)|
+|2024-06-18 01:51:31|[机核](https://www.gcores.com/rss)|[《战斗妖精雪风》画集·设定资料集9月1日发售](https://www.gcores.com/articles/183654)|
+|2024-06-18 01:46:45|[机核](https://www.gcores.com/rss)|[《拔天海拓史Ⅰ＆Ⅱ HD Remaster》现已登陆 Steam](https://www.gcores.com/articles/183653)|
+|2024-06-18 01:37:24|[机核](https://www.gcores.com/rss)|[《守望先锋》“归来”第11赛季将于21日推出，官方发文介绍详情](https://www.gcores.com/articles/183651)|
+|2024-06-18 01:28:13|[机核](https://www.gcores.com/rss)|[《鬼屋魔影》重制版开发商Pieces Interactive即将解散](https://www.gcores.com/articles/183650)|
+|2024-06-18 01:13:13|[机核](https://www.gcores.com/rss)|[P社宣布取消生活模拟游戏《Life by You》](https://www.gcores.com/articles/183649)|
 |2024-06-17 08:34:24|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[アニメ「風が強く吹いている」名言のまとめ](https://jasonkayzk.github.io/2024/06/17/%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E9%A2%A8%E3%81%8C%E5%BC%B7%E3%81%8F%E5%90%B9%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8D%E5%90%8D%E8%A8%80%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/)|
 |2024-06-17 10:55:35|[机核](https://www.gcores.com/rss)|[你这个人，还真是满脑子想着黑神话呢！丨怎么攒电脑](https://www.gcores.com/videos/183626)|
 |2024-06-17 10:20:22|[机核](https://www.gcores.com/rss)|[《崩坏：星穹铁道》2.3版本将于6月19日更新，机甲少女流萤限时上线](https://www.gcores.com/articles/183625)|
