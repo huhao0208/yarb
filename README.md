@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-18 04:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[50天，瘦了10斤，近期代餐减肥的经验分享](https://lmmsoft.github.io//weight_loss_with_meal_replacements/)|
 |2024-06-18 12:03:02|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[天山脚下的绿洲，挂满小糖包](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454899&idx=1&sn=0f626e853e7b55e4456f9102ae0f26cc)|
 |2024-06-18 13:01:13|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《第一滴血5》：邪恶兰博再也压制不住心中恶魔，为了释放杀戮冲动制造养女惨案！](https://www.ximalaya.com/sound/735730795)|
 |2024-06-18 10:18:58|[观人看世界](https://feedpress.me/wx-iwatch1024)|[在这风暴汹涌、正在转向的时代，寻找同路人](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489551&idx=1&sn=4247f1853c26a10855069e13a83c01ca)|
