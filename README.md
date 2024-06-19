@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-19 14:04:08|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十一）](http://www.seis-jun.xyz/paper-reading-11)|
+|2024-06-19 13:48:38|[机核](https://www.gcores.com/rss)|[【上桌】第1期 双闪打开，车队，出发！](https://www.gcores.com/videos/183823)|
+|2024-06-19 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.46丨出人头地](https://www.gcores.com/radios/183803)|
+|2024-06-19 14:07:42|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 三 让图片中的人物舞动起来](https://xugaoxiang.com/2024/06/19/ai-project-3/)|
+|2024-06-19 13:40:10|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240619](https://xugaoxiang.com/2024/06/19/ai-daily-20240619/)|
 |2024-06-19 03:07:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[最失望的更新？iPadOS 18 beta 功能整理](https://applefans.today/2024-06-ipados-18-beta-features/)|
 |2024-06-19 02:33:15|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果放棄下一代 Vision Pro 2？ 專注開發讓更多人購買的便宜方案？](https://applefans.today/2024-06-apple-vision-cheaper-rumors/)|
 |2024-06-19 11:30:00|[机核](https://www.gcores.com/rss)|[宝墩，三星堆，金沙](https://www.gcores.com/articles/183667)|
