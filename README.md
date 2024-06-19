@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-19 03:07:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[最失望的更新？iPadOS 18 beta 功能整理](https://applefans.today/2024-06-ipados-18-beta-features/)|
+|2024-06-19 02:33:15|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果放棄下一代 Vision Pro 2？ 專注開發讓更多人購買的便宜方案？](https://applefans.today/2024-06-apple-vision-cheaper-rumors/)|
+|2024-06-19 11:30:00|[机核](https://www.gcores.com/rss)|[宝墩，三星堆，金沙](https://www.gcores.com/articles/183667)|
+|2024-06-19 11:20:35|[机核](https://www.gcores.com/rss)|[《边境》即将停服，工作室发文指控发行商](https://www.gcores.com/articles/183817)|
+|2024-06-19 10:30:00|[机核](https://www.gcores.com/rss)|[JRPG《传说系列》正式开坑！](https://www.gcores.com/videos/183564)|
+|2024-06-19 10:15:09|[机核](https://www.gcores.com/rss)|[3DCG动画《甜甜私房猫 吃饱啦暑假》（第三季）公开正式PV](https://www.gcores.com/articles/183811)|
+|2024-06-19 10:07:39|[机核](https://www.gcores.com/rss)|[或许将是ATLUS的集大成之作：《暗喻幻想 ReFantazio》试玩体验](https://www.gcores.com/articles/183733)|
+|2024-06-19 09:11:28|[机核](https://www.gcores.com/rss)|[快去给领导看！《艾尔登法环 黄金树幽影》官方请假条模版来啦](https://www.gcores.com/articles/183807)|
+|2024-06-19 09:00:00|[机核](https://www.gcores.com/rss)|[和领导打《暗黑4》不要这样做...录音笔 VOL.225](https://www.gcores.com/radios/183800)|
+|2024-06-19 08:40:45|[机核](https://www.gcores.com/rss)|[《恐怖惊魂夜×3》登陆多平台，9月19日发售](https://www.gcores.com/articles/183802)|
+|2024-06-19 08:12:56|[机核](https://www.gcores.com/rss)|[《深夏时光！二十世纪的暑假》Steam版公布，6月27日发售](https://www.gcores.com/articles/183783)|
+|2024-06-19 09:42:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[VSLite 原理解析与本地化部署](https://www.imaegoo.com/2024/vslite-offline/)|
+|2024-06-19 08:01:32|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[因为这种小馆子，上海才上海](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454943&idx=1&sn=e490e3d42203e9a3ce4f864407dbc93d)|
+|2024-06-19 02:10:37|[观人看世界](https://feedpress.me/wx-iwatch1024)|[最后再通知一下，加入星球的人，要加一下我微信，我才能拉你入群哈](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489556&idx=1&sn=b9ad19c1245b0fcd916c2e0e9aca0e5f)|
 |2024-06-19 07:57:00|[机核](https://www.gcores.com/rss)|[《变色龙童绘历险》：完全针对“平台显现”设计的横版跳跃游戏](https://www.gcores.com/articles/173803)|
 |2024-06-19 07:42:38|[机核](https://www.gcores.com/rss)|[因作者要玩DLC，漫画《ELDEN RING 黄金树之路》暂时休载](https://www.gcores.com/articles/183781)|
 |2024-06-19 07:30:00|[机核](https://www.gcores.com/rss)|[幕帘幽影下，那“如法炮制”的异同：《黄金树幽影》体验前瞻](https://www.gcores.com/articles/183447)|
