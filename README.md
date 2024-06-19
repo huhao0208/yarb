@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-06-18）
+﻿# 每日资讯（2024-06-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-19 00:39:37|[沉舟侧畔 Blog](https://springwood.me/feed/)|[自己根据扫描 PDF 文件制作 EPUB 电子书](https://springwood.me/making-epub-ebook/)|
+|2024-06-19 01:16:40|[机核](https://www.gcores.com/rss)|[《战锤40K: 爆矢枪》“腐蚀熔炉” DLC现已推出，并为所有玩家提供免费的生存模式](https://www.gcores.com/articles/183736)|
+|2024-06-19 01:09:02|[机核](https://www.gcores.com/rss)|[类银河战士恶魔城游戏《MIO :记忆中的轨道》定于2025年发售](https://www.gcores.com/articles/183735)|
 |2024-06-18 04:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[50天，瘦了10斤，近期代餐减肥的经验分享](https://lmmsoft.github.io//weight_loss_with_meal_replacements/)|
 |2024-06-18 12:03:02|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[天山脚下的绿洲，挂满小糖包](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454899&idx=1&sn=0f626e853e7b55e4456f9102ae0f26cc)|
 |2024-06-18 13:01:13|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《第一滴血5》：邪恶兰博再也压制不住心中恶魔，为了释放杀戮冲动制造养女惨案！](https://www.ximalaya.com/sound/735730795)|
