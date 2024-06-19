@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-19 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/24](https://weekly.pychina.org/pyrecap/pyrw-2424.html)|
+|2024-06-19 04:08:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[系统和流程是我最好的朋友](https://w2solo.com/topics/4702)|
 |2024-06-19 00:39:37|[沉舟侧畔 Blog](https://springwood.me/feed/)|[自己根据扫描 PDF 文件制作 EPUB 电子书](https://springwood.me/making-epub-ebook/)|
 |2024-06-19 01:16:40|[机核](https://www.gcores.com/rss)|[《战锤40K: 爆矢枪》“腐蚀熔炉” DLC现已推出，并为所有玩家提供免费的生存模式](https://www.gcores.com/articles/183736)|
 |2024-06-19 01:09:02|[机核](https://www.gcores.com/rss)|[类银河战士恶魔城游戏《MIO :记忆中的轨道》定于2025年发售](https://www.gcores.com/articles/183735)|
