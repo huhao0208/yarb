@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-20 02:05:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[你的 iPhone 手機，每天必定會使用的功能有哪些？](https://applefans.today/2024-06-iphone-daily-use-features/)|
+|2024-06-20 00:27:40|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[雇人如流水，裁人如切菜｜工劳小报 #44](https://feed.laborinfocn6.com/issue44/)|
 |2024-06-19 14:04:08|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十一）](http://www.seis-jun.xyz/paper-reading-11)|
 |2024-06-19 13:48:38|[机核](https://www.gcores.com/rss)|[【上桌】第1期 双闪打开，车队，出发！](https://www.gcores.com/videos/183823)|
 |2024-06-19 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.46丨出人头地](https://www.gcores.com/radios/183803)|
