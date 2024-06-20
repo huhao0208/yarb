@@ -1,10 +1,12 @@
-﻿# 每日资讯（2024-06-19）
+﻿# 每日资讯（2024-06-20）
 
 |时间|来源|标题|
 |---|---|---|
 |2024-06-19 14:04:08|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十一）](http://www.seis-jun.xyz/paper-reading-11)|
 |2024-06-19 13:48:38|[机核](https://www.gcores.com/rss)|[【上桌】第1期 双闪打开，车队，出发！](https://www.gcores.com/videos/183823)|
 |2024-06-19 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.46丨出人头地](https://www.gcores.com/radios/183803)|
+|2024-06-20 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Parameter Importance Approximation Via Taylor Expansion In Neural Network Pruning](https://leimao.github.io/blog/Parameter-Importance-Approximation-Via-Taylor-Expansion-In-Neural-Network-Pruning/)|
+|2024-06-20 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年 5 月和 6 月该入手的模型手办](https://leimao.github.io/essay/2024%E5%B9%B45%E6%9C%88%E5%92%8C6%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/)|
 |2024-06-19 14:07:42|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 三 让图片中的人物舞动起来](https://xugaoxiang.com/2024/06/19/ai-project-3/)|
 |2024-06-19 13:40:10|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240619](https://xugaoxiang.com/2024/06/19/ai-daily-20240619/)|
 |2024-06-19 03:07:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[最失望的更新？iPadOS 18 beta 功能整理](https://applefans.today/2024-06-ipados-18-beta-features/)|
