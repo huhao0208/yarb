@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-21 05:26:04|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240621](https://xugaoxiang.com/2024/06/21/ai-daily-20240621/)|
+|2024-06-21 04:09:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ tools-web 一个轻量的在线工具箱 - 更新日志 0621](https://w2solo.com/topics/4707)|
+|2024-06-21 09:48:01|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[居家办公初体验第二章](https://www.jackpu.com/ju-jia-ban-gong-chu-ti-yan-di-er-zhang/)|
+|2024-06-21 09:51:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果與 FIFA 國際足總協商破裂？轉播賽事岌岌可危](https://www.iphonetaiwan.org/2024/06/apple-fifa-club-world-cup.html)|
+|2024-06-21 09:39:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果在中國推出 Apple Intelligence 受阻？法規與競爭考驗](https://www.iphonetaiwan.org/2024/06/apple-intelligence-china-market.html)|
+|2024-06-21 09:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[全新 iOS 翻譯 API：解決多語言應用程式開發的終極方案](https://www.iphonetaiwan.org/2024/06/ios-17-4-translation-api-integration.html)|
 |2024-06-21 07:19:25|[机核](https://www.gcores.com/rss)|[超强的克隆人特种兵终于登场：HotToys星球大战帝国突击队人偶](https://www.gcores.com/articles/183914)|
 |2024-06-21 07:00:00|[机核](https://www.gcores.com/rss)|[【王者之战V】规模再度升级！七月盛夏，燃情开战！](https://www.gcores.com/articles/183853)|
 |2024-06-21 06:13:08|[机核](https://www.gcores.com/rss)|[【live2d模型展示】世界隙间的旅行者——伊非莫泽·索理德（Ephemeral · Solitude）](https://www.gcores.com/videos/183894)|
