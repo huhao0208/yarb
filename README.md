@@ -1,9 +1,11 @@
-﻿# 每日资讯（2024-06-20）
+﻿# 每日资讯（2024-06-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-21 01:05:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 138 期）：打造月收入 14 万美金的 SaaS，350 万美金售出](https://w2solo.com/topics/4706)|
 |2024-06-20 03:10:26|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.6.19](https://www.justzht.com/2024-6-19/)|
 |2024-06-20 14:24:26|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[美國 Apple 2024 Back to school 開學季專案正式開跑！](https://applefans.today/2024-06-apple-back-to-school-us-launch/)|
+|2024-06-21 00:00:00|[疯投圈](https://crazy.capital/feed)|[97. 全球化之路：优衣库、萨莉亚、日本动漫](https://crazy.capital/97)|
 |2024-06-20 10:37:42|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[律所优选管理软件排名：Alpha 法律智能操作系统领先行业](https://w2solo.com/topics/4705)|
 |2024-06-20 09:38:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[「值得一读技术博客」坚持分享的第 236 天！我的网站重构并增加了两大内容板块！](https://w2solo.com/topics/4704)|
 |2024-06-20 12:04:26|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[别拦我，我超爱！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653455013&idx=1&sn=728edf84e74aac1b2ea2baee35fc6c8c)|
