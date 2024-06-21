@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-21 02:32:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[馬來西亞第一家 Apple Store 正式開幕](https://applefans.today/2024-06-apple-kuala-lumpur-store/)|
+|2024-06-21 03:40:00|[机核](https://www.gcores.com/rss)|[【Zeltik中字】《塞尔达传说：智慧的再现》首支预告片分析](https://www.gcores.com/videos/183880)|
+|2024-06-21 01:30:00|[est の 输入输出](https://blog.est.im/rss)|[吐槽pynsq，另外给subprocess糊了一个异步](https://blog.est.im/2024/stdout-09)|
 |2024-06-21 01:05:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 138 期）：打造月收入 14 万美金的 SaaS，350 万美金售出](https://w2solo.com/topics/4706)|
 |2024-06-20 03:10:26|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.6.19](https://www.justzht.com/2024-6-19/)|
 |2024-06-20 14:24:26|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[美國 Apple 2024 Back to school 開學季專案正式開跑！](https://applefans.today/2024-06-apple-back-to-school-us-launch/)|
