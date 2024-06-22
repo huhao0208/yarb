@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-22 10:59:42|[Dennis](https://www.domon.cn/rss/)|[2024年5月Plog](https://www.domon.cn/2024nian-5yue-plog/)|
+|2024-06-22 04:26:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[Making subprocess async friendly in Python](https://blog.est.im/2024/stdout-11)|
+|2024-06-22 12:52:14|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[周报 2024-06-21](https://blog.rxliuli.com/p/4580ae0544204ef2a30f3ce496f64d7b/)|
+|2024-06-22 15:00:00|[机核](https://www.gcores.com/rss)|[想玩老头环，不想被老贼玩！核周报 06.22](https://www.gcores.com/radios/183520)|
+|2024-06-22 13:02:03|[机核](https://www.gcores.com/rss)|[噩梦沉沉：《心灵杀手2》照相模式截图06](https://www.gcores.com/articles/183956)|
 |2024-06-22 07:51:18|[依云's Blog](https://blog.lilydjwg.me/feed)|[使用 PipeWire 实现自动应用均衡器](https://blog.lilydjwg.me/posts/216847.html)|
 |2024-06-22 08:39:52|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[一些星舰或太空站建设类游戏](https://blog.codingnow.com/2024/06/starship_gamelist.html)|
 |2024-06-22 11:07:18|[机核](https://www.gcores.com/rss)|[声优古谷彻今后将不再为《名侦探柯南》&《海贼王》动画配音](https://www.gcores.com/articles/183954)|
