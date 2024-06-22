@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-06-21）
+﻿# 每日资讯（2024-06-22）
 
 |时间|来源|标题|
 |---|---|---|
@@ -19,6 +19,7 @@
 |2024-06-21 14:48:00|[est の 输入输出](https://blog.est.im/rss)|[人声分离简单评测](https://blog.est.im/2024/stdout-10)|
 |2024-06-21 01:31:35|[华山感染](https://feedpress.me/wx-hsinfect)|[缘聚华山感染，2024年9月批次全国访问学者班报名即将启动](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503371&idx=1&sn=47603172b956d4af9cbdece552864647)|
 |2024-06-21 11:18:46|[Dennis](https://www.domon.cn/rss/)|[石家庄小游记（一）——出发](https://www.domon.cn/shi-jia-zhuang-xiao-you-ji-yi-chu-fa/)|
+|2024-06-22 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[蒙古烤肉](https://leimao.github.io/essay/%E8%92%99%E5%8F%A4%E7%83%A4%E8%82%89-Mongolian-Grill/)|
 |2024-06-21 05:26:04|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240621](https://xugaoxiang.com/2024/06/21/ai-daily-20240621/)|
 |2024-06-21 04:09:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ tools-web 一个轻量的在线工具箱 - 更新日志 0621](https://w2solo.com/topics/4707)|
 |2024-06-21 09:48:01|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[居家办公初体验第二章](https://www.jackpu.com/ju-jia-ban-gong-chu-ti-yan-di-er-zhang/)|
