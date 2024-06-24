@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-24 04:20:23|[机核](https://www.gcores.com/rss)|[知名任天堂舅舅党 Pyoro 消息来源遭曝光，现已将社交平台清空](https://www.gcores.com/articles/183993)|
+|2024-06-24 02:02:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Intelligence 在歐盟受限：iOS 18 新功能受影響](https://applefans.today/2024-06-apple-ai-will-not-enter-the-eu-market/)|
+|2024-06-24 03:58:24|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 四 让图片开口说话](https://xugaoxiang.com/2024/06/24/ai-project-4/)|
+|2024-06-24 03:03:27|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240624](https://xugaoxiang.com/2024/06/24/ai-daily-20240624/)|
+|2024-06-24 03:22:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[增加生命中的選項](http://mercurychong.blogspot.com/2024/06/blog-post_23.html)|
 |2024-06-23 16:06:00|[机核](https://www.gcores.com/rss)|[西游记作者的多元宇宙（二）：历史上的吴承恩](https://www.gcores.com/articles/183982)|
 |2024-06-23 15:00:00|[机核](https://www.gcores.com/rss)|[看好英格兰……吗？乱聊欧洲杯2024——小组赛篇](https://www.gcores.com/radios/183867)|
 |2024-06-23 08:33:44|[机核](https://www.gcores.com/rss)|[下周节目预告 6.24~6.30](https://www.gcores.com/articles/183975)|
