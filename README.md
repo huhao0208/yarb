@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-24 12:31:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[第一次电商低价大战：三大平台围攻拼多多，卷入所有人](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517468&idx=1&sn=8277d0a4e91d1f593bcd408bfcb4c628)|
+|2024-06-24 11:14:50|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[畅享全球真实资讯](https://w2solo.com/topics/4717)|
+|2024-06-24 13:00:00|[机核](https://www.gcores.com/rss)|[智利之夜Vol.7丨文学到底有什么用：间离化与后现代历史小说](https://www.gcores.com/radios/173210)|
 |2024-06-24 08:27:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 動作按鈕：新增一個「控制項目」](https://applefans.today/2024-ios-18-beta-1-action-button/)|
 |2024-06-24 06:15:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18「密碼」 App 的 6 個功能特色](https://applefans.today/2024-ios-18-password-app-features/)|
 |2024-06-24 10:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第13回——虚假的结缘，月与黄金](https://www.gcores.com/articles/184002)|
