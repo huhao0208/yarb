@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-25 03:11:20|[太隐](https://wangyurui.com/feed.xml)|[人不堪其忧，梦得不改其乐](https://wangyurui.com/posts/ren-bu-kan-qi-you-meng-de-bu-gai-qi-le-9de5de15)|
+|2024-06-25 15:03:49|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2024-06-25 原神 4.7 版本希格雯传说任务剧情感想](https://blog.cmyr.ltd/archives/4d30f7e3.html)|
 |2024-06-25 09:18:58|[Happy Hack Everday](https://blog.happyhack.io/atom.xml)|[multiple-git-useraccount](https://blog.happyhack.io/2024/06/25/multiple-git-useraccount/)|
 |2024-06-25 10:02:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨与字节合作的传闻没能拉起博通股价；GPT-5延期；关乎十分之一GDP的博弈](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517506&idx=2&sn=9d357e7d39d2c1234e6e3253cf3fa517)|
 |2024-06-25 10:02:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[1778天，原生鸿蒙如何成为独立的操作系统](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517506&idx=1&sn=2b2e96b96da6c92662ac4759c4549ad8)|
