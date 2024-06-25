@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-25 09:18:58|[Happy Hack Everday](https://blog.happyhack.io/atom.xml)|[multiple-git-useraccount](https://blog.happyhack.io/2024/06/25/multiple-git-useraccount/)|
+|2024-06-25 10:02:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨与字节合作的传闻没能拉起博通股价；GPT-5延期；关乎十分之一GDP的博弈](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517506&idx=2&sn=9d357e7d39d2c1234e6e3253cf3fa517)|
+|2024-06-25 10:02:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[1778天，原生鸿蒙如何成为独立的操作系统](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517506&idx=1&sn=2b2e96b96da6c92662ac4759c4549ad8)|
+|2024-06-25 04:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[教育优惠到期，无法白嫖，我是如何迁移数据库的](https://lmmsoft.github.io//migrate_database/)|
 |2024-06-25 06:06:18|[Mr. PM 下午先生](http://feeds.feedburner.com/pmmustknow)|[產品長的挑戰：如何選擇和驗證產品機會 Part I](https://mrpm.cc/?p=1669)|
 |2024-06-25 05:23:44|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240625](https://xugaoxiang.com/2024/06/25/ai-daily-20240625/)|
 |2024-06-25 03:12:43|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《127小时》：由真实事件改编，小伙荒野求生被困5天5夜，忍痛断臂自救！](https://www.ximalaya.com/sound/737107818)|
