@@ -2,31 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-25 06:06:18|[Mr. PM 下午先生](http://feeds.feedburner.com/pmmustknow)|[產品長的挑戰：如何選擇和驗證產品機會 Part I](https://mrpm.cc/?p=1669)|
+|2024-06-25 05:23:44|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240625](https://xugaoxiang.com/2024/06/25/ai-daily-20240625/)|
+|2024-06-25 03:12:43|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《127小时》：由真实事件改编，小伙荒野求生被困5天5夜，忍痛断臂自救！](https://www.ximalaya.com/sound/737107818)|
+|2024-06-25 03:43:10|[机核](https://www.gcores.com/rss)|[微软确认重返科隆游戏展，首批参展游戏揭晓](https://www.gcores.com/articles/184038)|
+|2024-06-25 03:30:31|[机核](https://www.gcores.com/rss)|[《怪物猎人》20周年“怪物总选举 BGM篇”前十名公布](https://www.gcores.com/articles/184033)|
+|2024-06-25 02:42:11|[机核](https://www.gcores.com/rss)|[视觉小说《黄昏旅店》TV动画化，2025年1月播出](https://www.gcores.com/articles/184034)|
+|2024-06-25 01:41:25|[机核](https://www.gcores.com/rss)|[环境策略游戏《伊始之地》现已实装“新生”大型免费更新](https://www.gcores.com/articles/184031)|
+|2024-06-25 01:36:23|[机核](https://www.gcores.com/rss)|[TV动画《超自然武装当哒当》公开新PV，10月开播](https://www.gcores.com/articles/184030)|
+|2024-06-25 01:30:07|[机核](https://www.gcores.com/rss)|[快节奏平台游戏《蘑菇围城》正式公开，8月6日推出试玩Demo](https://www.gcores.com/articles/184029)|
+|2024-06-25 01:30:00|[机核](https://www.gcores.com/rss)|[巴特莫斯之死——《火线风暴：风暴前夕》节选翻译](https://www.gcores.com/articles/184010)|
+|2024-06-25 01:18:21|[机核](https://www.gcores.com/rss)|[《超越善恶》20周年版现已发售，续作仍在开发中](https://www.gcores.com/articles/184028)|
 |2024-06-25 02:22:13|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 71：做饭比做 App 有意思多了](https://w2solo.com/topics/4718)|
-|2024-06-24 13:43:52|[机核](https://www.gcores.com/rss)|[现实的中世纪，也有奇幻游戏常有的武器店或防具店吗？](https://www.gcores.com/articles/184019)|
-|2024-06-24 13:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》入侵者的名字有哪些含义和秘密？ 有什么故事？](https://www.gcores.com/videos/184014)|
-|2024-06-24 12:02:39|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[不是瑞士去不起，是新疆更有性价比吗。。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653455115&idx=1&sn=3143222720562f6f2ba9e17e689f38cc)|
-|2024-06-24 12:31:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[第一次电商低价大战：三大平台围攻拼多多，卷入所有人](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517468&idx=1&sn=8277d0a4e91d1f593bcd408bfcb4c628)|
-|2024-06-24 11:14:50|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[畅享全球真实资讯](https://w2solo.com/topics/4717)|
-|2024-06-24 13:00:00|[机核](https://www.gcores.com/rss)|[智利之夜Vol.7丨文学到底有什么用：间离化与后现代历史小说](https://www.gcores.com/radios/173210)|
-|2024-06-24 08:27:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 動作按鈕：新增一個「控制項目」](https://applefans.today/2024-ios-18-beta-1-action-button/)|
-|2024-06-24 06:15:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18「密碼」 App 的 6 個功能特色](https://applefans.today/2024-ios-18-password-app-features/)|
-|2024-06-24 10:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第13回——虚假的结缘，月与黄金](https://www.gcores.com/articles/184002)|
-|2024-06-24 09:30:00|[机核](https://www.gcores.com/rss)|[归乡杂感](https://www.gcores.com/articles/183981)|
-|2024-06-24 09:00:00|[机核](https://www.gcores.com/rss)|[年轻人整肃职场，反向拷打白广大，录音笔 VOL.228](https://www.gcores.com/radios/184011)|
-|2024-06-24 07:10:35|[机核](https://www.gcores.com/rss)|[腾讯公布全新衍生剧《三体：大史》，预计2025年开机](https://www.gcores.com/articles/184008)|
-|2024-06-24 06:46:22|[机核](https://www.gcores.com/rss)|[腾讯视频宣布改编刘慈欣原作小说《乡村教师》为网剧](https://www.gcores.com/articles/184005)|
-|2024-06-24 06:45:49|[机核](https://www.gcores.com/rss)|[《碧蓝幻想Versus: Rising》即将出展“Evo2024”](https://www.gcores.com/articles/184006)|
-|2024-06-24 05:28:43|[机核](https://www.gcores.com/rss)|[《名侦探柯南 百万美元的五棱星》票房突破150亿日元](https://www.gcores.com/articles/184000)|
-|2024-06-24 05:27:14|[机核](https://www.gcores.com/rss)|[《鲁弗兰的地下迷宫与魔女的旅团》总监&编剧泉达也宣布已从日本一离职](https://www.gcores.com/articles/183998)|
-|2024-06-24 04:49:34|[机核](https://www.gcores.com/rss)|[自动复活、动感十足：《堡垒之夜》现已推出“Reload”模式](https://www.gcores.com/articles/183996)|
-|2024-06-24 04:40:56|[机核](https://www.gcores.com/rss)|[【传言】索尼大幅缩减PS VR2游戏预算，尚有两款游戏在路上](https://www.gcores.com/articles/183995)|
-|2024-06-24 08:12:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[糊了一个英文大小转换的小工具](https://w2solo.com/topics/4716)|
-|2024-06-24 03:44:13|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【网站自荐】一个可以为您喜欢的角色或宠物生成迪士尼皮克斯风格海报的网站](https://w2solo.com/topics/4715)|
-|2024-06-24 02:15:57|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ DevTester 专注于开发与测试的浏览器工具集](https://w2solo.com/topics/4714)|
-|2024-06-24 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/25](https://weekly.pychina.org/pyrecap/pyrw-2425.html)|
-|2024-06-24 04:20:23|[机核](https://www.gcores.com/rss)|[知名任天堂舅舅党 Pyoro 消息来源遭曝光，现已将社交平台清空](https://www.gcores.com/articles/183993)|
-|2024-06-24 02:02:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Intelligence 在歐盟受限：iOS 18 新功能受影響](https://applefans.today/2024-06-apple-ai-will-not-enter-the-eu-market/)|
-|2024-06-24 03:58:24|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 四 让图片开口说话](https://xugaoxiang.com/2024/06/24/ai-project-4/)|
-|2024-06-24 03:03:27|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240624](https://xugaoxiang.com/2024/06/24/ai-daily-20240624/)|
-|2024-06-24 03:22:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[增加生命中的選項](http://mercurychong.blogspot.com/2024/06/blog-post_23.html)|
