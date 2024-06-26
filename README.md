@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-06-25）
+﻿# 每日资讯（2024-06-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-26 01:19:03|[机核](https://www.gcores.com/rss)|[《艾尔登法环》登顶 Steam周销量排行榜：2024年6月第3周](https://www.gcores.com/articles/184077)|
+|2024-06-26 01:13:02|[王登科-DK博客](https://greatdk.com/feed)|[从「文风测试」到「 OC 成分分析器」，AI产品的一波流也有春天](https://greatdk.com/1984.html)|
 |2024-06-25 14:33:58|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[怎样开始运营自己的网站](https://w2solo.com/topics/4719)|
 |2024-06-25 07:29:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何使用 macOS Sequoia 的「iPhone 鏡像輸出」新功能？](https://applefans.today/2024-06-iphone-mirroring-in-ios-18-and-macos-sequoia/)|
 |2024-06-25 01:34:49|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[全新 Beats Pill 藍牙喇叭 正式回歸](https://applefans.today/2024-06-beats-pill-people-are-back-ad/)|
