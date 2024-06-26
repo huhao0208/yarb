@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-26 14:19:17|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十五）](http://www.seis-jun.xyz/paper-reading-15)|
+|2024-06-26 04:43:37|[KAIX.IN](https://kaix.in/feed/)|[如何抱怨](https://kaix.in/2024/0626-grumble/)|
+|2024-06-26 15:30:56|[晚点LatePost](https://feedpress.me/wx-postlate)|[还原新能源汽车商业秘密第一大案：12 张图纸、6.4 亿赔偿金](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517576&idx=1&sn=6c147ed6a9a3b55780c3da373b472d3f)|
 |2024-06-26 14:41:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Hedra AI-将您的图像和音频转换为逼真的视频](https://w2solo.com/topics/4725)|
 |2024-06-26 13:10:13|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[深圳 - 黑客星期天 - 一个周末创造一个 MVP-线下活动](https://w2solo.com/topics/4724)|
 |2024-06-26 12:44:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我是怎么又开始做网址导航的](https://w2solo.com/topics/4723)|
