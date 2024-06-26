@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-26 12:14:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[视频：Linus 访谈片段](https://www.youtube.com/watch?v=0wa47bLGFUg)|
+|2024-06-26 04:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[个人大数据系列文章-目录](https://lmmsoft.github.io//personal_big_data_series/)|
+|2024-06-26 11:58:03|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[OpenTelemetry 深度定制：跨服务追踪的实战技巧](http://crossoverjie.top/2024/06/26/ob/OpenTelemetry-custom-instrument/)|
+|2024-06-26 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[The JavaScript Set methods are now part of Baseline](https://web.dev/blog/set-methods?hl=en)|
 |2024-06-26 08:15:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 的 iPhone 手電筒 3 個升級重點一篇掌握！](https://applefans.today/2024-ios-18-iphone-flashlight/)|
 |2024-06-26 02:22:16|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AirPods 韌體更新：主要為錯誤修復](https://applefans.today/2024-06-airpods-new-firmware-update/)|
 |2024-06-26 06:28:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[糊了一个英文大小转换的小工具](https://w2solo.com/topics/4722)|
