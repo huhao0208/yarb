@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-27 06:40:18|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《僵尸叔叔》：地球最恐怖僵尸王诞生，一出场秒杀千鹤道长，最后差点晋级为僵尸皇帝！](https://www.ximalaya.com/sound/737567890)|
+|2024-06-27 09:07:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞中的 iPhone 16 系列手機在螢幕和機身尺寸有何變化？](https://applefans.today/2024-06-iphone-16-size-changes-rumors/)|
+|2024-06-27 06:11:50|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果產品為何保值？iPhone 使用第三方電池的風險？](https://applefans.today/2024-06-iphone-third-party-display-battery-support/)|
 |2024-06-27 08:59:09|[摄影世界](https://feedx.net/rss/photoworld.xml)|[哈苏大师赛 2023 获奖者名单公布](https://www.photoworld.com.cn/post/177095)|
 |2024-06-27 11:00:00|[机核](https://www.gcores.com/rss)|[（抽象）点进来浪费23秒人生](https://www.gcores.com/videos/184161)|
 |2024-06-27 10:30:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第14回——蕾娜菈和拉达冈](https://www.gcores.com/articles/184153)|
