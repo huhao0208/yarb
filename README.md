@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-27 15:00:00|[机核](https://www.gcores.com/rss)|[高达屹立于大地之上](https://www.gcores.com/radios/183868)|
+|2024-06-27 13:29:17|[机核](https://www.gcores.com/rss)|[更好的打磨游戏：《冰汽时代2》发售推迟至9月20日](https://www.gcores.com/articles/184173)|
+|2024-06-27 13:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】小蟹魂穿交界地！送你去玩法环DLC！](https://www.gcores.com/articles/184165)|
+|2024-06-27 12:49:38|[机核](https://www.gcores.com/rss)|[要不换套首发吧！乱聊欧洲杯2024——小组赛篇第二集，机浪 VOL.46](https://www.gcores.com/radios/184171)|
+|2024-06-27 12:40:11|[机核](https://www.gcores.com/rss)|[DOAXVV国际版原创新女神『玲夏』登场！](https://www.gcores.com/articles/184167)|
+|2024-06-27 11:16:54|[机核](https://www.gcores.com/rss)|[译介 AI纯在胡扯](https://www.gcores.com/articles/184166)|
 |2024-06-27 06:40:18|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《僵尸叔叔》：地球最恐怖僵尸王诞生，一出场秒杀千鹤道长，最后差点晋级为僵尸皇帝！](https://www.ximalaya.com/sound/737567890)|
 |2024-06-27 09:07:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞中的 iPhone 16 系列手機在螢幕和機身尺寸有何變化？](https://applefans.today/2024-06-iphone-16-size-changes-rumors/)|
 |2024-06-27 06:11:50|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果產品為何保值？iPhone 使用第三方電池的風險？](https://applefans.today/2024-06-iphone-third-party-display-battery-support/)|
