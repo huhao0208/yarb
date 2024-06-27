@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-27 01:57:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[整理了一个聚合独立开发&远程工作&灵感发掘等聚合平台](https://w2solo.com/topics/4726)|
+|2024-06-27 00:57:24|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十七）](http://www.seis-jun.xyz/paper-reading-17)|
+|2024-06-27 00:47:07|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十六）](http://www.seis-jun.xyz/paper-reading-16)|
+|2024-06-27 04:05:04|[机核](https://www.gcores.com/rss)|[含《无主之地3》:索尼公布7月PSN会免阵容](https://www.gcores.com/articles/184144)|
+|2024-06-27 03:59:51|[机核](https://www.gcores.com/rss)|[《龙之信条2》发布更新补丁，改善了在特定情况下CPU负载过高的问题](https://www.gcores.com/articles/184142)|
+|2024-06-27 03:40:51|[机核](https://www.gcores.com/rss)|[Jump High线上游戏展将于本周五开幕，数十款游戏带来最新情报](https://www.gcores.com/articles/184143)|
+|2024-06-27 02:59:51|[机核](https://www.gcores.com/rss)|[《魔兽世界》正式服国服将于8月1日回归，怀旧服“巫妖王之怒”现已开放](https://www.gcores.com/articles/184140)|
+|2024-06-27 02:59:48|[机核](https://www.gcores.com/rss)|[开启前所未有的二人世界体验：新《VR女友》正式公布](https://www.gcores.com/articles/184139)|
+|2024-06-27 02:50:20|[机核](https://www.gcores.com/rss)|[Vavle 发布了 Steam 的控制器使用情况：Xbox手柄在使用中占比59%](https://www.gcores.com/articles/184138)|
+|2024-06-27 02:00:48|[机核](https://www.gcores.com/rss)|[《彩虹六号：围攻》市场交易功能现已正式开启](https://www.gcores.com/articles/184133)|
+|2024-06-27 01:55:56|[机核](https://www.gcores.com/rss)|[曾经的“国产之光”，叹息之外的启示](https://www.gcores.com/articles/184125)|
+|2024-06-27 01:48:25|[机核](https://www.gcores.com/rss)|[《丧尸围城豪华复刻版》公布首个预告，将于年内发售](https://www.gcores.com/articles/184132)|
+|2024-06-27 01:29:11|[机核](https://www.gcores.com/rss)|[全新内置系统：Steam测试版游戏录制功能来了](https://www.gcores.com/articles/184130)|
 |2024-06-27 01:17:01|[机核](https://www.gcores.com/rss)|[Steam喜加一：益智解谜游戏《真知之岛》免费领](https://www.gcores.com/articles/184128)|
 |2024-06-26 14:19:17|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十五）](http://www.seis-jun.xyz/paper-reading-15)|
 |2024-06-26 04:43:37|[KAIX.IN](https://kaix.in/feed/)|[如何抱怨](https://kaix.in/2024/0626-grumble/)|
