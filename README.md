@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-06-26）
+﻿# 每日资讯（2024-06-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-27 01:17:01|[机核](https://www.gcores.com/rss)|[Steam喜加一：益智解谜游戏《真知之岛》免费领](https://www.gcores.com/articles/184128)|
 |2024-06-26 14:19:17|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十五）](http://www.seis-jun.xyz/paper-reading-15)|
 |2024-06-26 04:43:37|[KAIX.IN](https://kaix.in/feed/)|[如何抱怨](https://kaix.in/2024/0626-grumble/)|
 |2024-06-26 15:30:56|[晚点LatePost](https://feedpress.me/wx-postlate)|[还原新能源汽车商业秘密第一大案：12 张图纸、6.4 亿赔偿金](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517576&idx=1&sn=6c147ed6a9a3b55780c3da373b472d3f)|
@@ -35,6 +36,7 @@
 |2024-06-26 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[The JavaScript Set methods are now part of Baseline](https://web.dev/blog/set-methods?hl=en)|
 |2024-06-26 08:15:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 的 iPhone 手電筒 3 個升級重點一篇掌握！](https://applefans.today/2024-ios-18-iphone-flashlight/)|
 |2024-06-26 02:22:16|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AirPods 韌體更新：主要為錯誤修復](https://applefans.today/2024-06-airpods-new-firmware-update/)|
+|2024-06-27 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年湾区有意思的节庆](https://leimao.github.io/essay/2024%E5%B9%B4%E6%B9%BE%E5%8C%BA%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E8%8A%82%E5%BA%86/)|
 |2024-06-26 06:28:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[糊了一个英文大小转换的小工具](https://w2solo.com/topics/4722)|
 |2024-06-26 02:36:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[大家好,分享一下我个人的新作品: WinsPilot - 在状态栏上进行多窗口管理](https://w2solo.com/topics/4721)|
 |2024-06-26 02:15:27|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[大家好，推荐一下一个个人开发的小工具 bean2ddl java bean 转建表 sql 语句 ，欢迎提交意见！](https://w2solo.com/topics/4720)|
