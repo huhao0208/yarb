@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-28 03:41:11|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Samsung 加入支援用 iPhone AirPlay 到飯店電視的功能](https://applefans.today/20254-06-samsung-airplay-hotel-room-tvs/)|
+|2024-06-28 03:40:13|[中文信息学报](https://feedpress.me/wx-jcip1986)|[《中文信息学报》新刊概览∣ 2024年第5期（38卷第5期）](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485661&idx=1&sn=e6b7561c703bd9fc6c415b63aa585a79)|
+|2024-06-28 04:18:24|[机核](https://www.gcores.com/rss)|[Team CC《守望先锋》电子竞技俱乐部正式成立](https://www.gcores.com/articles/184200)|
+|2024-06-28 03:39:25|[机核](https://www.gcores.com/rss)|[Konami将于今晚7点带来最新一期《合金装备》特别节目](https://www.gcores.com/articles/184197)|
+|2024-06-28 03:18:18|[机核](https://www.gcores.com/rss)|[Steam夏日特卖现已隆重开幕,大促好价游戏汇总](https://www.gcores.com/articles/184192)|
+|2024-06-28 02:07:08|[机核](https://www.gcores.com/rss)|[《消逝的光芒2》高塔突袭现已开放体验版](https://www.gcores.com/articles/184187)|
 |2024-06-28 01:06:57|[机核](https://www.gcores.com/rss)|[《艾尔登法环 黄金树幽影》销量突破500万份](https://www.gcores.com/articles/184185)|
 |2024-06-27 15:00:00|[机核](https://www.gcores.com/rss)|[高达屹立于大地之上](https://www.gcores.com/radios/183868)|
 |2024-06-27 13:29:17|[机核](https://www.gcores.com/rss)|[更好的打磨游戏：《冰汽时代2》发售推迟至9月20日](https://www.gcores.com/articles/184173)|
