@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-06-27）
+﻿# 每日资讯（2024-06-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-28 01:06:57|[机核](https://www.gcores.com/rss)|[《艾尔登法环 黄金树幽影》销量突破500万份](https://www.gcores.com/articles/184185)|
 |2024-06-27 15:00:00|[机核](https://www.gcores.com/rss)|[高达屹立于大地之上](https://www.gcores.com/radios/183868)|
 |2024-06-27 13:29:17|[机核](https://www.gcores.com/rss)|[更好的打磨游戏：《冰汽时代2》发售推迟至9月20日](https://www.gcores.com/articles/184173)|
 |2024-06-27 13:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】小蟹魂穿交界地！送你去玩法环DLC！](https://www.gcores.com/articles/184165)|
