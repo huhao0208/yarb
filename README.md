@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-28 04:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[只用了18美金和一天时间，深度拆解李笑来如何用GPT-4o写出《美国常用俚语》这本书的？](https://lmmsoft.github.io//how_did_xiaolai_write_book_with_gpt4o/)|
+|2024-06-28 14:42:00|[Bing's Blog](https://www.bbing.com.cn/index.xml)|[十亿行挑战-C++](https://imcbc.cn/202406/1brc-cpp/)|
 |2024-06-28 11:09:57|[Mark24](https://mark24code.github.io/feed.xml)|[MRuby Devkit 一个简单的脚手架，帮助你像 Go 一样把 Ruby 编译成可执行二进制](https://mark24code.github.io/ruby/2024/06/28/MRuby-Devkit-%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E8%84%9A%E6%89%8B%E6%9E%B6-%E5%B8%AE%E5%8A%A9%E4%BD%A0%E5%83%8F-Go-%E4%B8%80%E6%A0%B7%E6%8A%8A-Ruby-%E7%BC%96%E8%AF%91%E6%88%90%E5%8F%AF%E6%89%A7%E8%A1%8C%E4%BA%8C%E8%BF%9B%E5%88%B6.html)|
 |2024-06-28 07:14:23|[251 的魔法实验室](https://blog.251.sh/feed/)|[我的 5.10 代 homelab](https://blog.251.sh/my-5-gen-10-homelab)|
 |2024-06-28 09:52:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[一次搞定所有裝置：MAGEASY Power Station Qi2 15W 五合一充電座評測](https://applefans.today/2024-06-mageasy-power-station-qi2-charging/)|
