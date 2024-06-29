@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-29 14:29:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #58：最快运行原型的语言（摘要）](https://w2solo.com/topics/4733)|
+|2024-06-29 06:34:21|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[所思 所想](https://w2solo.com/topics/4732)|
+|2024-06-29 15:00:00|[机核](https://www.gcores.com/rss)|[轻松惬意畅快聊，正月为什么不剃头？ 核周报06.29](https://www.gcores.com/radios/183869)|
 |2024-06-29 09:00:00|[机核](https://www.gcores.com/rss)|[大学小史（1）：伙食、政治、信仰——哈佛校长有多难当](https://www.gcores.com/articles/184213)|
 |2024-06-29 08:09:21|[机核](https://www.gcores.com/rss)|[我做了《艾尔登法环》DLC封面梅瑟莫长矛](https://www.gcores.com/videos/184236)|
 |2024-06-29 08:09:14|[机核](https://www.gcores.com/rss)|[【毛利小五郎 /安室透 】警校传说咖啡厅偶遇事件](https://www.gcores.com/videos/184235)|
