@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-01 06:23:16|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2026 年將推出紅外線攝影鏡頭的 AirPods 耳機，有何功能？](https://applefans.today/2024-07-airpods-with-cameras-rumors/)|
+|2024-07-01 02:31:11|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[預計 iPhone 16 電池 將會有兩大重要變化](https://applefans.today/2024-07-new-iphone-battery-replacement-method/)|
+|2024-07-01 15:08:23|[机核](https://www.gcores.com/rss)|[聊聊《黄金树之影》在我这主要扣分在哪里了](https://www.gcores.com/articles/184329)|
 |2024-07-01 13:00:00|[机核](https://www.gcores.com/rss)|[I. 游与戏？游戏理论版图的英文霸权与发展中国家的“后发优势”](https://www.gcores.com/radios/183686)|
 |2024-07-01 13:00:00|[机核](https://www.gcores.com/rss)|[《“游戏的⼈”济世指南》免费试听集](https://www.gcores.com/radios/183666)|
 |2024-07-01 10:53:54|[机核](https://www.gcores.com/rss)|[《黑神话·悟空》最新怪物公布：赤髯龙登场](https://www.gcores.com/articles/184316)|
