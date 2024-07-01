@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-01 08:21:03|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[糟糕！要吃光了！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653455465&idx=1&sn=1015a1cfc5e5afb2c1044552f23e97c1)|
+|2024-07-01 12:27:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 72：6 月数据总结，极简时钟重大更新](https://w2solo.com/topics/4736)|
+|2024-07-01 02:21:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[APP 接入广告，有什么广告联盟推荐？](https://w2solo.com/topics/4735)|
+|2024-07-01 00:30:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个记录情绪的小程序](https://w2solo.com/topics/4734)|
+|2024-07-01 11:14:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2024 年 7 月 1 日](https://www.changhai.org/articles/miscellaneous/blog/202407.php#latest)|
+|2024-07-01 07:30:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[当云服务器崩溃时，我是如何救援重要数据的](https://www.pseudoyu.com/zh/2024/07/01/rescue_my_data_from_a_crashed_server/)|
+|2024-07-01 00:30:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #63 - 不愉快的订花经历、商家和消费者与日渐 AI 化的人](https://www.pseudoyu.com/zh/2024/07/01/weekly_review_20240701/)|
 |2024-07-01 08:24:48|[机核](https://www.gcores.com/rss)|[本周节目预告 7.1~7.7](https://www.gcores.com/articles/184311)|
 |2024-07-01 06:04:27|[机核](https://www.gcores.com/rss)|[《艾尔登法环》或将被改编为影视作品](https://www.gcores.com/articles/184306)|
 |2024-07-01 05:25:49|[机核](https://www.gcores.com/rss)|[《黄金树幽影》带来的新的剧情猜想：永恒城之罪，两代神祇更迭](https://www.gcores.com/articles/184286)|
