@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-02 06:32:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[搞了个《信息差——独立开发者出海》周刊，帮助出海的独立开发者缩小信息差](https://w2solo.com/topics/4737)|
+|2024-07-02 16:51:58|[机核](https://www.gcores.com/rss)|[超短篇电子小说：西行奇谭](https://www.gcores.com/articles/184383)|
+|2024-07-02 16:19:37|[机核](https://www.gcores.com/rss)|[《刀剑神域：碎梦边境》主机平台版10月3日发售，Steam版10月4日发售](https://www.gcores.com/articles/184382)|
+|2024-07-02 10:42:39|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[【译】五个我最近在 Go 里学到的小技巧](http://crossoverjie.top/2024/07/02/ob/go-5-tips/)|
+|2024-07-02 12:04:11|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨在泰国，比亚迪挑战丰田；Temu、Shein合规压力变大](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517711&idx=2&sn=9db2ce32019327cfc181beb375bd602a)|
+|2024-07-02 12:04:10|[晚点LatePost](https://feedpress.me/wx-postlate)|[中国富人理财的六个陷阱](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517711&idx=1&sn=65bebe4d53d103cb70ff96479179c85e)|
+|2024-07-02 15:40:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果不將 Apple Intelligence 引入歐盟，這反而是智慧之舉嗎](https://www.iphonetaiwan.org/2024/07/apple-eu-ai-decision-reaction.html)|
+|2024-07-02 14:23:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 和 Apple Watch 將支援多項 NFC 功能：提升用戶體驗](https://www.iphonetaiwan.org/2024/07/iphone-apple-watch-nfc-multi-function.html)|
 |2024-07-02 02:37:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jun.23 - Jun.29](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240629/)|
 |2024-07-02 15:00:00|[机核](https://www.gcores.com/rss)|[八尺大人逛老宅，有事没事抓小孩 摩登怪谈Vol.5](https://www.gcores.com/radios/184277)|
 |2024-07-02 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十一集 十字堡第二门防御战](https://www.gcores.com/radios/183913)|
