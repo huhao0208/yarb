@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-07-02）
+﻿# 每日资讯（2024-07-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-03 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2024/07/03/daily-thoughts/)|
 |2024-07-02 06:32:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[搞了个《信息差——独立开发者出海》周刊，帮助出海的独立开发者缩小信息差](https://w2solo.com/topics/4737)|
 |2024-07-02 16:51:58|[机核](https://www.gcores.com/rss)|[超短篇电子小说：西行奇谭](https://www.gcores.com/articles/184383)|
 |2024-07-02 16:19:37|[机核](https://www.gcores.com/rss)|[《刀剑神域：碎梦边境》主机平台版10月3日发售，Steam版10月4日发售](https://www.gcores.com/articles/184382)|
