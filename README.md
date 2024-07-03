@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-03 19:01:46|[机核](https://www.gcores.com/rss)|[《看门狗》改编真人电影现已开机](https://www.gcores.com/articles/184450)|
+|2024-07-03 17:06:19|[机核](https://www.gcores.com/rss)|[等待十余载，重返切尔诺贝利——《潜行者》系列文化漫谈](https://www.gcores.com/articles/184445)|
+|2024-07-03 13:56:21|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨6月蔚来、理想找回节奏，小米破万；跨境电商需求激增，中美空运价格翻倍](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517741&idx=2&sn=925e28531c6ef50ff2cde1cbb2213039)|
+|2024-07-03 13:56:20|[晚点LatePost](https://feedpress.me/wx-postlate)|[创始人忧虑成真，lululemon 不该追求所有人](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517741&idx=1&sn=b163ffc55260297d48790f593e260e9c)|
+|2024-07-03 14:07:29|[](http://blog.fivest.one/feed)|[寻找适合的自建聊天工具](https://blog.fivest.one/archives/6782)|
 |2024-07-03 13:02:21|[华山感染](https://feedpress.me/wx-hsinfect)|[培训通知 中华医学会感染科医师培训上海站即将开启→](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503408&idx=1&sn=c3339cc3d04888243fb158dbdae223fc)|
 |2024-07-03 13:20:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Midjourney 样式代码库 --sref ](https://w2solo.com/topics/4739)|
 |2024-07-03 13:01:04|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[香港经典恐怖片《妖怪都市》：茅山道士VS泰国魔尸，中华道统全部失效！](https://www.ximalaya.com/sound/738848673)|
