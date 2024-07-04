@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-04 11:29:19|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨华为手里再无整车品牌；涨薪5.1%还不够，三星的工会计划大罢工](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517791&idx=2&sn=4140e8249874c3876fab065b77624156)|
+|2024-07-04 11:29:19|[晚点LatePost](https://feedpress.me/wx-postlate)|[捕鲸时代的结束，与一个新时代的开始](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517791&idx=1&sn=c296e67466aac090f962511b5aa99378)|
 |2024-07-04 10:55:19|[机核](https://www.gcores.com/rss)|[削弱轮椅：《艾尔登法环》现已实装1.12.3更新](https://www.gcores.com/articles/184490)|
 |2024-07-04 10:30:00|[机核](https://www.gcores.com/rss)|[用力聊聊剧场版《机动战士高达SEED FREEDOM》](https://www.gcores.com/videos/184123)|
 |2024-07-04 10:00:00|[机核](https://www.gcores.com/rss)|[死性不改，预测四强！乱聊欧洲杯2024——十六强篇，机浪 VOL.47](https://www.gcores.com/radios/184476)|
