@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-04 03:48:14|[机核](https://www.gcores.com/rss)|[IGN8分：《绝区零》媒体评分汇总](https://www.gcores.com/articles/184467)|
+|2024-07-04 03:26:00|[机核](https://www.gcores.com/rss)|[芦田爱菜参演，《工作细胞》真人电影公布新预告](https://www.gcores.com/articles/184466)|
+|2024-07-04 02:31:24|[机核](https://www.gcores.com/rss)|[卡普空宣布收购中国台湾CG制作公司 Minimum Studios为子公司](https://www.gcores.com/articles/184464)|
+|2024-07-04 01:56:42|[机核](https://www.gcores.com/rss)|[英国一男子因持有《塞尔达传说》大师之剑仿制刀具被判处四个月监禁](https://www.gcores.com/articles/184461)|
+|2024-07-04 01:54:24|[机核](https://www.gcores.com/rss)|[《战地风云2042》X《死亡空间》联动将于7月9日实装](https://www.gcores.com/articles/184462)|
+|2024-07-04 01:30:32|[机核](https://www.gcores.com/rss)|[恐怖冒险游戏《寂静之地：前方的路》公布首个预告](https://www.gcores.com/articles/184459)|
+|2024-07-04 01:13:39|[机核](https://www.gcores.com/rss)|[育碧新作《星球大战：亡命之徒》现已进厂压盘](https://www.gcores.com/articles/184458)|
+|2024-07-04 03:23:19|[Mr. PM 下午先生](http://feeds.feedburner.com/pmmustknow)|[給PM的終極求職建議：把自己當產品](https://mrpm.cc/?p=1671)|
 |2024-07-03 19:01:46|[机核](https://www.gcores.com/rss)|[《看门狗》改编真人电影现已开机](https://www.gcores.com/articles/184450)|
 |2024-07-03 17:06:19|[机核](https://www.gcores.com/rss)|[等待十余载，重返切尔诺贝利——《潜行者》系列文化漫谈](https://www.gcores.com/articles/184445)|
 |2024-07-03 13:56:21|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨6月蔚来、理想找回节奏，小米破万；跨境电商需求激增，中美空运价格翻倍](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517741&idx=2&sn=925e28531c6ef50ff2cde1cbb2213039)|
