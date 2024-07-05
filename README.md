@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-05 02:52:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[下一款帶有 iPad 螢幕的 HomePod 將支援 Apple Intelligence 功能？](https://applefans.today/2024-07-touchscreen-homepod-rumors/)|
+|2024-07-05 03:18:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #37：程序员创业的几个方向](https://w2solo.com/topics/4741)|
+|2024-07-05 01:07:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 140 期）：一个播客嘉宾预订平台月收入 22 万美元](https://w2solo.com/topics/4740)|
 |2024-07-04 17:14:33|[机核](https://www.gcores.com/rss)|[《荣耀战场王国》OP：中世纪战争影视混剪欣赏](https://www.gcores.com/videos/184501)|
 |2024-07-04 16:37:42|[机核](https://www.gcores.com/rss)|[《吊带袜天使》新作动画视觉图公开，堂堂回归](https://www.gcores.com/articles/184504)|
 |2024-07-04 15:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环 黄金树幽影》你玩得开心吗？游戏茶话会 Vol.72](https://www.gcores.com/radios/184275)|
