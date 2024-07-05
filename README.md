@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-05 16:07:59|[迷途小书童的Note](https://xugaoxiang.com/feed)|[3个免费AI提效工具](https://xugaoxiang.com/2024/07/06/3-ai-tools/)|
+|2024-07-05 14:36:04|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240705](https://xugaoxiang.com/2024/07/05/ai-daily-20240705/)|
 |2024-07-05 11:27:08|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[HDCP 介绍以及在 Web 的应用](https://www.jackpu.com/hdcp-jie-shao-yi-ji-zai-web-de-ying-yong/)|
 |2024-07-05 10:49:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Rap Generator](https://w2solo.com/topics/4743)|
 |2024-07-05 07:27:20|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[unity 做 AR 最需要注意的几点](https://w2solo.com/topics/4742)|
