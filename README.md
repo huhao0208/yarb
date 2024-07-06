@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-06 11:29:09|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《蒙古王》：从一个奴隶成长为横扫欧亚大陆的霸主，一口气看铁木真悲惨的前半生！](https://www.ximalaya.com/sound/739468715)|
+|2024-07-06 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[GitHub Actions Timeout](https://leimao.github.io/blog/GitHub-Actions-Timeout/)|
 |2024-07-06 09:00:00|[机核](https://www.gcores.com/rss)|[【免费加更】当录音笔有了画面是什么体验，录音笔 VOL.238](https://www.gcores.com/videos/184557)|
 |2024-07-06 09:00:00|[机核](https://www.gcores.com/rss)|[【免费加更】当录音笔有了画面是什么体验，录音笔 VOL.238（音频版）](https://www.gcores.com/radios/184556)|
 |2024-07-06 12:23:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[视频：独立日 Jones Beach 及烟花](https://www.youtube.com/watch?v=3eeaXfcyiJY)|
