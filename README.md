@@ -2,16 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-07-05 16:07:59|[迷途小书童的Note](https://xugaoxiang.com/feed)|[3个免费AI提效工具](https://xugaoxiang.com/2024/07/06/3-ai-tools/)|
-|2024-07-05 14:36:04|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240705](https://xugaoxiang.com/2024/07/05/ai-daily-20240705/)|
-|2024-07-05 11:27:08|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[HDCP 介绍以及在 Web 的应用](https://www.jackpu.com/hdcp-jie-shao-yi-ji-zai-web-de-ying-yong/)|
-|2024-07-05 10:49:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Rap Generator](https://w2solo.com/topics/4743)|
-|2024-07-05 07:27:20|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[unity 做 AR 最需要注意的几点](https://w2solo.com/topics/4742)|
-|2024-07-05 12:35:47|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[手动生成 SSL 证书添加到又拍云](https://scottyeung.top/2024/gen-ssl-for-upyun/)|
-|2024-07-05 19:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[Slowroll 将进行季度更新](/%E6%9B%B4%E6%96%B0%E9%80%9A%E5%91%8A/2024/07/05/slowroll.html)|
-|2024-07-05 19:40:00|[openSUSE 中文社区](https://suse.org.cn/feed.xml)|[openSUSE Tumbleweed 每月更新 - 六月](/%E6%9B%B4%E6%96%B0%E9%80%9A%E5%91%8A/2024/07/05/monthly-update.html)|
-|2024-07-05 03:40:24|[华山感染](https://feedpress.me/wx-hsinfect)|[两名初中生相继因脑膜炎去世！脑膜炎奈瑟菌究竟有多危险？](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503467&idx=1&sn=fb08c5fea934adba6a220e48859663c5)|
-|2024-07-05 07:02:00|[墨守](https://moshou.me/?feed=rss2)|[2024 环法](https://moshou.me/?p=176)|
-|2024-07-05 02:52:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[下一款帶有 iPad 螢幕的 HomePod 將支援 Apple Intelligence 功能？](https://applefans.today/2024-07-touchscreen-homepod-rumors/)|
-|2024-07-05 03:18:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #37：程序员创业的几个方向](https://w2solo.com/topics/4741)|
-|2024-07-05 01:07:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 140 期）：一个播客嘉宾预订平台月收入 22 万美元](https://w2solo.com/topics/4740)|
+|2024-07-06 15:09:18|[ControlNet Blog](https://controlnet.space/atom.xml)|[比之前更进一步的终极看番工具栈](https://controlnet.space/2024/07/06/note/media-server/)|
+|2024-07-06 06:47:21|[机核](https://www.gcores.com/rss)|[“游戏小年”的最大悬念：谁能拿年度？](https://www.gcores.com/articles/184554)|
+|2024-07-06 05:00:00|[机核](https://www.gcores.com/rss)|[《黄金树幽影》NPC名字有什么含义和秘密？文本中藏有哪些信息？](https://www.gcores.com/videos/184543)|
+|2024-07-06 04:18:02|[机核](https://www.gcores.com/rss)|[菲利普·迪克为何盛赞《电兽》？](https://www.gcores.com/articles/184564)|
+|2024-07-06 04:17:33|[机核](https://www.gcores.com/rss)|[夙日不再世界观](https://www.gcores.com/articles/184567)|
+|2024-07-06 03:03:41|[机核](https://www.gcores.com/rss)|[《七日杀》：丧尸世界一场酣畅淋漓的冒险](https://www.gcores.com/articles/184208)|
+|2024-07-06 01:00:00|[机核](https://www.gcores.com/rss)|[【creation kit 2教程】创建新地点！改造1000个星球。如何在《星空》中创建新的地点？](https://www.gcores.com/videos/184558)|
+|2024-07-06 05:43:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[4 个无敌好用且免费的 AI 文本转语音网站](https://w2solo.com/topics/4746)|
+|2024-07-06 03:59:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[即时热点 - 正在发生的事](https://w2solo.com/topics/4745)|
+|2024-07-06 03:23:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #59：Polars 1.0 发布了，PyCon US 2024 演讲视频也发布了（摘要）](https://w2solo.com/topics/4744)|
+|2024-07-06 08:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 Pro 標配 5 倍光學變焦：最輕薄的超強小手機](https://www.iphonetaiwan.org/2024/07/iphone-16-pro-periscope-camera.html)|
+|2024-07-06 07:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[法院壓力下！Google 能成功擺脫對蘋果的依賴嗎](https://www.iphonetaiwan.org/2024/07/google-reduce-reliance-on-apple-search.html)|
+|2024-07-06 06:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果全新「家庭配件」曝光！運行 tvOS 搭載 A18 晶片](https://www.iphonetaiwan.org/2024/07/apple-homeaccessory17-1.html)|
