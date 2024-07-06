@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-06 15:00:00|[机核](https://www.gcores.com/rss)|[夏促夏促，一折两折，光买不玩！核周报07.06](https://www.gcores.com/radios/184276)|
+|2024-07-06 13:20:17|[机核](https://www.gcores.com/rss)|[光与影的游戏丨《神秘海域：盗贼遗产合集》](https://www.gcores.com/articles/184571)|
+|2024-07-06 10:21:36|[机核](https://www.gcores.com/rss)|[《绝区零》与《鸣潮》战斗系统之对比](https://www.gcores.com/articles/184578)|
+|2024-07-06 10:00:00|[机核](https://www.gcores.com/rss)|[手游角色人气究竟受什么因素影响？ ——以《明日方舟》为引](https://www.gcores.com/articles/184573)|
+|2024-07-06 09:00:00|[机核](https://www.gcores.com/rss)|[大学小史（3）：猎巫余波与《辐射》地标——耶鲁大学](https://www.gcores.com/articles/184569)|
 |2024-07-06 11:29:09|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《蒙古王》：从一个奴隶成长为横扫欧亚大陆的霸主，一口气看铁木真悲惨的前半生！](https://www.ximalaya.com/sound/739468715)|
 |2024-07-06 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[GitHub Actions Timeout](https://leimao.github.io/blog/GitHub-Actions-Timeout/)|
 |2024-07-06 09:00:00|[机核](https://www.gcores.com/rss)|[【免费加更】当录音笔有了画面是什么体验，录音笔 VOL.238](https://www.gcores.com/videos/184557)|
