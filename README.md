@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-06 09:00:00|[机核](https://www.gcores.com/rss)|[【免费加更】当录音笔有了画面是什么体验，录音笔 VOL.238](https://www.gcores.com/videos/184557)|
+|2024-07-06 09:00:00|[机核](https://www.gcores.com/rss)|[【免费加更】当录音笔有了画面是什么体验，录音笔 VOL.238（音频版）](https://www.gcores.com/radios/184556)|
+|2024-07-06 12:23:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[视频：独立日 Jones Beach 及烟花](https://www.youtube.com/watch?v=3eeaXfcyiJY)|
+|2024-07-06 08:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Epic Games 將在歐盟推出 iOS 遊戲商店：與蘋果正面競爭](https://www.iphonetaiwan.org/2024/07/epic-games-eu-ios-third-party-app-store.html)|
+|2024-07-06 08:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[俄羅斯要求蘋果刪除 VPN 應用：用戶隱私與安全受關注](https://www.iphonetaiwan.org/2024/07/apple-removes-vpn-apps-russia.html)|
 |2024-07-06 15:09:18|[ControlNet Blog](https://controlnet.space/atom.xml)|[比之前更进一步的终极看番工具栈](https://controlnet.space/2024/07/06/note/media-server/)|
 |2024-07-06 06:47:21|[机核](https://www.gcores.com/rss)|[“游戏小年”的最大悬念：谁能拿年度？](https://www.gcores.com/articles/184554)|
 |2024-07-06 05:00:00|[机核](https://www.gcores.com/rss)|[《黄金树幽影》NPC名字有什么含义和秘密？文本中藏有哪些信息？](https://www.gcores.com/videos/184543)|
