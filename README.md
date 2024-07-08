@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-08 02:48:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[今年可能只是 Apple Watch Series 10 的更新？！](https://applefans.today/2024-07-apple-watch-series-10-rumors/)|
+|2024-07-08 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2024/07/08/daily-thoughts/)|
 |2024-07-08 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Interop 2024 mid-year update](https://web.dev/blog/interop-2024-midyear?hl=en)|
 |2024-07-08 09:29:52|[机核](https://www.gcores.com/rss)|[手游《DISNEY Pixel RPG》正式公布，年内上线](https://www.gcores.com/articles/184667)|
 |2024-07-08 09:00:00|[机核](https://www.gcores.com/rss)|[【风味】是挽马，拉动名叫电子游戏的车，录音笔 VOL.239](https://www.gcores.com/radios/184657)|
