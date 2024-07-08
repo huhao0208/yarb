@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-08 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Interop 2024 mid-year update](https://web.dev/blog/interop-2024-midyear?hl=en)|
+|2024-07-08 09:29:52|[机核](https://www.gcores.com/rss)|[手游《DISNEY Pixel RPG》正式公布，年内上线](https://www.gcores.com/articles/184667)|
+|2024-07-08 09:00:00|[机核](https://www.gcores.com/rss)|[【风味】是挽马，拉动名叫电子游戏的车，录音笔 VOL.239](https://www.gcores.com/radios/184657)|
+|2024-07-08 08:17:47|[机核](https://www.gcores.com/rss)|[我制作的城市建设游戏《巴黎2000年》](https://www.gcores.com/articles/184555)|
 |2024-07-08 08:10:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[AI 人性化：打造绕过 AI 检测的终极解决方案，让 AI 文本更加人性化](https://w2solo.com/topics/4749)|
 |2024-07-08 08:07:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[AI Undetect：精心打造的人工智能，编写出无限接近人类质量的文本](https://w2solo.com/topics/4748)|
 |2024-07-08 07:04:04|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 编程智能体语言 Shire 设计原则](http://www.phodal.com/blog/ai-agent-language-shire-design-princinple/)|
