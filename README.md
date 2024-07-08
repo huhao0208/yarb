@@ -1,8 +1,11 @@
-﻿# 每日资讯（2024-07-07）
+﻿# 每日资讯（2024-07-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-08 01:13:15|[机核](https://www.gcores.com/rss)|[T1击败TES，夺得沙特电竞世界杯《英雄联盟》项目冠军](https://www.gcores.com/articles/184627)|
+|2024-07-08 00:58:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jun.30 - Jul.6](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240706/)|
 |2024-07-07 17:11:39|[机核](https://www.gcores.com/rss)|[《宝可梦 GO》在中国地区短暂解锁，目前已经关闭](https://www.gcores.com/articles/184626)|
+|2024-07-08 03:19:51|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[从 Helm 到 Operator：Kubernetes应用管理的进化](http://crossoverjie.top/2024/07/08/ob/how-operator-working/)|
 |2024-07-07 05:20:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[享受當下的時間段](http://mercurychong.blogspot.com/2024/07/blog-post_6.html)|
 |2024-07-07 13:03:33|[木鸟杂记](https://www.qtmuniao.com/atom.xml)|[使用 ray.data 进行大规模数据处理（二）：全局视角](https://www.qtmuniao.com/2024/07/07/ray-data-2/)|
 |2024-07-07 15:00:00|[机核](https://www.gcores.com/rss)|[宝可梦，你变了](https://www.gcores.com/radios/184612)|
