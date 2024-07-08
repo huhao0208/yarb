@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-08 12:00:56|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[最好的季节，最仙的水蜜桃（最后几天](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653455725&idx=1&sn=09e510f3628cf855a8f835d7113c7419)|
+|2024-07-08 11:28:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 73：简单并且快乐的小确幸](https://w2solo.com/topics/4750)|
 |2024-07-08 02:48:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[今年可能只是 Apple Watch Series 10 的更新？！](https://applefans.today/2024-07-apple-watch-series-10-rumors/)|
 |2024-07-08 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2024/07/08/daily-thoughts/)|
 |2024-07-08 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Interop 2024 mid-year update](https://web.dev/blog/interop-2024-midyear?hl=en)|
