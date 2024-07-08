@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-08 04:00:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[信息差周刊第 9 期：基于不同平台开发，算抄袭吗？](https://w2solo.com/topics/4747)|
+|2024-07-08 00:43:42|[Diff客旅日记](https://diff.im/blog/?feed=rss2)|[继续写一写](https://diff.im/blog/?p=1682)|
+|2024-07-08 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/27](https://weekly.pychina.org/pyrecap/pyrw-2427.html)|
 |2024-07-08 01:13:15|[机核](https://www.gcores.com/rss)|[T1击败TES，夺得沙特电竞世界杯《英雄联盟》项目冠军](https://www.gcores.com/articles/184627)|
 |2024-07-08 00:58:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jun.30 - Jul.6](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240706/)|
 |2024-07-07 17:11:39|[机核](https://www.gcores.com/rss)|[《宝可梦 GO》在中国地区短暂解锁，目前已经关闭](https://www.gcores.com/articles/184626)|
