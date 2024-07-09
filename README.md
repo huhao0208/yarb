@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-09 07:16:25|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何下载S-net数据](http://www.seis-jun.xyz/how-to-download-Snet-data)|
+|2024-07-09 15:00:00|[机核](https://www.gcores.com/rss)|[一边吃一边喝，一边畅聊有关聚餐的奇闻趣事](https://www.gcores.com/radios/184616)|
+|2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十八集 亲缘关系（全书完）](https://www.gcores.com/radios/183922)|
+|2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十七集 帝皇的计划](https://www.gcores.com/radios/183921)|
+|2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十六集 无生者](https://www.gcores.com/radios/183920)|
+|2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十五集 世界的命运](https://www.gcores.com/radios/183919)|
+|2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十四集 英雄折戟](https://www.gcores.com/radios/183918)|
+|2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十三集 基里曼现身](https://www.gcores.com/radios/183917)|
+|2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十二集 帝皇的意志](https://www.gcores.com/radios/183915)|
+|2024-07-09 06:39:31|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《小镇怪客托马斯》：神秘仪式召唤邪灵，千人献祭一触即发，唯有通灵小伙能看到一切！](https://www.ximalaya.com/sound/740101876)|
 |2024-07-09 07:48:25|[依云's Blog](https://blog.lilydjwg.me/feed)|[我正在使用的火狐扩展（2024年版）](https://blog.lilydjwg.me/posts/216855.html)|
 |2024-07-09 07:40:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 Beta 3 Emoji 圖示變大、 Memoji 挑選更直覺](https://applefans.today/2024-07-ios-18-beta-3-emoji-memoji-change/)|
 |2024-07-09 07:00:20|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[教你如何用 iPad 外接螢幕，需要準備的事宜：以 M4 iPad Pro 為例](https://applefans.today/2024-07-m4-ipad-pro-external-display/)|
