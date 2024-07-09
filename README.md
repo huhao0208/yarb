@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-09 15:19:35|[机核](https://www.gcores.com/rss)|[ 烤肉 BehavioralGameDesign行为游戏设计](https://www.gcores.com/articles/184735)|
+|2024-07-09 16:24:00|[一个工匠](https://www.yigegongjiang.com/atom.xml)|[币圈 - 虚拟货币](https://www.yigegongjiang.com/2024/virtual_currency/)|
 |2024-07-09 07:16:25|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何下载S-net数据](http://www.seis-jun.xyz/how-to-download-Snet-data)|
 |2024-07-09 15:00:00|[机核](https://www.gcores.com/rss)|[一边吃一边喝，一边畅聊有关聚餐的奇闻趣事](https://www.gcores.com/radios/184616)|
 |2024-07-09 14:00:00|[机核](https://www.gcores.com/rss)|[《黑暗帝国2纳垢战争》第二十八集 亲缘关系（全书完）](https://www.gcores.com/radios/183922)|
