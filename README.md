@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-09 03:25:28|[机核](https://www.gcores.com/rss)|[休闲建造游戏《SUMMERHOUSE》销量突破20万份](https://www.gcores.com/articles/184702)|
+|2024-07-09 03:20:15|[机核](https://www.gcores.com/rss)|[漫画家成田芋虫制作，2D节奏动作游戏《Run, Vivian Run》公开](https://www.gcores.com/articles/184701)|
+|2024-07-09 02:34:00|[机核](https://www.gcores.com/rss)|[育碧日本就《刺客信条：影》宣传物料使用未经许可的旗帜一事致歉](https://www.gcores.com/articles/184696)|
+|2024-07-09 02:31:11|[机核](https://www.gcores.com/rss)|[《守望先锋》X《变形金刚》公布动画短片，游戏内活动7月9日实装](https://www.gcores.com/articles/184698)|
+|2024-07-09 01:54:11|[机核](https://www.gcores.com/rss)|[不再无限续杯：《Apex英雄》通行证全新改版，必须氪金购买](https://www.gcores.com/articles/184695)|
+|2024-07-09 01:38:59|[机核](https://www.gcores.com/rss)|[卡普空宣布《Exoprimal》不再推出赛季内容](https://www.gcores.com/articles/184694)|
 |2024-07-08 12:00:56|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[最好的季节，最仙的水蜜桃（最后几天](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653455725&idx=1&sn=09e510f3628cf855a8f835d7113c7419)|
 |2024-07-08 11:28:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 73：简单并且快乐的小确幸](https://w2solo.com/topics/4750)|
 |2024-07-08 02:48:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[今年可能只是 Apple Watch Series 10 的更新？！](https://applefans.today/2024-07-apple-watch-series-10-rumors/)|
