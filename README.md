@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-10 00:30:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #64 - 生活在此处（《斯通纳》与《Normal People》）](https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/)|
 |2024-07-10 01:06:10|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[用 magic 变量解决 UAF 问题](https://blog.mauve.icu/2024/07/10/cpp/magic-variable-resolve-UAF/)|
 |2024-07-09 15:19:35|[机核](https://www.gcores.com/rss)|[ 烤肉 BehavioralGameDesign行为游戏设计](https://www.gcores.com/articles/184735)|
 |2024-07-09 16:24:00|[一个工匠](https://www.yigegongjiang.com/atom.xml)|[币圈 - 虚拟货币](https://www.yigegongjiang.com/2024/virtual_currency/)|
