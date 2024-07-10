@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-10 02:50:27|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[室内空气流动模拟](https://blog.codingnow.com/2024/07/air_flow_simulation.html)|
+|2024-07-10 08:23:50|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 終於可以在 Google 地圖導航看到「駕駛速度」](https://applefans.today/2024-07-google-maps-for-ios-gains-speedometer/)|
+|2024-07-10 02:20:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[HomePod 聲音辨識 如何成為火災中的救命英雄？](https://applefans.today/2024-07-homepod-smoke-alarm-sound-recognition/)|
 |2024-07-10 12:02:19|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[阳山白凤水蜜桃，桃中仙女将谢幕](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653455929&idx=2&sn=3301de3000a49c3dee5d445677dc3a12)|
 |2024-07-10 12:02:19|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[近期网购，离谱，但自然](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653455929&idx=1&sn=d4b6dd4c33b31eec75b6a0da17810527)|
 |2024-07-10 08:27:35|[KAIX.IN](https://kaix.in/feed/)|[理想的生活](https://kaix.in/2024/0710-life/)|
