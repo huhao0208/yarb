@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-07-10）
+﻿# 每日资讯（2024-07-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-11 01:24:19|[机核](https://www.gcores.com/rss)|[不再低人一等：《NBA 2K25》次世代版确认登录PC](https://www.gcores.com/articles/184808)|
+|2024-07-11 01:11:03|[机核](https://www.gcores.com/rss)|[《艾尔登法环》三连冠 Steam周销量排行榜：2024年7月第1周](https://www.gcores.com/articles/184807)|
 |2024-07-10 02:50:27|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[室内空气流动模拟](https://blog.codingnow.com/2024/07/air_flow_simulation.html)|
 |2024-07-10 08:23:50|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 終於可以在 Google 地圖導航看到「駕駛速度」](https://applefans.today/2024-07-google-maps-for-ios-gains-speedometer/)|
 |2024-07-10 02:20:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[HomePod 聲音辨識 如何成為火災中的救命英雄？](https://applefans.today/2024-07-homepod-smoke-alarm-sound-recognition/)|
