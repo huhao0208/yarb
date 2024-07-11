@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-11 09:15:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【译】最糟糕的程序员](https://w2solo.com/topics/4760)|
+|2024-07-11 08:29:51|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享一个 AI 对接工具，懒人客服](https://w2solo.com/topics/4759)|
+|2024-07-11 08:25:53|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[不卷学历和背景的赛道，也能月入过万？](https://w2solo.com/topics/4758)|
+|2024-07-11 07:50:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[积墨 AI——开箱即用的企业级 AI 能力构建平台](https://w2solo.com/topics/4757)|
 |2024-07-11 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[LoRA and LoRAPrune](https://leimao.github.io/blog/LoRA-LoRAPrune/)|
 |2024-07-11 08:20:58|[机核](https://www.gcores.com/rss)|[第一人称恐怖观测游戏《轮班87》将于7月23日发售](https://www.gcores.com/articles/184833)|
 |2024-07-11 08:00:00|[机核](https://www.gcores.com/rss)|[原创漫画丨梦入侵](https://www.gcores.com/articles/184815)|
