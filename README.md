@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-11 15:00:00|[机核](https://www.gcores.com/rss)|[《魔兽故事》卷二十九-死亡之翼的遗产与格瑞姆巴托之战](https://www.gcores.com/radios/184615)|
+|2024-07-11 14:22:26|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第15回——玛丽卡，质疑无上意志](https://www.gcores.com/articles/184823)|
+|2024-07-11 13:22:43|[机核](https://www.gcores.com/rss)|[【抽送Steam版游戏】冷饭热炒，香味犹在：小评《真·女神转生5：复仇》](https://www.gcores.com/articles/184845)|
+|2024-07-11 11:27:56|[机核](https://www.gcores.com/rss)|[旨在强化制作力：KADOKAWA收购动画工房](https://www.gcores.com/articles/184842)|
+|2024-07-11 11:27:56|[机核](https://www.gcores.com/rss)|[《神圣而可怕的空气》自译｜14. 缺席者名单](https://www.gcores.com/articles/184841)|
+|2024-07-11 10:54:17|[机核](https://www.gcores.com/rss)|[《辐射2》大型MOD“辐射往日-范布伦”现已在N网推出](https://www.gcores.com/articles/184846)|
+|2024-07-11 10:32:21|[机核](https://www.gcores.com/rss)|[前有无意义：聊聊《黄金树幽影》的设计缺陷](https://www.gcores.com/articles/184487)|
+|2024-07-11 10:30:00|[机核](https://www.gcores.com/rss)|[今川泰宏与《铁人28号》前篇：两位正太郎](https://www.gcores.com/videos/184333)|
+|2024-07-11 09:15:12|[机核](https://www.gcores.com/rss)|[Switch/Steam版《美少女梦工厂2 韶华再续》今日发售，上市宣传片公开](https://www.gcores.com/articles/184840)|
+|2024-07-11 09:06:19|[机核](https://www.gcores.com/rss)|[感谢所有蟹蟹购买！《蟹蟹寻宝奇遇》所有玩家已为海洋环保捐赠6万美元](https://www.gcores.com/articles/184828)|
+|2024-07-11 09:00:00|[机核](https://www.gcores.com/rss)|[42你为什么不让我参与你的节目！录音笔 VOL.242](https://www.gcores.com/radios/184835)|
+|2024-07-11 10:02:55|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[长这么好看，不要命啦？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456002&idx=1&sn=c2d53fb3faa0241a62f5b72e8895b207)|
+|2024-07-11 15:45:32|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[🎉我是如何从零到成为 Apache 顶级项目的 Committer](http://crossoverjie.top/2024/07/11/ob/%F0%9F%8E%89how-to-be-committer/)|
 |2024-07-11 09:15:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【译】最糟糕的程序员](https://w2solo.com/topics/4760)|
 |2024-07-11 08:29:51|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享一个 AI 对接工具，懒人客服](https://w2solo.com/topics/4759)|
 |2024-07-11 08:25:53|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[不卷学历和背景的赛道，也能月入过万？](https://w2solo.com/topics/4758)|
