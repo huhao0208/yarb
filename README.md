@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-11 08:30:22|[GamerNoTitle](https://bili33.top/atom.xml)|[使用Github Action将当前仓库同步到Cloudflare R2存储桶](https://bili33.top/posts/Sync-Github-Repo-to-Clouflare-R2-Bucket-with-Action/)|
 |2024-07-11 15:00:00|[机核](https://www.gcores.com/rss)|[《魔兽故事》卷二十九-死亡之翼的遗产与格瑞姆巴托之战](https://www.gcores.com/radios/184615)|
 |2024-07-11 14:22:26|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第15回——玛丽卡，质疑无上意志](https://www.gcores.com/articles/184823)|
 |2024-07-11 13:22:43|[机核](https://www.gcores.com/rss)|[【抽送Steam版游戏】冷饭热炒，香味犹在：小评《真·女神转生5：复仇》](https://www.gcores.com/articles/184845)|
