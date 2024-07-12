@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-12 04:00:00|[机核](https://www.gcores.com/rss)|[黑色 ROG Ally X，上手开箱](https://www.gcores.com/videos/184871)|
+|2024-07-12 03:45:00|[机核](https://www.gcores.com/rss)|[真·用脚操作的FPS游戏！《愤怒的大脚》今日正式上线](https://www.gcores.com/articles/184875)|
+|2024-07-12 03:00:00|[机核](https://www.gcores.com/rss)|[机核邀您提前看《龙卷风》｜北京活动](https://www.gcores.com/articles/184830)|
+|2024-07-12 03:00:00|[机核](https://www.gcores.com/rss)|[让玩家自由地在空中起舞：《波与月夜之青莲》创意导演专访](https://www.gcores.com/articles/184705)|
+|2024-07-12 02:54:08|[机核](https://www.gcores.com/rss)|[《Last Mile》的「世界线交错回顾PV」公开，影片8月23日上映](https://www.gcores.com/articles/184869)|
+|2024-07-12 02:54:06|[机核](https://www.gcores.com/rss)|[开箱《博德之门3》PC实体豪华大盒版](https://www.gcores.com/videos/184870)|
+|2024-07-12 02:52:50|[机核](https://www.gcores.com/rss)|[《闪灵》女主角演员谢莉·杜瓦尔因病去世，享年75岁](https://www.gcores.com/articles/184868)|
+|2024-07-12 02:44:22|[机核](https://www.gcores.com/rss)|[《暗黑破坏神4》DLC新职业“灵巫”相关内容将于19号公布](https://www.gcores.com/articles/184866)|
+|2024-07-12 02:01:06|[机核](https://www.gcores.com/rss)|[23块8，热门大作带回家：育碧“夏日狂欢节”促销现已开启](https://www.gcores.com/articles/184865)|
+|2024-07-12 01:55:49|[机核](https://www.gcores.com/rss)|[动画《租借女友》宣布制作第四季，预告视频公开](https://www.gcores.com/articles/184864)|
+|2024-07-12 01:25:15|[机核](https://www.gcores.com/rss)|[在末世中驰骋：《耀斑纪元》第二次重大更新带来驾驶卡车新体验](https://www.gcores.com/articles/184836)|
+|2024-07-12 01:20:55|[机核](https://www.gcores.com/rss)|[《过山车之星2》正式公开，将于秋季发售](https://www.gcores.com/articles/184863)|
+|2024-07-12 01:14:23|[机核](https://www.gcores.com/rss)|[含《最终幻想7 核心危机 重聚》《骑马与砍杀2 霸主》：索尼公布7月PS+新增游戏阵营](https://www.gcores.com/articles/184862)|
 |2024-07-12 01:02:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 141 期）：一个 MVP 开发服务收入 6.5 万美元](https://w2solo.com/topics/4761)|
 |2024-07-11 08:30:22|[GamerNoTitle](https://bili33.top/atom.xml)|[使用Github Action将当前仓库同步到Cloudflare R2存储桶](https://bili33.top/posts/Sync-Github-Repo-to-Clouflare-R2-Bucket-with-Action/)|
 |2024-07-11 15:00:00|[机核](https://www.gcores.com/rss)|[《魔兽故事》卷二十九-死亡之翼的遗产与格瑞姆巴托之战](https://www.gcores.com/radios/184615)|
