@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-07-11）
+﻿# 每日资讯（2024-07-12）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-12 01:02:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 141 期）：一个 MVP 开发服务收入 6.5 万美元](https://w2solo.com/topics/4761)|
 |2024-07-11 08:30:22|[GamerNoTitle](https://bili33.top/atom.xml)|[使用Github Action将当前仓库同步到Cloudflare R2存储桶](https://bili33.top/posts/Sync-Github-Repo-to-Clouflare-R2-Bucket-with-Action/)|
 |2024-07-11 15:00:00|[机核](https://www.gcores.com/rss)|[《魔兽故事》卷二十九-死亡之翼的遗产与格瑞姆巴托之战](https://www.gcores.com/radios/184615)|
 |2024-07-11 14:22:26|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第15回——玛丽卡，质疑无上意志](https://www.gcores.com/articles/184823)|
@@ -20,6 +21,7 @@
 |2024-07-11 08:29:51|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享一个 AI 对接工具，懒人客服](https://w2solo.com/topics/4759)|
 |2024-07-11 08:25:53|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[不卷学历和背景的赛道，也能月入过万？](https://w2solo.com/topics/4758)|
 |2024-07-11 07:50:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[积墨 AI——开箱即用的企业级 AI 能力构建平台](https://w2solo.com/topics/4757)|
+|2024-07-12 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[第 8 个秀](https://leimao.github.io/essay/%E7%AC%AC8%E4%B8%AA%E7%A7%80-The-8-Show/)|
 |2024-07-11 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[LoRA and LoRAPrune](https://leimao.github.io/blog/LoRA-LoRAPrune/)|
 |2024-07-11 08:20:58|[机核](https://www.gcores.com/rss)|[第一人称恐怖观测游戏《轮班87》将于7月23日发售](https://www.gcores.com/articles/184833)|
 |2024-07-11 08:00:00|[机核](https://www.gcores.com/rss)|[原创漫画丨梦入侵](https://www.gcores.com/articles/184815)|
