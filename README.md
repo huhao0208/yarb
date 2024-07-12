@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-12 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[@property: Next-gen CSS variables now with universal browser support](https://web.dev/blog/at-property-baseline?hl=en)|
+|2024-07-12 09:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果黑科技：不用連接網路！iPhone 也能語音通話](https://www.iphonetaiwan.org/2024/07/apple-iphone-no-network-voice-call.html)|
+|2024-07-12 09:40:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Delta 模擬器更新：iPad 全面支援，多遊戲同時享受](https://www.iphonetaiwan.org/2024/07/delta-simulator-update-ipad.html)|
+|2024-07-12 09:15:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 15 Pro 影片《¡Suerte!》：探索墨西哥文化的視覺饗宴](https://www.iphonetaiwan.org/2024/07/iphone-15-pro-suerte-mexican-culture.html)|
+|2024-07-12 08:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果與歐盟達成和解！iPhone 開放 NFC 行動支付給第三方](https://www.iphonetaiwan.org/2024/07/iphone-nfc-eu.html)|
 |2024-07-12 12:36:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[TikTok Voice 一个免费文本转语言工具，以及背后的产品思考](https://w2solo.com/topics/4763)|
 |2024-07-12 11:01:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[10 年，一个设计师，产品经理，到出海 AI 工具开发者](https://w2solo.com/topics/4762)|
 |2024-07-12 08:45:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[阳山白凤水蜜桃，最后 48 小时](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456064&idx=2&sn=5e6e44c56b7d0d30d0c4e2e291f92fb1)|
