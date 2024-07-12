@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-12 10:10:45|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》股價報報](https://applefans.today/2024-ios-17-shortcuts-stock-price/)|
+|2024-07-12 08:09:12|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 日常必備的配件之一 Cache 3.0 快取行動革夾](https://applefans.today/2024-07-zenlet-cache3-reviews/)|
+|2024-07-12 03:54:20|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Aiarty Image Enhancer 超簡單 AI 修復放大模糊圖片、老照片](https://applefans.today/2024-07-aiarty-image-enhancer/)|
+|2024-07-12 02:43:21|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果告訴你 為什麼要買 Apple Watch 給小孩用？](https://applefans.today/2024-07-apple-watch-for-kids/)|
+|2024-07-12 08:44:48|[Mosu](https://www.mosuzi.com/atom.xml)|[53.最大子数组和](https://mosuzi.com/docs/tech/leetcode/50-max-sub-array-sum/)|
+|2024-07-12 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[三星 Galaxy Z Fold6 Z Flip6 与 Galaxy Buds3 系列正式发布｜揭开 Galaxy AI 新篇章](https://www.photoworld.com.cn/post/177153)|
+|2024-07-12 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[王建军专访｜索尼双子星镜头下的美国西部印象](https://www.photoworld.com.cn/post/177163)|
+|2024-07-12 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[激活你的小美 “力”，索尼 APS-C 画幅微单&#x2122;ZV-E10 II 新登场](https://www.photoworld.com.cn/post/177173)|
 |2024-07-12 06:37:31|[Mr. PM 下午先生](http://feeds.feedburner.com/pmmustknow)|[數據化營運與決策](https://mrpm.cc/?p=1673)|
 |2024-07-12 04:00:00|[机核](https://www.gcores.com/rss)|[黑色 ROG Ally X，上手开箱](https://www.gcores.com/videos/184871)|
 |2024-07-12 03:45:00|[机核](https://www.gcores.com/rss)|[真·用脚操作的FPS游戏！《愤怒的大脚》今日正式上线](https://www.gcores.com/articles/184875)|
