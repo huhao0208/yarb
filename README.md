@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-07-12）
+﻿# 每日资讯（2024-07-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-13 01:00:00|[机核](https://www.gcores.com/rss)|[1.边缘行者指南——边缘视角](https://www.gcores.com/articles/184901)|
 |2024-07-12 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[@property: Next-gen CSS variables now with universal browser support](https://web.dev/blog/at-property-baseline?hl=en)|
 |2024-07-12 09:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果黑科技：不用連接網路！iPhone 也能語音通話](https://www.iphonetaiwan.org/2024/07/apple-iphone-no-network-voice-call.html)|
 |2024-07-12 09:40:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Delta 模擬器更新：iPad 全面支援，多遊戲同時享受](https://www.iphonetaiwan.org/2024/07/delta-simulator-update-ipad.html)|
