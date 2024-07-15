@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-15 13:14:16|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《猩球崛起4》：猩猩统治地球300年后，人类成了稀有动物，结尾让猩猩心寒！](https://www.ximalaya.com/sound/741546860)|
+|2024-07-15 13:44:11|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 七 制作搞笑动画视频](https://xugaoxiang.com/2024/07/15/ai-project-7/)|
+|2024-07-15 14:09:11|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 74：应对国内安卓市场我已驾轻就熟](https://w2solo.com/topics/4773)|
+|2024-07-15 03:14:12|[竹林里有冰的博客](https://zhul.in/rss.xml)|[尝试体验 Fedora COPR 中的 allow SSH 功能](https://zhul.in/2024/07/15/try-ssh-connection-in-fedora-copr/)|
 |2024-07-15 12:28:18|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Android手机投屏](https://xugaoxiang.com/2024/07/15/scrcpy/)|
 |2024-07-15 08:41:32|[Decohack](https://www.decohack.com/feed)|[2024 年你需要知道的免费 API-独立产品灵感周刊 DecoHack #061](https://www.decohack.com/Post/1556)|
 |2024-07-15 08:34:29|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[它来了，甜过白凤的阳山湖景水蜜桃！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456150&idx=2&sn=10c7622a9d6978d646f871c28a141a79)|
