@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-07-14）
+﻿# 每日资讯（2024-07-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-15 00:51:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jul.7 - Jul.13](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240713/)|
 |2024-07-14 14:24:50|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[聊一下 Linux 中 dmesg 跟 journal 的差别](https://nicksxs.me/2024/07/14/%E8%81%8A%E4%B8%80%E4%B8%8B-Linux-%E4%B8%AD-dmesg-%E8%B7%9F-journal-%E7%9A%84%E5%B7%AE%E5%88%AB/)|
 |2024-07-14 15:00:00|[机核](https://www.gcores.com/rss)|[玩手游就松弛不了一点！松弛聊手游：《绝区零》、《鸣潮》、《世界弹射物语》](https://www.gcores.com/radios/184853)|
 |2024-07-14 11:09:54|[机核](https://www.gcores.com/rss)|[本周节目预告 7.15~7.21](https://www.gcores.com/articles/184963)|
