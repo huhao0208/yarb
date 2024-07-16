@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-16 03:14:34|[机核](https://www.gcores.com/rss)|[幻塔工作室新作，超自然都市开放世界RPG《异环》首曝PV&实机演示](https://www.gcores.com/articles/185034)|
+|2024-07-16 02:58:56|[机核](https://www.gcores.com/rss)|[《真人快打1》公布高桥武田实机演示预告，将于7月23日参战](https://www.gcores.com/articles/185032)|
+|2024-07-16 02:39:48|[机核](https://www.gcores.com/rss)|[卡普空《祇：女神之路》Metacritic媒体评分出炉：均分79分](https://www.gcores.com/articles/185029)|
+|2024-07-16 02:01:18|[机核](https://www.gcores.com/rss)|[Steam喜加一：原价80元潜行游戏《静脉注射》免费领](https://www.gcores.com/articles/185030)|
 |2024-07-16 01:31:42|[机核](https://www.gcores.com/rss)|[《使命召唤:黑色行动6》抢先测试将于8月31日开启，预购及XGP玩家均可体验](https://www.gcores.com/articles/185026)|
 |2024-07-16 01:15:02|[机核](https://www.gcores.com/rss)|[Steam格斗游戏节现已隆重开幕，带来诸多好价折扣](https://www.gcores.com/articles/185025)|
 |2024-07-15 02:22:14|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[分布式系统如何做负载均衡](http://crossoverjie.top/2024/07/15/ob/Pulsar-loadbalance/)|
