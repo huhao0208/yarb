@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-07-15）
+﻿# 每日资讯（2024-07-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-16 01:31:42|[机核](https://www.gcores.com/rss)|[《使命召唤:黑色行动6》抢先测试将于8月31日开启，预购及XGP玩家均可体验](https://www.gcores.com/articles/185026)|
+|2024-07-16 01:15:02|[机核](https://www.gcores.com/rss)|[Steam格斗游戏节现已隆重开幕，带来诸多好价折扣](https://www.gcores.com/articles/185025)|
 |2024-07-15 02:22:14|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[分布式系统如何做负载均衡](http://crossoverjie.top/2024/07/15/ob/Pulsar-loadbalance/)|
 |2024-07-15 13:14:16|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《猩球崛起4》：猩猩统治地球300年后，人类成了稀有动物，结尾让猩猩心寒！](https://www.ximalaya.com/sound/741546860)|
 |2024-07-15 13:44:11|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 七 制作搞笑动画视频](https://xugaoxiang.com/2024/07/15/ai-project-7/)|
