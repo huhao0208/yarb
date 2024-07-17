@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-17 12:37:07|[机核](https://www.gcores.com/rss)|[集英社游戏开设哔哩哔哩账户，首期直播带来四款游戏参展详情](https://www.gcores.com/articles/185146)|
+|2024-07-17 11:30:08|[机核](https://www.gcores.com/rss)|[极品飞车：一张赛车游戏的“旧船票”](https://www.gcores.com/articles/185135)|
+|2024-07-17 11:00:00|[机核](https://www.gcores.com/rss)|[当哥斯拉开始爱漂亮](https://www.gcores.com/videos/185119)|
+|2024-07-17 10:33:20|[机核](https://www.gcores.com/rss)|[JOYTOY战锤40K新品公布：圣血天使圣血卫队参战](https://www.gcores.com/articles/185133)|
+|2024-07-17 10:01:26|[机核](https://www.gcores.com/rss)|[【抽奖】《学园构想家》今日主机全平台上线](https://www.gcores.com/articles/185132)|
+|2024-07-17 10:00:00|[机核](https://www.gcores.com/rss)|[“面向所有的游戏玩家和创作者”：英伟达叫我们去看了看他们的AI新技术](https://www.gcores.com/articles/185129)|
+|2024-07-17 10:00:00|[机核](https://www.gcores.com/rss)|[为什么大家爱在游戏预告片中，做“电影”？](https://www.gcores.com/videos/185115)|
+|2024-07-17 09:29:04|[机核](https://www.gcores.com/rss)|[熟悉的声优！动画《乱马1/2》公开第1弹PV，10月5日开播](https://www.gcores.com/articles/185131)|
+|2024-07-17 09:03:27|[机核](https://www.gcores.com/rss)|[外媒公布《影之刃零》12分钟BW试玩实机演示](https://www.gcores.com/articles/185128)|
+|2024-07-17 09:00:00|[机核](https://www.gcores.com/rss)|[采访萌新褪色者：玩进去了！录音笔 VOL.246](https://www.gcores.com/radios/185126)|
+|2024-07-17 08:35:13|[机核](https://www.gcores.com/rss)|[《新宿葬命》确认将于11月24日登陆NS平台：剧本为「片冈智」负责](https://www.gcores.com/articles/185127)|
+|2024-07-17 08:32:32|[机核](https://www.gcores.com/rss)|[大宇98年经典游戏《阿猫阿狗》上线Steam商城页，支持简体中文](https://www.gcores.com/articles/185124)|
+|2024-07-17 08:20:00|[机核](https://www.gcores.com/rss)|[群聊里爆火的“宾果游戏”，到底是个啥](https://www.gcores.com/articles/184908)|
+|2024-07-17 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[USPS Informed Delivery and Lost Mails](https://leimao.github.io/blog/USPS-Informed-Delivery-Lost-Mails/)|
+|2024-07-17 09:14:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果告訴你 6 個 Safari 瀏覽器比 Chrome 安全性的原因](https://applefans.today/2024-07-apple-safari-privacy-features-better-chrome/)|
 |2024-07-17 08:00:03|[机核](https://www.gcores.com/rss)|[任天堂公布Switch日服2024上半年游戏下载排行榜](https://www.gcores.com/articles/185120)|
 |2024-07-17 07:30:55|[机核](https://www.gcores.com/rss)|[微软计划解散“多元、公平与共融” DEI 部门](https://www.gcores.com/articles/185117)|
 |2024-07-17 07:04:07|[机核](https://www.gcores.com/rss)|[沙盒冒险游戏《整蛊鸦》公布新宣传片，8月15日发售](https://www.gcores.com/articles/185114)|
