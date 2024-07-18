@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-07-17）
+﻿# 每日资讯（2024-07-18）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-18 01:18:10|[机核](https://www.gcores.com/rss)|[《EA SPORTS FC 25》定于9月27日发售，预购现已开启](https://www.gcores.com/articles/185160)|
 |2024-07-17 12:01:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[名店大厨的包子面馆，希望早日开到我楼下！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456267&idx=1&sn=aa8a3d8812dd14d77fe928a3073a0a1e)|
 |2024-07-17 15:00:00|[机核](https://www.gcores.com/rss)|[谁是悟空？丨《英雄变格》](https://www.gcores.com/radios/184852)|
 |2024-07-17 09:32:08|[Happy Hack Everday](https://blog.happyhack.io/atom.xml)|[vscode-docker](https://blog.happyhack.io/2024/07/17/vscode-docker/)|
