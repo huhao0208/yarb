@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-18 00:25:47|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[使用nmtui配置wifi连接](https://jasonkayzk.github.io/2024/07/18/%E4%BD%BF%E7%94%A8nmtui%E9%85%8D%E7%BD%AEwifi%E8%BF%9E%E6%8E%A5/)|
+|2024-07-18 00:04:29|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[老旧笔记本安装Debian系统后Broadcom驱动缺失解决方法](https://jasonkayzk.github.io/2024/07/18/%E8%80%81%E6%97%A7%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%AE%89%E8%A3%85Debian%E7%B3%BB%E7%BB%9F%E5%90%8EBroadcom%E9%A9%B1%E5%8A%A8%E7%BC%BA%E5%A4%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/)|
 |2024-07-18 01:18:10|[机核](https://www.gcores.com/rss)|[《EA SPORTS FC 25》定于9月27日发售，预购现已开启](https://www.gcores.com/articles/185160)|
 |2024-07-17 12:01:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[名店大厨的包子面馆，希望早日开到我楼下！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456267&idx=1&sn=aa8a3d8812dd14d77fe928a3073a0a1e)|
 |2024-07-17 15:00:00|[机核](https://www.gcores.com/rss)|[谁是悟空？丨《英雄变格》](https://www.gcores.com/radios/184852)|
