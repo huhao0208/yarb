@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-18 09:10:04|[](http://blog.fivest.one/feed)|[thing in itself](https://blog.fivest.one/archives/6816)|
+|2024-07-18 12:32:21|[机核](https://www.gcores.com/rss)|[国产肉鸽动作游戏《失落城堡2》公布定价，游戏将于7月25日在Steam平台发售](https://www.gcores.com/articles/185196)|
+|2024-07-18 11:05:06|[机核](https://www.gcores.com/rss)|[精准狙击，从来都不是简单事](https://www.gcores.com/articles/185190)|
+|2024-07-18 11:00:00|[机核](https://www.gcores.com/rss)|[侠客江湖 风云再起！](https://www.gcores.com/videos/185178)|
+|2024-07-18 10:30:00|[机核](https://www.gcores.com/rss)|[今川泰宏与《铁人28号》后篇：白昼的残月](https://www.gcores.com/videos/184651)|
+|2024-07-18 10:01:24|[机核](https://www.gcores.com/rss)|[【抽奖】首部“轻魂”新游：《燧石枪：黎明之围》现已发售](https://www.gcores.com/articles/185188)|
+|2024-07-18 09:08:16|[机核](https://www.gcores.com/rss)|[《超自然车旅》发布首次免费内容更新，销量突破五十万](https://www.gcores.com/articles/185186)|
+|2024-07-18 09:00:00|[机核](https://www.gcores.com/rss)|[《辛特堡传说》：如果一款游戏把每种玩法都做进去，会不会特别好玩？](https://www.gcores.com/articles/184911)|
+|2024-07-18 09:00:00|[机核](https://www.gcores.com/rss)|[听金广发聊老街机游戏，录音笔 VOL.247](https://www.gcores.com/radios/183699)|
+|2024-07-18 08:55:14|[机核](https://www.gcores.com/rss)|[收录VTuber鬼故事的书《VTuber鬼故事》将于7月25日发行](https://www.gcores.com/articles/185184)|
 |2024-07-18 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[AAA 办理 DMV 业务](https://leimao.github.io/essay/AAA%E5%8A%9E%E7%90%86DMV%E4%B8%9A%E5%8A%A1/)|
 |2024-07-18 07:59:36|[机核](https://www.gcores.com/rss)|[反乌托邦城市卡牌建造游戏《钢铁蜂巢》中文试玩版现已在Steam上推出](https://www.gcores.com/articles/185183)|
 |2024-07-18 06:50:24|[机核](https://www.gcores.com/rss)|[影游融合：互动式电影的跨媒介叙事探究](https://www.gcores.com/articles/185177)|
