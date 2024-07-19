@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-19 02:09:52|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[冷门高分佳作《启示》：这才叫劲爆丛林冒险片，玛雅文明的丛林之战，活人献祭太阳神！](https://www.ximalaya.com/sound/742317585)|
 |2024-07-19 12:16:33|[机核](https://www.gcores.com/rss)|[《崩坏：星穹铁道》将与《Fate/stay night Unlimited Blade Works 》展开联动](https://www.gcores.com/articles/185299)|
 |2024-07-19 11:00:00|[机核](https://www.gcores.com/rss)|[当爱已成往事](https://www.gcores.com/videos/185255)|
 |2024-07-19 10:20:00|[机核](https://www.gcores.com/rss)|[本周社区热门推荐：尴尬的恐怖，旅行与夏天｜第7期](https://www.gcores.com/articles/185238)|
