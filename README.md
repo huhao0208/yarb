@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-07-18）
+﻿# 每日资讯（2024-07-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-19 00:51:09|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 142 期）：一个 AI 个人穿搭 App 年收入 300 万美元](https://w2solo.com/topics/4781)|
+|2024-07-19 00:43:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #38：让画画更简单](https://w2solo.com/topics/4780)|
 |2024-07-18 14:08:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》一鍵傳送經緯度海拔](https://applefans.today/2024-shortcuts-ios-17-iphone-send-location-message/)|
 |2024-07-18 08:36:58|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[一旦吃过阳山湖景，你这辈子就定型了](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456297&idx=1&sn=e6f25d6964afef406cdfa2f391a4c137)|
 |2024-07-18 15:00:00|[机核](https://www.gcores.com/rss)|[米凯拉算不算男美女？游戏茶话会 VOL.73](https://www.gcores.com/radios/184850)|
