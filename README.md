@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-19 12:16:33|[机核](https://www.gcores.com/rss)|[《崩坏：星穹铁道》将与《Fate/stay night Unlimited Blade Works 》展开联动](https://www.gcores.com/articles/185299)|
+|2024-07-19 11:00:00|[机核](https://www.gcores.com/rss)|[当爱已成往事](https://www.gcores.com/videos/185255)|
+|2024-07-19 10:20:00|[机核](https://www.gcores.com/rss)|[本周社区热门推荐：尴尬的恐怖，旅行与夏天｜第7期](https://www.gcores.com/articles/185238)|
+|2024-07-19 09:35:57|[机核](https://www.gcores.com/rss)|[机核发行4款游戏出展日本独立游戏展会「Bitsummit Drift」](https://www.gcores.com/articles/185168)|
+|2024-07-19 09:24:29|[机核](https://www.gcores.com/rss)|[回来了：暴雪游戏确认重返2024年ChinaJoy](https://www.gcores.com/articles/185294)|
+|2024-07-19 09:00:34|[机核](https://www.gcores.com/rss)|[看《龙卷风》唤起了我的童年回忆，录音笔 VOL.248](https://www.gcores.com/radios/185282)|
+|2024-07-19 08:37:19|[机核](https://www.gcores.com/rss)|[传送射击游戏《Splitgate 2》正式公开，将于2025年发售](https://www.gcores.com/articles/185278)|
+|2024-07-19 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图242期:天气挺热，还有点饿](https://www.gcores.com/articles/182909)|
 |2024-07-19 07:58:18|[机核](https://www.gcores.com/rss)|[沙丘前传剧集《沙丘：预言》发布全新预告片](https://www.gcores.com/articles/185252)|
 |2024-07-19 07:49:20|[机核](https://www.gcores.com/rss)|[《异形：夺命舰》公布终极预告，将于8月15日上映](https://www.gcores.com/articles/185244)|
 |2024-07-19 07:38:03|[机核](https://www.gcores.com/rss)|[单人剧本杀推凶游戏《子归》现已发售](https://www.gcores.com/articles/185237)|
