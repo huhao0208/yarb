@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-20 17:00:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[突破 Redmi 最强体验，Redmi K70 至尊版震撼来袭！](https://www.photoworld.com.cn/post/177240)|
+|2024-07-20 17:00:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[大方从容｜小米发布全新 Xiaomi MIX 折叠屏家族](https://www.photoworld.com.cn/post/177223)|
+|2024-07-20 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Volume Rendering](https://leimao.github.io/blog/Volume-Rendering/)|
 |2024-07-20 14:33:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #61：PyPI 管理员密钥泄露事件（摘要）](https://w2solo.com/topics/4785)|
 |2024-07-20 15:00:00|[机核](https://www.gcores.com/rss)|[事情不多，但聊个不停！核周报07.20](https://www.gcores.com/radios/184849)|
 |2024-07-20 07:38:38|[机核](https://www.gcores.com/rss)|[现实版GTA4！当你在Niko家附近遭遇“三星通缉”的场面...](https://www.gcores.com/videos/185321)|
