@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-21 03:37:14|[机核](https://www.gcores.com/rss)|[本周节目预告 7.22~7.28](https://www.gcores.com/articles/185356)|
+|2024-07-21 02:30:00|[机核](https://www.gcores.com/rss)|[【木工】系兄弟就来一起磨木头](https://www.gcores.com/videos/185273)|
+|2024-07-21 02:00:00|[机核](https://www.gcores.com/rss)|[il vento d'oro NTL Bootleg ](https://www.gcores.com/videos/185350)|
 |2024-07-21 02:32:45|[I'm OWenT](https://owent.net/index.xml)|[踩坑一处（GCC）STL `std::async` 实现BUG导致的crash问题](//owent.net/2024/2402.html)|
 |2024-07-20 17:00:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[突破 Redmi 最强体验，Redmi K70 至尊版震撼来袭！](https://www.photoworld.com.cn/post/177240)|
 |2024-07-20 17:00:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[大方从容｜小米发布全新 Xiaomi MIX 折叠屏家族](https://www.photoworld.com.cn/post/177223)|
