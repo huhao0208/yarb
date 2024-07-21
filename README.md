@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-21 03:11:34|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[【转】關於日文漢字與平假名的使用](https://jasonkayzk.github.io/2024/07/21/%E3%80%90%E8%BD%AC%E3%80%91%E9%97%9C%E6%96%BC%E6%97%A5%E6%96%87%E6%BC%A2%E5%AD%97%E8%88%87%E5%B9%B3%E5%81%87%E5%90%8D%E7%9A%84%E4%BD%BF%E7%94%A8/)|
+|2024-07-21 02:47:05|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[日语时态总结](https://jasonkayzk.github.io/2024/07/21/%E6%97%A5%E8%AF%AD%E6%97%B6%E6%80%81%E6%80%BB%E7%BB%93/)|
+|2024-07-21 17:29:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[本周独立产品精选推荐 - 独立产品灵感周刊 DecoHack #062](https://w2solo.com/topics/4786)|
+|2024-07-21 17:10:42|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[从零开始搭建你的免费博客评论系统（Remark42 + fly.io）](https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio/)|
+|2024-07-21 00:30:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit](https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/)|
+|2024-07-21 15:00:00|[机核](https://www.gcores.com/rss)|[聊聊你的“游戏阈值”](https://www.gcores.com/radios/185263)|
+|2024-07-21 07:12:24|[机核](https://www.gcores.com/rss)|[壁纸摄影丨《艾尔登法环：黄金树幽影》自摄影壁纸级截图分享（下）](https://www.gcores.com/articles/185182)|
 |2024-07-21 14:01:34|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[江南百年的饮食讲究，都在这些时令小鲜里](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456413&idx=1&sn=e77276a0b89edeb8894f1c057997c754)|
 |2024-07-21 14:15:25|[Finisky Garden](https://finisky.github.io/atom.xml)|[ChatGPT擅长搜索排序吗？](https://finisky.github.io/is-chatgpt-good-at-search-ranking/)|
 |2024-07-21 03:41:20|[251 的魔法实验室](https://blog.251.sh/feed/)|[奇怪的 RDP 不保存密码的现象](https://blog.251.sh/please-save-my-password-rdp)|
