@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-21 12:07:11|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[向量数据库 Milvus 安装初体验](https://nicksxs.me/2024/07/21/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-Milvus-%E5%AE%89%E8%A3%85%E5%88%9D%E4%BD%93%E9%AA%8C/)|
+|2024-07-21 10:33:34|[O3noBLOG](https://feeds.feedburner.com/othree)|[Oklab Color Space](https://blog.othree.net/log/2024/07/21/oklab-color-space/)|
 |2024-07-21 03:37:14|[机核](https://www.gcores.com/rss)|[本周节目预告 7.22~7.28](https://www.gcores.com/articles/185356)|
 |2024-07-21 02:30:00|[机核](https://www.gcores.com/rss)|[【木工】系兄弟就来一起磨木头](https://www.gcores.com/videos/185273)|
 |2024-07-21 02:00:00|[机核](https://www.gcores.com/rss)|[il vento d'oro NTL Bootleg ](https://www.gcores.com/videos/185350)|
