@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-21 14:01:34|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[江南百年的饮食讲究，都在这些时令小鲜里](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456413&idx=1&sn=e77276a0b89edeb8894f1c057997c754)|
+|2024-07-21 14:15:25|[Finisky Garden](https://finisky.github.io/atom.xml)|[ChatGPT擅长搜索排序吗？](https://finisky.github.io/is-chatgpt-good-at-search-ranking/)|
+|2024-07-21 03:41:20|[251 的魔法实验室](https://blog.251.sh/feed/)|[奇怪的 RDP 不保存密码的现象](https://blog.251.sh/please-save-my-password-rdp)|
 |2024-07-21 12:07:11|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[向量数据库 Milvus 安装初体验](https://nicksxs.me/2024/07/21/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-Milvus-%E5%AE%89%E8%A3%85%E5%88%9D%E4%BD%93%E9%AA%8C/)|
 |2024-07-21 10:33:34|[O3noBLOG](https://feeds.feedburner.com/othree)|[Oklab Color Space](https://blog.othree.net/log/2024/07/21/oklab-color-space/)|
 |2024-07-21 03:37:14|[机核](https://www.gcores.com/rss)|[本周节目预告 7.22~7.28](https://www.gcores.com/articles/185356)|
