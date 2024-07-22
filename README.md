@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-07-21）
+﻿# 每日资讯（2024-07-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-22 01:20:57|[机核](https://www.gcores.com/rss)|[富坚义博《全职猎人》第38卷将于9月4日发售](https://www.gcores.com/articles/185398)|
+|2024-07-22 01:15:02|[机核](https://www.gcores.com/rss)|[GG轻取Liquid，夺得沙特电竞世界杯《Dota2》项目冠军](https://www.gcores.com/articles/185397)|
+|2024-07-22 01:08:10|[机核](https://www.gcores.com/rss)|[《罪恶装备 奋战》公开季票4：《赛博朋克 边缘行者》露西将参战](https://www.gcores.com/articles/185396)|
 |2024-07-21 03:11:34|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[【转】關於日文漢字與平假名的使用](https://jasonkayzk.github.io/2024/07/21/%E3%80%90%E8%BD%AC%E3%80%91%E9%97%9C%E6%96%BC%E6%97%A5%E6%96%87%E6%BC%A2%E5%AD%97%E8%88%87%E5%B9%B3%E5%81%87%E5%90%8D%E7%9A%84%E4%BD%BF%E7%94%A8/)|
 |2024-07-21 02:47:05|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[日语时态总结](https://jasonkayzk.github.io/2024/07/21/%E6%97%A5%E8%AF%AD%E6%97%B6%E6%80%81%E6%80%BB%E7%BB%93/)|
 |2024-07-21 17:29:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[本周独立产品精选推荐 - 独立产品灵感周刊 DecoHack #062](https://w2solo.com/topics/4786)|
