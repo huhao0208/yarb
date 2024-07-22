@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-22 09:55:00|[机核](https://www.gcores.com/rss)|[《星际战甲》年度版本《星际战甲：1999》最新实机演示公布](https://www.gcores.com/articles/185447)|
+|2024-07-22 09:03:10|[机核](https://www.gcores.com/rss)|[《暗区突围：无限》、《动物派对》及《鬼谷八荒》手游过审：2024年7月份国产网络游戏审批信息公布](https://www.gcores.com/articles/185452)|
+|2024-07-22 09:00:00|[机核](https://www.gcores.com/rss)|[每一款游戏都如水一样流动，录音笔 VOL.249](https://www.gcores.com/radios/185399)|
+|2024-07-22 08:41:20|[机核](https://www.gcores.com/rss)|[同步北美：《异形：夺命舰》中国内地定档8月16日](https://www.gcores.com/articles/185444)|
 |2024-07-22 08:03:21|[机核](https://www.gcores.com/rss)|[《锈湖》团队桌游《Rusty Lake Untold》首章将于 7月24日开放下载](https://www.gcores.com/articles/185433)|
 |2024-07-22 05:32:56|[机核](https://www.gcores.com/rss)|[AARONDAMAC摘得《碧蓝幻想Versus: Rising》Evo 2024冠军](https://www.gcores.com/articles/185424)|
 |2024-07-22 05:05:19|[机核](https://www.gcores.com/rss)|[PUNK获EVO2024《街头霸王6》项目冠军](https://www.gcores.com/articles/185425)|
