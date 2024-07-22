@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-22 03:33:07|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Straight A Apple授權校園店專屬的 2024 Back To School 優惠](https://applefans.today/2024-07-straight-a-bts-event/)|
+|2024-07-22 02:11:12|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[從失望到成長的蛻變： Netflix 便宜會員 方案帶來的成效](https://applefans.today/2024-07-netflix-global-subscriber-increase-ads/)|
+|2024-07-22 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/29](https://weekly.pychina.org/pyrecap/pyrw-2429.html)|
+|2024-07-22 02:19:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[信息差——独立开发者出海周刊 第 11 期](https://w2solo.com/topics/4788)|
+|2024-07-22 02:06:25|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[鲜艺 AI 抠图 无需登录无需联网快至毫秒级](https://w2solo.com/topics/4787)|
 |2024-07-22 01:20:57|[机核](https://www.gcores.com/rss)|[富坚义博《全职猎人》第38卷将于9月4日发售](https://www.gcores.com/articles/185398)|
 |2024-07-22 01:15:02|[机核](https://www.gcores.com/rss)|[GG轻取Liquid，夺得沙特电竞世界杯《Dota2》项目冠军](https://www.gcores.com/articles/185397)|
 |2024-07-22 01:08:10|[机核](https://www.gcores.com/rss)|[《罪恶装备 奋战》公开季票4：《赛博朋克 边缘行者》露西将参战](https://www.gcores.com/articles/185396)|
