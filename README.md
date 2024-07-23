@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-23 12:00:00|[机核](https://www.gcores.com/rss)|[再见了，所有的特异点与异闻带](https://www.gcores.com/articles/185485)|
+|2024-07-23 10:00:00|[机核](https://www.gcores.com/rss)|[《祇 女神之路》：动静结合的先锋之作​​](https://www.gcores.com/videos/185504)|
+|2024-07-23 09:42:15|[机核](https://www.gcores.com/rss)|[【抽奖】模拟探案游戏就像欲望电影——《接线疑云》简评](https://www.gcores.com/articles/185503)|
+|2024-07-23 09:40:20|[机核](https://www.gcores.com/rss)|[育碧就《刺客信条：影》宣传物料争议向日本玩家致歉，澄清弥助创作意图及愿景](https://www.gcores.com/articles/185509)|
+|2024-07-23 09:00:00|[机核](https://www.gcores.com/rss)|[看完 EVO 2024，我整个人都热血了！录音笔 VOL.250](https://www.gcores.com/radios/185498)|
 |2024-07-23 06:26:31|[Hi, I Am I](https://5ime.cn/atom.xml)|[TenAPI issue bankruptcy](https://5ime.cn/tenapi-issue-bankruptcy.html)|
 |2024-07-23 07:37:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jul.14 - Jul.20](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240720/)|
 |2024-07-23 08:18:07|[机核](https://www.gcores.com/rss)|[类银河城独立游戏《偏差者》定档：8月2日抢先体验上线](https://www.gcores.com/articles/185502)|
