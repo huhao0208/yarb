@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-24 09:38:34|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[真实事件改编《夺命深渊》：探险团队深入绝命地洞，最终仅有1人生还！](https://www.ximalaya.com/sound/743528466)|
+|2024-07-24 09:15:59|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[什么破水果，还有前中后调？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456547&idx=1&sn=bba7bff08de73c4ecc0540c1687474ef)|
 |2024-07-24 06:01:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[35 岁，腾讯 11 年鹅离职，做数字游民](https://w2solo.com/topics/4797)|
 |2024-07-24 07:26:40|[机核](https://www.gcores.com/rss)|[《绝地潜兵2》大型更新“自由升级”将于8月6日上线](https://www.gcores.com/articles/185545)|
 |2024-07-24 06:33:06|[机核](https://www.gcores.com/rss)|[折后28元：像素风战术回合制肉鸽RPG《失落矿场》现已发售](https://www.gcores.com/articles/185552)|
