@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-24 13:06:51|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[Shire RAG 工作流：在 IDE 中编排 RAG，构建可信的编码智能体](http://www.phodal.com/blog/shire-coding-agent-rag-flow/)|
+|2024-07-24 08:28:46|[祝融说。](https://zhurongshuo.com/index.xml)|[缺乏的从来都不是问题的答案，是决心。](https://zhurongshuo.com/posts/2024/07/2401/)|
+|2024-07-24 12:54:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Wiki 页的这些链接都打不开](https://w2solo.com/topics/4800)|
+|2024-07-24 09:40:18|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个体重管理的 app，尝试接入了个 ai 模型](https://w2solo.com/topics/4799)|
+|2024-07-24 09:23:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[在小红书推广产品之前，先学点黑话](https://w2solo.com/topics/4798)|
 |2024-07-24 09:38:34|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[真实事件改编《夺命深渊》：探险团队深入绝命地洞，最终仅有1人生还！](https://www.ximalaya.com/sound/743528466)|
 |2024-07-24 09:15:59|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[什么破水果，还有前中后调？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456547&idx=1&sn=bba7bff08de73c4ecc0540c1687474ef)|
 |2024-07-24 06:01:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[35 岁，腾讯 11 年鹅离职，做数字游民](https://w2solo.com/topics/4797)|
