@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-24 16:16:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為何 Android 跳槽 iPhone 對蘋果未必是好消息？](https://applefans.today/2024-07-android-users-switching-survey/)|
 |2024-07-24 13:06:51|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[Shire RAG 工作流：在 IDE 中编排 RAG，构建可信的编码智能体](http://www.phodal.com/blog/shire-coding-agent-rag-flow/)|
 |2024-07-24 08:28:46|[祝融说。](https://zhurongshuo.com/index.xml)|[缺乏的从来都不是问题的答案，是决心。](https://zhurongshuo.com/posts/2024/07/2401/)|
 |2024-07-24 12:54:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Wiki 页的这些链接都打不开](https://w2solo.com/topics/4800)|
