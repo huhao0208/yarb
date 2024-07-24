@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-24 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Neural Radiance Fields](https://leimao.github.io/blog/Neural-Radiance-Fields-NeRF/)|
+|2024-07-24 03:30:00|[机核](https://www.gcores.com/rss)|[中字校对丨《死之棘》英国Radiance Films花絮中字](https://www.gcores.com/articles/185517)|
+|2024-07-24 03:21:43|[机核](https://www.gcores.com/rss)|[首届电竞奥运会将于2025年在沙特举办！](https://www.gcores.com/articles/185537)|
+|2024-07-24 01:59:53|[机核](https://www.gcores.com/rss)|[《狂野西部时代》将于8月22日结束抢先体验并正式发售](https://www.gcores.com/articles/185531)|
+|2024-07-24 01:36:14|[机核](https://www.gcores.com/rss)|[《艾尔登法环》五连冠 Steam周销量排行榜：2024年7月第3周](https://www.gcores.com/articles/185530)|
+|2024-07-24 01:23:41|[机核](https://www.gcores.com/rss)|[《严阵以待》现已推出“入室抢劫”DLC，国区售价42元](https://www.gcores.com/articles/185529)|
+|2024-07-24 01:11:56|[机核](https://www.gcores.com/rss)|[任天堂取消《斯普拉遁3》世界锦标赛2024冠军成绩](https://www.gcores.com/articles/185528)|
+|2024-07-24 01:00:10|[机核](https://www.gcores.com/rss)|[《使命召唤：现代战争3》将加入Xbox Game Pass](https://www.gcores.com/articles/185527)|
 |2024-07-23 09:24:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[必知！10 個你需要知道的 iPhone 安全性設定](https://applefans.today/2024-how-to-built-in-privacy-and-security-protections-of-iphone/)|
 |2024-07-23 04:05:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 玩 Pokémon GO 無法偵測目前位置 12 ？快速解決辦法—— iOS 改定位工具 MocPOGO](https://applefans.today/2024-07-mocpogo-ios-gps-location-changer/)|
 |2024-07-23 04:05:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞中 Google TV Streamer 的五大變化](https://applefans.today/2024-07-google-tv-streamer-rumors/)|
