@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-25 12:15:06|[机核](https://www.gcores.com/rss)|[《潜行者2：切尔诺贝利之心》延期至11月21日发售](https://www.gcores.com/articles/185646)|
+|2024-07-25 10:30:00|[机核](https://www.gcores.com/rss)|[高达武林《机动武斗传G》正式开坑！第一闘：回忆杀](https://www.gcores.com/videos/185108)|
+|2024-07-25 05:40:34|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[obspy去polezero类型仪器仪响应](http://www.seis-jun.xyz/obspy-paz)|
+|2024-07-25 09:45:50|[祝融说。](https://zhurongshuo.com/index.xml)|[不做假设，判断是当下的。](https://zhurongshuo.com/posts/2024/07/2502/)|
+|2024-07-25 03:12:27|[祝融说。](https://zhurongshuo.com/index.xml)|[简单并不比复杂高级，反之亦然。](https://zhurongshuo.com/posts/2024/07/2501/)|
 |2024-07-25 07:57:49|[机核](https://www.gcores.com/rss)|[以《斯普拉遁3》“鲑鱼跑”为灵感的新商品现已上市](https://www.gcores.com/articles/185610)|
 |2024-07-25 07:00:00|[机核](https://www.gcores.com/rss)|[机制设计——以Dota2中的25种状态效果为例](https://www.gcores.com/articles/185572)|
 |2024-07-25 06:46:46|[机核](https://www.gcores.com/rss)|[当机器人建设了一座西部风格小镇——《蒸汽世界：建造》](https://www.gcores.com/articles/185597)|
