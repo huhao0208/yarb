@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-26 10:03:33|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[【转】MacOS双开微信的方法](https://jasonkayzk.github.io/2024/07/26/MacOS%E5%8F%8C%E5%BC%80%E5%BE%AE%E4%BF%A1%E7%9A%84%E6%96%B9%E6%B3%95/)|
+|2024-07-26 08:04:30|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[老板战台风五点起小红书直播！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456625&idx=2&sn=5a0f0fae3670bfa38e1f31da9e746c58)|
+|2024-07-26 08:04:29|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[白松露和肉的味道，香迷糊了](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456625&idx=1&sn=55601775ab40dae0f4098339b4c03c46)|
 |2024-07-26 04:59:11|[摄影世界](https://feedx.net/rss/photoworld.xml)|[SmallRig 斯莫格发布《影像行业通用结构合集 1.0》，整合规格尺寸，开放生态建设](https://www.photoworld.com.cn/post/177260)|
 |2024-07-26 01:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[为什么 top node、free、Grafana 的数据对不上](https://www.chenshaowen.com/blog/why-top-node-free-grafana-data-not-match.html)|
 |2024-07-26 04:22:27|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[这玩意不是就__](https://github.com/yihong0618/gitblog/issues/291)|
