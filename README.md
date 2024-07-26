@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-26 03:53:11|[机核](https://www.gcores.com/rss)|[《神之亵渎》创意总监透露：将会有全新消息公布](https://www.gcores.com/articles/185686)|
+|2024-07-26 03:35:08|[机核](https://www.gcores.com/rss)|[Netflix动画《终结者：零》公布正式海报，8月29日上线](https://www.gcores.com/articles/185684)|
+|2024-07-26 02:13:39|[机核](https://www.gcores.com/rss)|[Netflix公开了3D动画剧集《机动战士高达 复仇的镇魂曲》第二支PV](https://www.gcores.com/articles/185674)|
+|2024-07-26 02:00:00|[机核](https://www.gcores.com/rss)|[开发主题公布！保时捷也发出了他们的挑战](https://www.gcores.com/articles/185593)|
+|2024-07-26 01:44:05|[机核](https://www.gcores.com/rss)|[BioWare《龙腾世纪: 影障守护者》已通过Steam Deck验证](https://www.gcores.com/articles/185671)|
+|2024-07-26 01:37:23|[机核](https://www.gcores.com/rss)|[《赛马娘 Pretty Derby 热血喧闹大感谢祭！》现已推出Steam商城页](https://www.gcores.com/articles/185670)|
+|2024-07-26 01:29:21|[机核](https://www.gcores.com/rss)|[Epic喜加一：原价108元《暗影火炬城》免费领](https://www.gcores.com/articles/185669)|
+|2024-07-26 01:13:28|[机核](https://www.gcores.com/rss)|[《剑星》将于今日正式推出“夏日更新”](https://www.gcores.com/articles/185668)|
 |2024-07-25 17:00:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[互联网十年龙（牢）套 笼 就到此结束吧](https://w2solo.com/topics/4848)|
 |2024-07-25 14:13:14|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[明晚老板小红书直播！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456586&idx=2&sn=6f206f4abfeb7413943d6bbd5273dc98)|
 |2024-07-25 14:13:14|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[拿过奖的葡萄，就是不一样](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456586&idx=1&sn=84cfc2a23575c60d51dc35ec76ff0ade)|
