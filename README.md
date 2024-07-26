@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-26 04:59:11|[摄影世界](https://feedx.net/rss/photoworld.xml)|[SmallRig 斯莫格发布《影像行业通用结构合集 1.0》，整合规格尺寸，开放生态建设](https://www.photoworld.com.cn/post/177260)|
+|2024-07-26 01:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[为什么 top node、free、Grafana 的数据对不上](https://www.chenshaowen.com/blog/why-top-node-free-grafana-data-not-match.html)|
 |2024-07-26 04:22:27|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[这玩意不是就__](https://github.com/yihong0618/gitblog/issues/291)|
 |2024-07-26 08:05:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[历时一个多月，拿了 3 个 offer 上岸了！](https://w2solo.com/topics/4851)|
 |2024-07-26 07:52:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个免费的长链接缩短网站 dwz.lv](https://w2solo.com/topics/4850)|
