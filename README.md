@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-27 09:46:54|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[人生は一度きり。だから楽しむべきよ](https://jasonkayzk.github.io/2024/07/27/%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%80%E5%BA%A6%E3%81%8D%E3%82%8A%E3%80%82%E3%81%A0%E3%81%8B%E3%82%89%E6%A5%BD%E3%81%97%E3%82%80%E3%81%B9%E3%81%8D%E3%82%88/)|
+|2024-07-27 08:17:11|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[解决VMWare桥接模式下无法自动获取IP的问题](https://jasonkayzk.github.io/2024/07/27/%E8%A7%A3%E5%86%B3VMWare%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E4%B8%8B%E6%97%A0%E6%B3%95%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96IP%E7%9A%84%E9%97%AE%E9%A2%98/)|
 |2024-07-27 07:00:00|[机核](https://www.gcores.com/rss)|[筒仓：从存储巨人到文化标志的演变](https://www.gcores.com/articles/185431)|
 |2024-07-27 04:22:06|[机核](https://www.gcores.com/rss)|[实用主义的两河流域古代神庙](https://www.gcores.com/articles/185747)|
 |2024-07-27 03:12:20|[机核](https://www.gcores.com/rss)|[STYX60](https://www.gcores.com/videos/185746)|
