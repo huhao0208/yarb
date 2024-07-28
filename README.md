@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-28 00:30:37|[木鸟杂记](https://www.qtmuniao.com/atom.xml)|[人生是旷野 —— 罗素《幸福之路》](https://www.qtmuniao.com/2024/07/28/listening-conquest-of-happiness/)|
 |2024-07-27 17:05:23|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[](https://www.kingname.info/2024/07/27/crawl-anything/)|
 |2024-07-27 15:00:00|[机核](https://www.gcores.com/rss)|[学术造假，循环论证，育碧踩地雷！核周报 07.27](https://www.gcores.com/radios/185267)|
 |2024-07-27 08:29:49|[机核](https://www.gcores.com/rss)|[巴黎奥运会开幕式，真致敬了《刺客信条》？](https://www.gcores.com/articles/185761)|
