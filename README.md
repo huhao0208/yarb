@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-28 08:41:03|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[尝试下图片向量化](https://nicksxs.me/2024/07/28/%E5%B0%9D%E8%AF%95%E4%B8%8B%E5%9B%BE%E7%89%87%E5%90%91%E9%87%8F%E5%8C%96/)|
 |2024-07-28 14:26:30|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[最后几颗蜜桃树，吃完就告别](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456639&idx=1&sn=03fbcdff43eea9168acfc1bc088e5b2a)|
 |2024-07-28 06:41:24|[依云's Blog](https://blog.lilydjwg.me/feed)|[fcitx5 码表同步方案](https://blog.lilydjwg.me/posts/216861.html)|
 |2024-07-28 15:00:00|[机核](https://www.gcores.com/rss)|[对话管理层：好作品，好产品，好商品，真的能平衡么？](https://www.gcores.com/radios/185735)|
