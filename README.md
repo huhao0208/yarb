@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-29 04:37:00|[Cat in Chinese](http://chinese.catchen.me/feeds/posts/default)|[做给 GitHub Actions 开发者用的 Actions（Part 2）](http://chinese.catchen.me/2024/07/github-actions-for-actions-developers-part-2.html)|
+|2024-07-29 11:32:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[小众独立产品推荐 - 独立产品灵感周刊 DecoHack #063](https://w2solo.com/topics/4861)|
 |2024-07-29 10:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第17回——艾尔登之王，拉达冈](https://www.gcores.com/articles/185829)|
 |2024-07-29 09:18:04|[机核](https://www.gcores.com/rss)|[BW 和 China Joy 救了我的大命，BOSE QC Ultra消噪耳机体验分享](https://www.gcores.com/articles/185855)|
 |2024-07-29 09:00:00|[机核](https://www.gcores.com/rss)|[为什么喜欢看奥运会，录音笔 VOL.254](https://www.gcores.com/radios/185840)|
