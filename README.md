@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-29 04:19:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞 Apple TV+ 將推出有廣告的訂閱方案](https://applefans.today/2024-07-apple-tv-bring-ad-support-option/)|
+|2024-07-29 01:48:45|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Intelligence 延遲推出，iPhone 16 銷售量是否受影響？](https://applefans.today/2024-07-gurman-when-apple-intelligence-release/)|
+|2024-07-29 03:44:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[因为媳妇的一句话，我做了一个 AI 画图软件](https://w2solo.com/topics/4859)|
+|2024-07-29 03:08:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[信息差——独立开发者出海周刊 第 12 期](https://w2solo.com/topics/4858)|
+|2024-07-29 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/30](https://weekly.pychina.org/pyrecap/pyrw-2430.html)|
 |2024-07-28 08:41:03|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[尝试下图片向量化](https://nicksxs.me/2024/07/28/%E5%B0%9D%E8%AF%95%E4%B8%8B%E5%9B%BE%E7%89%87%E5%90%91%E9%87%8F%E5%8C%96/)|
 |2024-07-28 14:26:30|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[最后几颗蜜桃树，吃完就告别](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456639&idx=1&sn=03fbcdff43eea9168acfc1bc088e5b2a)|
 |2024-07-28 06:41:24|[依云's Blog](https://blog.lilydjwg.me/feed)|[fcitx5 码表同步方案](https://blog.lilydjwg.me/posts/216861.html)|
