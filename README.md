@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-29 10:02:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你问我答，什么都可](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456698&idx=2&sn=74a204c2a5bd888b98ad17188a5eefb6)|
+|2024-07-29 10:02:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[来六百个冤大头！！你不会失望！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456698&idx=1&sn=c63e289a7a23c456abe87b71cadd7cd5)|
+|2024-07-29 21:41:38|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何正确保护Python代码](https://www.kingname.info/2024/07/29/pyarmor/)|
 |2024-07-29 04:37:00|[Cat in Chinese](http://chinese.catchen.me/feeds/posts/default)|[做给 GitHub Actions 开发者用的 Actions（Part 2）](http://chinese.catchen.me/2024/07/github-actions-for-actions-developers-part-2.html)|
 |2024-07-29 11:32:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[小众独立产品推荐 - 独立产品灵感周刊 DecoHack #063](https://w2solo.com/topics/4861)|
 |2024-07-29 10:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第17回——艾尔登之王，拉达冈](https://www.gcores.com/articles/185829)|
