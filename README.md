@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-30 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[New to the web platform in July](https://web.dev/blog/web-platform-07-2024?hl=en)|
+|2024-07-30 15:00:00|[机核](https://www.gcores.com/rss)|[读书：光荣与梦想 刘慈欣笔下最不科幻的科幻小说](https://www.gcores.com/radios/185736)|
+|2024-07-30 10:39:22|[机核](https://www.gcores.com/rss)|[《艾尔登法环 黄金树幽影》1.13补丁现已发布：拒绝的刺被拒绝了](https://www.gcores.com/articles/185950)|
+|2024-07-30 10:22:04|[机核](https://www.gcores.com/rss)|[这款粗糙的游戏，想讽刺“国产氪金网游”](https://www.gcores.com/articles/185948)|
+|2024-07-30 09:53:56|[机核](https://www.gcores.com/rss)|[荒木飞吕彦首个公共艺术作品“THE FOUNTAIN BOY”现已在日本公开](https://www.gcores.com/articles/185947)|
+|2024-07-30 09:00:00|[机核](https://www.gcores.com/rss)|[游戏能塑造世界，是因为这里有远方，录音笔 VOL.255](https://www.gcores.com/radios/185929)|
+|2024-07-30 08:56:38|[机核](https://www.gcores.com/rss)|[《神圣而可怕的空气》自译｜16. 灰域行者](https://www.gcores.com/articles/185943)|
+|2024-07-30 13:00:00|[OneV's Den](https://onevcat.com/feed.xml)|[Swift 6 适配的一些体会以及对现状的小吐槽](https://onevcat.com/2024/07/swift-6/)|
+|2024-07-30 10:16:17|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[葡萄届小黑马，又到尾声](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456754&idx=2&sn=a7ac15b96e5c16900aa67cdec148826c)|
+|2024-07-30 10:16:17|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[要倒闭了！！！快吃啊！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456754&idx=1&sn=0e8159ebc3efe315580b557f2e3b4648)|
 |2024-07-30 04:15:01|[迷途小书童的Note](https://xugaoxiang.com/feed)|[5款抠图工具](https://xugaoxiang.com/2024/07/30/5-background-remover-tools/)|
 |2024-07-30 10:48:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 76：失败固然可怕，但朋友的成功更令人揪心](https://w2solo.com/topics/4863)|
 |2024-07-30 06:35:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[google play 广告接入问题](https://w2solo.com/topics/4862)|
