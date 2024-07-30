@@ -1,10 +1,15 @@
-﻿# 每日资讯（2024-07-29）
+﻿# 每日资讯（2024-07-30）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-30 01:18:52|[机核](https://www.gcores.com/rss)|[再来一次：《上古卷轴OL》确认重返2024年QuakeCon](https://www.gcores.com/articles/185887)|
+|2024-07-30 01:17:32|[机核](https://www.gcores.com/rss)|[《圣剑传说 VISIONS of MANA》免费试玩Demo现已上架](https://www.gcores.com/articles/185886)|
+|2024-07-30 01:02:06|[机核](https://www.gcores.com/rss)|[PS5《宇宙机器人》限定款DualSense手柄将于9月6日发售](https://www.gcores.com/articles/185884)|
+|2024-07-30 00:30:00|[机核](https://www.gcores.com/rss)|[10.边缘行者指南——赛博朋克：边缘行者团队（2）](https://www.gcores.com/articles/185849)|
 |2024-07-29 10:02:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你问我答，什么都可](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456698&idx=2&sn=74a204c2a5bd888b98ad17188a5eefb6)|
 |2024-07-29 10:02:15|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[来六百个冤大头！！你不会失望！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456698&idx=1&sn=c63e289a7a23c456abe87b71cadd7cd5)|
 |2024-07-29 21:41:38|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何正确保护Python代码](https://www.kingname.info/2024/07/29/pyarmor/)|
+|2024-07-30 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[CUDA Reduction](https://leimao.github.io/blog/CUDA-Reduction/)|
 |2024-07-29 04:37:00|[Cat in Chinese](http://chinese.catchen.me/feeds/posts/default)|[做给 GitHub Actions 开发者用的 Actions（Part 2）](http://chinese.catchen.me/2024/07/github-actions-for-actions-developers-part-2.html)|
 |2024-07-29 11:32:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[小众独立产品推荐 - 独立产品灵感周刊 DecoHack #063](https://w2solo.com/topics/4861)|
 |2024-07-29 10:00:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第17回——艾尔登之王，拉达冈](https://www.gcores.com/articles/185829)|
