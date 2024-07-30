@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-30 04:15:01|[迷途小书童的Note](https://xugaoxiang.com/feed)|[5款抠图工具](https://xugaoxiang.com/2024/07/30/5-background-remover-tools/)|
+|2024-07-30 10:48:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 76：失败固然可怕，但朋友的成功更令人揪心](https://w2solo.com/topics/4863)|
+|2024-07-30 06:35:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[google play 广告接入问题](https://w2solo.com/topics/4862)|
+|2024-07-30 03:48:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》拍照/圖片/PDF 轉文字自動存](https://applefans.today/2024-07-ios-17-shortcuts-iphone-optical-character-recognition/)|
+|2024-07-30 03:35:43|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[macOS Sonoma 14.6 更新 讓 14 吋 M3 MacBook Pro 支援兩台外接螢幕](https://applefans.today/macos-sonoma-14-6/)|
+|2024-07-30 01:21:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.6 更新 加入全新的「Catch Up」功能](https://applefans.today/ios-17-6/)|
 |2024-07-30 07:15:04|[机核](https://www.gcores.com/rss)|[节奏点击游戏《绝命游歌》今日发售，国区售价25.5元](https://www.gcores.com/articles/185931)|
 |2024-07-30 07:01:33|[机核](https://www.gcores.com/rss)|[卡普空游戏销量更新：《生化危机》系列销量突破1.6亿份](https://www.gcores.com/articles/185927)|
 |2024-07-30 06:30:00|[机核](https://www.gcores.com/rss)|[喜人奇妙夜之小品《头号玩家》作品分析](https://www.gcores.com/articles/185831)|
