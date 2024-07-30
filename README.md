@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-30 05:03:49|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[Tubi 招聘资深前端开发工程师](https://www.jackpu.com/tubi-zhao-pin-zi-shen-qian-duan-kai-fa-gong-cheng-shi/)|
 |2024-07-30 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[New to the web platform in July](https://web.dev/blog/web-platform-07-2024?hl=en)|
 |2024-07-30 15:00:00|[机核](https://www.gcores.com/rss)|[读书：光荣与梦想 刘慈欣笔下最不科幻的科幻小说](https://www.gcores.com/radios/185736)|
 |2024-07-30 10:39:22|[机核](https://www.gcores.com/rss)|[《艾尔登法环 黄金树幽影》1.13补丁现已发布：拒绝的刺被拒绝了](https://www.gcores.com/articles/185950)|
