@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-30 03:11:42|[机核](https://www.gcores.com/rss)|[《重装前哨》现已推出免费更新，带来全新游戏模式“重返黎明基地”](https://www.gcores.com/articles/185904)|
+|2024-07-30 02:38:52|[机核](https://www.gcores.com/rss)|[《高层都市》全新DLC“度假季”将于8月5日发售](https://www.gcores.com/articles/185898)|
+|2024-07-30 02:28:07|[机核](https://www.gcores.com/rss)|[《装甲核心6 境界天火》将推出桌游，2025年春季发售](https://www.gcores.com/articles/185893)|
+|2024-07-30 02:16:59|[机核](https://www.gcores.com/rss)|[贝塞斯达注册“星裔” Starborn 商标，或为《星空》资料片名称](https://www.gcores.com/articles/185892)|
+|2024-07-30 02:00:00|[机核](https://www.gcores.com/rss)|[以《赛博朋克酒保行动》为例，浅谈对白创作中的技巧方法（三）](https://www.gcores.com/articles/182506)|
+|2024-07-30 01:33:15|[机核](https://www.gcores.com/rss)|[Steam喜加一:原价42元《你画我猜2》免费领](https://www.gcores.com/articles/185889)|
+|2024-07-30 01:28:38|[机核](https://www.gcores.com/rss)|[Steam“塔防游戏节”现已开启：多款热门塔防游戏迎折扣](https://www.gcores.com/articles/185888)|
 |2024-07-30 01:18:52|[机核](https://www.gcores.com/rss)|[再来一次：《上古卷轴OL》确认重返2024年QuakeCon](https://www.gcores.com/articles/185887)|
 |2024-07-30 01:17:32|[机核](https://www.gcores.com/rss)|[《圣剑传说 VISIONS of MANA》免费试玩Demo现已上架](https://www.gcores.com/articles/185886)|
 |2024-07-30 01:02:06|[机核](https://www.gcores.com/rss)|[PS5《宇宙机器人》限定款DualSense手柄将于9月6日发售](https://www.gcores.com/articles/185884)|
