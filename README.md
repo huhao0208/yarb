@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-31 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Interop 2024: Chrome at 100% for the accessibility focus area](https://web.dev/blog/interop-2024-a11y?hl=en)|
+|2024-07-31 09:03:29|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[最后 48 小时，云南高山的蜜甜](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456788&idx=2&sn=393131478dc373d058c6e9f395ea34d2)|
+|2024-07-31 09:03:28|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[本季云南最鲜的天赐美食（之一](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456788&idx=1&sn=5935f8cdf53636bb53008ffbf6140e0a)|
+|2024-07-31 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2024/07/31/daily-thoughts/)|
 |2024-07-31 11:44:03|[机核](https://www.gcores.com/rss)|[探索塔防肉鸽《城堡之巅》现已实装“凤凰崛起”更新](https://www.gcores.com/articles/186001)|
 |2024-07-31 09:42:37|[机核](https://www.gcores.com/rss)|[优衣库×米津玄师联名UT公布，9月中旬发售](https://www.gcores.com/articles/185998)|
 |2024-07-31 09:34:46|[机核](https://www.gcores.com/rss)|[2人开发4年，国产冒险像素RPG《菲尔纳传说》最新PV发布](https://www.gcores.com/articles/185997)|
