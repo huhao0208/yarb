@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-31 02:40:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為何 Epic Games 執行長抨擊蘋果「尋找」功能是「超恐怖監控技術」？](https://applefans.today/2024-07-epic-games-ceo-calls-apple-find-my-super-creepy/)|
+|2024-07-31 04:00:00|[机核](https://www.gcores.com/rss)|[想要全力以赴地歌唱：机核网专访日本歌手伊东歌词太郎](https://www.gcores.com/articles/185612)|
+|2024-07-31 03:41:57|[机核](https://www.gcores.com/rss)|[EA公布2025财年第一季度财报：盈利达12.6亿美元](https://www.gcores.com/articles/185965)|
+|2024-07-31 02:58:52|[机核](https://www.gcores.com/rss)|[《ToHeart》将推出重制版，2025年发售](https://www.gcores.com/articles/185963)|
+|2024-07-31 02:38:50|[机核](https://www.gcores.com/rss)|[最后期限:GW需在12月前与亚马逊就《战锤40K》影视剧创意指导达成一致](https://www.gcores.com/articles/185962)|
+|2024-07-31 02:36:00|[机核](https://www.gcores.com/rss)|[微软公布2024财年新财报：本季度的游戏收入总体增长44%](https://www.gcores.com/articles/185961)|
+|2024-07-31 02:23:26|[机核](https://www.gcores.com/rss)|[TAITO推出意面造型鼠标，7月31日发售](https://www.gcores.com/articles/185960)|
+|2024-07-31 02:14:15|[机核](https://www.gcores.com/rss)|[《英雄联盟》S13冠军T1的全球总决赛冠军皮肤正式公布](https://www.gcores.com/articles/185959)|
+|2024-07-31 02:11:33|[机核](https://www.gcores.com/rss)|[传奇策略RPG《漫野奇谭》将于10月22日登录各大主机平台](https://www.gcores.com/articles/185957)|
+|2024-07-31 01:27:51|[机核](https://www.gcores.com/rss)|[《Apex英雄》将于8月6日登录Epic游戏商城，免费赠送“导线管”捆绑包](https://www.gcores.com/articles/185955)|
+|2024-07-31 01:27:09|[机核](https://www.gcores.com/rss)|[《四海兄弟：最终版》将于8月13日进入Game Pass](https://www.gcores.com/articles/185956)|
 |2024-07-31 01:10:40|[机核](https://www.gcores.com/rss)|[《艾尔登法环》六连冠 Steam周销量排行榜：2024年7月第4周](https://www.gcores.com/articles/185954)|
 |2024-07-30 05:03:49|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[Tubi 招聘资深前端开发工程师](https://www.jackpu.com/tubi-zhao-pin-zi-shen-qian-duan-kai-fa-gong-cheng-shi/)|
 |2024-07-30 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[New to the web platform in July](https://web.dev/blog/web-platform-07-2024?hl=en)|
