@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-07-31 16:48:12|[机核](https://www.gcores.com/rss)|[Bungie宣布裁员220人，约占总人数17%](https://www.gcores.com/articles/186013)|
+|2024-07-31 14:49:53|[机核](https://www.gcores.com/rss)|[译介 关于《宝石之国》的科学依据的两篇论文](https://www.gcores.com/articles/186006)|
+|2024-07-31 14:41:07|[机核](https://www.gcores.com/rss)|[捉几片云](https://www.gcores.com/articles/186009)|
+|2024-07-31 13:34:20|[机核](https://www.gcores.com/rss)|[《刺客信条：影》的风波，是怎样一步步发展到今天的](https://www.gcores.com/articles/186003)|
+|2024-07-31 13:00:00|[机核](https://www.gcores.com/rss)|[世界尽头的酒馆Vol.49丨偷天换日](https://www.gcores.com/radios/185991)|
 |2024-07-31 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Interop 2024: Chrome at 100% for the accessibility focus area](https://web.dev/blog/interop-2024-a11y?hl=en)|
 |2024-07-31 09:03:29|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[最后 48 小时，云南高山的蜜甜](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456788&idx=2&sn=393131478dc373d058c6e9f395ea34d2)|
 |2024-07-31 09:03:28|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[本季云南最鲜的天赐美食（之一](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456788&idx=1&sn=5935f8cdf53636bb53008ffbf6140e0a)|
