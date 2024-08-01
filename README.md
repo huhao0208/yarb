@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-07-31）
+﻿# 每日资讯（2024-08-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-01 01:28:08|[机核](https://www.gcores.com/rss)|[《蜡笔小新 煤炭镇的小白》上线Steam商城页，将于10月23日发售](https://www.gcores.com/articles/186018)|
+|2024-08-01 01:20:02|[机核](https://www.gcores.com/rss)|[《魔兽世界》正式服现已重启，“地心之战”前夕内容更新现已上线](https://www.gcores.com/articles/186017)|
+|2024-08-01 00:43:07|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[被撤回的应届生Offer｜工劳小报 #46](https://feed.laborinfocn7.com/issue46/)|
 |2024-07-31 16:48:12|[机核](https://www.gcores.com/rss)|[Bungie宣布裁员220人，约占总人数17%](https://www.gcores.com/articles/186013)|
 |2024-07-31 14:49:53|[机核](https://www.gcores.com/rss)|[译介 关于《宝石之国》的科学依据的两篇论文](https://www.gcores.com/articles/186006)|
 |2024-07-31 14:41:07|[机核](https://www.gcores.com/rss)|[捉几片云](https://www.gcores.com/articles/186009)|
