@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-01 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“网络强国新图景” 成就展 暨中国图片大赛综合影像活动征稿启事](https://www.photoworld.com.cn/post/177197)|
+|2024-08-01 12:05:00|[太隐](https://wangyurui.com/feed.xml)|[颜真卿之死](https://wangyurui.com/posts/da-tang-yan-zhen-qing-11d47019)|
+|2024-08-01 12:02:46|[太隐](https://wangyurui.com/feed.xml)|[哈姆雷特的悲剧](https://wangyurui.com/posts/ha-mu-lei-te-de-bei-ju-0e1880df)|
+|2024-08-01 08:52:43|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[来 188 个上海人，一锅炖了！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456833&idx=1&sn=5edff2e25aa3b2e3cd99d2d101cecdbb)|
 |2024-08-01 10:13:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Random Pokemon Generator](https://w2solo.com/topics/4871)|
 |2024-08-01 09:18:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[高效刷 Product Hunt 的工具来了](https://w2solo.com/topics/4870)|
 |2024-08-01 06:27:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[小红书 AI 助手——智能社交媒体工具](https://w2solo.com/topics/4869)|
