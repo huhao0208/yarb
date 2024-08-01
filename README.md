@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-01 08:26:22|[Bing's Blog](https://www.bbing.com.cn/index.xml)|[C++标签派发技术](https://imcbc.cn/202408/cpp_tag_dispatch/)|
+|2024-08-01 09:39:35|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[突破性創新！MacBook 可拆式鏡頭專利亮相](https://applefans.today/2024-08-apples-new-patent-macbook-facetime-cameras/)|
+|2024-08-01 08:46:47|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[开源电子书《AI 辅助软件工程：实践与案例解析》来了，案例持续收集中，欢迎入坑](http://www.phodal.com/blog/aise-book/)|
+|2024-08-01 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[超清大图｜一览精彩奥运](https://www.photoworld.com.cn/post/177276)|
 |2024-08-01 08:19:00|[机核](https://www.gcores.com/rss)|[【抽5张50元京东卡】生存撤离玩法还有高手？这款西部魔幻硬核FPS如何拿下多数好评](https://www.gcores.com/articles/186038)|
 |2024-08-01 07:33:45|[机核](https://www.gcores.com/rss)|[《英雄传说 界之轨迹 -告别塞姆利亚-》开场动画公开](https://www.gcores.com/articles/186060)|
 |2024-08-01 07:12:01|[机核](https://www.gcores.com/rss)|[对谈翻译丨押井守 X 神山健治：押井塾秘话 - 师徒特别对谈](https://www.gcores.com/articles/186048)|
