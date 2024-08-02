@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-02 02:21:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 推出三項全新 Chrome AI 功能 讓搜尋與購物更簡單](https://applefans.today/2024-08-chrome-ai-features/)|
 |2024-08-02 01:19:37|[机核](https://www.gcores.com/rss)|[《席德·梅尔的文明VII》新游戏演示即将于8月20日公布](https://www.gcores.com/articles/186088)|
 |2024-08-02 01:19:22|[机核](https://www.gcores.com/rss)|[Epic喜加一：原价52元《伐木熊》免费领](https://www.gcores.com/articles/186089)|
 |2024-08-01 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“网络强国新图景” 成就展 暨中国图片大赛综合影像活动征稿启事](https://www.photoworld.com.cn/post/177197)|
