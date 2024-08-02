@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-08-01）
+﻿# 每日资讯（2024-08-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-02 01:19:37|[机核](https://www.gcores.com/rss)|[《席德·梅尔的文明VII》新游戏演示即将于8月20日公布](https://www.gcores.com/articles/186088)|
+|2024-08-02 01:19:22|[机核](https://www.gcores.com/rss)|[Epic喜加一：原价52元《伐木熊》免费领](https://www.gcores.com/articles/186089)|
 |2024-08-01 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“网络强国新图景” 成就展 暨中国图片大赛综合影像活动征稿启事](https://www.photoworld.com.cn/post/177197)|
 |2024-08-01 12:05:00|[太隐](https://wangyurui.com/feed.xml)|[颜真卿之死](https://wangyurui.com/posts/da-tang-yan-zhen-qing-11d47019)|
 |2024-08-01 12:02:46|[太隐](https://wangyurui.com/feed.xml)|[哈姆雷特的悲剧](https://wangyurui.com/posts/ha-mu-lei-te-de-bei-ju-0e1880df)|
