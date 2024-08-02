@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-02 08:29:05|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[急需 132 个上海人，抓一只鸡](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456899&idx=2&sn=3a7ae6b7991958d0f884ef5b60a502ba)|
+|2024-08-02 08:29:04|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你一单，我一单，今天早早就下班](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456899&idx=1&sn=1826d31d9f93495c9f373b3a98c53bd8)|
+|2024-08-02 10:12:31|[机核](https://www.gcores.com/rss)|[《沉没意志》：不负5年等待的赛博朋克ADV神作](https://www.gcores.com/articles/186071)|
+|2024-08-02 10:05:00|[机核](https://www.gcores.com/rss)|[怦然心动，青春圆梦｜本周社区热门推荐 - 第9期](https://www.gcores.com/articles/186125)|
+|2024-08-02 09:57:18|[机核](https://www.gcores.com/rss)|[网易策略对战卡牌游戏《漫威终极逆转》获批版号](https://www.gcores.com/articles/186132)|
+|2024-08-02 09:00:00|[机核](https://www.gcores.com/rss)|[浪费一天，录音笔 VOL.258](https://www.gcores.com/radios/186130)|
+|2024-08-02 09:00:00|[机核](https://www.gcores.com/rss)|[JOYTOY 多款「战锤系列」新品玩具现已在机核商店开启预订](https://www.gcores.com/articles/186123)|
+|2024-08-02 08:32:50|[机核](https://www.gcores.com/rss)|[《彩虹六号》《漫威争锋》《漫威终极逆转》过审：2024年8月进口网络游戏审批信息公布](https://www.gcores.com/articles/186128)|
+|2024-08-02 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图244期:最近早起，都在下雨](https://www.gcores.com/articles/183829)|
+|2024-08-02 05:30:10|[KAIX.IN](https://kaix.in/feed/)|[装外宾](https://kaix.in/2024/0802-foreigner-perspective/)|
 |2024-08-02 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[奥运会期间的战争](https://leimao.github.io/essay/%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9C%9F%E9%97%B4%E7%9A%84%E6%88%98%E4%BA%89/)|
 |2024-08-02 07:06:44|[机核](https://www.gcores.com/rss)|[任天堂公开24-25财年Q1财报：净利润同比下降 55.3 %](https://www.gcores.com/articles/186120)|
 |2024-08-02 06:24:23|[机核](https://www.gcores.com/rss)|[《我的孩子生命之泉》团队新作：第一人称深海解谜《重返塔拉萨号：深渊之怆》今日发售](https://www.gcores.com/articles/186117)|
