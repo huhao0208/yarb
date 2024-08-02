@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-02 08:53:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果教你五個如何用 iPhone 提高 Mac 工作效率 的方法](https://applefans.today/2024-08-five-tips-use-iphone-productive-mac/)|
+|2024-08-02 06:18:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[結帳只要刷一次就可以！LINE Pay 綁定「發票載具」完整攻略](https://applefans.today/2024-08-line-pay-einvoice/)|
+|2024-08-02 05:51:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[想要減少藍光對視力危害嗎？一起試試 imos 低藍光玻璃保護貼](https://applefans.today/2024-07-imos-low-blue-light-iphone-screen-protector/)|
 |2024-08-02 14:33:07|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《亡命雷区》：美军狙击手误入雷区，酷热沙漠生存52小时，喝尿吃蝎子奇迹生还！](https://www.ximalaya.com/sound/745692469)|
 |2024-08-02 14:25:58|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《尸控警戒》：超级变种病毒来袭，丧尸兵团圈养人类当口粮，混战场面相当震撼！](https://www.ximalaya.com/sound/745691060)|
 |2024-08-02 06:41:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道](https://w2solo.com/topics/4876)|
