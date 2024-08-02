@@ -2,30 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-02 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[奥运会期间的战争](https://leimao.github.io/essay/%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9C%9F%E9%97%B4%E7%9A%84%E6%88%98%E4%BA%89/)|
+|2024-08-02 07:06:44|[机核](https://www.gcores.com/rss)|[任天堂公开24-25财年Q1财报：净利润同比下降 55.3 %](https://www.gcores.com/articles/186120)|
+|2024-08-02 06:24:23|[机核](https://www.gcores.com/rss)|[《我的孩子生命之泉》团队新作：第一人称深海解谜《重返塔拉萨号：深渊之怆》今日发售](https://www.gcores.com/articles/186117)|
+|2024-08-02 06:22:53|[机核](https://www.gcores.com/rss)|[《王国保卫战5：联盟》荣获ChinaJoy最佳移动游戏奖](https://www.gcores.com/articles/186116)|
+|2024-08-02 06:20:10|[机核](https://www.gcores.com/rss)|[可爱治愈手帐模拟器《小小贴纸铺：百日草夏令营》最新DLC将于8月15日推出](https://www.gcores.com/articles/186115)|
+|2024-08-02 04:58:11|[机核](https://www.gcores.com/rss)|[《宝可梦不可思议迷宫 赤之救助队》将于8月9日加入NSO高级会员游戏库](https://www.gcores.com/articles/186109)|
+|2024-08-02 04:50:25|[机核](https://www.gcores.com/rss)|[“炫”？“旋”？“楦“？流行语的文字小考](https://www.gcores.com/articles/186110)|
+|2024-08-02 04:28:41|[机核](https://www.gcores.com/rss)|[微软宣布Xbox Series X S 在日本地区进行涨价](https://www.gcores.com/articles/186108)|
+|2024-08-02 04:12:03|[机核](https://www.gcores.com/rss)|[4X修仙游戏《宗门志》现已开启免费试玩](https://www.gcores.com/articles/186107)|
+|2024-08-02 04:08:42|[机核](https://www.gcores.com/rss)|[在缺乏照明的时代，夜晚的黑暗由谁来守护？](https://www.gcores.com/articles/186094)|
+|2024-08-02 04:08:42|[机核](https://www.gcores.com/rss)|[SIGGRAPH粗读｜从《地平线：零之曙光》开始看看体积云的渲染方案（上）](https://www.gcores.com/articles/185926)|
+|2024-08-02 03:04:58|[机核](https://www.gcores.com/rss)|[《潜水员戴夫》：玩法融合的构建与广度拓展的缺陷](https://www.gcores.com/articles/186099)|
+|2024-08-02 03:04:32|[机核](https://www.gcores.com/rss)|[共416页，《圣兽之王》官方设定画集10月发售](https://www.gcores.com/articles/186101)|
+|2024-08-02 02:42:59|[机核](https://www.gcores.com/rss)|[生活模拟游戏《孤独的独立游戏开发者的一生》Steam商店页上线](https://www.gcores.com/articles/186098)|
+|2024-08-02 15:30:45|[I'm OWenT](https://owent.net/index.xml)|[std::condition_variable 的信号丢失问题](//owent.net/2024/2403.html)|
+|2024-08-02 06:51:25|[鸟窝](https://colobu.com/atom.xml)|[Russ Cox 引退以及他的新项目 Oscar](https://colobu.com/2024/08/02/Russ-Cox-and-his-Oscar/)|
 |2024-08-02 02:21:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 推出三項全新 Chrome AI 功能 讓搜尋與購物更簡單](https://applefans.today/2024-08-chrome-ai-features/)|
 |2024-08-02 01:19:37|[机核](https://www.gcores.com/rss)|[《席德·梅尔的文明VII》新游戏演示即将于8月20日公布](https://www.gcores.com/articles/186088)|
 |2024-08-02 01:19:22|[机核](https://www.gcores.com/rss)|[Epic喜加一：原价52元《伐木熊》免费领](https://www.gcores.com/articles/186089)|
-|2024-08-01 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“网络强国新图景” 成就展 暨中国图片大赛综合影像活动征稿启事](https://www.photoworld.com.cn/post/177197)|
-|2024-08-01 12:05:00|[太隐](https://wangyurui.com/feed.xml)|[颜真卿之死](https://wangyurui.com/posts/da-tang-yan-zhen-qing-11d47019)|
-|2024-08-01 12:02:46|[太隐](https://wangyurui.com/feed.xml)|[哈姆雷特的悲剧](https://wangyurui.com/posts/ha-mu-lei-te-de-bei-ju-0e1880df)|
-|2024-08-01 08:52:43|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[来 188 个上海人，一锅炖了！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456833&idx=1&sn=5edff2e25aa3b2e3cd99d2d101cecdbb)|
-|2024-08-01 10:13:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Random Pokemon Generator](https://w2solo.com/topics/4871)|
-|2024-08-01 09:18:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[高效刷 Product Hunt 的工具来了](https://w2solo.com/topics/4870)|
-|2024-08-01 06:27:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[小红书 AI 助手——智能社交媒体工具](https://w2solo.com/topics/4869)|
-|2024-08-01 03:12:09|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[使用了我的心情记录员 Demo1 个月后……](https://w2solo.com/topics/4868)|
-|2024-08-01 13:47:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[做晚饭](https://blog.xulihang.me/cooking-dinner/)|
-|2024-08-01 15:00:00|[机核](https://www.gcores.com/rss)|[RPG玩的就是故事，要游戏性有啥用！游戏茶话会 Vol.74](https://www.gcores.com/radios/185738)|
-|2024-08-01 09:31:18|[smallyu的博客](https://smallyu.net/atom.xml)|[最近找工作的记录（更新中）](https://smallyu.net/2024/08/01/%E6%9C%80%E8%BF%91%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%AE%B0%E5%BD%95/)|
-|2024-08-01 08:26:22|[Bing's Blog](https://www.bbing.com.cn/index.xml)|[C++标签派发技术](https://imcbc.cn/202408/cpp_tag_dispatch/)|
-|2024-08-01 09:39:35|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[突破性創新！MacBook 可拆式鏡頭專利亮相](https://applefans.today/2024-08-apples-new-patent-macbook-facetime-cameras/)|
-|2024-08-01 08:46:47|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[开源电子书《AI 辅助软件工程：实践与案例解析》来了，案例持续收集中，欢迎入坑](http://www.phodal.com/blog/aise-book/)|
-|2024-08-01 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[超清大图｜一览精彩奥运](https://www.photoworld.com.cn/post/177276)|
-|2024-08-01 08:19:00|[机核](https://www.gcores.com/rss)|[【抽5张50元京东卡】生存撤离玩法还有高手？这款西部魔幻硬核FPS如何拿下多数好评](https://www.gcores.com/articles/186038)|
-|2024-08-01 07:33:45|[机核](https://www.gcores.com/rss)|[《英雄传说 界之轨迹 -告别塞姆利亚-》开场动画公开](https://www.gcores.com/articles/186060)|
-|2024-08-01 07:12:01|[机核](https://www.gcores.com/rss)|[对谈翻译丨押井守 X 神山健治：押井塾秘话 - 师徒特别对谈](https://www.gcores.com/articles/186048)|
-|2024-08-01 07:11:41|[机核](https://www.gcores.com/rss)|[猫咪拯救世界！独立游戏《小猫换装》创作思路](https://www.gcores.com/articles/186055)|
-|2024-08-01 07:20:00|[est の 输入输出](https://blog.est.im/rss)|[关于 cn.cyberIdentity.certification 的一些技术信息](https://blog.est.im/2024/stdout-15)|
-|2024-08-01 01:30:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 顏色 搶先曝光！顏色你喜歡嗎？](https://applefans.today/2024-08-iphone-16-dummy-rumors/)|
-|2024-08-01 01:28:08|[机核](https://www.gcores.com/rss)|[《蜡笔小新 煤炭镇的小白》上线Steam商城页，将于10月23日发售](https://www.gcores.com/articles/186018)|
-|2024-08-01 01:20:02|[机核](https://www.gcores.com/rss)|[《魔兽世界》正式服现已重启，“地心之战”前夕内容更新现已上线](https://www.gcores.com/articles/186017)|
-|2024-08-01 00:43:07|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[被撤回的应届生Offer｜工劳小报 #46](https://feed.laborinfocn7.com/issue46/)|
