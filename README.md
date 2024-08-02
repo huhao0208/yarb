@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-02 14:33:07|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《亡命雷区》：美军狙击手误入雷区，酷热沙漠生存52小时，喝尿吃蝎子奇迹生还！](https://www.ximalaya.com/sound/745692469)|
+|2024-08-02 14:25:58|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《尸控警戒》：超级变种病毒来袭，丧尸兵团圈养人类当口粮，混战场面相当震撼！](https://www.ximalaya.com/sound/745691060)|
+|2024-08-02 06:41:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道](https://w2solo.com/topics/4876)|
+|2024-08-02 03:50:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Yaelokre OC Maker](https://w2solo.com/topics/4875)|
+|2024-08-02 02:49:18|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #39：做了一场 13 个月的梦](https://w2solo.com/topics/4874)|
+|2024-08-02 02:17:14|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[给 Product Hunt 用户开发了高效率插件， 10 秒了解产品和写打榜评论👏👏👏👏👏](https://w2solo.com/topics/4873)|
+|2024-08-02 01:55:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发日记：一个删除交互的思考和设计](https://w2solo.com/topics/4872)|
+|2024-08-02 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[焕新 “视” 界，精彩不断｜第二十五届上海国际摄影器材和数码影像展览会开幕在即](https://www.photoworld.com.cn/post/177285)|
+|2024-08-02 07:15:19|[GamerNoTitle](https://bili33.top/atom.xml)|[英国Giffgaff卡激活记录](https://bili33.top/posts/Giffgaff-Activate/)|
 |2024-08-02 08:29:05|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[急需 132 个上海人，抓一只鸡](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456899&idx=2&sn=3a7ae6b7991958d0f884ef5b60a502ba)|
 |2024-08-02 08:29:04|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你一单，我一单，今天早早就下班](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456899&idx=1&sn=1826d31d9f93495c9f373b3a98c53bd8)|
 |2024-08-02 10:12:31|[机核](https://www.gcores.com/rss)|[《沉没意志》：不负5年等待的赛博朋克ADV神作](https://www.gcores.com/articles/186071)|
