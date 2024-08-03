@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-03 15:00:00|[机核](https://www.gcores.com/rss)|[游戏一般，财报连年赚！核周报 08.03](https://www.gcores.com/radios/185739)|
+|2024-08-03 08:24:40|[Dennis](https://www.domon.cn/rss/)|[2024年7月阅读书摘](https://www.domon.cn/2024-7yue-yue-du-shu-zhai/)|
+|2024-08-03 08:27:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #63：开发 Python Web 项目（摘要）](https://w2solo.com/topics/4878)|
 |2024-08-03 10:32:11|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[夏末](https://www.jackpu.com/xia-mo/)|
 |2024-08-03 10:11:04|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[Multiple DRM Keys 介绍](https://www.jackpu.com/multiple-drm-keys-jie-shao/)|
 |2024-08-03 08:00:52|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[老板明晚八点小红书直播，来提问！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456921&idx=1&sn=4cfff70829ca9b2e1a8d7a991c2dd309)|
