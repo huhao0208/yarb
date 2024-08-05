@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-05 12:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[定格激情瞬间，一览精彩奥运](https://www.photoworld.com.cn/post/177294)|
+|2024-08-05 12:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[索尼数码影像产品齐聚 P&amp;I SHANGHAI 2024](https://www.photoworld.com.cn/post/177302)|
+|2024-08-05 12:01:41|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[甜桃 2 种，中国水果吃不完！！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457016&idx=1&sn=e6332ac0efcadd2e0f142b53bd4e3797)|
 |2024-08-05 09:56:00|[est の 输入输出](https://blog.est.im/rss)|[两则故事：Intel Minnow，日本高分子化学](https://blog.est.im/2024/stdin-11)|
 |2024-08-05 10:50:32|[SHRIK3](https://shrik3.com/index.xml)|[我该怎么用中文说....](https://shrik3.com/translate/)|
 |2024-08-05 07:24:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[标签星球 - 给你的浏览器装个仪表盘](https://w2solo.com/topics/4883)|
