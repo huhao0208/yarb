@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-05 03:53:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[信息差——独立开发者出海周刊第 13 期](https://w2solo.com/topics/4882)|
+|2024-08-05 03:25:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ZPL Viewer 工具网站](https://w2solo.com/topics/4881)|
+|2024-08-05 03:29:18|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社：M4 晶片的 Mac 預期的更新時程](https://applefans.today/2024-08-mark-gurman-m4-macs-this-year-rumors/)|
 |2024-08-05 00:37:11|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立产品灵感周刊 DecoHack #064 - Web3 开发与远程工作利器，快速掌握新兴工具](https://w2solo.com/topics/4880)|
 |2024-08-05 00:30:01|[Decohack](https://www.decohack.com/feed)|[Web3 开发与远程工作利器，快速掌握新兴工具 – 独立产品灵感周刊 DecoHack #064](https://decohack.com/decohack-064-chuangyi-gongju-ditu-web3-yuancheng/)|
 |2024-08-04 14:13:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 77：7 月数据总结](https://w2solo.com/topics/4879)|
