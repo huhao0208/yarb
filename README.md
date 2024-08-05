@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-05 09:56:00|[est の 输入输出](https://blog.est.im/rss)|[两则故事：Intel Minnow，日本高分子化学](https://blog.est.im/2024/stdin-11)|
+|2024-08-05 10:50:32|[SHRIK3](https://shrik3.com/index.xml)|[我该怎么用中文说....](https://shrik3.com/translate/)|
 |2024-08-05 07:24:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[标签星球 - 给你的浏览器装个仪表盘](https://w2solo.com/topics/4883)|
 |2024-08-05 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[茶包绳子的正确用法](https://leimao.github.io/essay/%E8%8C%B6%E5%8C%85%E7%BB%B3%E5%AD%90%E7%9A%84%E6%AD%A3%E7%A1%AE%E7%94%A8%E6%B3%95/)|
 |2024-08-05 06:26:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社：iPhone 16 發表時間應該就在「這天」](https://applefans.today/2024-08-iphone-16-september-event-rumors/)|
