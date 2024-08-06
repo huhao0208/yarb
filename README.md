@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-06 07:20:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 在 Safari 新增「隱藏干擾項目」新功能](https://applefans.today/2024-08-ios-18-safari-distraction-control/)|
+|2024-08-06 15:06:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[全职独立开发 2 年半，只专注做一件事情](https://w2solo.com/topics/4889)|
+|2024-08-06 09:46:17|[Decohack](https://www.decohack.com/feed)|[ProductHunt榜单-8月5日](https://decohack.com/producthunt-daily-24-08-05/)|
 |2024-08-06 07:39:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[WorkPanel-定个一亿小目标](https://w2solo.com/topics/4888)|
 |2024-08-06 07:39:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[打牌记账小程序](https://w2solo.com/topics/4887)|
 |2024-08-06 04:58:00|[forecho's Blog](https://blog.forecho.com/atom.xml)|[RichCalls Warden 使用指南](https://blog.forecho.com/use-richcalls-warden.html)|
