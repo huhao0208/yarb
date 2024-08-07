@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-08-06）
+﻿# 每日资讯（2024-08-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-07 01:14:26|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【台灣開賣】Beats Solo 4 無線頭戴式耳機和 Solo Buds 入耳式無線耳機](https://applefans.today/2024-08-beats-solo-4-solo-buds-tw-lanuch/)|
 |2024-08-06 12:37:47|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[新鲜零食月购，限时直播价，1 月 1 次！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457138&idx=2&sn=26c9c01941214fbda31ed5337f27130b)|
 |2024-08-06 12:37:47|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[比沪币还贵的时髦小酒馆，全球领先！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457138&idx=1&sn=0eabaf7f7becb622ba26c2cab2004915)|
 |2024-08-06 07:20:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 在 Safari 新增「隱藏干擾項目」新功能](https://applefans.today/2024-08-ios-18-safari-distraction-control/)|
