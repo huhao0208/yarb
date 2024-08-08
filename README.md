@@ -2,16 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-08-07 16:56:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[🐧 数字游民创业周记 01：离开鹅厂，财务自由？](https://w2solo.com/topics/4892)|
-|2024-08-07 15:05:18|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[全职独立开发经验分享](https://w2solo.com/topics/4891)|
-|2024-08-07 10:46:50|[Mosu](https://www.mosuzi.com/atom.xml)|[JS 定时器拾遗](https://mosuzi.com/docs/tech/js-timer-tidbits/)|
-|2024-08-07 03:29:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Chrome 新功能！讓你直接把網路圖片儲存在 Google 相簿中](https://applefans.today/2024-08-chrome-save-image-to-google-photo/)|
-|2024-08-07 01:53:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 新功能：iPhone 一鍵隱藏螢幕截圖，讓《照片》App 變清爽！](https://applefans.today/2024-08-ios-18-iphone-how-hide-screenshots/)|
-|2024-08-07 12:00:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[无核荔枝，大大方方儿的贵，最后两天！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457195&idx=2&sn=b5e3a5f4153e91481a0c895411789c20)|
-|2024-08-07 12:00:48|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[立秋之日，接收来自新疆的甜](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457195&idx=1&sn=d17b2d5e679b9c91f93a693b1d737379)|
-|2024-08-07 08:36:03|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-08-07](https://decohack.com/producthunt-daily-24-08-07/)|
-|2024-08-07 06:35:28|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[与君共勉](https://w2solo.com/topics/4890)|
-|2024-08-07 01:30:19|[Decohack](https://www.decohack.com/feed)|[ProductHunt榜单-8月6日](https://decohack.com/producthunt-daily-24-08-06/)|
-|2024-08-07 05:46:16|[迷途小书童的Note](https://xugaoxiang.com/feed)|[适用于验证码的开源OCR](https://xugaoxiang.com/2024/08/07/muggle-ocr/)|
-|2024-08-07 04:02:57|[迷途小书童的Note](https://xugaoxiang.com/feed)|[免费Amazon亚马逊云服务器申请与使用教程](https://xugaoxiang.com/2024/08/07/amazon_ec2/)|
-|2024-08-07 01:14:26|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【台灣開賣】Beats Solo 4 無線頭戴式耳機和 Solo Buds 入耳式無線耳機](https://applefans.today/2024-08-beats-solo-4-solo-buds-tw-lanuch/)|
+|2024-08-08 03:33:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[都沒有 主動式降噪 的 Beats Solo Buds 和 AirPods 3：該如何選擇？](https://applefans.today/2024-08-how-to-choice-beats-solo-buds-vs-airpods-3/)|
+|2024-08-08 01:42:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.6.1 更新 修復 iCloud 進階資料保護功能](https://applefans.today/ios-17-6-1/)|
+|2024-08-08 05:57:48|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[gameplay 框架设计总结](https://blog.codingnow.com/2024/08/gameplay_framework.html)|
+|2024-08-08 00:08:08|[smallyu的博客](https://smallyu.net/atom.xml)|[最近找工作的记录（更新中）](https://smallyu.net/2024/08/08/%E6%9C%80%E8%BF%91%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%AE%B0%E5%BD%95/)|
+|2024-08-08 06:54:07|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 辅助软件工程：AI4SE 体系设计](http://www.phodal.com/blog/design-ai4se/)|
+|2024-08-08 05:43:05|[GamerNoTitle](https://bili33.top/atom.xml)|[逃离订阅！在Surface Pro 5上安装FydeOS for PC NOT YOU ](https://bili33.top/posts/FydeOS-for-PC-on-Surface/)|
