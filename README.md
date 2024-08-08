@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-08 12:08:24|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[无核荔枝最后 1 天，增城荔枝最后 2 天，吃完明年见！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457270&idx=2&sn=a74b8b9aeba075be6dd39f5fe5b8cf31)|
+|2024-08-08 12:08:23|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[打工人养生，就看它们了！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457270&idx=1&sn=1d2c7a57b503207d03684f351619cb2f)|
+|2024-08-08 08:46:30|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)|
 |2024-08-08 03:33:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[都沒有 主動式降噪 的 Beats Solo Buds 和 AirPods 3：該如何選擇？](https://applefans.today/2024-08-how-to-choice-beats-solo-buds-vs-airpods-3/)|
 |2024-08-08 01:42:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.6.1 更新 修復 iCloud 進階資料保護功能](https://applefans.today/ios-17-6-1/)|
 |2024-08-08 05:57:48|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[gameplay 框架设计总结](https://blog.codingnow.com/2024/08/gameplay_framework.html)|
