@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-08 10:30:20|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何做到 iPhone 邊放音樂邊錄影 ？iOS 18 變得更簡單](https://applefans.today/2024-08-ios-18-shoot-video-while-playing-audio-on-iphone/)|
+|2024-08-08 13:25:02|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Verity Calculator Destiny 2](https://w2solo.com/topics/4895)|
+|2024-08-08 10:41:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[第一次服务器被打，哭笑不得](https://w2solo.com/topics/4894)|
+|2024-08-08 08:49:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[2 款免费开源的标注工具：LabelLLM、LabelU](https://w2solo.com/topics/4893)|
 |2024-08-08 12:08:24|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[无核荔枝最后 1 天，增城荔枝最后 2 天，吃完明年见！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457270&idx=2&sn=a74b8b9aeba075be6dd39f5fe5b8cf31)|
 |2024-08-08 12:08:23|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[打工人养生，就看它们了！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457270&idx=1&sn=1d2c7a57b503207d03684f351619cb2f)|
 |2024-08-08 08:46:30|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)|
