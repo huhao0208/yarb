@@ -2,18 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-09 03:00:00|[Orange](https://feeds.feedburner.com/blogspot/Aohx)|[ EN Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!](http://blog.orange.tw/2024/08/confusion-attacks-en.html)|
+|2024-08-09 03:00:00|[Orange](https://feeds.feedburner.com/blogspot/Aohx)|[ 中文 Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!](http://blog.orange.tw/2024/08/confusion-attacks-ch.html)|
+|2024-08-09 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Paris 2024 Olympics Gold Medalist Racing Running Shoes](https://leimao.github.io/blog/Paris-2024-Olympics-Gold-Medalist-Racing-Running-Shoes/)|
+|2024-08-09 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[运动科技与人类体育竞技极限](https://leimao.github.io/essay/%E8%BF%90%E5%8A%A8%E7%A7%91%E6%8A%80%E4%B8%8E%E4%BA%BA%E7%B1%BB%E4%BD%93%E8%82%B2%E7%AB%9E%E6%8A%80%E6%9E%81%E9%99%90/)|
+|2024-08-09 07:56:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞今年的 M4 Mac mini 體積只有現在的一半！](https://applefans.today/2024-08-mac-mini-m4-to-become-smallest/)|
+|2024-08-09 08:21:36|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-08-09](https://decohack.com/producthunt-daily-24-08-09/)|
+|2024-08-09 08:02:40|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[啊啊啊又是想当云南人的一天！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457330&idx=1&sn=d83004fd76a3b29dd5b71011300bf9b7)|
 |2024-08-09 04:11:19|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為何 Epic Games 執行長又抨擊蘋果非法收取 15%「垃圾費」？](https://applefans.today/2024-08-epic-games-spotify-apple-dma-changes/)|
-|2024-08-08 15:12:59|[鸟窝](https://colobu.com/atom.xml)|[没有什么不可能：修改 Go 结构体的私有字段](https://colobu.com/2024/08/08/access-the-unexported-fields/)|
-|2024-08-08 10:30:20|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何做到 iPhone 邊放音樂邊錄影 ？iOS 18 變得更簡單](https://applefans.today/2024-08-ios-18-shoot-video-while-playing-audio-on-iphone/)|
-|2024-08-08 13:25:02|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Verity Calculator Destiny 2](https://w2solo.com/topics/4895)|
-|2024-08-08 10:41:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[第一次服务器被打，哭笑不得](https://w2solo.com/topics/4894)|
-|2024-08-08 08:49:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[2 款免费开源的标注工具：LabelLLM、LabelU](https://w2solo.com/topics/4893)|
-|2024-08-08 12:08:24|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[无核荔枝最后 1 天，增城荔枝最后 2 天，吃完明年见！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457270&idx=2&sn=a74b8b9aeba075be6dd39f5fe5b8cf31)|
-|2024-08-08 12:08:23|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[打工人养生，就看它们了！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457270&idx=1&sn=1d2c7a57b503207d03684f351619cb2f)|
-|2024-08-08 08:46:30|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)|
-|2024-08-08 03:33:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[都沒有 主動式降噪 的 Beats Solo Buds 和 AirPods 3：該如何選擇？](https://applefans.today/2024-08-how-to-choice-beats-solo-buds-vs-airpods-3/)|
-|2024-08-08 01:42:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.6.1 更新 修復 iCloud 進階資料保護功能](https://applefans.today/ios-17-6-1/)|
-|2024-08-08 05:57:48|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[gameplay 框架设计总结](https://blog.codingnow.com/2024/08/gameplay_framework.html)|
-|2024-08-08 00:08:08|[smallyu的博客](https://smallyu.net/atom.xml)|[最近找工作的记录（更新中）](https://smallyu.net/2024/08/08/%E6%9C%80%E8%BF%91%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%AE%B0%E5%BD%95/)|
-|2024-08-08 06:54:07|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 辅助软件工程：AI4SE 体系设计](http://www.phodal.com/blog/design-ai4se/)|
-|2024-08-08 05:43:05|[GamerNoTitle](https://bili33.top/atom.xml)|[逃离订阅！在Surface Pro 5上安装FydeOS for PC NOT YOU ](https://bili33.top/posts/FydeOS-for-PC-on-Surface/)|
