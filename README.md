@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-08-09）
+﻿# 每日资讯（2024-08-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-10 00:05:23|[戴铭的博客 - 星光社](https://ming1016.github.io/atom.xml)|[鸟山明和他的龙珠](https://starming.com/2024/08/10/dragonball-story/)|
 |2024-08-09 08:59:03|[摄影世界](https://feedx.net/rss/photoworld.xml)|[拥抱此刻｜一览精彩奥运](https://www.photoworld.com.cn/post/177365)|
 |2024-08-09 08:10:36|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[个人开源项目商业化经验分享](https://w2solo.com/topics/4899)|
 |2024-08-09 07:46:21|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[电脑系统维修的委托单 价格 150](https://w2solo.com/topics/4898)|
