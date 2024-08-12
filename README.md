@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-12 02:22:00|[KAIX.IN](https://kaix.in/feed/)|[整点报时](https://kaix.in/2024/0812-chime/)|
+|2024-08-12 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[The Most Impressive Games In Paris 2024 Olympics](https://leimao.github.io/blog/Paris-2024-Olympics-Most-Impressive-Games/)|
+|2024-08-12 02:27:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞中 iPhone SE 第 4 代的 9 大變化](https://applefans.today/2024-08-iphone-se-4-rumors/)|
 |2024-08-11 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Practicing Democracy To End Sex Controversy In Sports](https://leimao.github.io/blog/Practice-Democracy-To-End-Sex-Controversy-In-Sports/)|
 |2024-08-11 11:09:55|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[一个经典的fastjson反序列化问题记录](https://nicksxs.me/2024/08/11/%E4%B8%80%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/)|
 |2024-08-11 08:22:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[猜成语游戏 猜化学元素游戏](https://w2solo.com/topics/4905)|
