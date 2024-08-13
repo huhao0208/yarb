@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-13 03:21:19|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Sony 全新 SRS-ULT10 無線藍牙喇叭 震撼登場](https://applefans.today/2024-08-sony-srs-ult10-launch/)|
+|2024-08-13 02:15:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 9 月發表會 預測新品：iPhone 16、Apple Watch Series 10,Apple Watch Ultra 3….](https://applefans.today/2024-08-apple-september-new-product-rumors/)|
+|2024-08-13 02:21:23|[迷途小书童的Note](https://xugaoxiang.com/feed)|[一款高质量TTS开源库](https://xugaoxiang.com/2024/08/13/parler-tts/)|
 |2024-08-12 23:16:00|[plus studio - Stud...](https://studyinglover.com/atom.xml)|[RT-Patch 学习](https://studyinglover.com/2024/08/12/RT-Patch%E5%AD%A6%E4%B9%A0/)|
 |2024-08-12 12:23:19|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这么好吃，外面却买不到？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457373&idx=1&sn=5e15257c60bf2e36c606137d3ee09de7)|
 |2024-08-12 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[IP 联名新玩法！索尼大头贴打卡机，定格你的乐趣瞬间](https://www.photoworld.com.cn/post/177373)|
