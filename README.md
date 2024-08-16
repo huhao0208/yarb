@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-16 12:48:05|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[失业人员的第二款产品](https://w2solo.com/topics/4924)|
 |2024-08-16 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[山西非法收购遗体案件](https://leimao.github.io/essay/%E5%B1%B1%E8%A5%BF%E9%9D%9E%E6%B3%95%E6%94%B6%E8%B4%AD%E9%81%97%E4%BD%93%E4%BA%8B%E4%BB%B6/)|
 |2024-08-16 07:17:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》iPhone 機型浮水印（適用 iPhone 15）](https://applefans.today/ios-17-shortcuts-iphone-models-watermark-support-to-iphone-15/)|
 |2024-08-16 06:29:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[退役程序员第一个程序 - 轻悦记，记录每日体重的小程序【微信小程序已上线】](https://w2solo.com/topics/4923)|
