@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-19 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/33](https://weekly.pychina.org/pyrecap/pyrw-2433.html)|
 |2024-08-18 15:51:50|[Mosu](https://www.mosuzi.com/atom.xml)|[告许仙词](https://mosuzi.com/docs/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/to-xuxian/)|
 |2024-08-18 14:20:06|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 增强技术文档写作体验：Shire 智能体语言生成示例](http://www.phodal.com/blog/llm-for-documentation-shire-example/)|
 |2024-08-18 13:25:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Aug.11 - Aug.17](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240817/)|
