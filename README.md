@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-20 12:30:57|[智朋的个人博客](https://coffeelize.top/atom.xml)|[使用 PyQt 制作简易软件简明笔记](https://coffeelize.top/posts/Short-Notes-on-Making-Simple-Software-with-PyQt.html)|
+|2024-08-20 06:53:35|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[OpenTelemetry 实战：从零实现分布式链路追踪](http://crossoverjie.top/2024/08/20/ob/OpenTelemetry-01-trace/)|
 |2024-08-20 16:05:15|[竹林里有冰的博客](https://zhul.in/rss.xml)|[自建图床小记五——费用](https://zhul.in/2024/08/21/self-host-cdn-expense/)|
 |2024-08-20 15:12:30|[竹林里有冰的博客](https://zhul.in/rss.xml)|[自建图床小记四——上传脚本编写与图片迁移](https://zhul.in/2024/08/20/picbed-upload-script-and-image-migration/)|
 |2024-08-20 13:26:46|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[如何通过 AI，在大众点评赚点零花钱？全流程详细拆解！](https://w2solo.com/topics/4940)|
