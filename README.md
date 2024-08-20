@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-20 02:32:46|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[安装Nvidea驱动及CUDA](https://jasonkayzk.github.io/2024/08/20/%E5%AE%89%E8%A3%85Nvidea%E9%A9%B1%E5%8A%A8%E5%8F%8ACUDA/)|
+|2024-08-20 03:34:43|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果失去 Google 搜尋的固定收入，會加速蘋果搜尋引擎的推出？](https://applefans.today/2024-08-apple-search-engine-rumors/)|
+|2024-08-20 01:29:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 79：第一次录英文 vlog](https://w2solo.com/topics/4936)|
 |2024-08-19 11:10:12|[GamerNoTitle](https://bili33.top/atom.xml)|[使用友善R2S打造GDUT专属软路由 不再受学校设备限制](https://bili33.top/posts/Openwrt-on-friendlyarm-R2S/)|
 |2024-08-19 15:51:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[写了一个 奇异字体生成器，欢迎大家来提建议！𝕗𝕣𝕖𝕒𝕜𝕪 𝕗𝕠𝕟𝕥 𝕘𝕖𝕟𝕖𝕣𝕒𝕥𝕠𝕣 - 𝓒𝓸𝓹𝔂 𝓪𝓷𝓭 𝓟𝓪𝓼𝓽𝓮](https://w2solo.com/topics/4935)|
 |2024-08-19 09:45:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[你也可以成为林丹~推荐我的羽毛球运动数据智能分析 App](https://w2solo.com/topics/4934)|
