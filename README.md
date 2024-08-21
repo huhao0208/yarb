@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-21 02:29:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為什麼 大學生買 iPad 和 Mac 可以幫助學術生涯呢？蘋果告訴你！](https://applefans.today/2024-08-why-college-students-need-mac-and-ipad/)|
+|2024-08-21 01:09:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2024 年 Apple Music 免費三個月！趕快申請](https://applefans.today/2024-8-apple-music-free-three-month/)|
+|2024-08-21 01:51:01|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[Zerotier配置内网流量转发](https://jasonkayzk.github.io/2024/08/21/Zerotier%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8F%91/)|
 |2024-08-21 01:14:31|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[关于说话艺术的资源](https://jasonkayzk.github.io/2024/08/21/%E5%85%B3%E4%BA%8E%E8%AF%B4%E8%AF%9D%E8%89%BA%E6%9C%AF%E7%9A%84%E8%B5%84%E6%BA%90/)|
 |2024-08-20 12:30:57|[智朋的个人博客](https://coffeelize.top/atom.xml)|[使用 PyQt 制作简易软件简明笔记](https://coffeelize.top/posts/Short-Notes-on-Making-Simple-Software-with-PyQt.html)|
 |2024-08-20 06:53:35|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[OpenTelemetry 实战：从零实现分布式链路追踪](http://crossoverjie.top/2024/08/20/ob/OpenTelemetry-01-trace/)|
