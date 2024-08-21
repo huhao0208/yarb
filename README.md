@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-21 12:29:48|[太隐](https://wangyurui.com/feed.xml)|[莫奈的孤独](https://wangyurui.com/posts/shui-lian-6818149e)|
+|2024-08-21 09:47:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何用 Google 相簿修圖工具？一鍵消失、移動、打亮照片中的主體](https://applefans.today/2024-08-google-photos-editing-features-availability/)|
+|2024-08-21 05:14:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 開放 YouTube 睡眠計時器 功能 搶先試用！](https://applefans.today/2024-08-youtube-sleep-timer-features/)|
+|2024-08-21 02:00:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[离奇问题，网络故障恢复后，无法重连到数据库？](https://www.imaegoo.com/2024/conn-pool-pro-issue/)|
 |2024-08-21 06:34:20|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[拿去吧，奋斗一年的开源项目](https://w2solo.com/topics/4943)|
 |2024-08-21 05:23:20|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[退役程序员第一个程序 - 血糖记录助手，记录每日的血糖变化情况小程序【微信小程序已上线】](https://w2solo.com/topics/4942)|
 |2024-08-21 02:29:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為什麼 大學生買 iPad 和 Mac 可以幫助學術生涯呢？蘋果告訴你！](https://applefans.today/2024-08-why-college-students-need-mac-and-ipad/)|
