@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-22 08:10:37|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[Shire 0.5 发布：构建数据安全 RAG，充分整合研发资产](http://www.phodal.com/blog/shire-0.5-secure-rag-and-shireql/)|
+|2024-08-22 09:41:01|[smallyu的博客](https://smallyu.net/atom.xml)|[PoS 类型的区块链如何处理分叉](https://smallyu.net/2024/08/22/PoS%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%8C%BA%E5%9D%97%E9%93%BE%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E5%88%86%E5%8F%89/)|
 |2024-08-22 11:19:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[培训课程版权申请攻略：5 步获取版权登记证书！](https://w2solo.com/topics/4948)|
 |2024-08-22 08:22:13|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一款简单的日记本小程序，自己设计的，欢迎指教](https://w2solo.com/topics/4947)|
 |2024-08-22 06:05:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个超级适合团队的发票去重、核验网站](https://w2solo.com/topics/4946)|
