@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-23 03:23:23|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[手游创业者，副业年入百万 - 刘不思](https://w2solo.com/topics/4951)|
+|2024-08-23 03:11:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我独立开发的第一个作品:水墨播放器](https://w2solo.com/topics/4950)|
+|2024-08-23 03:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[64% 蘋果用戶都在用！iCloud 成為首選雲端服務](https://www.iphonetaiwan.org/2024/08/icloud-storage-popularity.html)|
+|2024-08-23 03:26:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果巨資自研 5G 晶片，將如何改變 iPhone 未來](https://www.iphonetaiwan.org/2024/08/apple-5g-modem-innovation.html)|
 |2024-08-22 08:10:37|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[Shire 0.5 发布：构建数据安全 RAG，充分整合研发资产](http://www.phodal.com/blog/shire-0.5-secure-rag-and-shireql/)|
 |2024-08-22 09:41:01|[smallyu的博客](https://smallyu.net/atom.xml)|[PoS 类型的区块链如何处理分叉](https://smallyu.net/2024/08/22/PoS%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%8C%BA%E5%9D%97%E9%93%BE%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E5%88%86%E5%8F%89/)|
 |2024-08-23 09:00:00|[smallyu的博客](https://smallyu.net/atom.xml)|[最近找工作的记录（更新中）](https://smallyu.net/2024/08/23/%E6%9C%80%E8%BF%91%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%AE%B0%E5%BD%95/)|
