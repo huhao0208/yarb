@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-23 08:02:31|[依云's Blog](https://blog.lilydjwg.me/feed)|[YubiKey 初体验](https://blog.lilydjwg.me/posts/216867.html)|
+|2024-08-23 10:40:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[google play 转移应用可能导致应用下架重审吗？](https://w2solo.com/topics/4953)|
+|2024-08-23 10:20:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[作品著作权登记申请表：一张表教你登记版权](https://w2solo.com/topics/4952)|
+|2024-08-23 08:36:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[macOS Sequoia 與 iOS 18 可能於九月中同時推出](https://www.iphonetaiwan.org/2024/08/macos-sequoia-ios-18-release-features-updates.html)|
 |2024-08-23 08:20:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 攝影亮點：全新拍照按鈕和 JPEG-XL 圖片格式](https://www.iphonetaiwan.org/2024/08/iphone-16-new-camera-jpeg-xl.html)|
 |2024-08-23 07:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[2024 全球銷售數據揭示：AirPods 稱霸真無線耳機市場](https://www.iphonetaiwan.org/2024/08/global-tws-earbuds-sales-ranking.html)|
 |2024-08-23 07:26:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 Plus 會是蘋果的最後一代 Plus 機型嗎？](https://www.iphonetaiwan.org/2024/08/iphone-16-plus-final-generation.html)|
