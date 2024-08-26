@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-26 10:00:35|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[韩国最新驱魔丧尸恐怖片《帅哥们》爆笑来袭，恐怖又搞笑！](https://www.ximalaya.com/sound/751754313)|
+|2024-08-26 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/34](https://weekly.pychina.org/pyrecap/pyrw-2434.html)|
 |2024-08-26 12:13:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 80：直面天命第一周](https://w2solo.com/topics/4964)|
 |2024-08-26 10:45:56|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[进行著作权登记，就一定享有著作权吗？](https://w2solo.com/topics/4963)|
 |2024-08-26 07:53:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[为什么我从一开始自信满满做前端，到现在觉得自己什么都学不会？](https://w2solo.com/topics/4962)|
