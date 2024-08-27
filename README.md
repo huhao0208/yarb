@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-27 06:53:35|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[OpenTelemetry 实战：从零实现应用指标监控](http://crossoverjie.top/2024/08/27/ob/OpenTelemetry-02-metrics/)|
+|2024-08-27 16:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 Pro/Max四重反射棱鏡長焦鏡頭：影像技術新標準](https://www.iphonetaiwan.org/2024/08/iphone-16-pro-max-tetraprism-telephoto-lens.html)|
+|2024-08-27 15:48:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 iPad mini 6 出現供應短缺，iPad mini 7 即將亮相？](https://www.iphonetaiwan.org/2024/08/ipad-mini-7-release-date.html)|
+|2024-08-27 14:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 僅有設定和電話應用無法刪，自由掌控 iPhone](https://www.iphonetaiwan.org/2024/08/ios18-eu-default-apps.html)|
+|2024-08-27 14:32:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[M4 Mac 標配 16GB 記憶體，應對人工智慧時代新需求](https://www.iphonetaiwan.org/2024/08/m4-mac-16gb-ram-upgrade.html)|
 |2024-08-27 04:07:10|[迷途小书童的Note](https://xugaoxiang.com/feed)|[PyAutoGUI实战专栏](https://xugaoxiang.com/2024/08/27/pyautogui-tutorial/)|
 |2024-08-27 10:12:29|[依云's Blog](https://blog.lilydjwg.me/posts.rss)|[使用 nftables 屏蔽大量 IP](https://blog.lilydjwg.me/posts/216869.html)|
 |2024-08-27 09:37:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个图床服务，欢迎大家体验~](https://w2solo.com/topics/4968)|
