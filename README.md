@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-27 03:06:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[php是最好的……serverless](https://blog.est.im/2024/stdout-17)|
 |2024-08-27 01:06:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 發表在即！預測總整理：外觀/螢幕/攝影鏡頭/顏色/價格/開賣時間](https://applefans.today/2024-08-iphone-16-everythings-rumor/)|
 |2024-08-27 00:53:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 正式公佈 iPhone 16 發表會 時間 + 新品預測總整理！](https://applefans.today/2024-08-apple-event-iphone-16-announce/)|
 |2024-08-27 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Why Testing Exception Throws?](https://leimao.github.io/blog/Why-Testing-Exception-Throws/)|
