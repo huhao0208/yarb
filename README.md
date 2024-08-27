@@ -1,7 +1,11 @@
-﻿# 每日资讯（2024-08-26）
+﻿# 每日资讯（2024-08-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-27 01:06:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 發表在即！預測總整理：外觀/螢幕/攝影鏡頭/顏色/價格/開賣時間](https://applefans.today/2024-08-iphone-16-everythings-rumor/)|
+|2024-08-27 00:53:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 正式公佈 iPhone 16 發表會 時間 + 新品預測總整理！](https://applefans.today/2024-08-apple-event-iphone-16-announce/)|
+|2024-08-27 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Why Testing Exception Throws?](https://leimao.github.io/blog/Why-Testing-Exception-Throws/)|
+|2024-08-27 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年 7 月和 8 月该入手的模型手办](https://leimao.github.io/essay/2024%E5%B9%B47%E6%9C%88%E5%92%8C8%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/)|
 |2024-08-26 10:00:35|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[韩国最新驱魔丧尸恐怖片《帅哥们》爆笑来袭，恐怖又搞笑！](https://www.ximalaya.com/sound/751754313)|
 |2024-08-26 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/34](https://weekly.pychina.org/pyrecap/pyrw-2434.html)|
 |2024-08-26 12:13:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 80：直面天命第一周](https://w2solo.com/topics/4964)|
