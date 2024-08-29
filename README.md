@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-29 13:08:23|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《杀人依赖》：韩国19禁电影之首，刑警意外捕获连环杀人狂，却跪地求饶！](https://www.ximalaya.com/sound/752583077)|
 |2024-08-29 04:41:59|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Google免费AI课](https://xugaoxiang.com/2024/08/29/google-free-courses/)|
 |2024-08-29 00:30:26|[Finisky Garden](https://finisky.github.io/atom.xml)|[基于LLM评估搜索系统](https://finisky.github.io/llm-can-accurately-predict-searcher-preferences/)|
 |2024-08-29 10:07:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[约稿的版权属于谁 授权与买断的区别](https://w2solo.com/topics/4978)|
