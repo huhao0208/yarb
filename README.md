@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-30 10:46:26|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[HEVC DRM 在 Chrome 支持的问题](https://www.jackpu.com/hevc-drm-zai-chrome-zhi-chi-de-wen-ti/)|
+|2024-08-30 01:00:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[42歲生日](http://mercurychong.blogspot.com/2024/08/42.html)|
+|2024-08-30 07:55:32|[迷途小书童的Note](https://xugaoxiang.com/feed)|[推荐10门MIT线上课程](https://xugaoxiang.com/2024/08/30/free-mit-online-courses/)|
+|2024-08-30 03:09:52|[迷途小书童的Note](https://xugaoxiang.com/feed)|[几款Twitter X 在线免费视频下载工具](https://xugaoxiang.com/2024/08/30/online-twitter-download-tools/)|
 |2024-08-30 05:25:34|[smallyu的博客](https://smallyu.net/atom.xml)|[写博客的意义是什么](https://smallyu.net/2024/08/30/%E5%86%99%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88/)|
 |2024-08-30 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[圣荷西谋杀案](https://leimao.github.io/essay/%E5%9C%A3%E8%8D%B7%E8%A5%BF%E8%B0%8B%E6%9D%80%E6%A1%88-Fatal-Visit/)|
 |2024-08-30 04:07:16|[GamerNoTitle](https://bili33.top/atom.xml)|[BaseCTF2024 第二周个人Writeup](https://bili33.top/posts/BaseCTF2024-Week2-Writeup/)|
