@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-30 11:01:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[出海开荒之旅 ---【大型连载】第 001 篇：我的苹果开发者会员资格终于拿下！](https://w2solo.com/topics/4982)|
+|2024-08-30 10:26:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[原创卡通表情包需要登记版权吗？](https://w2solo.com/topics/4981)|
+|2024-08-30 16:23:37|[The Context Works](https://www.sund.site/index.xml)|[Windows Efficient Setup](https://sund.site/posts/2024/windows-efficient-setup/)|
 |2024-08-30 10:46:26|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[HEVC DRM 在 Chrome 支持的问题](https://www.jackpu.com/hevc-drm-zai-chrome-zhi-chi-de-wen-ti/)|
 |2024-08-30 01:00:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[42歲生日](http://mercurychong.blogspot.com/2024/08/42.html)|
 |2024-08-30 07:55:32|[迷途小书童的Note](https://xugaoxiang.com/feed)|[推荐10门MIT线上课程](https://xugaoxiang.com/2024/08/30/free-mit-online-courses/)|
