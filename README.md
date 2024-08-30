@@ -2,19 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-30 05:25:34|[smallyu的博客](https://smallyu.net/atom.xml)|[写博客的意义是什么](https://smallyu.net/2024/08/30/%E5%86%99%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88/)|
 |2024-08-30 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[圣荷西谋杀案](https://leimao.github.io/essay/%E5%9C%A3%E8%8D%B7%E8%A5%BF%E8%B0%8B%E6%9D%80%E6%A1%88-Fatal-Visit/)|
 |2024-08-30 04:07:16|[GamerNoTitle](https://bili33.top/atom.xml)|[BaseCTF2024 第二周个人Writeup](https://bili33.top/posts/BaseCTF2024-Week2-Writeup/)|
 |2024-08-30 02:45:05|[GamerNoTitle](https://bili33.top/atom.xml)|[记录一次Sound Voltex Exceed Gear和Sound Voltex Vivid Wave的初始化](https://bili33.top/posts/SDVX-Setup/)|
 |2024-08-30 03:48:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[15 岁编程少年重返校园，总分 670 分，以 600 分考上最好高中 - 宋浩铜](https://w2solo.com/topics/4980)|
 |2024-08-30 00:45:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开始了！在这里分享和记录我的出海开荒之旅 ---【大型连载】第 000 篇](https://w2solo.com/topics/4979)|
-|2024-08-29 13:08:23|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《杀人依赖》：韩国19禁电影之首，刑警意外捕获连环杀人狂，却跪地求饶！](https://www.ximalaya.com/sound/752583077)|
-|2024-08-29 04:41:59|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Google免费AI课](https://xugaoxiang.com/2024/08/29/google-free-courses/)|
-|2024-08-29 00:30:26|[Finisky Garden](https://finisky.github.io/atom.xml)|[基于LLM评估搜索系统](https://finisky.github.io/llm-can-accurately-predict-searcher-preferences/)|
-|2024-08-29 10:07:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[约稿的版权属于谁 授权与买断的区别](https://w2solo.com/topics/4978)|
-|2024-08-29 00:45:23|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[陪酒行业内的隐形劳动者｜工劳小报 #47 新闻刊](https://feed.laborinfocn7.com/issue47-news/)|
-|2024-08-29 04:31:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[只佔 Mac 總銷量不到 1% 的 Mac mini 好用嗎 ？](https://applefans.today/2024-08-who-buys-mac-mini-report/)|
-|2024-08-29 01:18:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[可折疊多種角度的 Hipporizz iPad Pro Origo 晶透筆槽防摔殻](https://applefans.today/2024-08-hipporizz-origo-ipad-case-reviews/)|
-|2024-08-29 07:26:21|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[健康是基础，搞钱是目标！建了一个副本群，互相学习交流](https://w2solo.com/topics/4977)|
-|2024-08-29 04:06:46|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[CODESS 代码片段工具，自定义您的 vscode 代码片段。](https://w2solo.com/topics/4976)|
-|2024-08-29 02:51:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人介绍贴](https://w2solo.com/topics/4975)|
-|2024-08-29 01:23:05|[祝融说。](https://zhurongshuo.com/index.xml)|[不要过于关注你「最好」的是什么，而要关注他「需要」的是什么。](https://zhurongshuo.com/posts/2024/08/2901/)|
