@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-30 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[圣荷西谋杀案](https://leimao.github.io/essay/%E5%9C%A3%E8%8D%B7%E8%A5%BF%E8%B0%8B%E6%9D%80%E6%A1%88-Fatal-Visit/)|
+|2024-08-30 04:07:16|[GamerNoTitle](https://bili33.top/atom.xml)|[BaseCTF2024 第二周个人Writeup](https://bili33.top/posts/BaseCTF2024-Week2-Writeup/)|
+|2024-08-30 02:45:05|[GamerNoTitle](https://bili33.top/atom.xml)|[记录一次Sound Voltex Exceed Gear和Sound Voltex Vivid Wave的初始化](https://bili33.top/posts/SDVX-Setup/)|
+|2024-08-30 03:48:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[15 岁编程少年重返校园，总分 670 分，以 600 分考上最好高中 - 宋浩铜](https://w2solo.com/topics/4980)|
 |2024-08-30 00:45:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开始了！在这里分享和记录我的出海开荒之旅 ---【大型连载】第 000 篇](https://w2solo.com/topics/4979)|
 |2024-08-29 13:08:23|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《杀人依赖》：韩国19禁电影之首，刑警意外捕获连环杀人狂，却跪地求饶！](https://www.ximalaya.com/sound/752583077)|
 |2024-08-29 04:41:59|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Google免费AI课](https://xugaoxiang.com/2024/08/29/google-free-courses/)|
