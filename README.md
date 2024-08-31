@@ -2,5 +2,6 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-08-31 12:00:00|[Hi, I Am I](https://5ime.cn/atom.xml)|[深信服云对抗靶机设计思路](https://5ime.cn/sangfor_cloud_confrontation.html)|
 |2024-08-31 05:51:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2408](https://xiaket.github.io/2024/pensieve-2408.html)|
 |2024-08-31 01:30:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Facebook 技術問題導致圖示變色，Meta 已修復錯誤](https://www.iphonetaiwan.org/2024/08/facebook-icon-color-change-issue.html)|
