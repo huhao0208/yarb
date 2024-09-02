@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-02 10:52:07|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 發表會時間 確定！去哪看《It’s Glowtime》發表會內容？](https://applefans.today/2024-09-how-to-watch-apple-iphone-16-event/)|
+|2024-09-02 02:40:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac mini M4 2024 推出時間 預測會在 11 月？！預測的 5 大變化](https://applefans.today/2024-09-apple-likely-to-launch-m4-macs-in-november/)|
 |2024-09-02 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Removing Non-Executable Dead Code](https://leimao.github.io/blog/Removing-Non-Executable-Dead-Code/)|
 |2024-09-02 07:32:07|[Dennis](https://www.domon.cn/rss/)|[2024年8月阅读书摘](https://www.domon.cn/2024-8yue-yue-du-shu-zhai/)|
 |2024-09-02 00:29:10|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[工劳小报堂堂突入线下！独立志01：《青年失业潮下：劳动调查》](https://feed.laborinfocn7.com/zine01-survey/)|
