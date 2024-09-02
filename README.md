@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-02 03:00:10|[KAIX.IN](https://kaix.in/feed/)|[追求](https://kaix.in/2024/0902-pursue/)|
+|2024-09-02 03:42:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[信息差周刊第 17 期：独立开发者出海产品分发渠道](https://w2solo.com/topics/4986)|
 |2024-09-01 12:20:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[出海开荒之旅 ---【大型连载】第 002 篇：刚刚申请了邓白氏编码，等官方回复！](https://w2solo.com/topics/4985)|
 |2024-09-01 03:18:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #67：uv 的重磅更新（摘要）](https://w2solo.com/topics/4984)|
 |2024-09-01 02:48:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[高仿 X](https://w2solo.com/topics/4983)|
