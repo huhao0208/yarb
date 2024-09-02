@@ -2,11 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-02 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Removing Non-Executable Dead Code](https://leimao.github.io/blog/Removing-Non-Executable-Dead-Code/)|
+|2024-09-02 07:32:07|[Dennis](https://www.domon.cn/rss/)|[2024年8月阅读书摘](https://www.domon.cn/2024-8yue-yue-du-shu-zhai/)|
+|2024-09-02 00:29:10|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[工劳小报堂堂突入线下！独立志01：《青年失业潮下：劳动调查》](https://feed.laborinfocn7.com/zine01-survey/)|
+|2024-09-02 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/35](https://weekly.pychina.org/pyrecap/pyrw-2435.html)|
+|2024-09-02 05:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 M4 系列 Mac 11 月即將發布：性能再度飛躍！](https://www.iphonetaiwan.org/2024/09/apple-m4-mac-november.html)|
 |2024-09-02 03:00:10|[KAIX.IN](https://kaix.in/feed/)|[追求](https://kaix.in/2024/0902-pursue/)|
 |2024-09-02 03:42:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[信息差周刊第 17 期：独立开发者出海产品分发渠道](https://w2solo.com/topics/4986)|
-|2024-09-01 12:20:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[出海开荒之旅 ---【大型连载】第 002 篇：刚刚申请了邓白氏编码，等官方回复！](https://w2solo.com/topics/4985)|
-|2024-09-01 03:18:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #67：uv 的重磅更新（摘要）](https://w2solo.com/topics/4984)|
-|2024-09-01 02:48:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[高仿 X](https://w2solo.com/topics/4983)|
-|2024-09-01 02:52:18|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何下载Fnet的台站列表](http://www.seis-jun.xyz/how-to-download-fnet-station-list)|
-|2024-09-01 02:58:04|[Dawner](https://dawner.top/atom.xml)|[一個人行走 Bangkok](https://dawner.top/posts/a-person-walking-alone-in-bangkok/)|
-|2024-09-01 01:00:09|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[一个Java类型的小问题记录](https://nicksxs.me/2024/09/01/%E4%B8%80%E4%B8%AAJava%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/)|
