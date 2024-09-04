@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-04 02:25:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[创始人模式](https://blog.est.im/2024/stdin-13)|
+|2024-09-04 03:16:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【产品自荐】Yes/No 塔罗 AI](https://w2solo.com/topics/4999)|
+|2024-09-04 02:56:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[推荐大家一个超实用的免费通配符 SSL 证书平台](https://w2solo.com/topics/4998)|
 |2024-09-03 13:58:47|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十九）](http://www.seis-jun.xyz/paper-reading-19)|
 |2024-09-03 00:42:33|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[周报 2024-08-31 -- 海陵岛之旅](https://blog.rxliuli.com/p/118495bafcc9414a989d5f8b72e9d618/)|
 |2024-09-03 04:43:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[去哪賣 iPhone 二手機？！「BUNNIT」給你最輕鬆便利的手機自助回收服務](https://applefans.today/2024-09-bunnit-used-iphone-price/)|
