@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-04 14:26:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[普通人副业 动动手指就能批量生成小红书原创鸡汤文 + 手绘图，你相信吗？](https://w2solo.com/topics/5002)|
+|2024-09-04 15:35:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 變慢怎麼辦？十個簡單步驟立刻提速](https://www.iphonetaiwan.org/2024/09/iphone-slow.html)|
 |2024-09-04 09:13:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[舍友：阿巴阿巴..... 面试官：你这不就是增删改查](https://w2solo.com/topics/5001)|
 |2024-09-04 05:16:36|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[平时查询油价太麻烦，发现个小程序。有各省油价，还能预计下个调价日是涨还是跌，我特别喜欢这个功能。掐准时间涨价前加油。](https://w2solo.com/topics/5000)|
 |2024-09-04 09:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 更新後出現問題怎麼辦？這 9 步驟幫你快速修復](https://www.iphonetaiwan.org/2024/09/iphone-update-problems.html)|
