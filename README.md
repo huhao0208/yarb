@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-05 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Gruul In World of Wardcraft and Shrike](https://leimao.github.io/blog/World-of-Warcraft-Gruul-Shrike/)|
 |2024-09-05 10:50:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[海德时钟 App 是一款集合精美时钟、番茄计时以及白噪音的专注类 App](https://w2solo.com/topics/5004)|
 |2024-09-05 09:47:11|[KAIX.IN](https://kaix.in/feed/)|[读这些是不够的](https://kaix.in/2024/0905-not-enough/)|
 |2024-09-05 08:36:12|[戴铭的博客 - 星光社](https://ming1016.github.io/atom.xml)|[二刷 iOS 性能与编译，简单点说](https://starming.com/2024/09/05/iOS-performance-optimization-second-time/)|
