@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-09-04）
+﻿# 每日资讯（2024-09-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-05 00:47:13|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[抵制加班，从谁开始？｜工劳小报 #47 副刊](https://feed.laborinfocn7.com/issue47-supplement/)|
 |2024-09-04 14:26:31|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[普通人副业 动动手指就能批量生成小红书原创鸡汤文 + 手绘图，你相信吗？](https://w2solo.com/topics/5002)|
 |2024-09-04 15:35:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 變慢怎麼辦？十個簡單步驟立刻提速](https://www.iphonetaiwan.org/2024/09/iphone-slow.html)|
 |2024-09-04 09:13:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[舍友：阿巴阿巴..... 面试官：你这不就是增删改查](https://w2solo.com/topics/5001)|
