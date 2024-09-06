@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-06 03:30:27|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 八 一站式制作AI长视频](https://xugaoxiang.com/2024/09/06/ai-project-8/)|
+|2024-09-06 03:04:54|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[AI Lyrics Generator：免费人工智能歌词生成器和人工智能歌曲作家](https://w2solo.com/topics/5005)|
 |2024-09-05 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Gruul In World of Wardcraft and Shrike](https://leimao.github.io/blog/World-of-Warcraft-Gruul-Shrike/)|
 |2024-09-05 10:50:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[海德时钟 App 是一款集合精美时钟、番茄计时以及白噪音的专注类 App](https://w2solo.com/topics/5004)|
 |2024-09-05 09:47:11|[KAIX.IN](https://kaix.in/feed/)|[读这些是不够的](https://kaix.in/2024/0905-not-enough/)|
