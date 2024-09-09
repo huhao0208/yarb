@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-09 14:01:19|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（二十）](http://www.seis-jun.xyz/paper-reading-20)|
 |2024-09-09 07:32:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一时兴起，聊聊当今 IT 行业的乱象](https://w2solo.com/topics/5014)|
 |2024-09-09 07:26:37|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[BOE·IPC 电竞大赛暨 BOE 无畏杯 S2 完美收官 BOE（京东方）竖立电竞产业生态新标杆](https://w2solo.com/topics/5013)|
 |2024-09-09 06:06:43|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开源无代码平台，后端服务](https://w2solo.com/topics/5012)|
