@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-09 13:15:00|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)|
+|2024-09-09 08:26:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[使用 HTTP API 从 WPS 在线表格中增删改查数据示例](https://www.imaegoo.com/2024/http-crud-data-from-wps/)|
 |2024-09-09 14:01:19|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（二十）](http://www.seis-jun.xyz/paper-reading-20)|
 |2024-09-09 07:32:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一时兴起，聊聊当今 IT 行业的乱象](https://w2solo.com/topics/5014)|
 |2024-09-09 07:26:37|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[BOE·IPC 电竞大赛暨 BOE 无畏杯 S2 完美收官 BOE（京东方）竖立电竞产业生态新标杆](https://w2solo.com/topics/5013)|
