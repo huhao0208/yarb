@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-09-08）
+﻿# 每日资讯（2024-09-09）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-09 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[老穆棍宇宙](https://leimao.github.io/essay/%E8%80%81%E7%A9%86%E6%A3%8D%E5%AE%87%E5%AE%99/)|
 |2024-09-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[The "iCloud Storage Is Full" Bug](https://leimao.github.io/blog/iCloud-Storage-Is-Full-Bug/)|
 |2024-09-08 08:00:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）](https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/)|
 |2024-09-08 08:43:58|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[用netty实现一个简单的http server](https://nicksxs.me/2024/09/08/%E7%94%A8netty%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84http-server/)|
