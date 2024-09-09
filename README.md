@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-09 03:22:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社預測新品的 5 大重點變化： iPhone 16 為觸控按鍵、AirPods Max 要來了…](https://applefans.today/2024-09-iphone-16-touch-sensitive-camera-button-rumors/)|
 |2024-09-09 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[老穆棍宇宙](https://leimao.github.io/essay/%E8%80%81%E7%A9%86%E6%A3%8D%E5%AE%87%E5%AE%99/)|
 |2024-09-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[The "iCloud Storage Is Full" Bug](https://leimao.github.io/blog/iCloud-Storage-Is-Full-Bug/)|
 |2024-09-08 08:00:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）](https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/)|
