@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-10 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Chrome ends support for First Input Delay](https://web.dev/blog/fid?hl=en)|
 |2024-09-10 05:53:19|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[第一次 AI 尝试，完全用 AI MarsCode 做个需求](https://github.com/yihong0618/gitblog/issues/293)|
 |2024-09-10 09:09:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[如何選 iPhone 16 儲存空間？128GB、256GB、512GB、1TB](https://www.iphonetaiwan.org/2024/09/iphone-16-storage-options.html)|
 |2024-09-10 08:33:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 和 iPhone 15 的七大不同之處？讓你輕鬆選擇](https://www.iphonetaiwan.org/2024/09/choice-iphone-16.html)|
