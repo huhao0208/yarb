@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-10 02:33:42|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[轻量级开源自动化运维平台，批量执行、在线终端、发布部署一应俱全](https://w2solo.com/topics/5015)|
+|2024-09-10 00:13:19|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Watch Series 10 全新登場 8 大升級重點一次掌握](https://applefans.today/2024-09-all-new-apple-watch-series-10/)|
 |2024-09-09 13:15:00|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)|
 |2024-09-09 08:26:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[使用 HTTP API 从 WPS 在线表格中增删改查数据示例](https://www.imaegoo.com/2024/http-crud-data-from-wps/)|
 |2024-09-09 14:01:19|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（二十）](http://www.seis-jun.xyz/paper-reading-20)|
