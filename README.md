@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-11 13:53:33|[Finisky Garden](https://finisky.github.io/atom.xml)|[Use az cli to Query Multiple Fields of Resource Information](https://finisky.github.io/en/use-az-cli-to-query-multiple-fields/)|
 |2024-09-11 10:06:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CASETiFY 全新 iPhone 16 系列防摔手機殼與 Apple Watch 錶帶 集防護力、功能性、風格力於一體的極致穿戴體驗！](https://applefans.today/2024-09-casetify-iphone-16-case/)|
 |2024-09-11 09:44:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AirPods Pro 2 韌體更新：支援點頭、搖頭、遊戲化個人音訊](https://applefans.today/2024-09-airpods-pro-2-new-firmware-update/)|
 |2024-09-11 09:00:00|[smallyu的博客](https://smallyu.net/atom.xml)|[最近找工作的记录](https://smallyu.net/2024/09/11/%E6%9C%80%E8%BF%91%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%AE%B0%E5%BD%95/)|
