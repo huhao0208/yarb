@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-11 08:44:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开源啦！小木 CMS 内容管理系统](https://w2solo.com/topics/5024)|
+|2024-09-11 17:31:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 保護殼真的必要嗎？美學與實用性間的平衡](https://www.iphonetaiwan.org/2024/09/iphone16-case-design.html)|
 |2024-09-11 13:53:33|[Finisky Garden](https://finisky.github.io/atom.xml)|[Use az cli to Query Multiple Fields of Resource Information](https://finisky.github.io/en/use-az-cli-to-query-multiple-fields/)|
 |2024-09-11 10:06:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CASETiFY 全新 iPhone 16 系列防摔手機殼與 Apple Watch 錶帶 集防護力、功能性、風格力於一體的極致穿戴體驗！](https://applefans.today/2024-09-casetify-iphone-16-case/)|
 |2024-09-11 09:44:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AirPods Pro 2 韌體更新：支援點頭、搖頭、遊戲化個人音訊](https://applefans.today/2024-09-airpods-pro-2-new-firmware-update/)|
