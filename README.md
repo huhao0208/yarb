@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-11 02:28:56|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[Excel通过身份证号列计算性别](https://jasonkayzk.github.io/2024/09/11/Excel%E9%80%9A%E8%BF%87%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E5%88%97%E8%AE%A1%E7%AE%97%E6%80%A7%E5%88%AB/)|
 |2024-09-10 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[Chrome ends support for First Input Delay](https://web.dev/blog/fid?hl=en)|
 |2024-09-10 05:53:19|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[第一次 AI 尝试，完全用 AI MarsCode 做个需求](https://github.com/yihong0618/gitblog/issues/293)|
 |2024-09-10 09:09:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[如何選 iPhone 16 儲存空間？128GB、256GB、512GB、1TB](https://www.iphonetaiwan.org/2024/09/iphone-16-storage-options.html)|
