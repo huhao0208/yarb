@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-12 00:53:50|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[难以维生的最低工资｜工劳小报 #48 新闻刊](https://feed.laborinfocn7.com/issue48-news/)|
 |2024-09-12 07:31:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新手小白入局跨境电商的最佳赛道](https://w2solo.com/topics/5026)|
 |2024-09-12 07:10:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员想独立赚钱的几个注意点](https://w2solo.com/topics/5025)|
 |2024-09-12 07:29:05|[smallyu的博客](https://smallyu.net/atom.xml)|[为什么不要做以太坊的二次开发](https://smallyu.net/2024/09/12/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E5%81%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91/)|
