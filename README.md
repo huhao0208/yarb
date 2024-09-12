@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-12 02:22:36|[迷途小书童的Note](https://xugaoxiang.com/feed)|[打破视频分析瓶颈，InterTrack让人类行为追踪更简单！](https://xugaoxiang.com/2024/09/12/intertrack/)|
 |2024-09-11 08:44:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开源啦！小木 CMS 内容管理系统](https://w2solo.com/topics/5024)|
 |2024-09-11 17:31:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 保護殼真的必要嗎？美學與實用性間的平衡](https://www.iphonetaiwan.org/2024/09/iphone16-case-design.html)|
 |2024-09-11 13:53:33|[Finisky Garden](https://finisky.github.io/atom.xml)|[Use az cli to Query Multiple Fields of Resource Information](https://finisky.github.io/en/use-az-cli-to-query-multiple-fields/)|
