@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-12 07:31:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新手小白入局跨境电商的最佳赛道](https://w2solo.com/topics/5026)|
+|2024-09-12 07:10:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员想独立赚钱的几个注意点](https://w2solo.com/topics/5025)|
 |2024-09-12 07:29:05|[smallyu的博客](https://smallyu.net/atom.xml)|[为什么不要做以太坊的二次开发](https://smallyu.net/2024/09/12/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E5%81%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91/)|
 |2024-09-12 11:43:08|[戴铭的博客 - 星光社](https://ming1016.github.io/atom.xml)|[我是怎么做个人知识管理（PKM）的，从史前时代备忘录、Sublime，经历了Evernote，Markdown兴起，Bear的优雅，Notion革命，飞书语雀，Obsidian、Flomo，到最后使用卢曼卡片盒笔记法串起了流程](https://starming.com/2024/09/12/my-pkm/)|
 |2024-09-12 10:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 A18 Pro 晶片性能揭曉：比 A17 Pro 提升 18%](https://www.iphonetaiwan.org/2024/09/a18-pro-chip-performance-vs-a17-pro.html)|
