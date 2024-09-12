@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-12 07:29:05|[smallyu的博客](https://smallyu.net/atom.xml)|[为什么不要做以太坊的二次开发](https://smallyu.net/2024/09/12/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E5%81%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91/)|
+|2024-09-12 11:43:08|[戴铭的博客 - 星光社](https://ming1016.github.io/atom.xml)|[我是怎么做个人知识管理（PKM）的，从史前时代备忘录、Sublime，经历了Evernote，Markdown兴起，Bear的优雅，Notion革命，飞书语雀，Obsidian、Flomo，到最后使用卢曼卡片盒笔记法串起了流程](https://starming.com/2024/09/12/my-pkm/)|
+|2024-09-12 10:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 A18 Pro 晶片性能揭曉：比 A17 Pro 提升 18%](https://www.iphonetaiwan.org/2024/09/a18-pro-chip-performance-vs-a17-pro.html)|
+|2024-09-12 09:12:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 推出維修助手功能：保障 iPhone 零件正品與功能](https://www.iphonetaiwan.org/2024/09/ios-18-repair-assistant-configure-genuine-apple-parts.html)|
+|2024-09-12 08:52:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 配備 M4 晶片 Secure Exclave：隱私保護全新標準](https://www.iphonetaiwan.org/2024/09/iphone16-secure-exclave-m4-chip-security.html)|
 |2024-09-12 07:00:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[10 個 iPhone 16 Pro 系列的升級重點](https://applefans.today/2024-09-what-the-special-iphone-16-pro/)|
 |2024-09-12 07:01:39|[迷途小书童的Note](https://xugaoxiang.com/feed)|[PyTorch宣布去CUDA，Triton时代来临?](https://xugaoxiang.com/2024/09/12/pytorch-cuda-free/)|
 |2024-09-12 08:24:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 基本款升級 8GB 記憶體：性能提升 AI 更強大](https://www.iphonetaiwan.org/2024/09/iphone16-8gb-ram-ai-performance.html)|
