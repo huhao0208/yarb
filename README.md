@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-13 13:45:01|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[韩国高分电影《收件人不祥》：一部揭露韩国民族伤痕的电影，毫无尊严的活着！](https://www.ximalaya.com/sound/756408401)|
+|2024-09-13 01:54:25|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《罪证子弹》：天才改装师爆改警车，对飙车党进行疯狂追杀，场面太刺激了！](https://www.ximalaya.com/sound/756271987)|
+|2024-09-13 15:33:23|[whyes 的博客](https://whyes.org/feed.xml)|[安罗替尼+派安普利单抗：晚期肝癌一线治疗又多了一项选择 #ESMO24](http://whyes.org/2024/appolo-hcc-anlotinib-penpulimab)|
 |2024-09-13 08:21:37|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[購買 STUDIO A 指定新品加碼抽 iPhone 16 Pro Max 等 300+豪禮！](https://applefans.today/2024-09-studio-a-iphone-16-event/)|
 |2024-09-13 03:40:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 發表會 10 件買前必看重點！你不能不知的細節，一次看懂！](https://applefans.today/2024-09-iphone-16-event-must-be-know/)|
 |2024-09-13 02:41:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 下週即將登場， Netflix 宣布 不支援 iOS 16 了！](https://applefans.today/2024-09-netflix-not-support-ios16/)|
