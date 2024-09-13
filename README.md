@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-13 02:13:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一款赏心悦目的浏览器插件](https://w2solo.com/topics/5028)|
 |2024-09-13 00:58:27|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 149 期）：每月收入 100 万美元的 AI 写作 SaaSv](https://w2solo.com/topics/5027)|
 |2024-09-12 00:53:50|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[难以维生的最低工资｜工劳小报 #48 新闻刊](https://feed.laborinfocn7.com/issue48-news/)|
 |2024-09-12 07:31:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新手小白入局跨境电商的最佳赛道](https://w2solo.com/topics/5026)|
