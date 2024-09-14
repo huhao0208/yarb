@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-14 03:58:11|[KAIX.IN](https://kaix.in/feed/)|[寡淡？](https://kaix.in/2024/0914-weak-watery/)|
+|2024-09-14 02:20:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[二胎宝妈的独立开发之路。。。](https://w2solo.com/topics/5034)|
+|2024-09-14 02:02:50|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Suka 数字卡片，内测开启中🎉](https://w2solo.com/topics/5033)|
+|2024-09-14 03:29:18|[迷途小书童的Note](https://xugaoxiang.com/feed)|[推理能力超博士，OpenAI发布最强模型o1](https://xugaoxiang.com/2024/09/14/openai-o1/)|
+|2024-09-14 03:21:29|[迷途小书童的Note](https://xugaoxiang.com/feed)|[U2-Net：图像分割中的背景移除技术](https://xugaoxiang.com/2024/09/14/u2net/)|
 |2024-09-13 12:40:18|[嵌入式工程猫的博客](https://blog.vvzero.com/atom.xml)|[批量修改 qbittorrent-nox 内种子的 tracker 地址](https://blog.vvzero.com/2024/09/13/batch-edit-tracker-urls-in-qbittorrent-nox/)|
 |2024-09-13 13:45:01|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[韩国高分电影《收件人不祥》：一部揭露韩国民族伤痕的电影，毫无尊严的活着！](https://www.ximalaya.com/sound/756408401)|
 |2024-09-13 01:54:25|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《罪证子弹》：天才改装师爆改警车，对飙车党进行疯狂追杀，场面太刺激了！](https://www.ximalaya.com/sound/756271987)|
