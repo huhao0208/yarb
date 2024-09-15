@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-15 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[寄生兽: 灰色部队](https://leimao.github.io/essay/%E5%AF%84%E7%94%9F%E5%85%BD-%E7%81%B0%E8%89%B2%E9%83%A8%E9%98%9F/)|
 |2024-09-14 11:22:56|[乔克叔叔的床边故事](https://lifeodyssey.github.io/atom.xml)|[Evaluating ChatGPTo1-preview, and Claude 3.5 sonnet](https://lifeodyssey.github.io/posts/aec625cb.html)|
 |2024-09-14 08:12:15|[Conge](https://conge.github.io/feed.xml)|[折返点 36 - 一周做了两次比赛义工](https://conge.livingwithfcs.org/2024/09/14/ReturnPoint-volunteer/)|
 |2024-09-14 15:06:59|[whyes 的博客](https://whyes.org/feed.xml)|[IMbrave050 最终结果公布，肝癌辅助治疗回到了解放前 #ESMO24](http://whyes.org/2024/imbrave050-hcc-adjuvant-atezo-bev-esmo-2024)|
