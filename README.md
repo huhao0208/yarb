@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-16 17:16:37|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPadOS 18 正式版推出！10 個你不可不知的升級重點](https://applefans.today/ipados-18/)|
+|2024-09-16 17:11:38|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 正式版推出 – 你一定要知道的 15 個更新重點！](https://applefans.today/ios-18/)|
+|2024-09-16 11:14:15|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 972 Div. 2 ](https://blog.mauve.icu/2024/09/16/acm/codeforces/CodeforcesRound972/)|
 |2024-09-16 15:31:14|[The Context Works](https://www.sund.site/index.xml)|[磨合](https://sund.site/posts/2024/symbiosis/)|
 |2024-09-16 16:05:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPadOS 18是值得更新的「新刀」嗎？還是iPadOS 17更穩妥](https://www.iphonetaiwan.org/2024/09/update-ipados-18-vs-ipados-17.html)|
 |2024-09-16 15:24:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 值得更新嗎？還是留在 iOS 17 更安全？](https://www.iphonetaiwan.org/2024/09/ios-18-upgrade-vs-ios-17.html)|
