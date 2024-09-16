@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-16 15:31:14|[The Context Works](https://www.sund.site/index.xml)|[磨合](https://sund.site/posts/2024/symbiosis/)|
+|2024-09-16 16:05:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPadOS 18是值得更新的「新刀」嗎？還是iPadOS 17更穩妥](https://www.iphonetaiwan.org/2024/09/update-ipados-18-vs-ipados-17.html)|
+|2024-09-16 15:24:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 值得更新嗎？還是留在 iOS 17 更安全？](https://www.iphonetaiwan.org/2024/09/ios-18-upgrade-vs-ios-17.html)|
 |2024-09-16 12:27:11|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 83：新 App 连续六次被拒](https://w2solo.com/topics/5038)|
 |2024-09-16 09:48:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【网站自荐】改革后法定退休年龄计算器 & 翻页倒计时工具](https://w2solo.com/topics/5037)|
 |2024-09-16 04:39:50|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[NCC 已經看到 AirPods Max 身影，距台灣開賣日不遠](https://applefans.today/2024-09-airpods-max-ncc-pass/)|
