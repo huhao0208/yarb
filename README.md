@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-19 11:00:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[前端人的 Python、Conda 环境搭建](https://www.imaegoo.com/2024/python-conda-setup/)|
 |2024-09-19 08:26:19|[迷途小书童的Note](https://xugaoxiang.com/feed)|[超级Prompt!](https://xugaoxiang.com/2024/09/19/superprompt/)|
 |2024-09-19 08:24:09|[迷途小书童的Note](https://xugaoxiang.com/feed)|[不懂编程也没关系，Cursor AI帮你轻松写代码！](https://xugaoxiang.com/2024/09/19/cursor/)|
 |2024-09-19 06:49:03|[](http://blog.fivest.one/feed)|[综艺《思想验证区域》的阵营问卷](https://blog.fivest.one/archives/6855)|
