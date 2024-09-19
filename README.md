@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-19 03:16:02|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[悬疑惊悚片《拜访小屋》：末日4大神秘灾难席卷全国，如果牺牲家人可以拯救世界！](https://www.ximalaya.com/sound/757894353)|
+|2024-09-19 00:20:49|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[法律实质上极不平等｜工劳小报 #48 副刊](https://feed.laborinfocn7.com/issue48-supplement/)|
 |2024-09-18 13:29:42|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Notion 工具资源集合网站 Notion2go.com](https://w2solo.com/topics/5046)|
 |2024-09-18 02:58:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 充電上限大升級，自行設定 85%、90% 或 95%](https://applefans.today/2024-09-ios-18-new-iphone-charging-limit-options/)|
 |2024-09-18 08:38:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[大家都是怎么做性能优化和易用性优化的呢？](https://w2solo.com/topics/5044)|
