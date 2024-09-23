@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-23 00:00:01|[Josherich’s Blog](https://www.josherich.me/feed.xml)|[Remaster Ugly Web Pages](https://josherich.me/short/remaster)|
 |2024-09-23 09:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 電池容量增加 6~9%：續航提升 4 小時](https://www.iphonetaiwan.org/2024/09/iphone-16-battery-life-improvement.html)|
 |2024-09-23 09:19:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[T-Mobile 執行長：iPhone 16 銷量已超越去年 iPhone 15](https://www.iphonetaiwan.org/2024/09/iphone-16-tmobile-sales-surpass-iphone-15.html)|
 |2024-09-23 08:54:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iFixit 報告：iPhone 16 是歷史上最容易維修的蘋果手機](https://www.iphonetaiwan.org/2024/09/iphone-16-easy-repair-ifixit-review.html)|
