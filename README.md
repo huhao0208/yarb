@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-24 16:00:42|[竹林里有冰的博客](https://zhul.in/rss.xml)|[基于 JavaScript 的 Hexo Fluid 主题 banner 随机背景图实现](https://zhul.in/2024/09/25/random-banner-backgroud-image-implement-for-hexo-fluid-with-javascript/)|
+|2024-09-24 17:36:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何在 iPad 上快速啟用 eSIM，保持隨時連線](https://www.iphonetaiwan.org/2024/09/activate-ipad-esim-tutorial.html)|
+|2024-09-24 17:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何在 Mac 上刪除應用程式，釋放更多空間](https://www.iphonetaiwan.org/2024/09/delete-mac-apps-tutorial.html)|
 |2024-09-24 03:00:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 Pro 裸機使用的潛在風險？國外實測機身耐刮程度](https://applefans.today/2024-09-iphone-16-pro-no-protect-case/)|
 |2024-09-24 12:15:00|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)|
 |2024-09-24 09:43:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何輕鬆將您的 Mac 恢復為出廠設定](https://www.iphonetaiwan.org/2024/09/how-to-erase-reset-mac-factory-settings.html)|
