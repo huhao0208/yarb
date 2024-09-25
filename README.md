@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-25 16:37:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果準備為 AirPods Pro 2 增加助聽器功能](https://www.iphonetaiwan.org/2024/09/airpods-pro2-hearing-aid-function.html)|
 |2024-09-25 16:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18.1 引入相機控制更新，iPhone 16 自拍切換更加直觀](https://www.iphonetaiwan.org/2024/09/ios18-1-camera-selfie.html)|
 |2024-09-25 15:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Music Classical 2.0：新增數千專輯說明書，提升古典音樂體驗](https://www.iphonetaiwan.org/2024/09/apple-music-classical-2-update-album-booklets.html)|
 |2024-09-25 15:30:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 收到通知後螢幕不會自動關閉？5 方法快速解決](https://www.iphonetaiwan.org/2024/09/iphone-screen-wont-turn-off-after-notifications.html)|
