@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-25 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[十匙一饭](https://leimao.github.io/essay/%E5%8D%81%E5%8C%99%E4%B8%80%E9%A5%AD/)|
 |2024-09-24 16:00:42|[竹林里有冰的博客](https://zhul.in/rss.xml)|[基于 JavaScript 的 Hexo Fluid 主题 banner 随机背景图实现](https://zhul.in/2024/09/25/random-banner-backgroud-image-implement-for-hexo-fluid-with-javascript/)|
 |2024-09-24 17:36:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何在 iPad 上快速啟用 eSIM，保持隨時連線](https://www.iphonetaiwan.org/2024/09/activate-ipad-esim-tutorial.html)|
 |2024-09-24 17:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何在 Mac 上刪除應用程式，釋放更多空間](https://www.iphonetaiwan.org/2024/09/delete-mac-apps-tutorial.html)|
