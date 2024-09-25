@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-25 16:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18.1 引入相機控制更新，iPhone 16 自拍切換更加直觀](https://www.iphonetaiwan.org/2024/09/ios18-1-camera-selfie.html)|
+|2024-09-25 15:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Music Classical 2.0：新增數千專輯說明書，提升古典音樂體驗](https://www.iphonetaiwan.org/2024/09/apple-music-classical-2-update-album-booklets.html)|
+|2024-09-25 15:30:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 收到通知後螢幕不會自動關閉？5 方法快速解決](https://www.iphonetaiwan.org/2024/09/iphone-screen-wont-turn-off-after-notifications.html)|
 |2024-09-25 10:21:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 相機控制 將新增「自拍」功能！一鍵輕鬆切換前鏡頭](https://applefans.today/2024-09-ios-18-1-beta-5-selfie-camera-control/)|
 |2024-09-25 09:04:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何使用 iPhone 16 相機控制按鈕？ 拍照、錄影及其他功能](https://applefans.today/2024-how-to-use-iphone-16-camera-control-button/)|
 |2024-09-25 09:27:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Shazam 支援 iOS 18 音樂觸覺，讓你感受音樂的震動回饋](https://www.iphonetaiwan.org/2024/09/shazam-ios18-music-haptics-experience.html)|
