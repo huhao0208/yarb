@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-09-25）
+﻿# 每日资讯（2024-09-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-26 00:47:07|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[六十退休为何难｜工劳小报 #49 新闻刊](https://feed.laborinfocn7.com/issue49-news/)|
 |2024-09-25 16:37:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果準備為 AirPods Pro 2 增加助聽器功能](https://www.iphonetaiwan.org/2024/09/airpods-pro2-hearing-aid-function.html)|
 |2024-09-25 16:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18.1 引入相機控制更新，iPhone 16 自拍切換更加直觀](https://www.iphonetaiwan.org/2024/09/ios18-1-camera-selfie.html)|
 |2024-09-25 15:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Music Classical 2.0：新增數千專輯說明書，提升古典音樂體驗](https://www.iphonetaiwan.org/2024/09/apple-music-classical-2-update-album-booklets.html)|
