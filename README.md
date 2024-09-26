@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-26 15:09:13|[找生活](https://zhaolife.com/atom.xml)|[周报 02 探店咖啡牛肉火锅](http://zhaolife.com/2024/09/26/zhouji02/)|
+|2024-09-26 15:01:25|[smallyu的博客](https://smallyu.net/atom.xml)|[10 月份的面试记录（更新中）1](https://smallyu.net/2024/09/26/10%E6%9C%88%E4%BB%BD%E7%9A%84%E9%9D%A2%E8%AF%95%E8%AE%B0%E5%BD%95/)|
 |2024-09-26 03:12:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple TV+ 限時免費播放《Peanuts》節慶特輯 史努比陪你度過節日時光](https://applefans.today/2024-09-apple-tv-plus-peanuts-specials-for-free-this-holiday-season/)|
 |2024-09-26 01:43:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 Pro 升級 重點 只剩攝影？](https://applefans.today/2024-09-iphone-16-pro-reviews/)|
 |2024-09-26 05:52:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[哪一年不難？](http://mercurychong.blogspot.com/2024/09/blog-post_25.html)|
