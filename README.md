@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-09-27 02:00:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果又釋出 AirPods Pro 2 韌體更新版本！這是 9 月的第三次更新](https://applefans.today/2024-09-27-airpods-pro-2-new-firmware-update/)|
 |2024-09-26 14:52:00|[est の 输入 输出和出入](https://blog.est.im/rss)|[javascript 节拍器](https://blog.est.im/2024/stdout-19)|
 |2024-09-26 05:14:01|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[OpenTelemetry 实战：从 0 到 1 编写一个 Instrumentation](http://crossoverjie.top/2024/09/26/ob/OpenTelemetry-create-instrumentation/)|
 |2024-09-26 15:51:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果用戶專享！Delta 模擬器帶你重溫 DS 經典遊戲線上對戰](https://www.iphonetaiwan.org/2024/09/delta-emulator-ds-online-multiplayer.html)|
