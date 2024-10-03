@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-03 14:30:05|[找生活](https://zhaolife.com/atom.xml)|[周报 03 桌面搭配的大提升](http://zhaolife.com/2024/10/03/zhouji03/)|
 |2024-10-03 04:07:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果準備推出下一代 iPad Air 7 最快 2024 年底？](https://applefans.today/2024-10-apple-new-ipad-air-rumors/)|
 |2024-10-03 09:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Pencil 可從真實物件偵測顏色與紋理，改變創作方式](https://www.iphonetaiwan.org/2024/10/apple-pencil-color-texture-detection.html)|
 |2024-10-03 08:47:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 iOS 18 強化隱私權限，社交應用陷入危機？](https://www.iphonetaiwan.org/2024/10/ios-18-privacy-contact-sharing-social-app-impact.html)|
