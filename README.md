@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-04 12:30:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[用户与说明书](https://blog.xulihang.me/users-do-not-read-manuals/)|
 |2024-10-04 09:26:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[全新 AirPods 4 耳機，已經通過 NCC 電檢](https://applefans.today/2024-10-airpods-4-ncc-pass/)|
 |2024-10-04 07:58:46|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[watchOS 11.0.1 更新 修復無預警重啟、耗電、觸控螢幕無回應等問題](https://applefans.today/watchos-11-0-1/)|
 |2024-10-04 04:55:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.0.1 更新 解決觸控螢幕無回應、相機凍結等重大問題](https://applefans.today/ios-18-0-1/)|
