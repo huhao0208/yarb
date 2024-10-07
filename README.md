@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-07 01:37:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2024 年下半年第二場新品發表會，預測會有 4 大新品推出](https://applefans.today/2024-10-apple-launch-new-m4-macs-nov-1-mark-gurman/)|
 |2024-10-07 00:33:38|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》時間印章 Pro](https://applefans.today/2024-08-ios-18-shortcuts-iphone-photo-time-stamp-pro/)|
 |2024-10-06 14:15:51|[嵌入式工程猫的博客](https://blog.vvzero.com/atom.xml)|[维护 Nginx 时，什么时候应该用 reload，什么时候应该用 restart？](https://blog.vvzero.com/2024/10/06/when-to-restart-and-not-reload-nginx/)|
 |2024-10-06 12:52:45|[smallyu的博客](https://smallyu.net/atom.xml)|[近期的 Solo Travel](https://smallyu.net/2024/10/06/%E8%BF%91%E6%9C%9F%E7%9A%84-Solo-Travel/)|
