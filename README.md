@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-08 20:45:45|[I'm OWenT](https://owent.net/index.xml)|[实现一个strong_rc_ptr 非线程安全版本的std::shared_ptr ](//owent.net/2024/2405.html)|
 |2024-10-08 03:28:37|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iFixit 拆解 Apple Watch Series 10 內部結構有何不同？](https://applefans.today/2024-10-ifixit-teardown-apple-watch-series-10/)|
 |2024-10-08 13:20:52|[GamerNoTitle](https://bili33.top/atom.xml)|[NewStarCTF2024 第一周个人Writeup](https://bili33.top/posts/NewStarCTF2024-Week1-Writeup/)|
 |2024-10-08 07:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[CSS nesting improves with CSSNestedDeclarations](https://web.dev/blog/css-nesting-cssnesteddeclarations?hl=en)|
