@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-09 16:15:10|[SHRIK3](https://shrik3.com/index.xml)|[Bochs code reading, notes and hacks](https://shrik3.com/post/bochs/)|
 |2024-10-09 06:15:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iCloud 網頁版 深色模式來了！首頁背景可自訂顏色、還有…](https://applefans.today/2024-10-icloud-web-interface-new-features/)|
 |2024-10-09 06:06:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》在 Apple 地圖開啟](https://applefans.today/2024-10-ios-18-shortcuts-google-maps-to-apple-maps/)|
 |2024-10-09 08:15:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[M4 Mac 值得升級嗎？單核效能提升 26%，多核更進一步](https://www.iphonetaiwan.org/2024/10/m4-mac-geekbench-performance.html)|
