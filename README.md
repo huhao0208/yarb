@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-09 02:38:03|[Space Looming](http://yibie.github.io/index.xml)|[用 AI 辅助开发的经验二三则](https://www.gtdstudy.com/posts/learned-from-using-ai-develop-software/)|
 |2024-10-08 20:45:45|[I'm OWenT](https://owent.net/index.xml)|[实现一个strong_rc_ptr 非线程安全版本的std::shared_ptr ](//owent.net/2024/2405.html)|
 |2024-10-09 09:20:19|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[StarRocks 开发环境搭建踩坑指北](http://crossoverjie.top/2024/10/09/ob/StarRocks-dev-env-build/)|
 |2024-10-08 03:28:37|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iFixit 拆解 Apple Watch Series 10 內部結構有何不同？](https://applefans.today/2024-10-ifixit-teardown-apple-watch-series-10/)|
