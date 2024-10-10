@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-10 04:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】蘋果AirPods Pro正確清潔方法，音質煥然一新](https://www.iphonetaiwan.org/2024/10/how-to-clean-airpods-pro-mesh.html)|
+|2024-10-10 03:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】蘋果教你 AirPods 正確清潔方法，延長耳機壽命](https://www.iphonetaiwan.org/2024/10/how-to-clean-airpods-mesh.html)|
 |2024-10-09 16:15:10|[SHRIK3](https://shrik3.com/index.xml)|[Bochs code reading, notes and hacks](https://shrik3.com/post/bochs/)|
 |2024-10-09 06:15:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iCloud 網頁版 深色模式來了！首頁背景可自訂顏色、還有…](https://applefans.today/2024-10-icloud-web-interface-new-features/)|
 |2024-10-09 06:06:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》在 Apple 地圖開啟](https://applefans.today/2024-10-ios-18-shortcuts-google-maps-to-apple-maps/)|
