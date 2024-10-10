@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-10 14:39:34|[Wulu's Blog](https://wulu.zone/feed/post.xml)|[谈谈 Follow 这款 RSS 阅读器](https://wulu.zone/posts/follow)|
 |2024-10-10 16:00:00|[Elmagnifico's Blog](http://elmagnifico.tech/feed.xml)|[三破吉尼斯世界纪录](https://elmagnifico.tech/2024/10/11/UAVC-GuinnessWorldRecords3/)|
 |2024-10-10 00:45:25|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[视线外的年轻尘肺病人｜工劳小报 #50 新闻刊](https://feed.laborinfocn7.com/issue50-news/)|
 |2024-10-10 13:46:38|[GamerNoTitle](https://bili33.top/atom.xml)|[MoeCTF2024 个人Writeup](https://bili33.top/posts/MoeCTF2024-Writeup/)|
