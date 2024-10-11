@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-11 11:52:03|[SHRIK3](https://shrik3.com/index.xml)|[this building must be haunted](https://shrik3.com/vis/haunted/)|
 |2024-10-11 06:49:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2024 年 AirPods Max 全新 5 款顏色 台灣正式開賣了！](https://applefans.today/2024-10-airpods-max-tw-launch/)|
 |2024-10-11 05:48:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[教你如何讓 iPhone 16 瞬間變好用 100 倍的設定](https://applefans.today/2024-10-iphone-16-mystyle/)|
 |2024-10-11 04:44:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[該升級 Apple Watch Series 10 嗎？](https://applefans.today/2024-10-apple-watch-series-10-vs-series-9-compare/)|
