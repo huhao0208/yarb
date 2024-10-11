@@ -2,11 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-10-10 14:39:34|[Wulu's Blog](https://wulu.zone/feed/post.xml)|[谈谈 Follow 这款 RSS 阅读器](https://wulu.zone/posts/follow)|
-|2024-10-10 16:00:00|[Elmagnifico's Blog](http://elmagnifico.tech/feed.xml)|[三破吉尼斯世界纪录](https://elmagnifico.tech/2024/10/11/UAVC-GuinnessWorldRecords3/)|
-|2024-10-10 00:45:25|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[视线外的年轻尘肺病人｜工劳小报 #50 新闻刊](https://feed.laborinfocn7.com/issue50-news/)|
-|2024-10-10 13:46:38|[GamerNoTitle](https://bili33.top/atom.xml)|[MoeCTF2024 个人Writeup](https://bili33.top/posts/MoeCTF2024-Writeup/)|
-|2024-10-10 02:08:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為何 iPhone 鏡像功能會在公司電腦引發隱私問題？](https://applefans.today/2024-10-why-not-use-iphone-mirroring-corporate-mac/)|
-|2024-10-10 07:24:00|[est の 输入 输出和出入](https://blog.est.im/rss)|[“中庸”的艺术 - 如跟需求方讨价还价](https://blog.est.im/2024/stdin-15)|
-|2024-10-10 04:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】蘋果AirPods Pro正確清潔方法，音質煥然一新](https://www.iphonetaiwan.org/2024/10/how-to-clean-airpods-pro-mesh.html)|
-|2024-10-10 03:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】蘋果教你 AirPods 正確清潔方法，延長耳機壽命](https://www.iphonetaiwan.org/2024/10/how-to-clean-airpods-mesh.html)|
+|2024-10-11 06:03:42|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[我对电子游戏的分类](https://blog.codingnow.com/2024/10/classification_of_games.html)|
+|2024-10-11 07:28:08|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[从给 RisingWave 提 PR 说起，聊聊怎么快速切入一个复杂的开源项目](https://github.com/yihong0618/gitblog/issues/296)|
+|2024-10-11 08:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[郭老師：iPhone 16 Pro 銷量飆升，基本款卻遇冷](https://www.iphonetaiwan.org/2024/10/iphone-16-pro-vs-base-sales.html)|
+|2024-10-11 07:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果硬體工程副總裁退休，Vision Pro 成最後告別作](https://www.iphonetaiwan.org/2024/10/apple-exec-riccio-retires-vision-pro.html)|
+|2024-10-11 07:37:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 用戶注意！蘋果停止簽署 iOS 18.0，降級窗口關閉](https://www.iphonetaiwan.org/2024/10/iphone-ios18-downgrade.html)|
+|2024-10-11 06:03:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[最吃 iPhone 網路流量的前十名：竟然沒有 LINE](https://www.iphonetaiwan.org/2024/10/iphone-app-data-usage.html)|
