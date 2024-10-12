@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-12 13:08:24|[Dennis](https://www.domon.cn/rss/)|[独立博客自省问卷15题](https://www.domon.cn/du-li-bo-ke-zi-sheng-wen-juan-15ti/)|
 |2024-10-12 00:53:03|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[高效bash脚本](http://www.seis-jun.xyz/efficient-shell-script)|
 |2024-10-12 08:11:06|[竹林里有冰的博客](https://zhul.in/rss.xml)|[使用 GPT 对 waline 的评论进行审查](https://zhul.in/2024/10/12/use-gpt-to-review-waline-comments/)|
 |2024-10-12 08:03:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[如何延長 iPhone 使用壽命？6 個超簡單方法分享](https://www.iphonetaiwan.org/2024/10/iphone-lifespan-extension-tips.html)|
