@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-14 07:57:00|[Conge](https://conge.github.io/feed.xml)|[关于焦虑，迷茫，业力，读书的一些回复](https://conge.livingwithfcs.org/2024/10/14/comments/)|
 |2024-10-14 01:19:51|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[长工时和低工资：中国数据标注行业的劳动状况](https://feed.laborinfocn7.com/datalabel-workers/)|
 |2024-10-14 04:09:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蝦皮購物「10.18 號會員日」 買蘋果商品 省千元再送原廠配件](https://applefans.today/2024-10-shopee-event-news/)|
 |2024-10-14 02:04:05|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社：蘋果計劃將推出帶鏡頭的 AirPods 與智慧眼鏡](https://applefans.today/2024-10-apple-smart-glasses-ar-airpods/)|
