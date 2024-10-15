@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-15 16:00:00|[Elmagnifico's Blog](http://elmagnifico.tech/feed.xml)|[2024可用的V2ray配置](https://elmagnifico.tech/2024/10/16/V2ray2/)|
 |2024-10-15 15:04:38|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPad mini 7 正式推出！支援 Apple Pencil Pro 和 Apple Intelligence](https://applefans.today/2024-ipad-mini-7-launch/)|
 |2024-10-15 13:26:34|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》一鍵完全關閉/開啟 Wi-Fi](https://applefans.today/2024-10-ios-18-shortcuts-wifi-switch/)|
 |2024-10-15 08:33:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[保護 Apple ID 的 5 大技巧，防止 iPhone 帳號被駭！](https://www.iphonetaiwan.org/2024/10/secure-your-apple-id.html)|
