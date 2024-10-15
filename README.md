@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-15 00:48:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Oct.6 - Oct.12](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20241012/)|
+|2024-10-15 02:34:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞變動！ iPhone SE 4 不會配備「動作按鈕」功能 那還有什麼升級變化？](https://applefans.today/2024-10-iphone-se-4-action-button-rumors/)|
 |2024-10-14 07:57:00|[Conge](https://conge.github.io/feed.xml)|[关于焦虑，迷茫，业力，读书的一些回复](https://conge.livingwithfcs.org/2024/10/14/comments/)|
 |2024-10-14 01:19:51|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[长工时和低工资：中国数据标注行业的劳动状况](https://feed.laborinfocn7.com/datalabel-workers/)|
 |2024-10-14 04:09:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蝦皮購物「10.18 號會員日」 買蘋果商品 省千元再送原廠配件](https://applefans.today/2024-10-shopee-event-news/)|
