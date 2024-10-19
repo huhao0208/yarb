@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-19 02:58:24|[Mr. PM 下午先生](http://feeds.feedburner.com/pmmustknow)|[Retention Rate 要多少才是行業標準](https://mrpm.cc/?p=1680)|
 |2024-10-18 09:52:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[散熱 + 防摔雙重保護！就選 JTLEGEND iPhone 16 手機殻](https://applefans.today/2024-10-jtlegend-iphone-16-rex-pro-kooling-unboxing/)|
 |2024-10-18 09:32:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》iPhone 機型浮水印（適用 iPhone 16）](https://applefans.today/2024-10-ios-18-shortcuts-iphone-models-watermark-support-to-iphone-16/)|
 |2024-10-18 06:14:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 資料轉移到底用哪個方法會最有效率？](https://applefans.today/2024-10-how-to-switch-to-new-iphone/)|
