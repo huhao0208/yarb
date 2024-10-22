@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-10-21）
+﻿# 每日资讯（2024-10-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-22 00:22:26|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[【跨境漂流信1】身在海外，如何连接彼此，思考劳工/运动](https://feed.laborinfocn7.com/overseas-letter/)|
 |2024-10-21 07:50:46|[素生](http://z.arlmy.me/atom.xml)|[摘：《动中觉察》](http://z.arlmy.me/posts/Note/Note_Feldenkrais_AwarenessThroughMovement/)|
 |2024-10-21 06:54:09|[素生](http://z.arlmy.me/atom.xml)|[普鲁斯特问卷 2024](http://z.arlmy.me/posts/Questionnaire/ProustQuestionnaire_2024/)|
 |2024-10-21 03:22:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Oct.13 - Oct.19](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20241019/)|
