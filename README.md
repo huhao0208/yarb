@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-10-23）
+﻿# 每日资讯（2024-10-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-24 00:43:32|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[“阿姨”在中国｜工劳小报 #51 新闻刊](https://feed.laborinfocn7.com/issue51-news/)|
 |2024-10-23 18:52:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #76 - 关于 Audlting 的思考](https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/)|
 |2024-10-23 15:20:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #75 - 回答 Dayu 关于独立博客的 9 个问题](https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/)|
 |2024-10-23 15:11:32|[竹林里有冰的博客](https://zhul.in/rss.xml)|[为 Hexo 添加 follow 认证](https://zhul.in/2024/10/23/follow-cert-for-hexo-feed/)|
