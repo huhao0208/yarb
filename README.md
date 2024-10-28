@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-28 06:09:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Oct.20 - Oct.26](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20241026/)|
+|2024-10-28 15:28:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.1 正式推出！Apple Intelligence 終於登場 一次掌握 13 個升級重點](https://applefans.today/ios-18-1/)|
+|2024-10-28 13:45:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.1 Apple Intelligence 有哪些功能？要如何才能使用？](https://applefans.today/ios-18-1-apple-intelligence-features/)|
 |2024-10-28 02:58:45|[戴铭的博客 - 星光社](https://ming1016.github.io/atom.xml)|[我在韩国首尔 KWDC24 做的技术分享](https://starming.com/2024/10/28/kwdc24-in-seoul/)|
 |2024-10-28 03:13:22|[KAIX.IN](https://kaix.in/feed/)|[养生](https://kaix.in/2024/1027-wellness/)|
 |2024-10-28 05:50:48|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPad mini 7 拆解分析：蘋果如何改善果凍螢幕問題？](https://applefans.today/2024-10-ipad-mini-7-teardown-by-ifitix/)|
