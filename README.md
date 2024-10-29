@@ -1,8 +1,10 @@
-﻿# 每日资讯（2024-10-28）
+﻿# 每日资讯（2024-10-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-10-29 01:14:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 iMac 正式發表！七彩新色 升級不漲價](https://applefans.today/2024-10-m4-chip-imac-launch/)|
 |2024-10-28 06:09:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Oct.20 - Oct.26](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20241026/)|
+|2024-10-29 10:21:42|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[💢线上高延迟请求排查](http://crossoverjie.top/2024/10/29/ob/%F0%9F%92%A2%E7%BA%BF%E4%B8%8A%E9%AB%98%E5%BB%B6%E8%BF%9F%E8%AF%B7%E6%B1%82%E6%8E%92%E6%9F%A5/)|
 |2024-10-28 15:28:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.1 正式推出！Apple Intelligence 終於登場 一次掌握 13 個升級重點](https://applefans.today/ios-18-1/)|
 |2024-10-28 13:45:53|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.1 Apple Intelligence 有哪些功能？要如何才能使用？](https://applefans.today/ios-18-1-apple-intelligence-features/)|
 |2024-10-28 02:58:45|[戴铭的博客 - 星光社](https://ming1016.github.io/atom.xml)|[我在韩国首尔 KWDC24 做的技术分享](https://starming.com/2024/10/28/kwdc24-in-seoul/)|
