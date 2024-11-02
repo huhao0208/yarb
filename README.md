@@ -2,7 +2,6 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-11-01 07:06:40|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.10.31](https://www.justzht.com/2024-10-31/)|
-|2024-11-01 07:47:14|[Mr. PM 下午先生](http://mrpm.cc/?feed=rss2)|[Product Led Growth 落地與實踐 – Amplitude 研討會分享](https://mrpm.cc/?p=1692)|
-|2024-11-01 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)|
-|2024-11-01 06:28:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 iMac 與 M3 比較：加量不加價的全面升級](https://applefans.today/2024-11-imac-m4-vs-m3-compared/)|
+|2024-11-02 04:20:29|[Finisky Garden](https://finisky.github.io/atom.xml)|[TypeError: Argument has incorrect type expected numpy.ndarray, got DataFrame 解决方案](https://finisky.github.io/argument-incorrect-type-expected-ndarray/)|
+|2024-11-02 04:06:56|[Finisky Garden](https://finisky.github.io/atom.xml)|[TypeError: Argument has incorrect type expected numpy.ndarray, got DataFrame Solution](https://finisky.github.io/en/argument-incorrect-type-expected-ndarray/)|
+|2024-11-02 04:07:57|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读 23 ](http://www.seis-jun.xyz/paper-reading-23)|
