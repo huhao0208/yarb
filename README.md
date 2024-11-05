@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-05 13:42:06|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[这两个月](https://github.com/yihong0618/gitblog/issues/299)|
 |2024-11-05 09:33:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 Mac mini 與 M2 Mac mini 比較：668 天後的升級到底多強？](https://applefans.today/2024-11-m4-mac-mini-vs-m2-mac-mini-compared/)|
 |2024-11-05 07:29:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》iPhone 電池健康度](https://applefans.today/2024-08-ios-18-shortcuts-iphone-battery-healthy/)|
 |2024-11-05 01:58:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[歐盟要求 Apple 要讓第三方 iPad 配件 都能使用 iPadOS 的功能](https://applefans.today/2024-11-eu-ipad-accessory-integration-feud/)|
