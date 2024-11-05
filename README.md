@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-05 01:49:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Oct.27 - Nov.2](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20241102/)|
+|2024-11-05 02:25:26|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.11.4](https://www.justzht.com/2024-11-4/)|
 |2024-11-04 13:15:00|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)|
 |2024-11-04 16:59:12|[Finisky Garden](https://finisky.github.io/atom.xml)|[Building Large-Scale Social Network Graphs with MongoDB](https://finisky.github.io/en/building-large-scale-social-network-graphs-with-mongodb/)|
 |2024-11-04 13:59:48|[Finisky Garden](https://finisky.github.io/atom.xml)|[用MongoDB构建大规模社交网络关系链](https://finisky.github.io/building-large-scale-social-network-graphs-with-mongodb/)|
