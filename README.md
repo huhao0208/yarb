@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-06 01:48:12|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Watch 活動挑戰賽：11 月 11 日運動就有獎勵](https://applefans.today/2024-11-apple-watch-veterans-day-activity-challenge/)|
 |2024-11-05 13:42:06|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[这两个月](https://github.com/yihong0618/gitblog/issues/299)|
 |2024-11-05 09:33:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 Mac mini 與 M2 Mac mini 比較：668 天後的升級到底多強？](https://applefans.today/2024-11-m4-mac-mini-vs-m2-mac-mini-compared/)|
 |2024-11-05 07:29:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》iPhone 電池健康度](https://applefans.today/2024-08-ios-18-shortcuts-iphone-battery-healthy/)|
