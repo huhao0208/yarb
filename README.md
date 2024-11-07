@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-11-06）
+﻿# 每日资讯（2024-11-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-07 01:07:50|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[全新的 AirPods 4 耳機台灣終於開賣了！](https://applefans.today/2024-11-airpods-4-tw-launch/)|
 |2024-11-06 05:10:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[滙豐銀行 Live+ 現金回饋卡 高達 5.88% 現金回饋，還有 Beats 耳機等你拿！](https://applefans.today/2024-11-hsbc-live-cash-card-money101-campaign/)|
 |2024-11-06 11:28:11|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[高分科幻惊悚片《异形：夺命舰》孤舰大逃杀，恐怖新异形降生，简单粗暴回归原始恐怖！](https://www.ximalaya.com/sound/772171728)|
 |2024-11-06 11:04:58|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[奇幻冒险片《美少女特攻队》：暴走萝莉VS日本武士，大战上古巨龙机械深渊，无限流！](https://www.ximalaya.com/sound/772167026)|
