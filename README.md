@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-09 13:54:14|[Dennis](https://www.domon.cn/rss/)|[2024年10月阅读书摘](https://www.domon.cn/2024-10yue-yue-du-shu-zhai/)|
 |2024-11-09 10:45:31|[Finisky Garden](https://finisky.github.io/atom.xml)|[十一伦敦游记](https://finisky.github.io/london-travel/)|
 |2024-11-09 15:03:27|[太隐](https://wangyurui.com/feed.xml)|[人生需要浮士德精神](https://wangyurui.com/posts/fu-shi-de-jing-shen-fe7413c8)|
 |2024-11-09 13:11:14|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[git小技巧之git cherry-pick](https://nicksxs.me/2024/11/09/git%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8Bgit-cherry-pick/)|
