@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-10 16:00:00|[Elmagnifico's Blog](http://elmagnifico.tech/feed.xml)|[遥控和香氛按钮接入米家失败](https://elmagnifico.tech/2024/11/11/Reverse-Capacitor-button/)|
+|2024-11-10 17:51:32|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何实现高性能自动补全？](https://www.kingname.info/2024/11/10/type-checking/)|
 |2024-11-10 15:11:22|[KAIX.IN](https://kaix.in/feed/)|[不后悔](https://kaix.in/2024/1110-no-regrets/)|
 |2024-11-10 13:26:43|[GamerNoTitle](https://bili33.top/atom.xml)|[从零开始！在红米AX6000路由器上刷入Openwrt](https://bili33.top/posts/Flashing-Openwrt-on-Redmi-AX6000/)|
 |2024-11-10 12:33:17|[太隐](https://wangyurui.com/feed.xml)|[再读毛选：《关于纠正党内的错误思想》](https://wangyurui.com/posts/zai-du-mao-xuan-guan-yu-jiu-zheng-dang-nei-de-cu-f44ec7a2)|
