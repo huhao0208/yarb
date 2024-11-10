@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-11-09）
+﻿# 每日资讯（2024-11-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-10 13:26:04|[MikeoPerfect's Dia...](http://blog.mikeoperfect.com/atom.xml)|[标准的范式](https://blog.mikeoperfect.com/posts/53317/)|
 |2024-11-09 13:54:14|[Dennis](https://www.domon.cn/rss/)|[2024年10月阅读书摘](https://www.domon.cn/2024-10yue-yue-du-shu-zhai/)|
 |2024-11-09 10:45:31|[Finisky Garden](https://finisky.github.io/atom.xml)|[十一伦敦游记](https://finisky.github.io/london-travel/)|
 |2024-11-09 15:03:27|[太隐](https://wangyurui.com/feed.xml)|[人生需要浮士德精神](https://wangyurui.com/posts/fu-shi-de-jing-shen-fe7413c8)|
