@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-11-10）
+﻿# 每日资讯（2024-11-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-11 01:18:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[NCC 已通過：iPad mini A17 Pro](https://applefans.today/2024-11-ncc-ipad-mini-a17-pro/)|
 |2024-11-10 16:00:00|[Elmagnifico's Blog](http://elmagnifico.tech/feed.xml)|[遥控和香氛按钮接入米家失败](https://elmagnifico.tech/2024/11/11/Reverse-Capacitor-button/)|
 |2024-11-10 17:51:32|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何实现高性能自动补全？](https://www.kingname.info/2024/11/10/type-checking/)|
 |2024-11-10 15:11:22|[KAIX.IN](https://kaix.in/feed/)|[不后悔](https://kaix.in/2024/1110-no-regrets/)|
