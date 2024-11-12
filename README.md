@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-12 21:20:33|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：Python类型标注的高级用法](https://www.kingname.info/2024/11/12/overload/)|
 |2024-11-12 08:39:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[用 AirPods Pro 2 進行「聽力測試」該注意哪些事項？](https://applefans.today/2024-11-airpods-pro-2-hearing-test/)|
 |2024-11-12 04:25:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果釋出 AirPods Pro 2 和 AirPods 4 韌體更新版本](https://applefans.today/2024-11-airpods-pro-2-airpods4-new-firmware-update/)|
 |2024-11-12 03:43:35|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[一次滿足三種需求的 omars Qi2 二合一磁吸無線充電架 ：快充、立架、好攜帶！](https://applefans.today/2024-11-omars-qi2-charger/)|
