@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-16 12:30:00|[Hi, I Am I](https://5ime.cn/atom.xml)|[Hexo 中实现 Live Photos 支持](https://5ime.cn/live-photos.html)|
 |2024-11-16 00:00:03|[Jia Yue Hua](https://www.jiayuehua.com/feed.xml)|[完美转发不完美](https://jiayuehua.github.io/2024/11/16/perfect-forwarding-not-perfect/)|
 |2024-11-16 00:00:03|[Jia Yue Hua](https://www.jiayuehua.com/feed.xml)|[闲散颂](https://jiayuehua.github.io/2024/11/16/%E9%97%B2%E6%95%A3%E9%A2%82/)|
 |2024-11-16 14:01:15|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[java小技巧之获取调用来源](https://nicksxs.me/2024/11/16/java%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E8%8E%B7%E5%8F%96%E8%B0%83%E7%94%A8%E6%9D%A5%E6%BA%90/)|
