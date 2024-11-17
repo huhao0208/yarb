@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-11-16）
+﻿# 每日资讯（2024-11-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-17 00:53:49|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.11.16](https://www.justzht.com/2024-11-16/)|
 |2024-11-16 12:30:00|[Hi, I Am I](https://5ime.cn/atom.xml)|[Hexo 中实现 Live Photos 支持](https://5ime.cn/live-photos.html)|
 |2024-11-16 00:00:03|[Jia Yue Hua](https://www.jiayuehua.com/feed.xml)|[完美转发不完美](https://jiayuehua.github.io/2024/11/16/perfect-forwarding-not-perfect/)|
 |2024-11-16 00:00:03|[Jia Yue Hua](https://www.jiayuehua.com/feed.xml)|[闲散颂](https://jiayuehua.github.io/2024/11/16/%E9%97%B2%E6%95%A3%E9%A2%82/)|
