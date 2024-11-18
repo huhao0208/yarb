@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-18 04:04:22|[KAIX.IN](https://kaix.in/feed/)|[今天我喝了什么咖啡](https://kaix.in/2024/1118-today-i-drink/)|
 |2024-11-17 09:17:13|[鸟窝](https://colobu.com/atom.xml)|[HeapMap, 一个混合功能的数据结构Go语言实现](https://colobu.com/2024/11/17/heapmap/)|
 |2024-11-17 08:19:01|[鸟窝](https://colobu.com/atom.xml)|[Go中秘而不宣的数据结构 CacheLinePad：精细化优化](https://colobu.com/2024/11/17/go-internal-ds-cacheline/)|
 |2024-11-17 08:19:00|[鸟窝](https://colobu.com/atom.xml)|[Go中秘而不宣的数据结构 Treap：随机化的二叉搜索树](https://colobu.com/2024/11/17/go-internal-ds-treap/)|
