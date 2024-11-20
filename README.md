@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-20 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[CuTe Matrix Transpose](https://leimao.github.io/article/CuTe-Matrix-Transpose/)|
+|2024-11-20 09:06:46|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[推荐一些值得学习的开源项目和框架](http://crossoverjie.top/2024/11/20/ob/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%92%8C%E6%A1%86%E6%9E%B6/)|
 |2024-11-20 06:16:26|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[异星工厂太空时代游戏总结](https://blog.codingnow.com/2024/11/factorio_spaceage.html)|
 |2024-11-20 05:50:11|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果因漏洞推出 macOS Sequoia 15.1.1 更新 請大家要趕快升級！](https://applefans.today/macos-sequoia-15-1-1/)|
 |2024-11-20 05:19:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AI 照片動起來工具 DreamVid 還有擁抱、親吻、捏捏、換臉特效超好玩！](https://applefans.today/2024-11-dreamvid-ai-animate-picture/)|
