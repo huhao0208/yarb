@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-11-19 09:58:14|[竹林里有冰的博客](https://zhul.in/rss.xml)|[2024年，Firefox 是唯一还在坚持执行在线的 SSL 证书吊销状态检查的主流浏览器](https://zhul.in/2024/11/19/firefox-is-the-only-mainstream-brower-doing-online-certificate-revocation-checks/)|
-|2024-11-19 03:04:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》代替 Apple Intelligence 書寫工具（支援中文）](https://applefans.today/2024-11-ios-18-shortcuts-apple-intelligence-writing-tools/)|
-|2024-11-19 02:11:42|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[美國司法部要求 Google 出售 Chrome 瀏覽器，打擊搜尋壟斷](https://applefans.today/2024-11-us-doj-google-sell-chrome/)|
+|2024-11-20 05:50:11|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果因漏洞推出 macOS Sequoia 15.1.1 更新 請大家要趕快升級！](https://applefans.today/macos-sequoia-15-1-1/)|
+|2024-11-20 05:19:13|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AI 照片動起來工具 DreamVid 還有擁抱、親吻、捏捏、換臉特效超好玩！](https://applefans.today/2024-11-dreamvid-ai-animate-picture/)|
+|2024-11-20 02:41:05|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》一鍵進入「亮度自動調整」設定](https://applefans.today/2024-11-ios-18-shortcuts-display-auto-brightness/)|
+|2024-11-20 01:28:37|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.1.1 更新 此為修補安全性及錯誤漏洞 請立即升級](https://applefans.today/ios-18-1-1/)|
+|2024-11-20 01:15:42|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[台灣正式開賣 iPad mini A17 Pro](https://applefans.today/2024-12-tw-launch-ipad-mini-a17-pro/)|
