@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-22 01:52:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Satechi 專為 Mac mini M4 設計的 Hub](https://applefans.today/2024-11-satechi-mac-mini-m4-stand-hub-news/)|
 |2024-11-21 13:08:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[Android 14 APP 全屏代码实现](https://www.imaegoo.com/2024/android-fullscreen/)|
 |2024-11-21 03:26:22|[The Context Works](https://www.sund.site/index.xml)|[Go 语言的依赖倒置](https://sund.site/posts/2024/go-dependency-inject/)|
 |2024-11-21 03:09:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【iOS 18 捷徑】一鍵開啟 Google 智慧鏡頭](https://applefans.today/2024-11-ios-18-shortcuts-google-lens/)|
