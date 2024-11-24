@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-24 12:17:12|[太隐](https://wangyurui.com/feed.xml)|[聪明人贾诩](https://wangyurui.com/posts/cong-ming-ren-jia-xu-ec2ce6e4)|
+|2024-11-24 12:30:19|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[grep小技巧之匹配到二进制文件](https://nicksxs.me/2024/11/24/grep%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E5%8C%B9%E9%85%8D%E5%88%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6/)|
+|2024-11-24 15:31:10|[找生活](https://zhaolife.com/atom.xml)|[周报 05 双十一前后的购物](http://zhaolife.com/2024/11/24/20241124zhouji05/)|
 |2024-11-24 04:58:00|[Finisky Garden](https://finisky.github.io/atom.xml)|[Building a Transaction System with MongoDB](https://finisky.github.io/en/building-a-transaction-system-with-mongodb/)|
 |2024-11-24 04:31:03|[Finisky Garden](https://finisky.github.io/atom.xml)|[用MongoDB构建交易系统](https://finisky.github.io/building-a-transaction-system-with-mongodb/)|
 |2024-11-24 06:40:27|[太隐](https://wangyurui.com/feed.xml)|[碎碎念 生活与人生](https://wangyurui.com/posts/sui-sui-nian-bbc88676)|
