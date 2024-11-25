@@ -2,11 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-11-25 04:20:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果 AirPods Max 更新進展：USB-C 後會有 AirPods Max 2 嗎？](https://applefans.today/2024-11-airpods-max-2-not-yet-planned/)|
+|2024-11-25 02:50:39|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果似乎重新評估「蘋果電視」前景，這次來真的了嗎？](https://applefans.today/2024-11-apple-should-build-low-cost-tv-streaming-stick/)|
+|2024-11-25 07:14:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2411](https://xiaket.github.io/2024/pensieve-2411.html)|
 |2024-11-25 03:15:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Nov.17 - Nov.23](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20241123/)|
-|2024-11-24 12:17:12|[太隐](https://wangyurui.com/feed.xml)|[聪明人贾诩](https://wangyurui.com/posts/cong-ming-ren-jia-xu-ec2ce6e4)|
-|2024-11-24 12:30:19|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[grep小技巧之匹配到二进制文件](https://nicksxs.me/2024/11/24/grep%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E5%8C%B9%E9%85%8D%E5%88%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6/)|
-|2024-11-24 15:31:10|[找生活](https://zhaolife.com/atom.xml)|[周报 05 双十一前后的购物](http://zhaolife.com/2024/11/24/20241124zhouji05/)|
-|2024-11-24 04:58:00|[Finisky Garden](https://finisky.github.io/atom.xml)|[Building a Transaction System with MongoDB](https://finisky.github.io/en/building-a-transaction-system-with-mongodb/)|
-|2024-11-24 04:31:03|[Finisky Garden](https://finisky.github.io/atom.xml)|[用MongoDB构建交易系统](https://finisky.github.io/building-a-transaction-system-with-mongodb/)|
-|2024-11-24 06:40:27|[太隐](https://wangyurui.com/feed.xml)|[碎碎念 生活与人生](https://wangyurui.com/posts/sui-sui-nian-bbc88676)|
-|2024-11-24 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[水煮蛋如何才能不破](https://leimao.github.io/essay/%E6%B0%B4%E7%85%AE%E8%9B%8B%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E4%B8%8D%E7%A0%B4/)|
