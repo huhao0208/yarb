@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-12-04 03:43:22|[KAIX.IN](https://kaix.in/feed/)|[2024.12.04 11:43](https://kaix.in/2024/1204/)|
+|2024-12-04 02:47:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[OpenAI 面臨著巨大的運營成本壓力 計劃在 ChatGPT 加入廣告？](https://applefans.today/2024-12-chatgpt-with-ads-openai-explores-new-business-model/)|
 |2024-12-03 14:26:00|[est の 输入 输出和出入](https://blog.est.im/rss)|[Little known facts about Han](https://blog.est.im/2024/stdout-06)|
 |2024-12-03 13:43:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[求婚誓言 爱的本质是被看见](https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi/)|
 |2024-12-03 05:30:12|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 2025 上半年 有什麼值得期待的新品？](https://applefans.today/2024-12-apple-new-product-rumors/)|
