@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-12-13 02:12:42|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Samsung 與 Google 攜手推出 Project Moohan 頭戴裝置 ：挑戰混合實境市場](https://applefans.today/2024-12-samsung-xr-with-galaxy-ai/)|
 |2024-12-12 12:20:07|[太隐](https://wangyurui.com/feed.xml)|[”诚“是我人生的颜色](https://wangyurui.com/posts/lao-fu-yang-mo-li-610e4f0a)|
 |2024-12-12 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[cuBLAS GEMM API Usages for Column-Major and Row-Major Matrices](https://leimao.github.io/blog/cuBLAS-Transpose-Column-Major-Relationship/)|
 |2024-12-12 04:05:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[watchOS 11.2 更新！新增相機遙控器 App 的暫停按鈕](https://applefans.today/watchos-11-2/)|
