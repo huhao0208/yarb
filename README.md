@@ -2,6 +2,6 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-12-21 11:50:09|[太隐](https://wangyurui.com/feed.xml)|[再读毛选：《必须注意经济工作》](https://wangyurui.com/posts/zai-du-mao-xuan-bi-xu-zhu-yi-jing-ji-gong-zuo-7e989eac)|
-|2024-12-21 06:48:03|[KAIX.IN](https://kaix.in/feed/)|[谜探路德维希](https://kaix.in/2024/1221-ludwig/)|
-|2024-12-21 05:00:00|[Space Looming](http://yibie.github.io/index.xml)|[用 AI 辅助开发的经验二三则 3 ](https://www.gtdstudy.com/posts/learned-from-using-ai-develop-software-3/)|
+|2024-12-22 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[C++ Compile-Time Type Map](https://leimao.github.io/blog/CPP-Compile-Time-Type-Map/)|
+|2024-12-22 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[梦中没有嗅觉](https://leimao.github.io/essay/%E6%A2%A6%E4%B8%AD%E6%B2%A1%E6%9C%89%E5%97%85%E8%A7%89/)|
+|2024-12-22 08:02:57|[251 的魔法实验室](https://blog.251.sh/feed/)|[我的 2024](https://blog.251.sh/oh-my-2024)|
