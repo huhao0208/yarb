@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-12-22 10:35:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[拳擊教練的選苗省思](http://mercurychong.blogspot.com/2024/12/blog-post_22.html)|
+|2024-12-22 12:44:37|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[java的agent初体验](https://nicksxs.me/2024/12/22/java%E7%9A%84agent%E5%88%9D%E4%BD%93%E9%AA%8C/)|
 |2024-12-22 09:24:42|[O3noBLOG](https://feeds.feedburner.com/othree)|[InnoDB 修復紀錄](https://blog.othree.net/log/2024/12/22/innodb-recovery/)|
 |2024-12-22 11:07:11|[太隐](https://wangyurui.com/feed.xml)|[隐说 No.2 教育与洗脑](https://wangyurui.com/posts/yin-shuo-no-2-shan-zong-shi-niu-5ac883bd)|
 |2024-12-22 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[C++ Compile-Time Type Map](https://leimao.github.io/blog/CPP-Compile-Time-Type-Map/)|
