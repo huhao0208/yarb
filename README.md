@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-12-23 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/51](https://weekly.pychina.org/pyrecap/pyrw-2451.html)|
 |2024-12-23 01:12:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果計劃推出具備 Face ID 的智慧門鈴 搶攻智慧家庭市場](https://applefans.today/2024-12-apple-doorbell-with-face-id-rumor/)|
 |2024-12-22 10:35:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[拳擊教練的選苗省思](http://mercurychong.blogspot.com/2024/12/blog-post_22.html)|
 |2024-12-22 12:44:37|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[java的agent初体验](https://nicksxs.me/2024/12/22/java%E7%9A%84agent%E5%88%9D%E4%BD%93%E9%AA%8C/)|
