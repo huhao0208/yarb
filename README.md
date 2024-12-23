@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-12-22）
+﻿# 每日资讯（2024-12-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-12-23 01:12:31|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果計劃推出具備 Face ID 的智慧門鈴 搶攻智慧家庭市場](https://applefans.today/2024-12-apple-doorbell-with-face-id-rumor/)|
 |2024-12-22 10:35:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[拳擊教練的選苗省思](http://mercurychong.blogspot.com/2024/12/blog-post_22.html)|
 |2024-12-22 12:44:37|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[java的agent初体验](https://nicksxs.me/2024/12/22/java%E7%9A%84agent%E5%88%9D%E4%BD%93%E9%AA%8C/)|
 |2024-12-22 09:24:42|[O3noBLOG](https://feeds.feedburner.com/othree)|[InnoDB 修復紀錄](https://blog.othree.net/log/2024/12/22/innodb-recovery/)|
