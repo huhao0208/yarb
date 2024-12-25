@@ -2,8 +2,5 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2024-12-24 12:00:20|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[卡牌构筑类游戏小结](https://blog.codingnow.com/2024/12/deck_building_game.html)|
-|2024-12-24 11:43:03|[KAIX.IN](https://kaix.in/feed/)|[是咖啡；是饮料](https://kaix.in/2024/1224-coffee/)|
-|2024-12-24 11:54:17|[RSS feed of yihong...](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)|[2020-2024 最喜欢的 10 篇文章和一张图](https://github.com/yihong0618/gitblog/issues/302)|
-|2024-12-24 01:37:50|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M4 MacBook Air 何時推出？爆料稱最快 1 月發表！](https://applefans.today/2024-12-m4-macbook-air-release-date-rumors/)|
-|2024-12-24 01:10:22|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.12.23](https://www.justzht.com/2024-12-23/)|
+|2024-12-25 03:32:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[當自己的聖誕老人](http://mercurychong.blogspot.com/2024/12/blog-post_24.html)|
+|2024-12-25 01:56:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[LINE 關鍵字特效登場！讓聖誕節的聊天更有氛圍](https://applefans.today/2024-12-line-special-keyword-xmas/)|
