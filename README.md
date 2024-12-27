@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-12-27 03:20:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果新廣告：Apple Watch 運動記錄如何幫你打破「放棄日」魔咒](https://applefans.today/2024-12-apple-watch-fitness-motivational-ad/)|
 |2024-12-26 14:24:42|[Super Blog](https://blog.superpung.cn/atom.xml)|[Overleaf LaTeX citation 无法正常显示问题解决](https://superpung.com/overleaf-citation-error/)|
 |2024-12-26 12:06:30|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[Media Key Session Close vs Remove](https://www.jackpu.com/media-key-session-close-vs-remove/)|
 |2024-12-26 11:10:54|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[雪盈证券 PDT 的 95 天等待](https://www.jackpu.com/xue-ying-zheng-quan-pdt-de-95-tian-deng-dai/)|
