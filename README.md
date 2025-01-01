@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-12-31）
+﻿# 每日资讯（2025-01-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2025-01-01 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[AWQ: Activation-Aware Weight Quantization](https://leimao.github.io/blog/AWQ-Activation-Aware-Weight-Quantization/)|
+|2025-01-01 00:03:41|[CatCoding](https://catcoding.me/atom.xml)|[2024：简单的理想生活](http://catcoding.me/p/2024-summary/)|
 |2024-12-31 04:39:46|[素生](http://z.arlmy.me/atom.xml)|[摘：《献给阿尔吉侬的花束》](http://z.arlmy.me/posts/Note/Note_DanielKeyes_FlowersForAlgernon/)|
 |2024-12-31 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年 11 月和 12 月该入手的模型手办](https://leimao.github.io/essay/2024%E5%B9%B411%E6%9C%88%E5%92%8C12%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/)|
 |2024-12-31 11:38:00|[idealclover](https://idealclover.top/feed)|[所以我放弃了双持—兼谈折叠屏手机使用体验](https://idealclover.top/archives/642/)|
