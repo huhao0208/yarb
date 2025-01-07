@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-01-07 02:40:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CES 2025： OWC 推出 ThunderBlade X12 和主動式光纜，最新 Thunderbolt 5 Hub 開始販售](https://applefans.today/2025-01-ces2025-owc-thunderblade-x12-news/)|
+|2025-01-07 02:00:57|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.2.1 更新 此為修補安全性及錯誤漏洞 請立即升級](https://applefans.today/ios-18-2-1/)|
 |2025-01-07 00:00:00|[疯投圈](https://crazy.capital/feed)|[108. 银发の商机](https://crazy.capital/108)|
 |2025-01-06 08:50:10|[GamerNoTitle](https://bili33.top/atom.xml)|[2025软件系统安全赛华南赛区（CCSSSC2025）Writeup - TEAM Volcania](https://bili33.top/posts/CTF-CCSSSC2025-Preliminary-round-Writeup/)|
 |2025-01-06 06:24:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CES 2025： 支援 Matter 智慧家庭新品](https://applefans.today/2025-01-matter-smart-home-at-ces-2025/)|
