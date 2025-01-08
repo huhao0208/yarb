@@ -2,11 +2,6 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2025-01-07 13:31:17|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[科幻惊悚片《黑天使》：外星黑天使下凡，把人类炼成毒药，以前的电影真过瘾！](https://www.ximalaya.com/sound/791839444)|
-|2025-01-07 10:45:09|[满五的博客](https://blog.aeilot.top/index.xml)|[桥梁](https://blog.aeilot.top/2025/01/07/bridge/)|
-|2025-01-07 10:43:09|[满五的博客](https://blog.aeilot.top/index.xml)|[黎明 或 2012](https://blog.aeilot.top/2025/01/07/2012-twilight/)|
-|2025-01-07 09:43:44|[This Cute World](https://thiscute.world/index.xml)|[我的 2024 - 稳中求进、热爱生活](https://thiscute.world/posts/2024-summary/?utm_source=atom_feed)|
-|2025-01-07 07:30:53|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2025.1.6](https://www.justzht.com/2025-1-6/)|
-|2025-01-07 02:40:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CES 2025： OWC 推出 ThunderBlade X12 和主動式光纜，最新 Thunderbolt 5 Hub 開始販售](https://applefans.today/2025-01-ces2025-owc-thunderblade-x12-news/)|
-|2025-01-07 02:00:57|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.2.1 更新 此為修補安全性及錯誤漏洞 請立即升級](https://applefans.today/ios-18-2-1/)|
-|2025-01-07 00:00:00|[疯投圈](https://crazy.capital/feed)|[108. 银发の商机](https://crazy.capital/108)|
+|2025-01-08 07:57:16|[太隐](https://wangyurui.com/feed.xml)|[寸心水月](https://wangyurui.com/posts/cun-xin-shui-yue-73c689f7)|
+|2025-01-08 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年跑步总结](https://leimao.github.io/essay/2024%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/)|
+|2025-01-08 05:34:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CES 2025 ：Sony 發表 5 款熱門遊戲改編的影視作品](https://applefans.today/2025-01-ces2025-sony-announces-new-movies-and-tv-shows/)|
