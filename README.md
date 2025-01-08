@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-01-08 09:43:14|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[出門只帶一顆！Choetech B750 Qi2 三合一行動電源，也是你的無線充電座](https://applefans.today/2025-01-choetech-b750-qi2-wireless-charger-power-bank-unboxing/)|
 |2025-01-08 04:50:36|[双绞麻痹](https://numb.tech/atom.xml)|[兰州、徐州和旅程](https://numb.tech/2025/01/08/trip2024/)|
 |2025-01-08 07:57:16|[太隐](https://wangyurui.com/feed.xml)|[寸心水月](https://wangyurui.com/posts/cun-xin-shui-yue-73c689f7)|
 |2025-01-08 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年跑步总结](https://leimao.github.io/essay/2024%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/)|
