@@ -2,5 +2,6 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2025-01-13 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2025/02](https://weekly.pychina.org/pyrecap/pyrw-2502.html)|
-|2025-01-13 02:34:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[邁阿密第六間 Apple 零售店開幕 快下載專屬的 iPhone、iPad 與 Mac 桌布！](https://applefans.today/2025-01-13-apple-miami-worldcenter/)|
+|2025-01-14 05:09:11|[双绞麻痹](https://numb.tech/atom.xml)|[我的职业](https://numb.tech/2025/01/14/occupation/)|
+|2025-01-14 05:48:38|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果將跳過 M3 ？直接推出搭載 M4 晶片的 iPad Air？！](https://applefans.today/2025-01-m4-chip-ipad-air-rumors/)|
+|2025-01-14 06:01:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[今非昔比的Jill](http://mercurychong.blogspot.com/2025/01/jill.html)|
