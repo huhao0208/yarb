@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-01-20 20:52:58|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：如何使用大模型提取结构化数据](https://www.kingname.info/2025/01/20/instructor/)|
 |2025-01-20 12:11:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[计算机编程的本质](https://blog.xulihang.me/the-essence-of-computer-programming/)|
 |2025-01-20 12:11:50|[xulihang's blog](https://blog.xulihang.me/feed/)|[计算机编程的本质](https://blog.xulihang.me/annual-convention/)|
 |2025-01-20 01:38:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2025 Jan.12 - Jan.18](http://z.arlmy.me/posts/MastodonArchives/2025/MastodonTootsArchives_20250118/)|
