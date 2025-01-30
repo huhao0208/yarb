@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-01-30 14:46:26|[physixfan](https://www.physixfan.com/feed/)|[AI 越来越先进 越来越多人的工作被取代 未来的社会会是什么样？](https://www.physixfan.com/ai-yuelaiyuexianjin-yuelaiyueduorendegongzuobeiqudai-weilaideshehuihuishishenmeyang/)|
 |2025-01-30 15:15:00|[OneV's Den](http://onevcat.com/atom.xml)|[DeepSeek，大国竞争，以及国运](https://onevcat.com/2025/01/deepseek-ai/)|
 |2025-01-30 00:21:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2501](https://xiaket.github.io/2025/pensieve-2501.html)|
 |2025-01-30 01:21:27|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[将数据导入到 Cloudflare D1](https://blog.rxliuli.com/p/c0fd3afbe1784fc38267caab8316c3a5/)|
