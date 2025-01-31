@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-01-31 04:02:33|[鸟窝](https://colobu.com/atom.xml)|[DeepSeek数据库暴露？扫描一下，应该不止此一家吧!](https://colobu.com/2025/01/31/scan-clickhouse-service/)|
 |2025-01-30 14:46:26|[physixfan](https://www.physixfan.com/feed/)|[AI 越来越先进 越来越多人的工作被取代 未来的社会会是什么样？](https://www.physixfan.com/ai-yuelaiyuexianjin-yuelaiyueduorendegongzuobeiqudai-weilaideshehuihuishishenmeyang/)|
 |2025-01-30 15:15:00|[OneV's Den](http://onevcat.com/atom.xml)|[DeepSeek，大国竞争，以及国运](https://onevcat.com/2025/01/deepseek-ai/)|
 |2025-01-30 00:21:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2501](https://xiaket.github.io/2025/pensieve-2501.html)|
