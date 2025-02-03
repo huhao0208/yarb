@@ -1,7 +1,8 @@
-﻿# 每日资讯（2025-02-02）
+﻿# 每日资讯（2025-02-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-03 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Grouped Query Attention Performance Theoretical Analysis](https://leimao.github.io/blog/Grouped-Query-Attention-Performance-Theoretical-Analysis/)|
 |2025-02-02 14:21:13|[KAIX.IN](https://kaix.in/feed/)|[2025.02.02 22:21](https://kaix.in/2025/0203-read/)|
 |2025-02-02 14:05:45|[KAIX.IN](https://kaix.in/feed/)|[工作](https://kaix.in/2025/0202-work/)|
 |2025-02-02 13:52:32|[太隐](https://wangyurui.com/feed.xml)|[中国企业的过度负债现象](https://wangyurui.com/posts/qi-ye-guo-du-fu-zhai-na-xie-shi-er-0429e3e3)|
