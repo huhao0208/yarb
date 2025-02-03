@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-03 11:56:41|[home - SHRIK3 on S...](https://shrik3.com/index.xml)|[enabling sysrq](https://shrik3.com/post/userland/sysrq/)|
 |2025-02-03 13:26:51|[双绞麻痹](https://numb.tech/atom.xml)|[红米k30su优雅使用carwith](https://numb.tech/2025/02/03/redmiK30su-withcar/)|
 |2025-02-03 08:33:25|[Dawner](https://dawner.top/atom.xml)|[Fluid Dream 2024](https://dawner.top/posts/fluid-dream-2024/)|
 |2025-02-03 04:28:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何分享 Chrome 密碼給家庭成員？](https://applefans.today/2025-02-how-to-share-password-to-family/)|
