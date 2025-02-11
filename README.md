@@ -1,7 +1,8 @@
-﻿# 每日资讯（2025-02-10）
+﻿# 每日资讯（2025-02-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-11 00:00:00|[疯投圈](https://crazy.capital/feed)|[109. 回顾与展望：低增速时代的商业趋势](https://crazy.capital/109)|
 |2025-02-10 12:35:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2025 Feb.2 - Feb.8](http://z.arlmy.me/posts/MastodonArchives/2025/MastodonTootsArchives_20250208/)|
 |2025-02-10 08:09:02|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[裁员后计划](https://www.jackpu.com/cai-yuan-hou-ji-hua/)|
 |2025-02-10 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Get Available Versions for Python Pip Package](https://leimao.github.io/blog/Python-Pip-Package-Get-Available-Versions/)|
