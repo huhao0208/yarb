@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-12 03:11:18|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Beats 第一款可以監測心率的入耳式耳機 Powerbeats Pro 2](https://applefans.today/2025-02-beats-powerbeats-pro-2-launch/)|
 |2025-02-11 13:25:00|[OneV's Den](http://onevcat.com/atom.xml)|[关于推理模型的一些误解和盲区](https://onevcat.com/2025/02/reasoning-model/)|
 |2025-02-11 06:37:44|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果推出 watchOS 11.3.1 更新 並建議立即更新](https://applefans.today/watchos-11-3-1/)|
 |2025-02-11 06:01:29|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[LINE 「芫荽」字型免費開放，1 分鐘教你如何啟用！](https://applefans.today/2025-02-line-coriandrum-sativum-font/)|
