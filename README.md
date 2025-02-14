@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-14 06:48:50|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读 26 ](http://www.seis-jun.xyz/paper-reading-26)|
 |2025-02-14 08:19:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[超級比一比：都是高階款有降噪的入耳式耳機 Powerbeats Pro 2 與 AirPods Pro 2 比較](https://applefans.today/2025-02-beats-powerbeats-pro-2-airpods-pro-2-compare/)|
 |2025-02-14 06:11:48|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[通過 NCC 電檢 了！Beats 可以監測心率的 Powerbeats Pro 2 耳機 即將開賣](https://applefans.today/2025-02-beats-powerbeats-pro-2-ncc-pass/)|
 |2025-02-14 01:44:32|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果新品發表預告就在 2 月 19 日：可能亮相的新產品總整理](https://applefans.today/2025-02-apple-teases-special-product-launch-february-19/)|
