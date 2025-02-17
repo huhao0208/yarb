@@ -2,9 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-17 05:01:09|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2025.2.16](https://www.justzht.com/2025-2-16/)|
+|2025-02-17 07:24:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》自製證件大頭照](https://applefans.today/2024-08-shortcuts-ios-18-id-photo-maker/)|
+|2025-02-17 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2025/07](https://weekly.pychina.org/pyrecap/pyrw-2507.html)|
 |2025-02-17 02:52:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》iPhone 一鍵快速記帳](https://applefans.today/2025-02-ios-18-iphone-shortcuts-numbers-accounting/)|
 |2025-02-17 02:18:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Studio Display 與 Pro Display XDR 2 傳聞流出，最快 2026 年？](https://applefans.today/2025-02-apple-display-rumors/)|
-|2025-02-16 14:57:04|[明天的乌云](https://blog.xlab.app/atom.xml)|[AI应用功能和效果对比](https://blog.xlab.app/p/274d272e/)|
-|2025-02-16 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[C++ Load and Save Npy File Load Using xtensor](https://leimao.github.io/blog/CPP-Npy-Load-Save-xtensor/)|
-|2025-02-16 14:55:00|[Nansey's Blog](https://www.nansey.me/feeds/posts/default)|[英语是如何成为世界语言的？](https://www.nansey.me/2025/02/globish.html)|
-|2025-02-16 06:44:04|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[卡牌构筑类桌游核心规则之四](https://blog.codingnow.com/2025/02/dbg_rules_4.html)|
