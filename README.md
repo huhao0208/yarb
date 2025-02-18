@@ -1,7 +1,8 @@
-﻿# 每日资讯（2025-02-17）
+﻿# 每日资讯（2025-02-18）
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-18 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[凶兆前传](https://leimao.github.io/essay/The-First-Omen-2024/)|
 |2025-02-17 13:35:47|[Wulu's Blog](https://wulu.zone/feed/post.xml)|[2024 读书总结](https://wulu.zone/posts/2024-books)|
 |2025-02-17 10:05:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[情人節的All Matched](http://mercurychong.blogspot.com/2025/02/all-matched.html)|
 |2025-02-17 05:01:09|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2025.2.16](https://www.justzht.com/2025-2-16/)|
