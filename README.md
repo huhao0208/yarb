@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-23 04:12:53|[竹林里有冰的博客](https://zhul.in/rss.xml)|[使用 Cloudflare Workers 监控 Fedora Copr 构建状态](https://zhul.in/2025/02/23/monitor-copr-build-state-with-cloudflare-workers/)|
 |2025-02-23 15:00:12|[251 的魔法实验室](https://blog.251.sh/feed/)|[2025.02 日本游记 Vol. 1](https://blog.251.sh/2025-02-japan-trip-vol-1)|
 |2025-02-23 09:39:20|[whyes 的博客](https://whyes.org/feed.xml)|[ESMO肝癌实践指南（2025年版）更新要点](http://whyes.org/2025/esmo-guideline-hcc-2025)|
 |2025-02-23 03:40:21|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[记录一次从 Prisma 到 Drizzle 的迁移](https://blog.rxliuli.com/p/4140cb8be8b044a5bb9cebe0930e3a4a/)|
