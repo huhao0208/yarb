@@ -1,7 +1,8 @@
-﻿# 每日资讯（2025-02-24）
+﻿# 每日资讯（2025-02-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-25 00:45:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2025 Feb.16 - Feb.22](http://z.arlmy.me/posts/MastodonArchives/2025/MastodonTootsArchives_20250222/)|
 |2025-02-24 16:00:00|[Elmagnifico's Blog](http://elmagnifico.tech/feed.xml)|[Kconfig与CMake初步模块化工程3](https://elmagnifico.tech/2025/02/25/Kconfig-CMake3/)|
 |2025-02-24 12:11:59|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[一口气看完韩国犯罪片《我是杀人犯》：杀人案凶手竟登报吸粉！](https://www.ximalaya.com/sound/808522994)|
 |2025-02-24 11:00:00|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/)|
