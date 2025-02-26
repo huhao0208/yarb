@@ -2,8 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2025-02-25 06:34:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 18 捷徑》iPhone 電池健康度 Plus](https://applefans.today/2025-02-ios-18-shortcuts-iphone-battery-healthy-plus/)|
-|2025-02-25 03:38:00|[est の 输入 输出和出入](https://blog.est.im/rss)|[正则获得国际电话前缀](https://blog.est.im/2025/stdout-02)|
-|2025-02-25 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[老枪](https://leimao.github.io/essay/%E8%80%81%E6%9E%AA-A-Long-Shot-2023/)|
-|2025-02-25 02:07:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16e 之後，下一款蘋果硬體產品，由誰來接棒？](https://applefans.today/2025-02-m4-macbook-air-mac-studio-rumors/)|
-|2025-02-25 00:45:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2025 Feb.16 - Feb.22](http://z.arlmy.me/posts/MastodonArchives/2025/MastodonTootsArchives_20250222/)|
+|2025-02-26 02:30:08|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[StarRocks 开发环境搭建踩坑指北之存算分离篇](http://crossoverjie.top/2025/02/26/ob/StarRocks-dev-shard-data-build/)|
+|2025-02-26 03:24:12|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AirPods Max 推出韌體更新，教你如何更新及查看 AirPods Max 韌體版本](https://applefans.today/2025-02-new-firmware-available-for-airpods-max-with-lightning-port/)|
+|2025-02-26 02:39:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果的折疊 iPhone 終於來了？2026 年可能見真章？！](https://applefans.today/2025-02-folding-iphone-has-no-crease-rumors/)|
+|2025-02-26 06:43:03|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2025.2.25](https://www.justzht.com/2025-2-25/)|
