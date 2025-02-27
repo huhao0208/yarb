@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-02-27 03:51:12|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Philips Hue 與電視同步燈光系統 正式支援 LG 電視，視覺享受再升級！](https://applefans.today/2025-02-philips-hue-sync-app-lg-tvs/)|
 |2025-02-26 16:00:00|[Elmagnifico's Blog](http://elmagnifico.tech/feed.xml)|[VSCode CMake工作流](https://elmagnifico.tech/2025/02/27/VSC-CMake-Workflow/)|
 |2025-02-26 16:04:29|[Wulu's Blog](https://wulu.zone/feed/post.xml)|[记录 DIY 更换 CASIO G-SHOCK GBA-800 电池过程](https://wulu.zone/posts/casio-gba800-battery-replacement)|
 |2025-02-26 08:16:34|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[簡單 3 步驟！教你把 iPhone Safari 搜尋列改成 ChatGPT 搜尋？](https://applefans.today/2025-02-how-to-use-chatgpt-search-extension-in-safari/)|
