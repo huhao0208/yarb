@@ -2,3 +2,4 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-03-01 16:27:00|[251 的魔法实验室](https://blog.251.sh/feed/)|[JetKVM 初上手体验](https://blog.251.sh/hands-on-jetkvm)|
