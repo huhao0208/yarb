@@ -1,4 +1,4 @@
-﻿# 每日资讯（2025-03-07）
+﻿# 每日资讯（2025-03-08）
 
 |时间|来源|标题|
 |---|---|---|
@@ -8,3 +8,4 @@
 |2025-03-07 03:39:28|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Perplexity Pro 免費 1 年！領取指南手把手教學](https://applefans.today/2025-03-get-perplexity-ai-pro-subscription-1-year-free/)|
 |2025-03-07 02:17:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[律師費與版權費](http://mercurychong.blogspot.com/2025/03/blog-post.html)|
 |2025-03-07 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Filing Claims for USPS Missing Parcels](https://leimao.github.io/blog/USPS-Filing-Claims-Missing-Parcels/)|
+|2025-03-08 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：PowerTUNA & 数字文本渲染 101](https://tuna.moe/event/2025/text-rendering/)|
