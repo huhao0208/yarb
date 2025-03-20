@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-03-20 01:51:51|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[科幻惊悚片《异形终结》：当人工智能和机器人深度融合，会给人类带来怎样的新时代？](https://www.ximalaya.com/sound/822968222)|
 |2025-03-19 10:24:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[最強 iPhone 穩定器來了！Insta360 Flow 2 Pro 開箱 + 深度評測！](https://applefans.today/2025-03-insta360-flow-2-pro-reviews/)|
 |2025-03-19 09:00:11|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【教學】如何移轉不同 Apple 帳號的購買項目？](https://applefans.today/2025-02-how-to-migrate-purchases-from-one-apple-account-to-another-apple-account/)|
 |2025-03-19 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[CUDA Local Memory](https://leimao.github.io/blog/CUDA-Local-Memory/)|
