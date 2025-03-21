@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-03-21 03:40:20|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[ASUS ProArt Display PA27JCV 評測 影片](https://applefans.today/2025-03-asus-proart-display-pa27jcv/)|
+|2025-03-21 02:20:35|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Intelligence Siri 問題持續延燒！果粉怒告蘋果虛假廣告](https://applefans.today/2025-03-apple-intelligence-siri-leadership-lawsuit/)|
 |2025-03-20 15:12:03|[251 的魔法实验室](https://blog.251.sh/feed/)|[2025.02 日本游记 Vol. 2](https://blog.251.sh/2025-02-japan-trip-vol-2)|
 |2025-03-20 07:07:55|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 定位修改器 FonesGo Location Changer 寶可夢玩家、遠端工作者都適用！](https://applefans.today/2025-03-iphone-gps-location-changer/)|
 |2025-03-20 02:42:24|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[你是 Plex Pass 訂閱者嗎？2025 年將漲價超 40%！](https://applefans.today/2025-03-plex-price-increase/)|
