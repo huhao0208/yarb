@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-03-24 09:06:20|[Conge](https://conge.github.io/feed.xml)|[折返点 2512 训练第七周 碳板鞋的教训与心率带的馈赠](https://conge.livingwithfcs.org/2025/03/24/ReturnPoint-training-07/)|
 |2025-03-24 13:07:13|[KAIX.IN](https://kaix.in/feed/)|[妳相信奇迹吗？](https://kaix.in/2025/0324-miracle/)|
 |2025-03-24 15:51:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[May子「被雷劈」的心態](http://mercurychong.blogspot.com/2025/03/may.html)|
 |2025-03-24 09:41:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2025 Mar.16 - Mar.22](http://z.arlmy.me/posts/MastodonArchives/2025/MastodonTootsArchives_20250322/)|
