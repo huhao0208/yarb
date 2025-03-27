@@ -1,7 +1,9 @@
-﻿# 每日资讯（2025-03-26）
+﻿# 每日资讯（2025-03-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2025-03-27 00:30:34|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2025.3.26](https://www.justzht.com/2025-3-26/)|
+|2025-03-27 00:00:00|[疯投圈](https://crazy.capital/feed)|[112. 奶茶争霸2025](https://crazy.capital/112)|
 |2025-03-26 14:48:39|[Finisky Garden](https://finisky.github.io/atom.xml)|[Mastering MongoDB Aggregation Pipeline for Efficient Data Processing](https://finisky.github.io/en/mastering-mongodb-aggregation-pipeline-for-efficient-data-processing/)|
 |2025-03-26 14:36:00|[Finisky Garden](https://finisky.github.io/atom.xml)|[MongoDB Aggregation Pipeline入门](https://finisky.github.io/mastering-mongodb-aggregation-pipeline-for-efficient-data-processing/)|
 |2025-03-26 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Roofline Performance Model](https://leimao.github.io/blog/Roofline-Performance-Model/)|
