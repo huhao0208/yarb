@@ -1,7 +1,8 @@
-﻿# 每日资讯（2025-03-27）
+﻿# 每日资讯（2025-03-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2025-03-28 01:24:18|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac 必學 8 大密技！](https://applefans.today/2025-03-mac-8-tips/)|
 |2025-03-27 07:28:46|[素生](http://z.arlmy.me/atom.xml)|[摘：《世上为什么要有图书馆》](http://z.arlmy.me/posts/Note/Note_YangSuQiu_ShiShangWeiShenMeYaoYouTuShuGuan/)|
 |2025-03-27 07:25:07|[素生](http://z.arlmy.me/atom.xml)|[Index of Wiki/library](http://z.arlmy.me/posts/IndexOfWikiLibrary/)|
 |2025-03-27 00:30:34|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2025.3.26](https://www.justzht.com/2025-3-26/)|
