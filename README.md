@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-03-29 15:10:58|[forecho's Blog](http://blog.forecho.com/atom.xml)|[价格行为学 - 市场周期](https://blog.forecho.com/price-actions-market-cycle.html)|
 |2025-03-29 14:45:09|[满五的博客](https://blog.aeilot.top/index.xml)|[等待](https://blog.aeilot.top/2025/03/29/waiting/)|
 |2025-03-29 10:38:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Adventures with Chimera Linux](https://xiaket.github.io/2025/chimera.html)|
 |2025-03-29 06:16:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Chimera Linux折腾记](https://xiaket.github.io/2025/chimera-cn.html)|
