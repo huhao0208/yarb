@@ -2,9 +2,4 @@
 
 |时间|来源|标题|
 |---|---|---|
-|2025-03-29 15:10:58|[forecho's Blog](http://blog.forecho.com/atom.xml)|[价格行为学 - 市场周期](https://blog.forecho.com/price-actions-market-cycle.html)|
-|2025-03-29 14:45:09|[满五的博客](https://blog.aeilot.top/index.xml)|[等待](https://blog.aeilot.top/2025/03/29/waiting/)|
-|2025-03-29 10:38:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Adventures with Chimera Linux](https://xiaket.github.io/2025/chimera.html)|
-|2025-03-29 06:16:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Chimera Linux折腾记](https://xiaket.github.io/2025/chimera-cn.html)|
-|2025-03-29 04:43:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[單月股息新紀錄 25年3月](http://mercurychong.blogspot.com/2025/03/253.html)|
-|2025-03-29 08:12:46|[素生](http://z.arlmy.me/atom.xml)|[摘：《战胜一切市场的人》](http://z.arlmy.me/posts/Note/Note_EdwardOThorp_AManForAllMarkets/)|
+|2025-03-30 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[无声蛙鸣](https://leimao.github.io/essay/%E6%97%A0%E5%A3%B0%E8%9B%99%E9%B8%A3-The-Frog/)|
