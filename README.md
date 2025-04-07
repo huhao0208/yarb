@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2025-04-07 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2025/14](https://weekly.pychina.org/pyrecap/pyrw-2514.html)|
 |2025-04-06 19:48:00|[forecho's Blog](http://blog.forecho.com/atom.xml)|[如何成为一名专业的价格行为交易员](https://blog.forecho.com/becoming-a-professional-price-action-trader.html)|
 |2025-04-06 10:36:00|[素生](http://z.arlmy.me/atom.xml)|[2025 纸书单](http://z.arlmy.me/posts/YearlyBooks/BookList_2025/)|
 |2025-04-06 07:49:21|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[当《峡谷》成为超级AI的基地，科技崇拜的终极反噬！这部科幻片拍出了数字时代的恐惧](https://www.ximalaya.com/sound/832465667)|
